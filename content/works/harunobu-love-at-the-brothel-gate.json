@@ -1,0 +1,124 @@
+{
+  "id": "harunobu-love-at-the-brothel-gate",
+  "artist": "suzuki-harunobu",
+  "title": "Love at the Brothel Gate",
+  "date": "late 1760s",
+  "year": 1768,
+  "medium": "color woodblock print",
+  "dimensions": "Sheet: 29 x 21.7 cm (11 7/16 x 8 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1921.349"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1921.349/1921.349_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1921.349/1921.349_print.jpg",
+    "width": 683,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of J. H. Wade"
+  },
+  "archive": {
+    "cma": 103279
+  },
+  "phase": {
+    "label": "Last years as master of ukiyo-e, late 1760s–1770",
+    "source": {
+      "label": "Wikipedia: regarded as the master of ukiyo-e in his last years",
+      "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+    }
+  },
+  "tags": [
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikipedia: Harunobu produced many nishiki-e between 1765 and his death",
+        "url": "https://en.wikipedia.org/wiki/Nishiki-e"
+      }
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (color woodblock print)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/103279"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: Harunobu worked in the ukiyo-e style",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Very dainty and graceful these were, and in the poetic allusions or quiet humour with which they were charged, and in the quality of the brush-strokes with which the drawings were executed, they made a direct appeal to men of taste.",
+        "lead": "Gookin, on Harunobu’s new prints:",
+        "source": {
+          "author": "Frederick W. Gookin",
+          "title": "Japanese Colour-Prints and Their Designers",
+          "publisher": "Japan Society of New York (Project Gutenberg edition)",
+          "year": "1913",
+          "url": "https://www.gutenberg.org/ebooks/42811",
+          "readAt": "https://www.gutenberg.org/cache/epub/42811/pg42811.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "History, mythology, and romance, the numberless fêtes and merrymakings of the people and the daily routine of their lives, representations of celebrated poets and heroes, scenes from the drama, portraits of popular actors and courtesans, the revels of the Yoshiwara, animals and plants, familiar scenes and famous landscapes, furnished motives for almost endless broadsheets and book illustrations. No other art was ever more crowded with human interest.",
+        "source": {
+          "author": "Frederick W. Gookin",
+          "title": "Japanese Colour-Prints and Their Designers",
+          "publisher": "Japan Society of New York (Project Gutenberg edition)",
+          "year": "1913",
+          "url": "https://www.gutenberg.org/ebooks/42811",
+          "readAt": "https://www.gutenberg.org/cache/epub/42811/pg42811.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Courtesans were on display to potential clients through bars, an aspect of their jobs that also afforded an opportunity to have socially distanced interactions with fellow entertainment district denizens.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Love at the Brothel Gate",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/103279",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although I yearn, I do not speak as days and months, pass by behind my cedar gate. How can I endure keeping this secret within?",
+        "lead": "The poem in the cloud, from the New Collection of Poems Ancient and Modern:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Love at the Brothel Gate",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/103279",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

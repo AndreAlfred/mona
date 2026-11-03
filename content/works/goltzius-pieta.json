@@ -1,0 +1,114 @@
+{
+  "id": "goltzius-pieta",
+  "artist": "hendrick-goltzius",
+  "title": "Pietà",
+  "date": "1596",
+  "year": 1596,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1926.439"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1926.439/1926.439_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1926.439/1926.439_print.jpg",
+    "width": 636,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 108755
+  },
+  "phase": {
+    "label": "After the Italian journey, 1590s",
+    "source": {
+      "label": "Cleveland Museum of Art: travelled to Italy in 1590–91",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/108755"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (engraving)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/108755"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Cleveland Museum of Art: Northern Renaissance responses to Italian art",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/108755"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His large Massacre of the Innocents (an unfinished plate) reveals some real sympathy for the ideals of Michelangelo.",
+        "lead": "Hind on Goltzius and Michelangelo:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "page": "120–121",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "After his return from Italy, Goltzius moved to a quieter proto-Baroque classicism, and his work in that style influenced many.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Northern Mannerism",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Northern_Mannerism",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Northern Renaissance responses to Italian art were often filtered through prints and other secondary sources while maintaining ties to regional artistic traditions.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Pietà",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/108755",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Dutch artist Hendrick Goltzius traveled to Italy in 1590–91 and developed an intense admiration for the work of Michelangelo. This print depicting a pietà may reflect his knowledge of Michelangelo’s sculpted Pietà while referencing prints from his native Holland.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Pietà",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/108755",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

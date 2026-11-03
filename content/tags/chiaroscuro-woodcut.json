@@ -1,0 +1,34 @@
+{
+  "id": "chiaroscuro-woodcut",
+  "kind": "technique",
+  "name": "Chiaroscuro woodcut",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Chiaroscuro woodcuts are old master prints in woodcut using two or more blocks printed in different colours; they do not necessarily feature strong contrasts of light and dark.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Chiaroscuro woodcut",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Chiaroscuro_woodcut",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In the German style, one block usually had only lines and is called the \"line block\", whilst the other block or blocks had flat areas of colour and are called \"tone blocks\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Chiaroscuro woodcut",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Chiaroscuro_woodcut",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "chiaroscuro woodcut"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nishiki-e",
+  "kind": "technique",
+  "name": "Nishiki-e (brocade prints)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "… is a type of Japanese multi-coloured woodblock printing; the technique is used primarily in ukiyo-e. It was invented in the 1760s, and perfected and popularized by the printmaker Suzuki Harunobu, who produced many nishiki-e prints between 1765 and his death five years later.",
+      "lead": "Nishiki-e",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Nishiki-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Nishiki-e",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "A nishiki-e print is created by carving a separate woodblock for every colour, and using them in a stepwise fashion.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Nishiki-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Nishiki-e",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "nishiki-e"
+}

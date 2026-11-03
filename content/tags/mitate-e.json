@@ -1,0 +1,34 @@
+{
+  "id": "mitate-e",
+  "kind": "subject",
+  "name": "Mitate-e (parody pictures)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In Japanese art, mitate-e (見立絵) is a subgenre of ukiyo-e that employs allusions, puns, and incongruities, often to parody classical art or events.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Mitate-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Mitate-e",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In the context of ukiyo-e, mitate-e is often translated into English as \"parody picture\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Mitate-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Mitate-e",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "mitate"
+}

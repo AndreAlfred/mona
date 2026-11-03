@@ -1,0 +1,108 @@
+{
+  "id": "harunobu-righteousness",
+  "artist": "suzuki-harunobu",
+  "title": "Righteousness, from The Five Virtues",
+  "date": "1767",
+  "year": 1767,
+  "medium": "color woodblock print",
+  "dimensions": "Overall: 36.6 x 21.6 cm (14 7/16 x 8 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1985.307"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1985.307/1985.307_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1985.307/1985.307_print.jpg",
+    "width": 693,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Kelvin Smith Collection, given by Mrs. Kelvin Smith"
+  },
+  "archive": {
+    "cma": 152484
+  },
+  "phase": {
+    "label": "The Five Virtues series, 1767",
+    "source": {
+      "label": "Cleveland Museum of Art: a series of five depicting the cardinal virtues of Confucianism",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/126689"
+    }
+  },
+  "tags": [
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikipedia: Harunobu produced many nishiki-e between 1765 and his death",
+        "url": "https://en.wikipedia.org/wiki/Nishiki-e"
+      }
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (color woodblock print)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/152484"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: Harunobu worked in the ukiyo-e style",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Two young male courtesans enjoy reading in their quarters by candlelight. One holds an illustrated book recognizable as the drawing manual Illustrated Book of the Treasure-Bag of Sketches (絵本写宝袋), published in 1720 by Tachibana Morikuni (1679–1748).",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Righteousness, from The Five Virtues",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152484",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He will be the painter of life, of youthful life, of youthful love; never before adequately treated in Oriental art.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "The Masters of Ukioye",
+          "publisher": "W. H. Ketcham, New York (Internet Archive scan)",
+          "year": "1896",
+          "url": "https://archive.org/details/mastersukioyeac00ketcgoog",
+          "readAt": "https://archive.org/stream/mastersukioyeac00ketcgoog/mastersukioyeac00ketcgoog_djvu.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In all things to be humble, discern the path of reason, and abstain from falsehood. This is what we call righteousness.",
+        "lead": "The poem at the top, in the museum’s translation:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Righteousness, from The Five Virtues",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152484",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

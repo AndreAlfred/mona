@@ -1,0 +1,101 @@
+{
+  "id": "suzuki-harunobu",
+  "name": "Suzuki Harunobu",
+  "born": 1724,
+  "died": 1770,
+  "active": "1760s–1770",
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: Harunobu, designer in the ukiyo-e style",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "isoda-koryusai",
+      "name": "Isoda Koryūsai",
+      "source": {
+        "label": "Fenollosa: Koriusai, the one pupil able to carry on Harunobu's banner",
+        "url": "https://archive.org/details/mastersukioyeac00ketcgoog"
+      }
+    },
+    {
+      "id": "katsukawa-shunsho",
+      "name": "Katsukawa Shunshō",
+      "source": {
+        "label": "Gookin: Shunshō took up the theatrical prints Harunobu scorned",
+        "url": "https://www.gutenberg.org/ebooks/42811"
+      }
+    },
+    {
+      "id": "nishimura-shigenaga",
+      "name": "Nishimura Shigenaga",
+      "source": {
+        "label": "Amsden: Harunobu, a pupil of Shigenaga",
+        "url": "https://www.gutenberg.org/ebooks/69418"
+      }
+    }
+  ],
+  "wikidata": "Q360978",
+  "archive": {
+    "aic": 36845,
+    "cma": [
+      23415
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "The name of Suzuki Harunobu is familiar to every admirer of Japanese prints. It is in large measure to his genius that the development of full-colour printing is due. He was not only the first artist to make use of the new process, but he took advantage of it to bring out prints of a novel type.",
+      "source": {
+        "author": "Frederick W. Gookin",
+        "title": "Japanese Colour-Prints and Their Designers",
+        "publisher": "Japan Society of New York (Project Gutenberg edition)",
+        "year": "1913",
+        "url": "https://www.gutenberg.org/ebooks/42811",
+        "readAt": "https://www.gutenberg.org/cache/epub/42811/pg42811.txt",
+        "accessed": "2026-11-03",
+        "tier": 2,
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "“Why must I degrade myself to the delineation of actors?” he proudly asks; “I am a Japanese painter” (Yamato-yeshi).",
+      "lead": "Fenollosa, recording Harunobu’s reported boast:",
+      "source": {
+        "author": "Ernest F. Fenollosa",
+        "title": "The Masters of Ukioye",
+        "publisher": "W. H. Ketcham, New York (Internet Archive scan)",
+        "year": "1896",
+        "url": "https://archive.org/details/mastersukioyeac00ketcgoog",
+        "readAt": "https://archive.org/stream/mastersukioyeac00ketcgoog/mastersukioyeac00ketcgoog_djvu.txt",
+        "accessed": "2026-11-03",
+        "tier": 2,
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Between 1765 and 1770, Harunobu created over twenty illustrated books and over one thousand color prints, along with a number of paintings.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Suzuki Harunobu",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Suzuki_Harunobu",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

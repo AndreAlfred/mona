@@ -1,0 +1,126 @@
+{
+  "id": "goltzius-flagellation",
+  "artist": "hendrick-goltzius",
+  "title": "The Passion: The Flagellation",
+  "date": "1597",
+  "year": 1597,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1982.122"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.122/1982.122_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1982.122/1982.122_print.jpg",
+    "width": 598,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 150691
+  },
+  "phase": {
+    "label": "The Passion series, 1596–98",
+    "source": {
+      "label": "Hind: the Passion series of 1596–98",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (engraving)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/150691"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hind: the Passion series, a medley in the styles of Dürer and Lucas van Leyden",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This engraving was included in a series of 12 prints by Goltzius illustrating the Passion of Christ, extremely popular during the artist’s lifetime and beyond, and inspiring many copies.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Passion: The Flagellation",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/150691",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "There is no little bravado in his telling imitations of the characteristics of other masters, e.g. in the Circumcision [in Dürer’s manner], the Adoration (Lucas v. Leyden), and in the Passion series of [15]96-98, which is a medley in the styles of both.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "page": "120–121",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "… in his command of the burin he has often been compared with Albrecht Dürer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hendrick Goltzius",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hendrick_Goltzius",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Goltzius situates his flagellation scene in an urban setting, rather than an open landscape; the compressed space serves to intensify the action.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Passion: The Flagellation",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/150691",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Jesus’s body is powerfully muscled, but his face is anguished and gaunt.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Passion: The Flagellation",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/150691",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

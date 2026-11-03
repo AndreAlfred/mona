@@ -1,0 +1,95 @@
+{
+  "id": "hendrick-goltzius",
+  "name": "Hendrick Goltzius",
+  "born": 1558,
+  "died": 1617,
+  "active": "1570s–1617",
+  "nationality": "Dutch (German-born)",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Cleveland Museum of Art: Goltzius ushered in Mannerism in Northern Europe",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159194"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "jacob-de-gheyn-ii",
+      "name": "Jacob de Gheyn II",
+      "source": {
+        "label": "Cleveland Museum of Art: designs engraved by his pupil Jacques de Gheyn II",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159650"
+      }
+    },
+    {
+      "id": "jan-saenredam",
+      "name": "Jan Saenredam",
+      "source": {
+        "label": "Hind: Goltzius and his pupils Muller, Matham and Saenredam",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+      }
+    },
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "source": {
+        "label": "Wikipedia: often compared with Albrecht Dürer",
+        "url": "https://en.wikipedia.org/wiki/Hendrick_Goltzius"
+      }
+    }
+  ],
+  "wikidata": "Q165367",
+  "archive": {
+    "cma": [
+      68231
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "[Goltzius] “was the last professional engraver who drew with the authority of a good painter and the last who invented many pictures for others to copy”.",
+      "source": {
+        "author": "A. Hyatt Mayor",
+        "title": "Prints and People (1971), quoted in “Hendrick Goltzius”",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Hendrick_Goltzius",
+        "accessed": "2026-11-03",
+        "tier": 2,
+        "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Goltzius, arguably the last great engraver, took Cort's style to its furthest point. Because of a childhood accident, he drew with his whole arm, and his use of the swelling line, altering the profile of the burin to thicken or diminish the line as it moved, is unmatched.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Old master print",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Old_master_print",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In 1577, at about the age of nineteen, Goltzius moved with Dirck Volckertszoon Coornhert to Haarlem in the Dutch Republic, where he remained based for the rest of his life.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Hendrick Goltzius",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Hendrick_Goltzius",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}
