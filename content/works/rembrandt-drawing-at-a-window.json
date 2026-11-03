@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-drawing-at-a-window",
+  "artist": "rembrandt-van-rijn",
+  "title": "Self-Portrait Drawing at a Window",
+  "date": "1648",
+  "year": 1648,
+  "medium": "etching, drypoint, and engraving",
+  "dimensions": "Sheet: 17.3 x 14.5 cm (6 13/16 x 5 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1934.350"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1934.350/1934.350_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1934.350/1934.350_print.jpg",
+    "width": 760,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 114751
+  },
+  "phase": {
+    "label": "Amsterdam, 1640s",
+    "source": {
+      "label": "Museum date; Liedtke on Amsterdam from 1632",
+      "url": "https://www.metmuseum.org/essays/rembrandt-van-rijn-1606-1669-paintings"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland: medium and description",
+        "url": "https://clevelandart.org/art/1934.350"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In order to show himself with the direct gaze that characterizes this self-portrait, Rembrandt translated a view seen while studying himself in a mirror.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Self-Portrait Drawing at a Window",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/114751",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Cleveland: medium and description",
+        "url": "https://clevelandart.org/art/1934.350"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In this late self-portrait—one of more than 80 created by Rembrandt van Rijn—the artist shows himself informally posed at a studio window.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Self-Portrait Drawing at a Window",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/114751",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He uses a needle to draw into a copper etching plate and gazes directly at the viewer as if interrupted in the process of creating a work of art.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Self-Portrait Drawing at a Window",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/114751",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The window provides the light required to complete this task, but it also reveals the isolation of art making by juxtaposing Rembrandt’s interior space with the expansive landscape and external world from which he has sequestered himself.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Self-Portrait Drawing at a Window",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/114751",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

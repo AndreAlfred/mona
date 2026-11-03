@@ -1,0 +1,19 @@
+{
+  "id": "chiaroscuro",
+  "kind": "technique",
+  "name": "Chiaroscuro",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In paintings the description refers to clear tonal contrasts which are often used to suggest the volume and modelling of the subjects depicted.",
+      "source": {
+        "author": "National Gallery, London",
+        "title": "Chiaroscuro",
+        "readAt": "https://www.nationalgallery.org.uk/paintings/glossary/chiaroscuro",
+        "accessed": "2026-11-03",
+        "tier": 4
+      }
+    }
+  ],
+  "archiveTerm": "chiaroscuro"
+}

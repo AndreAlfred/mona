@@ -1,0 +1,19 @@
+{
+  "id": "drypoint",
+  "kind": "technique",
+  "name": "Drypoint",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Lines can be cut directly into the metal with a needle, a process known as drypoint.",
+      "source": {
+        "author": "National Gallery, London",
+        "title": "Etchings",
+        "readAt": "https://www.nationalgallery.org.uk/paintings/glossary/etchings",
+        "accessed": "2026-11-03",
+        "tier": 4
+      }
+    }
+  ],
+  "archiveTerm": "drypoint"
+}

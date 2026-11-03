@@ -1,0 +1,54 @@
+{
+  "id": "rembrandt-van-rijn",
+  "name": "Rembrandt van Rijn",
+  "born": 1606,
+  "died": 1669,
+  "active": "1625–1669",
+  "nationality": "Dutch",
+  "period": "baroque",
+  "movements": [
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Rembrandt: movement",
+        "url": "https://en.wikipedia.org/wiki/Rembrandt"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "peter-paul-rubens",
+      "name": "Peter Paul Rubens",
+      "source": {
+        "label": "Liedtke on Rembrandt’s study of Rubens",
+        "url": "https://www.metmuseum.org/essays/rembrandt-van-rijn-1606-1669-paintings"
+      }
+    }
+  ],
+  "archive": {
+    "aic": 40769,
+    "cma": [
+      2520,
+      291869
+    ]
+  },
+  "wikidata": "Q5598",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Rembrandt never went abroad, but was considerably influenced by the work of the Italian Old Masters and Dutch and Flemish artists…",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Rembrandt",
+        "readAt": "https://en.wikipedia.org/wiki/Rembrandt",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
