@@ -1,0 +1,113 @@
+{
+  "id": "durer-four-horsemen",
+  "artist": "albrecht-durer",
+  "title": "The Four Horsemen, from The Apocalypse",
+  "date": "c. 1498",
+  "year": 1493,
+  "medium": "woodcut",
+  "dimensions": "Sheet: 40 x 28.8 cm (15 3/4 x 11 5/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1932.313"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.313/1932.313_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1932.313/1932.313_print.jpg",
+    "width": 644,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 113302
+  },
+  "phase": {
+    "label": "The Apocalypse, 1498",
+    "source": {
+      "label": "Cleveland Museum of Art: date and context",
+      "url": "https://www.clevelandart.org/art/1932.313"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://www.clevelandart.org/art/1932.313"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, Dürer suggested the vigorous momentum of the horsemen through the windblown clothing of the riders, the windswept clouds, and the figures trampled beneath the hooves of the approaching horses.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Four Horsemen, from The Apocalypse",
+            "readAt": "https://www.clevelandart.org/art/1932.313",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Northern Renaissance: Dürer",
+        "url": "https://en.wikipedia.org/wiki/Northern_Renaissance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The first book to be both published and illustrated by the artist, it comprised a title page and 15 full-sheet woodcuts featuring text on the verso of all the sheets except the last one.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Four Horsemen, from The Apocalypse",
+          "readAt": "https://www.clevelandart.org/art/1932.313",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The images were unique in their large scale, breadth of concept, and unity of design.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Four Horsemen, from The Apocalypse",
+          "readAt": "https://www.clevelandart.org/art/1932.313",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1498 Dürer published a book illustrating the Revelation of John or the Apocalypse of John, the last book of the New Testament.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Four Horsemen, from The Apocalypse",
+          "readAt": "https://www.clevelandart.org/art/1932.313",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

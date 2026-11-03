@@ -1,0 +1,20 @@
+{
+  "id": "northern-renaissance",
+  "kind": "movement",
+  "name": "Northern Renaissance",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Northern Renaissance was a cultural awakening or boom that occurred in Europe north of the Alps, developing later than the Italian Renaissance, and in most respects only beginning in the last years of the 15th century.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Northern Renaissance",
+        "readAt": "https://en.wikipedia.org/wiki/Northern_Renaissance",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Northern Renaissance"
+}
