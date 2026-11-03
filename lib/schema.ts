@@ -16,6 +16,8 @@ export const QUOTE_WORD_LIMIT = 75;
 
 const id = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, "kebab-case id");
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/);
+/** Links render as <a href>, so only web URLs (never javascript: or data:). */
+const webUrl = () => z.url({ protocol: /^https?$/ });
 
 export const Source = z.object({
   author: z.string().min(1),
@@ -24,9 +26,9 @@ export const Source = z.object({
   year: z.string().optional(),
   page: z.string().optional(),
   /** Canonical link to the cited work, if different from where it was read. */
-  url: z.url().optional(),
+  url: webUrl().optional(),
   /** Where the agent actually read this text. Verified verbatim at merge. */
-  readAt: z.url(),
+  readAt: webUrl(),
   accessed: isoDate,
   tier: z.number().int().min(1).max(7),
   license: z.string().optional(),
@@ -49,7 +51,7 @@ export type Passage = z.infer<typeof Passage>;
 export type QuotePassage = z.infer<typeof QuotePassage>;
 
 /** A structured record backing a factual claim (museum record, Wikidata, a page). */
-export const ClaimSource = z.object({ label: z.string(), url: z.url() });
+export const ClaimSource = z.object({ label: z.string(), url: webUrl() });
 export type ClaimSource = z.infer<typeof ClaimSource>;
 
 /** A claim is either sourced, or explicitly marked as Mona's (AI) judgement. */
@@ -92,10 +94,10 @@ export const Work = z.object({
   year: z.number().int(), // sortable
   medium: z.string().optional(),
   dimensions: z.string().optional(),
-  museum: z.object({ name: z.string(), url: z.url(), accession: z.string().optional() }),
+  museum: z.object({ name: z.string(), url: webUrl(), accession: z.string().optional() }),
   image: z.object({
-    url: z.url(),
-    large: z.url().optional(),
+    url: webUrl(),
+    large: webUrl().optional(),
     width: z.number().int().optional(),
     height: z.number().int().optional(),
     license: z.string(), // e.g. "CC0", "Public domain"
