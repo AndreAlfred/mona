@@ -11,12 +11,12 @@
     "url": "https://www.artic.edu/artworks/27992"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1686,/0/default.jpg",
-    "width": 9310,
-    "height": 6237,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/1280px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/2560px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 799,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (A Sunday on La Grande Jatte, Georges Seurat, 1884.jpg)"
   },
   "archive": {
     "aic": 27992
