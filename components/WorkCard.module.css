@@ -131,8 +131,10 @@
   color: var(--ink-2);
   margin: -0.6rem 0 0;
 }
-.more:hover {
-  color: var(--ink);
+@media (hover: hover) {
+  .more:hover {
+    color: var(--ink);
+  }
 }
 
 .highlight {

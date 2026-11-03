@@ -29,6 +29,9 @@ export function EndOfArtist({
 }) {
   const [pull, setPull] = useState(0);
   const [dragging, setDragging] = useState(false);
+  // Loading the next works takes a moment; show it, and ignore repeat taps.
+  const [continuing, setContinuing] = useState(false);
+  useEffect(() => setContinuing(false), [canContinue]);
   const armed = pull >= MAX * ARM;
   const ref = useRef<HTMLDivElement>(null);
   const left = useRef(false);
@@ -113,23 +116,35 @@ export function EndOfArtist({
           </li>
         ))}
       </ul>
-      {canContinue ? (
-        <button className={`${styles.stay} smallcaps`} onClick={onContinue}>
-          Keep going with {artist}
-        </button>
-      ) : (
+      {/* Once you've moved on to another artist, this becomes a quiet summary. */}
+      {active && (
         <div className={styles.more}>
-          <p className={styles.note}>That’s everything Mona has by {artist} for now.</p>
+          {canContinue ? (
+            <button
+              className={`${styles.stay} smallcaps`}
+              data-busy={continuing}
+              disabled={continuing}
+              onClick={() => {
+                setContinuing(true);
+                onContinue();
+              }}
+            >
+              {continuing ? "Finding more…" : `Keep going with ${artist}`}
+            </button>
+          ) : (
+            <p className={styles.note}>That’s everything Mona has by {artist} for now.</p>
+          )}
           <ResearchButton
-            variant="panel"
+            variant={canContinue ? "link" : "panel"}
             subject={{ type: "artist", key: artistKey, label: artist }}
             name={artist}
+            cta={canContinue ? `Or ask our curator to find more by ${artist}` : undefined}
             meta={{ title: `More by ${artist}`, href: `/artist/${artistKey}`, thumb: seen[0]?.thumb }}
           />
         </div>
       )}
 
-      <div className={styles.leave} aria-live="polite">
+      <div className={styles.leave} aria-live="polite" hidden={!active}>
         <div className={styles.tether} aria-hidden>
           <span className={styles.line} />
           <span className={styles.knot} />

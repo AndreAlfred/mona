@@ -112,3 +112,29 @@ export function orderWorks<C extends { key: string; archive?: { aic?: number; cm
   );
   return [...curated, ...archive.filter((a) => !curatedArchiveKeys.has(a.key))].filter((x) => !seen.has(x.key));
 }
+
+const normTitle = (t: string) => normName(t);
+
+/**
+ * Drop records that would show the same picture twice:
+ * - a series record whose plates are also listed ("The Passion" when
+ *   "The Passion: The Last Supper" is there; museums illustrate the series
+ *   with its first plate), and
+ * - repeated specific titles (two impressions of "The Passion: The
+ *   Flagellation"). Short generic titles like "Self-Portrait" may repeat.
+ */
+export function dedupeWorks<T extends { key: string; title: string }>(list: T[]): T[] {
+  const lower = list.map((x) => x.title.trim().toLowerCase());
+  const keys = new Set<string>();
+  const titles = new Set<string>();
+  return list.filter((x, i) => {
+    if (lower.some((t, j) => j !== i && t.startsWith(`${lower[i]}:`))) return false;
+    if (keys.has(x.key)) return false;
+    keys.add(x.key);
+    const specific = x.title.includes(":") || x.title.split(/\s+/).length >= 6;
+    const t = normTitle(x.title);
+    if (specific && titles.has(t)) return false;
+    titles.add(t);
+    return true;
+  });
+}

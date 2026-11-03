@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { artistUniverse, orderWorks, pickNextArtist, rng } from "../lib/feed";
+import { artistUniverse, dedupeWorks, orderWorks, pickNextArtist, rng } from "../lib/feed";
 import type { Catalog, ArchiveArtist } from "../lib/types";
 
 const catalog = {
@@ -55,5 +55,19 @@ describe("orderWorks", () => {
     const curated = [{ key: "w/a", archive: { aic: 10 } }, { key: "w/b" }];
     const arch = [{ key: "a/aic-10" }, { key: "a/aic-11" }, { key: "a/cma-5" }];
     expect(orderWorks(curated, arch, new Set(["a/cma-5"])).map((x) => x.key)).toEqual(["w/a", "w/b", "a/aic-11"]);
+  });
+});
+
+describe("dedupeWorks", () => {
+  it("drops a series record when its plates are present, and repeated specific titles", () => {
+    const list = [
+      { key: "w/flag", title: "The Passion: The Flagellation" },
+      { key: "a/cma-1", title: "The Passion" },
+      { key: "a/cma-2", title: "The Passion: The Last Supper" },
+      { key: "a/cma-3", title: "The Passion: The Flagellation" },
+      { key: "a/cma-4", title: "Self-Portrait" },
+      { key: "a/cma-5", title: "Self-Portrait" },
+    ];
+    expect(dedupeWorks(list).map((x) => x.key)).toEqual(["w/flag", "a/cma-2", "a/cma-4", "a/cma-5"]);
   });
 });

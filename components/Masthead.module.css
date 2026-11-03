@@ -23,8 +23,10 @@
 .nav a {
   text-decoration: none;
 }
-.nav a:hover {
-  color: var(--ink);
+@media (hover: hover) {
+  .nav a:hover {
+    color: var(--ink);
+  }
 }
 .requests {
   position: relative;

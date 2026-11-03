@@ -19,8 +19,10 @@
   text-decoration-color: var(--rule);
   text-underline-offset: 0.2em;
 }
-.button:hover {
-  text-decoration-color: currentColor;
+@media (hover: hover) {
+  .button:hover {
+    text-decoration-color: currentColor;
+  }
 }
 .cta {
   font-size: 1.05rem;
@@ -30,9 +32,11 @@
   min-height: 48px;
   transition: background 160ms, color 160ms;
 }
-.cta:hover {
-  background: var(--accent);
-  color: var(--paper);
+@media (hover: hover) {
+  .cta:hover {
+    background: var(--accent);
+    color: var(--paper);
+  }
 }
 .message {
   margin: 0;

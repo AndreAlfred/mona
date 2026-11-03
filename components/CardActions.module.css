@@ -10,8 +10,10 @@
   min-height: 44px;
   transition: color 160ms;
 }
-.actions button:hover {
-  color: var(--ink);
+@media (hover: hover) {
+  .actions button:hover {
+    color: var(--ink);
+  }
 }
 .collect {
   display: inline-flex;

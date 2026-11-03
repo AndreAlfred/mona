@@ -10,7 +10,7 @@ import {
   getWork,
   knownArtistNames,
 } from "@/lib/client-data";
-import { orderWorks, pickNextArtist, rng, RUN_LENGTH, type ArtistRef } from "@/lib/feed";
+import { dedupeWorks, orderWorks, pickNextArtist, rng, RUN_LENGTH, type ArtistRef } from "@/lib/feed";
 import { getState, markArtistVisited, recordSeen, setCurrent, update } from "@/lib/store";
 import { entryFor } from "./CardActions";
 import { EndOfArtist } from "./EndOfArtist";
@@ -20,13 +20,17 @@ import styles from "./Feed.module.css";
 type Slot = { key: string; load: () => Promise<CardModel> };
 type Run = { id: number; artist: ArtistRef; slots: Slot[]; remaining: number };
 
-/** Build the ordered, unseen list of works for an artist as lazy card loaders. */
-async function slotsFor(artist: ArtistRef, includeSeen = false): Promise<Slot[]> {
+/**
+ * Build the ordered list of works for an artist as lazy card loaders,
+ * leaving out anything in `exclude` (history and what this session has
+ * already shown) and duplicate records of the same picture.
+ */
+async function slotsFor(artist: ArtistRef, exclude: Set<string>): Promise<Slot[]> {
   const catalog = await getCatalog();
-  const seen = includeSeen ? new Set<string>() : new Set(getState().history.map((h) => h.key));
   const curatedIds = catalog.artists[artist.key]?.workIds ?? [];
   const curated = curatedIds.map((id) => ({
     key: `w/${id}`,
+    title: catalog.works[id]?.title ?? id,
     archive: catalog.works[id]?.archive,
     load: async () => {
       const [w, a] = await Promise.all([getWork(id), getArtist(artist.key)]);
@@ -36,14 +40,14 @@ async function slotsFor(artist: ArtistRef, includeSeen = false): Promise<Slot[]>
   const archiveWorks = await getArchiveWorks(artist);
   const archive = archiveWorks.map((w, i) => ({
     key: `a/${w.key}`,
+    title: w.title,
     load: async () => {
       const [ctx, known] = await Promise.all([getArtistContext(w.artistName), knownArtistNames()]);
       return archiveCard(w, ctx, artist.key, { index: i, knownArtists: known, tags: catalog.tags });
     },
   }));
-  const ordered = orderWorks(curated, archive, seen);
-  const keys = new Set<string>();
-  return ordered.filter((x) => !keys.has(x.key) && keys.add(x.key));
+  // Dedupe across everything first, so a second print of a work you've already seen is caught too.
+  return dedupeWorks(orderWorks(curated, archive, new Set())).filter((x) => !exclude.has(x.key));
 }
 
 let runIds = 0;
@@ -53,19 +57,24 @@ export function Feed({ only }: { only?: string }) {
   const [error, setError] = useState<string | null>(null);
   const starting = useRef(false);
 
-  const offset = useRef(0); // only-mode: how far through the artist we are
+  // Every work put on the page this session, so nothing appears twice even if
+  // it scrolled past too fast to be recorded in history.
+  const shown = useRef(new Set<string>());
   const startRun = useCallback(
     async (artist: ArtistRef, continuing: boolean, shownAlready = 0) => {
-      let slots = await slotsFor(artist, Boolean(only));
-      if (only) slots = slots.slice(offset.current);
+      // The home feed skips what you've seen before; an artist's own page shows everything once.
+      const exclude = new Set(shown.current);
+      if (!only) for (const h of getState().history) exclude.add(h.key);
+      const slots = await slotsFor(artist, exclude);
       if (!slots.length) return null;
       const take = Math.max(1, RUN_LENGTH - shownAlready);
-      if (only) offset.current += take;
-      else {
+      if (!only) {
         markArtistVisited(artist.key, artist.period);
         if (!continuing || shownAlready === 0) setCurrent({ artist: artist.key, shown: shownAlready });
       }
-      return { id: ++runIds, artist, slots: slots.slice(0, take), remaining: Math.max(0, slots.length - take) } as Run;
+      const picked = slots.slice(0, take);
+      picked.forEach((s) => shown.current.add(s.key));
+      return { id: ++runIds, artist, slots: picked, remaining: Math.max(0, slots.length - take) } as Run;
     },
     [only],
   );
@@ -109,10 +118,18 @@ export function Feed({ only }: { only?: string }) {
     })();
   }, [only, startRun, nextArtist]);
 
+  // "Keep going" extends the same run in place: the end panel gives way and
+  // the next works carry on right where it was.
   const keepGoing = useCallback(
     async (run: Run) => {
       const next = await startRun(run.artist, true, 0);
-      if (next) setRuns((rs) => [...rs.slice(-1), next]);
+      if (!next) {
+        setRuns((rs) => rs.map((r) => (r.id === run.id ? { ...r, remaining: 0 } : r)));
+        return;
+      }
+      setRuns((rs) =>
+        rs.map((r) => (r.id === run.id ? { ...r, slots: [...r.slots, ...next.slots], remaining: next.remaining } : r)),
+      );
     },
     [startRun],
   );

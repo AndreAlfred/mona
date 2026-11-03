@@ -53,9 +53,18 @@
   min-height: 48px;
   transition: background 160ms, color 160ms;
 }
-.stay:hover {
-  background: var(--ink);
-  color: var(--paper);
+.stay[data-busy="true"] {
+  border-color: var(--rule);
+  color: var(--ink-3);
+  cursor: default;
+}
+/* Only devices that really hover get hover colours: on iPhones a hover
+   style makes the first tap "hover" and the second tap act. */
+@media (hover: hover) {
+  .stay:not([data-busy="true"]):hover {
+    background: var(--ink);
+    color: var(--paper);
+  }
 }
 .note {
   font-style: italic;
@@ -135,4 +144,5 @@
   align-items: center;
   gap: 1.3rem;
   max-width: 26rem;
+  margin: 0 auto;
 }
