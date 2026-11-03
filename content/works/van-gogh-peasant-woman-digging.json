@@ -11,12 +11,12 @@
     "url": "https://www.artic.edu/artworks/28862"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/1d3a275d-45dd-6026-b6ed-d7d8df417a3d/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/1d3a275d-45dd-6026-b6ed-d7d8df417a3d/full/1686,/0/default.jpg",
-    "width": 6255,
-    "height": 4687,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Bequest of Dr. John J. Ireland"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Vincent_van_Gogh_-_A_Peasant_Woman_Digging_in_Front_of_Her_Cottage_-_1968.92_-_Art_Institute_of_Chicago.jpg/1280px-Vincent_van_Gogh_-_A_Peasant_Woman_Digging_in_Front_of_Her_Cottage_-_1968.92_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Vincent_van_Gogh_-_A_Peasant_Woman_Digging_in_Front_of_Her_Cottage_-_1968.92_-_Art_Institute_of_Chicago.jpg/2560px-Vincent_van_Gogh_-_A_Peasant_Woman_Digging_in_Front_of_Her_Cottage_-_1968.92_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 881,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Vincent van Gogh - A Peasant Woman Digging in Front of Her Cottage - 1968.92 - Art Institute of Chicago.jpg)"
   },
   "archive": {
     "aic": 28862

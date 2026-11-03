@@ -41,6 +41,10 @@ worker. Follow it exactly; the merge gate enforces most of it.
 7. **Images must be open licence** (CC0 / public domain). Use works from
    the Art Institute of Chicago (AIC) or the Cleveland Museum of Art (CMA)
    open-access APIs via `npm run new-work`. Scope is art made before ~1930.
+   AIC's own image server won't display inside Mona, so for AIC works the
+   scaffold uses the Wikimedia Commons photograph of the same object. If
+   `new-work` reports no imaged record, choose another work (Cleveland works
+   always have usable images).
 8. Content changes only. Never edit code, workflows, or this playbook in a
    content PR (the auto-merge refuses PRs that touch anything outside
    `content/`).

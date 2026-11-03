@@ -16,7 +16,12 @@ function Tile({ e, share }: { e: Entry; share?: boolean }) {
       <Link href={`/${e.key}`}>
         <div className={styles.thumb}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={e.thumb.replace(/\/full\/\d+,\//, "/full/400,/")} alt="" loading="lazy" />
+          <img
+            src={e.thumb.replace(/\/\d+px-/, "/500px-")}
+            alt=""
+            loading="lazy"
+            onError={(ev) => (ev.currentTarget.style.visibility = "hidden")}
+          />
         </div>
         <div className={styles.gtitle}>{e.title}</div>
         <div className={styles.gmeta}>

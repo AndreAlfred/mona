@@ -209,3 +209,15 @@
     transform: none;
   }
 }
+
+.plate[data-failed="true"] img {
+  display: none;
+}
+.noImage {
+  color: var(--ink-3);
+  font-size: 0.95rem;
+  text-align: center;
+}
+.credit {
+  font-size: 0.8rem;
+}

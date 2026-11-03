@@ -11,12 +11,12 @@
     "url": "https://www.artic.edu/artworks/24645"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/1686,/0/default.jpg",
-    "width": 6679,
-    "height": 4577,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Clarence Buckingham Collection"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Katsushika_Hokusai_-_The_Great_Wave_off_the_Coast_of_Kanagawa_LCCN2008660568.jpg/1280px-Katsushika_Hokusai_-_The_Great_Wave_off_the_Coast_of_Kanagawa_LCCN2008660568.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Katsushika_Hokusai_-_The_Great_Wave_off_the_Coast_of_Kanagawa_LCCN2008660568.jpg/2560px-Katsushika_Hokusai_-_The_Great_Wave_off_the_Coast_of_Kanagawa_LCCN2008660568.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 846,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Katsushika Hokusai - The Great Wave off the Coast of Kanagawa LCCN2008660568.jpg)"
   },
   "archive": {
     "aic": 24645

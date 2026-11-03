@@ -11,12 +11,11 @@
     "url": "https://www.artic.edu/artworks/13527"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/6413fa04-66d7-b4c6-6e22-f5adb321db7b/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/6413fa04-66d7-b4c6-6e22-f5adb321db7b/full/1686,/0/default.jpg",
-    "width": 7125,
-    "height": 10391,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Cassatt_-_1932.1287_-_The_Bath.jpg/1280px-Cassatt_-_1932.1287_-_The_Bath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1783,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cassatt - 1932.1287 - The Bath.jpg)"
   },
   "archive": {
     "aic": 13527

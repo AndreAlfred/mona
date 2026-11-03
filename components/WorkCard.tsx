@@ -12,20 +12,25 @@ export function WorkCard({
   position,
   eager,
   onLanded,
+  onImageError,
 }: {
   card: CardModel;
   position?: string;
   eager?: boolean;
   /** Called when a research request for this card has been curated. */
   onLanded?: () => void;
+  /** The image couldn't load; the feed uses this to skip the card. */
+  onImageError?: () => void;
 }) {
+  const [failed, setFailed] = useState(false);
   const [loaded, setLoaded] = useState(false);
   const ratio = card.image.width && card.image.height ? card.image.width / card.image.height : undefined;
   const highlighted = card.tags.filter((t) => t.highlight?.length);
 
   return (
     <article className={styles.card} data-curated={card.curated}>
-      <div className={styles.plate}>
+      <div className={styles.plate} data-failed={failed}>
+        {failed && <p className={`${styles.noImage} smallcaps`}>Image unavailable · open the museum page below</p>}
         <a href={card.image.large ?? card.image.url} target="_blank" rel="noreferrer" aria-label={`Open full image of ${card.title}`}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
@@ -41,6 +46,10 @@ export function WorkCard({
             fetchPriority={eager ? "high" : "auto"}
             className={loaded ? styles.loaded : undefined}
             onLoad={() => setLoaded(true)}
+            onError={() => {
+              setFailed(true);
+              onImageError?.();
+            }}
           />
         </a>
       </div>
@@ -76,6 +85,8 @@ export function WorkCard({
             <a href={card.museum.url} target="_blank" rel="noreferrer">
               {card.museum.name}
             </a>
+            <br />
+            <span className={styles.credit}>{card.image.credit}</span>
           </p>
           <CardActions card={card} />
         </header>

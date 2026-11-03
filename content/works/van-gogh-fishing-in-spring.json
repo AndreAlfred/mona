@@ -11,12 +11,12 @@
     "url": "https://www.artic.edu/artworks/109314"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/5512cee9-6d00-d01b-b0be-ac7843cc8f76/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/5512cee9-6d00-d01b-b0be-ac7843cc8f76/full/1686,/0/default.jpg",
-    "width": 10057,
-    "height": 8391,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Gift of Charles Deering McCormick, Brooks McCormick, and Roger McCormick"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Vincent_van_Gogh_-_Fishing_in_Spring%2C_the_Pont_de_Clichy_%28Asni%C3%A8res%29_-_1965.1169_-_Art_Institute_of_Chicago.jpg/1280px-Vincent_van_Gogh_-_Fishing_in_Spring%2C_the_Pont_de_Clichy_%28Asni%C3%A8res%29_-_1965.1169_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Vincent_van_Gogh_-_Fishing_in_Spring%2C_the_Pont_de_Clichy_%28Asni%C3%A8res%29_-_1965.1169_-_Art_Institute_of_Chicago.jpg/2560px-Vincent_van_Gogh_-_Fishing_in_Spring%2C_the_Pont_de_Clichy_%28Asni%C3%A8res%29_-_1965.1169_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1004,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Vincent van Gogh - Fishing in Spring, the Pont de Clichy (Asnières) - 1965.1169 - Art Institute of Chicago.jpg)"
   },
   "archive": {
     "aic": 109314

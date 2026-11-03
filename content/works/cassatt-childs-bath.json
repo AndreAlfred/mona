@@ -11,12 +11,12 @@
     "url": "https://www.artic.edu/artworks/111442"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/1686,/0/default.jpg",
-    "width": 8470,
-    "height": 12853,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Robert A. Waller Fund"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Mary_Cassatt_-_The_Child%27s_Bath_-_Google_Art_Project.jpg/1280px-Mary_Cassatt_-_The_Child%27s_Bath_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Mary_Cassatt_-_The_Child%27s_Bath_-_Google_Art_Project.jpg/2560px-Mary_Cassatt_-_The_Child%27s_Bath_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1831,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mary Cassatt - The Child's Bath - Google Art Project.jpg)"
   },
   "archive": {
     "aic": 111442
