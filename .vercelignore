@@ -1,0 +1,5 @@
+/public/data
+tsconfig.tsbuildinfo
+.next
+node_modules
+.env*
