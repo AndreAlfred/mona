@@ -1,0 +1,54 @@
+.button {
+  color: var(--ink);
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 36px;
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-underline-offset: 0.2em;
+}
+.button[data-busy="true"] {
+  text-decoration: none;
+  color: var(--ink-2);
+  cursor: default;
+}
+.done {
+  color: var(--accent);
+}
+.pulse {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  animation: pulse 1.6s ease-in-out infinite;
+}
+@keyframes pulse {
+  50% {
+    opacity: 0.2;
+    transform: scale(0.7);
+  }
+}
+.ask {
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+.ask input {
+  font: inherit;
+  font-size: 1rem;
+  border: 0;
+  border-bottom: 1px solid var(--ink-3);
+  padding: 0.2rem 0;
+  width: 9rem;
+  background: transparent;
+  color: var(--ink);
+}
+.ask input:focus {
+  outline: none;
+  border-color: var(--ink);
+}
+.ask button {
+  font-size: 0.95rem;
+}

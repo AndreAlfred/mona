@@ -1,0 +1,76 @@
+.quote {
+  margin: 0 0 1.6rem;
+}
+.quote blockquote {
+  margin: 0;
+  position: relative;
+}
+.quote blockquote p {
+  margin: 0;
+  font-size: 1.16rem;
+  line-height: 1.5;
+  font-variation-settings: "opsz" 18;
+  text-wrap: pretty;
+  hanging-punctuation: first;
+}
+.quote blockquote p::before {
+  content: "“";
+}
+.quote blockquote p::after {
+  content: "”";
+}
+.lead {
+  margin: 0 0 0.35rem;
+  font-style: italic;
+  color: var(--ink-2);
+  font-size: 0.98rem;
+}
+.cite {
+  margin-top: 0.55rem;
+  font-size: 0.86rem;
+  line-height: 1.45;
+  color: var(--ink-2);
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+}
+.cite cite {
+  font-style: italic;
+}
+.license {
+  color: var(--ink-3);
+}
+.tier {
+  flex: none;
+  font-size: 0.86rem;
+  color: var(--accent);
+  border-bottom: 1px solid currentColor;
+  line-height: 1.1;
+}
+.tier[data-tier="5"],
+.tier[data-tier="6"],
+.tier[data-tier="7"] {
+  color: var(--ink-3);
+}
+
+.ai {
+  margin: 0 0 1.6rem;
+  padding: 0.1rem 0 0.1rem 0.95rem;
+  border-left: 1px dashed var(--ai);
+  color: var(--ai);
+}
+.ai p {
+  margin: 0.2rem 0 0;
+  font-size: 0.98rem;
+  line-height: 1.5;
+}
+.aiLabel {
+  font-size: 0.9rem;
+}
+
+.compact.quote blockquote p {
+  font-size: 1.02rem;
+}
+.compact {
+  margin-bottom: 1rem;
+}

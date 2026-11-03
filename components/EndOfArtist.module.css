@@ -1,0 +1,130 @@
+.panel {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 5rem var(--gutter) calc(6rem + env(safe-area-inset-bottom));
+  text-align: center;
+  min-height: 92svh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transform: translateY(calc(var(--pull, 0px) * -0.35));
+  transition: transform 520ms var(--ease-out);
+}
+.panel[data-dragging="true"] {
+  transition: none;
+}
+.kicker {
+  color: var(--ink-3);
+  margin: 0 0 0.8rem;
+  font-size: 0.95rem;
+}
+.title {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(1.8rem, 6.5vw, 2.6rem);
+  line-height: 1.08;
+  margin: 0 0 1.8rem;
+  text-wrap: balance;
+}
+.strip {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.strip li {
+  animation: rise 500ms var(--ease-out) both;
+}
+.strip img {
+  height: 54px;
+  width: auto;
+  max-width: 90px;
+  object-fit: cover;
+  display: block;
+}
+.stay {
+  font-size: 1.15rem;
+  padding: 0.7rem 1.4rem;
+  border: 1px solid var(--ink);
+  min-height: 48px;
+  transition: background 160ms, color 160ms;
+}
+.stay:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+.note {
+  font-style: italic;
+  color: var(--ink-2);
+  margin: 0;
+}
+
+.leave {
+  margin-top: 4.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tether {
+  height: calc(28px + var(--pull, 0px));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: height 520ms var(--ease-out);
+}
+.panel[data-dragging="true"] .tether {
+  transition: none;
+}
+.line {
+  flex: 1;
+  width: 1px;
+  background: linear-gradient(var(--rule), var(--ink-3));
+}
+.knot {
+  width: 9px;
+  height: 9px;
+  border: 1px solid var(--ink-3);
+  border-radius: 50%;
+  transform: scale(calc(1 + var(--t, 0) * 0.6));
+  transition: background 200ms, border-color 200ms;
+}
+.panel[data-armed="true"] .knot {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.hint {
+  margin: 0.7rem 0 0;
+  color: var(--ink-3);
+  font-size: 0.95rem;
+  transition: color 200ms;
+}
+.panel[data-armed="true"] .hint {
+  color: var(--accent);
+}
+.hold {
+  margin-top: 0.4rem;
+  font-size: 0.82rem;
+  color: var(--ink-3);
+  opacity: 0.7;
+  min-height: 36px;
+}
+@media (hover: none) {
+  .hold {
+    display: none;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

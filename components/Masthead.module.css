@@ -1,0 +1,28 @@
+.bar {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: calc(env(safe-area-inset-top) + 0.9rem) var(--gutter) 0.6rem;
+  max-width: 72rem;
+  margin: 0 auto;
+}
+.mark {
+  font-family: var(--display);
+  font-style: italic;
+  font-size: 1.65rem;
+  line-height: 1;
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+.nav {
+  display: flex;
+  gap: 1.1rem;
+  font-size: 1rem;
+  color: var(--ink-2);
+}
+.nav a {
+  text-decoration: none;
+}
+.nav a:hover {
+  color: var(--ink);
+}

@@ -1,0 +1,5485 @@
+[
+ {
+  "id": "venetian",
+  "name": "Venetian",
+  "born": 1000,
+  "died": 1900,
+  "period": "medieval",
+  "count": 5,
+  "aic": 29742
+ },
+ {
+  "id": "north-netherlandish",
+  "name": "North Netherlandish",
+  "born": 1000,
+  "died": 1900,
+  "period": "medieval",
+  "count": 4,
+  "aic": 29775
+ },
+ {
+  "id": "giovanni-di-paolo",
+  "name": "Giovanni di Paolo",
+  "born": 1403,
+  "died": 1482,
+  "nationality": "Italian",
+  "period": "renaissance",
+  "count": 9,
+  "cma": [
+   2181
+  ],
+  "aic": 6656
+ },
+ {
+  "id": "shen-zhou",
+  "name": "Shen Zhou",
+  "born": 1427,
+  "died": 1509,
+  "nationality": "Chinese",
+  "period": "renaissance",
+  "count": 17,
+  "cma": [
+   23557
+  ],
+  "aic": 36633
+ },
+ {
+  "id": "andrea-mantegna",
+  "name": "Andrea Mantegna",
+  "born": 1431,
+  "died": 1506,
+  "nationality": "Italian",
+  "period": "renaissance",
+  "count": 5,
+  "cma": [
+   8173
+  ]
+ },
+ {
+  "id": "michael-wolgemut",
+  "name": "Michael Wolgemut",
+  "born": 1434,
+  "died": 1519,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 6,
+  "cma": [
+   26021
+  ]
+ },
+ {
+  "id": "matteo-di-giovanni",
+  "name": "Matteo di Giovanni",
+  "born": 1435,
+  "died": 1495,
+  "nationality": "Italian",
+  "period": "renaissance",
+  "count": 5,
+  "cma": [
+   2230
+  ],
+  "aic": 16652
+ },
+ {
+  "id": "israhel-van-meckenem",
+  "name": "Israhel van Meckenem",
+  "born": 1440,
+  "died": 1503,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 10,
+  "cma": [
+   26244
+  ]
+ },
+ {
+  "id": "shugetsu-tokan",
+  "name": "Shūgetsu Tōkan",
+  "born": 1440,
+  "died": 1529,
+  "nationality": "Japanese",
+  "period": "renaissance",
+  "count": 4,
+  "cma": [
+   5982
+  ]
+ },
+ {
+  "id": "martin-schongauer",
+  "name": "Martin Schongauer",
+  "born": 1450,
+  "died": 1491,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 22,
+  "cma": [
+   12292
+  ]
+ },
+ {
+  "id": "perugino",
+  "name": "Perugino",
+  "born": 1450,
+  "died": 1523,
+  "nationality": "Italian",
+  "period": "renaissance",
+  "count": 5,
+  "cma": [
+   8212
+  ],
+  "aic": 36177
+ },
+ {
+  "id": "jacopo-de-barbari",
+  "name": "Jacopo de' Barbari",
+  "born": 1455,
+  "died": 1520,
+  "nationality": "Italian",
+  "period": "renaissance",
+  "count": 6,
+  "cma": [
+   23948
+  ]
+ },
+ {
+  "id": "marcantonio-raimondi",
+  "name": "Marcantonio Raimondi",
+  "born": 1470,
+  "died": 1534,
+  "nationality": "Italian",
+  "period": "renaissance",
+  "count": 10,
+  "cma": [
+   4579
+  ]
+ },
+ {
+  "id": "daniel-hopfer",
+  "name": "Daniel Hopfer",
+  "born": 1470,
+  "died": 1536,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 8,
+  "cma": [
+   22912
+  ]
+ },
+ {
+  "id": "wen-zhengming",
+  "name": "Wen Zhengming",
+  "born": 1470,
+  "died": 1559,
+  "nationality": "Chinese",
+  "period": "renaissance",
+  "count": 6,
+  "cma": [
+   31114
+  ],
+  "aic": 28272
+ },
+ {
+  "id": "tang-yin",
+  "name": "Tang Yin",
+  "born": 1470,
+  "died": 1523,
+  "nationality": "Chinese",
+  "period": "renaissance",
+  "count": 5,
+  "cma": [
+   22854
+  ],
+  "aic": 36862
+ },
+ {
+  "id": "albrecht-durer",
+  "name": "Albrecht Dürer",
+  "born": 1471,
+  "died": 1528,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 116,
+  "cma": [
+   11617
+  ],
+  "aic": 40561
+ },
+ {
+  "id": "lucas-cranach",
+  "name": "Lucas Cranach",
+  "born": 1472,
+  "died": 1553,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 21,
+  "cma": [
+   2647
+  ]
+ },
+ {
+  "id": "lucas-cranach-the-elder-after",
+  "name": "Lucas Cranach the Elder, After",
+  "born": 1472,
+  "died": 1553,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 8,
+  "cma": [
+   308618
+  ]
+ },
+ {
+  "id": "lucas-cranach-the-elder",
+  "name": "Lucas Cranach the Elder",
+  "born": 1472,
+  "died": 1553,
+  "period": "renaissance",
+  "count": 4,
+  "aic": 34071
+ },
+ {
+  "id": "hans-burgkmair",
+  "name": "Hans Burgkmair",
+  "born": 1473,
+  "died": 1531,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 17,
+  "cma": [
+   22920
+  ]
+ },
+ {
+  "id": "albrecht-altdorfer",
+  "name": "Albrecht Altdorfer",
+  "born": 1480,
+  "died": 1538,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 59,
+  "cma": [
+   11620
+  ]
+ },
+ {
+  "id": "leonhard-beck",
+  "name": "Leonhard Beck",
+  "born": 1480,
+  "died": 1542,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 4,
+  "cma": [
+   22923
+  ]
+ },
+ {
+  "id": "chen-chun",
+  "name": "Chen Chun",
+  "born": 1483,
+  "died": 1544,
+  "nationality": "Chinese",
+  "period": "renaissance",
+  "count": 4,
+  "cma": [
+   33741
+  ],
+  "aic": 4311
+ },
+ {
+  "id": "hans-baldung",
+  "name": "Hans Baldung",
+  "born": 1484,
+  "died": 1545,
+  "nationality": "German",
+  "period": "renaissance",
+  "count": 8,
+  "cma": [
+   2644
+  ]
+ },
+ {
+  "id": "jean-duvet",
+  "name": "Jean Duvet",
+  "born": 1485,
+  "died": 1561,
+  "nationality": "French",
+  "period": "renaissance",
+  "count": 19,
+  "cma": [
+   16346
+  ]
+ },
+ {
+  "id": "titian",
+  "name": "Titian",
+  "born": 1488,
+  "died": 1576,
+  "nationality": "Italian",
+  "period": "renaissance",
+  "count": 8,
+  "cma": [
+   2341
+  ]
+ },
+ {
+  "id": "sesson-shukei",
+  "name": "Sesson Shūkei",
+  "born": 1492,
+  "died": 1577,
+  "nationality": "Japanese",
+  "period": "renaissance",
+  "count": 8,
+  "cma": [
+   5952
+  ],
+  "aic": 23566
+ },
+ {
+  "id": "lucas-van-leyden",
+  "name": "Lucas van Leyden",
+  "born": 1494,
+  "died": 1533,
+  "nationality": "Netherlandish",
+  "period": "renaissance",
+  "count": 32,
+  "cma": [
+   22613
+  ]
+ },
+ {
+  "id": "qiu-ying",
+  "name": "Qiu Ying",
+  "born": 1494,
+  "died": 1552,
+  "nationality": "Chinese",
+  "period": "renaissance",
+  "count": 8,
+  "cma": [
+   22786
+  ],
+  "aic": 33901
+ },
+ {
+  "id": "hans-holbein-the-younger",
+  "name": "Hans Holbein the Younger",
+  "born": 1497,
+  "died": 1543,
+  "nationality": "German",
+  "period": "late-renaissance",
+  "count": 21,
+  "cma": [
+   2819
+  ],
+  "aic": 34982
+ },
+ {
+  "id": "hans-sebald-beham",
+  "name": "Hans Sebald Beham",
+  "born": 1500,
+  "died": 1550,
+  "nationality": "German",
+  "period": "late-renaissance",
+  "count": 53,
+  "cma": [
+   1193
+  ]
+ },
+ {
+  "id": "georg-pencz",
+  "name": "Georg Pencz",
+  "born": 1500,
+  "died": 1550,
+  "nationality": "German",
+  "period": "late-renaissance",
+  "count": 10,
+  "cma": [
+   4669
+  ]
+ },
+ {
+  "id": "heinrich-aldegrever",
+  "name": "Heinrich Aldegrever",
+  "born": 1502,
+  "died": 1561,
+  "nationality": "German",
+  "period": "late-renaissance",
+  "count": 12,
+  "cma": [
+   22581
+  ]
+ },
+ {
+  "id": "wen-boren",
+  "name": "Wen Boren",
+  "born": 1502,
+  "died": 1575,
+  "nationality": "Chinese",
+  "period": "late-renaissance",
+  "count": 4,
+  "cma": [
+   11228
+  ],
+  "aic": 28273
+ },
+ {
+  "id": "augustin-hirschvogel",
+  "name": "Augustin Hirschvogel",
+  "born": 1503,
+  "died": 1553,
+  "nationality": "German",
+  "period": "late-renaissance",
+  "count": 5,
+  "cma": [
+   26076
+  ]
+ },
+ {
+  "id": "cornelis-massys",
+  "name": "Cornelis Massys",
+  "born": 1510,
+  "died": 1557,
+  "nationality": "Flemish",
+  "period": "late-renaissance",
+  "count": 5,
+  "cma": [
+   23182
+  ]
+ },
+ {
+  "id": "battista-franco",
+  "name": "Battista Franco",
+  "born": 1510,
+  "died": 1561,
+  "nationality": "Italian",
+  "period": "late-renaissance",
+  "count": 5,
+  "cma": [
+   300711
+  ]
+ },
+ {
+  "id": "etienne-delaune",
+  "name": "Etienne Delaune",
+  "born": 1518,
+  "died": 1583,
+  "nationality": "French",
+  "period": "late-renaissance",
+  "count": 12,
+  "cma": [
+   4675
+  ]
+ },
+ {
+  "id": "giorgio-ghisi",
+  "name": "Giorgio Ghisi",
+  "born": 1520,
+  "died": 1582,
+  "nationality": "Italian",
+  "period": "late-renaissance",
+  "count": 4,
+  "cma": [
+   4603
+  ]
+ },
+ {
+  "id": "hanns-lautensack",
+  "name": "Hanns Lautensack",
+  "born": 1524,
+  "died": 1566,
+  "nationality": "German",
+  "period": "late-renaissance",
+  "count": 5,
+  "cma": [
+   25832
+  ]
+ },
+ {
+  "id": "song-xu",
+  "name": "Song Xu",
+  "born": 1525,
+  "died": 1606,
+  "nationality": "Chinese",
+  "period": "late-renaissance",
+  "count": 19,
+  "cma": [
+   22954
+  ]
+ },
+ {
+  "id": "kaiho-yusho",
+  "name": "Kaihō Yūshō",
+  "born": 1533,
+  "died": 1615,
+  "nationality": "Japanese",
+  "period": "late-renaissance",
+  "count": 4,
+  "cma": [
+   344438,
+   35432
+  ],
+  "aic": 13343
+ },
+ {
+  "id": "unkoku-togan",
+  "name": "Unkoku Tōgan",
+  "born": 1547,
+  "died": 1618,
+  "nationality": "Japanese",
+  "period": "late-renaissance",
+  "count": 4,
+  "cma": [
+   54394
+  ]
+ },
+ {
+  "id": "hieronymus-wierix",
+  "name": "Hieronymus Wierix",
+  "born": 1553,
+  "died": 1619,
+  "nationality": "Flemish",
+  "period": "late-renaissance",
+  "count": 8,
+  "cma": [
+   23249
+  ]
+ },
+ {
+  "id": "dong-qichang",
+  "name": "Dong Qichang",
+  "born": 1555,
+  "died": 1636,
+  "nationality": "Chinese",
+  "period": "late-renaissance",
+  "count": 5,
+  "cma": [
+   22133
+  ],
+  "aic": 26678
+ },
+ {
+  "id": "hendrick-goltzius",
+  "name": "Hendrick Goltzius",
+  "born": 1558,
+  "died": 1617,
+  "nationality": "Dutch",
+  "period": "late-renaissance",
+  "count": 26,
+  "cma": [
+   68231
+  ]
+ },
+ {
+  "id": "annibale-carracci",
+  "name": "Annibale Carracci",
+  "born": 1560,
+  "died": 1609,
+  "nationality": "Italian",
+  "period": "late-renaissance",
+  "count": 5,
+  "cma": [
+   2082
+  ]
+ },
+ {
+  "id": "jan-saenredam",
+  "name": "Jan Saenredam",
+  "born": 1565,
+  "died": 1607,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 8,
+  "cma": [
+   68339
+  ]
+ },
+ {
+  "id": "jacob-de-gheyn-ii",
+  "name": "Jacob de Gheyn II",
+  "born": 1565,
+  "died": 1629,
+  "nationality": "Netherlandish",
+  "period": "baroque",
+  "count": 8,
+  "cma": [
+   4715
+  ]
+ },
+ {
+  "id": "tawaraya-sotatsu",
+  "name": "Tawaraya Sōtatsu",
+  "born": 1570,
+  "died": 1640,
+  "nationality": "Japanese",
+  "period": "baroque",
+  "count": 4,
+  "cma": [
+   33075
+  ],
+  "aic": 24535
+ },
+ {
+  "id": "nicolaes-de-bruyn",
+  "name": "Nicolaes de Bruyn",
+  "born": 1571,
+  "died": 1656,
+  "nationality": "Netherlandish",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   8709
+  ]
+ },
+ {
+  "id": "guido-reni",
+  "name": "Guido Reni",
+  "born": 1575,
+  "died": 1642,
+  "nationality": "Italian",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   2279
+  ],
+  "aic": 36350
+ },
+ {
+  "id": "peter-paul-rubens",
+  "name": "Peter Paul Rubens",
+  "born": 1577,
+  "died": 1640,
+  "nationality": "Flemish",
+  "period": "baroque",
+  "count": 14,
+  "cma": [
+   1251
+  ],
+  "aic": 36487
+ },
+ {
+  "id": "lucas-kilian",
+  "name": "Lucas Kilian",
+  "born": 1579,
+  "died": 1637,
+  "nationality": "German",
+  "period": "baroque",
+  "count": 13,
+  "cma": [
+   26296
+  ]
+ },
+ {
+  "id": "hendrik-goudt",
+  "name": "Hendrik Goudt",
+  "born": 1583,
+  "died": 1648,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   36303
+  ]
+ },
+ {
+  "id": "lan-ying",
+  "name": "Lan Ying",
+  "born": 1585,
+  "died": 1669,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 10,
+  "cma": [
+   23262
+  ],
+  "aic": 14686
+ },
+ {
+  "id": "jusepe-de-ribera",
+  "name": "Jusepe de Ribera",
+  "born": 1591,
+  "died": 1652,
+  "nationality": "Spanish",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   2403
+  ],
+  "aic": 40773
+ },
+ {
+  "id": "guercino",
+  "name": "Guercino",
+  "born": 1591,
+  "died": 1666,
+  "nationality": "Italian",
+  "period": "baroque",
+  "count": 4,
+  "cma": [
+   1190
+  ],
+  "aic": 40621
+ },
+ {
+  "id": "jacques-callot",
+  "name": "Jacques Callot",
+  "born": 1592,
+  "died": 1635,
+  "nationality": "French",
+  "period": "baroque",
+  "count": 73,
+  "cma": [
+   4704
+  ]
+ },
+ {
+  "id": "jacob-jordaens",
+  "name": "Jacob Jordaens",
+  "born": 1593,
+  "died": 1678,
+  "nationality": "Flemish",
+  "period": "baroque",
+  "count": 4,
+  "cma": [
+   2824
+  ],
+  "aic": 40643
+ },
+ {
+  "id": "nicolas-poussin",
+  "name": "Nicolas Poussin",
+  "born": 1594,
+  "died": 1665,
+  "nationality": "French",
+  "period": "baroque",
+  "count": 6,
+  "cma": [
+   1946
+  ],
+  "aic": 36259
+ },
+ {
+  "id": "xiao-yuncong",
+  "name": "Xiao Yuncong",
+  "born": 1596,
+  "died": 1673,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 10,
+  "cma": [
+   23575
+  ]
+ },
+ {
+  "id": "jan-van-goyen",
+  "name": "Jan van Goyen",
+  "born": 1596,
+  "died": 1656,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 6,
+  "cma": [
+   2650
+  ],
+  "aic": 40616
+ },
+ {
+  "id": "chen-hongshou",
+  "name": "Chen Hongshou",
+  "born": 1598,
+  "died": 1652,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 27,
+  "cma": [
+   6274
+  ]
+ },
+ {
+  "id": "anthony-van-dyck",
+  "name": "Anthony van Dyck",
+  "born": 1599,
+  "died": 1641,
+  "nationality": "Flemish",
+  "period": "baroque",
+  "count": 14,
+  "cma": [
+   2443
+  ],
+  "aic": 40563
+ },
+ {
+  "id": "herman-van-swanevelt",
+  "name": "Herman van Swanevelt",
+  "born": 1600,
+  "died": 1655,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 11,
+  "cma": [
+   2446
+  ]
+ },
+ {
+  "id": "kano-tan-yu",
+  "name": "Kano Tan’yū",
+  "born": 1602,
+  "died": 1674,
+  "nationality": "Japanese",
+  "period": "baroque",
+  "count": 13,
+  "cma": [
+   35680
+  ]
+ },
+ {
+  "id": "abraham-bosse",
+  "name": "Abraham Bosse",
+  "born": 1602,
+  "died": 1676,
+  "nationality": "French",
+  "period": "baroque",
+  "count": 8,
+  "cma": [
+   28802
+  ]
+ },
+ {
+  "id": "claude-lorrain",
+  "name": "Claude Lorrain",
+  "born": 1604,
+  "died": 1682,
+  "nationality": "French",
+  "period": "baroque",
+  "count": 12,
+  "cma": [
+   1873
+  ],
+  "aic": 31257
+ },
+ {
+  "id": "rembrandt-van-rijn",
+  "name": "Rembrandt van Rijn",
+  "born": 1606,
+  "died": 1669,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 58,
+  "cma": [
+   2520,
+   291869
+  ],
+  "aic": 40769
+ },
+ {
+  "id": "wenceslaus-hollar",
+  "name": "Wenceslaus Hollar",
+  "born": 1607,
+  "died": 1677,
+  "nationality": "Bohemian",
+  "period": "baroque",
+  "count": 29,
+  "cma": [
+   24509
+  ]
+ },
+ {
+  "id": "kano-naonobu",
+  "name": "Kano Naonobu",
+  "born": 1607,
+  "died": 1650,
+  "nationality": "Japanese",
+  "period": "baroque",
+  "count": 6,
+  "cma": [
+   54719
+  ]
+ },
+ {
+  "id": "anthonie-waterloo",
+  "name": "Anthonie Waterloo",
+  "born": 1609,
+  "died": 1690,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 16,
+  "cma": [
+   13111
+  ]
+ },
+ {
+  "id": "giovanni-benedetto-castiglione",
+  "name": "Giovanni Benedetto Castiglione",
+  "born": 1609,
+  "died": 1664,
+  "nationality": "Italian",
+  "period": "baroque",
+  "count": 8,
+  "cma": [
+   2079
+  ],
+  "aic": 33894
+ },
+ {
+  "id": "stefano-della-bella",
+  "name": "Stefano Della Bella",
+  "born": 1610,
+  "died": 1664,
+  "nationality": "Italian",
+  "period": "baroque",
+  "count": 39,
+  "cma": [
+   1130
+  ]
+ },
+ {
+  "id": "adriaen-van-ostade",
+  "name": "Adriaen van Ostade",
+  "born": 1610,
+  "died": 1684,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 18,
+  "cma": [
+   22540
+  ],
+  "aic": 41137
+ },
+ {
+  "id": "david-teniers",
+  "name": "David Teniers",
+  "born": 1610,
+  "died": 1690,
+  "nationality": "Flemish",
+  "period": "baroque",
+  "count": 6,
+  "cma": [
+   2451
+  ]
+ },
+ {
+  "id": "david-teniers-the-younger",
+  "name": "David Teniers the Younger",
+  "born": 1610,
+  "died": 1690,
+  "period": "baroque",
+  "count": 5,
+  "aic": 41190
+ },
+ {
+  "id": "hishikawa-moronobu",
+  "name": "Hishikawa Moronobu",
+  "born": 1613,
+  "died": 1694,
+  "period": "baroque",
+  "count": 17,
+  "aic": 35839
+ },
+ {
+  "id": "salvator-rosa",
+  "name": "Salvator Rosa",
+  "born": 1615,
+  "died": 1673,
+  "nationality": "Italian",
+  "period": "baroque",
+  "count": 15,
+  "cma": [
+   2285
+  ],
+  "aic": 40784
+ },
+ {
+  "id": "zha-shibiao",
+  "name": "Zha Shibiao",
+  "born": 1615,
+  "died": 1698,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 13,
+  "cma": [
+   23580
+  ]
+ },
+ {
+  "id": "fan-qi",
+  "name": "Fan Qi",
+  "born": 1616,
+  "died": 1694,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 12,
+  "cma": [
+   33538
+  ]
+ },
+ {
+  "id": "ferdinand-bol",
+  "name": "Ferdinand Bol",
+  "born": 1616,
+  "died": 1680,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   1236
+  ],
+  "aic": 33679
+ },
+ {
+  "id": "tosa-mitsuoki",
+  "name": "Tosa Mitsuoki",
+  "born": 1617,
+  "died": 1691,
+  "period": "baroque",
+  "count": 4,
+  "aic": 26388
+ },
+ {
+  "id": "nicolaes-berchem",
+  "name": "Nicolaes Berchem",
+  "born": 1620,
+  "died": 1683,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 10,
+  "cma": [
+   2757
+  ],
+  "aic": 33605
+ },
+ {
+  "id": "allart-van-everdingen",
+  "name": "Allart van Everdingen",
+  "born": 1621,
+  "died": 1675,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 32,
+  "cma": [
+   1166
+  ]
+ },
+ {
+  "id": "israel-silvestre",
+  "name": "Israël Silvestre",
+  "born": 1621,
+  "died": 1691,
+  "nationality": "French",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   33799
+  ]
+ },
+ {
+  "id": "mei-qing",
+  "name": "Mei Qing",
+  "born": 1623,
+  "died": 1697,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 12,
+  "cma": [
+   6341
+  ]
+ },
+ {
+  "id": "robert-nanteuil",
+  "name": "Robert Nanteuil",
+  "born": 1623,
+  "died": 1678,
+  "nationality": "French",
+  "period": "baroque",
+  "count": 11,
+  "cma": [
+   28379
+  ]
+ },
+ {
+  "id": "reinier-nooms-called-zeeman",
+  "name": "Reinier Nooms, called Zeeman",
+  "born": 1623,
+  "died": 1667,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 9,
+  "cma": [
+   22529
+  ],
+  "aic": 29477
+ },
+ {
+  "id": "herman-naiwincx",
+  "name": "Herman Naiwincx",
+  "born": 1624,
+  "died": 1651,
+  "nationality": "Flemish",
+  "period": "baroque",
+  "count": 9,
+  "cma": [
+   22522
+  ]
+ },
+ {
+  "id": "abraham-munting",
+  "name": "Abraham Munting",
+  "born": 1626,
+  "died": 1683,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   22592
+  ]
+ },
+ {
+  "id": "roelant-roghman",
+  "name": "Roelant Roghman",
+  "born": 1627,
+  "died": 1692,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 6,
+  "cma": [
+   22502,
+   286020
+  ]
+ },
+ {
+  "id": "jacob-van-ruisdael",
+  "name": "Jacob van Ruisdael",
+  "born": 1628,
+  "died": 1682,
+  "nationality": "Dutch",
+  "period": "baroque",
+  "count": 7,
+  "cma": [
+   2676
+  ],
+  "aic": 41354
+ },
+ {
+  "id": "johann-heinrich-roos",
+  "name": "Johann Heinrich Roos",
+  "born": 1631,
+  "died": 1685,
+  "nationality": "German",
+  "period": "baroque",
+  "count": 6,
+  "cma": [
+   25940
+  ]
+ },
+ {
+  "id": "wang-hui",
+  "name": "Wang Hui",
+  "born": 1632,
+  "died": 1717,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   6326
+  ],
+  "aic": 12211
+ },
+ {
+  "id": "katsuzan-dowa",
+  "name": "Katsuzan Dowa",
+  "born": 1634,
+  "died": 1707,
+  "period": "baroque",
+  "count": 4,
+  "aic": 92385
+ },
+ {
+  "id": "kano-tsunenobu",
+  "name": "Kanô Tsunenobu",
+  "born": 1636,
+  "died": 1713,
+  "period": "baroque",
+  "count": 4,
+  "aic": 49886
+ },
+ {
+  "id": "lievin-cruyl",
+  "name": "Lievin Cruyl",
+  "born": 1640,
+  "died": 1720,
+  "nationality": "Flemish",
+  "period": "baroque",
+  "count": 19,
+  "cma": [
+   12435
+  ]
+ },
+ {
+  "id": "shitao",
+  "name": "Shitao",
+  "born": 1642,
+  "died": 1707,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 11,
+  "cma": [
+   6317
+  ]
+ },
+ {
+  "id": "wang-yuanqi",
+  "name": "Wang Yuanqi",
+  "born": 1642,
+  "died": 1715,
+  "nationality": "Chinese",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   23295
+  ],
+  "aic": 27938
+ },
+ {
+  "id": "kiyohara-yukinobu",
+  "name": "Kiyohara Yukinobu",
+  "born": 1643,
+  "died": 1682,
+  "nationality": "Japanese",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   35707
+  ]
+ },
+ {
+  "id": "yamaguchi-sekkei",
+  "name": "Yamaguchi Sekkei",
+  "born": 1644,
+  "died": 1732,
+  "nationality": "Japanese",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   35579
+  ]
+ },
+ {
+  "id": "kyuseki-tomonobu",
+  "name": "Kyūseki Tomonobu",
+  "born": 1653,
+  "died": 1721,
+  "nationality": "Japanese",
+  "period": "baroque",
+  "count": 4,
+  "cma": [
+   296960
+  ]
+ },
+ {
+  "id": "johann-michael-rottmayr",
+  "name": "Johann Michael Rottmayr",
+  "born": 1654,
+  "died": 1730,
+  "period": "baroque",
+  "count": 5,
+  "aic": 42097
+ },
+ {
+  "id": "francesco-solimena",
+  "name": "Francesco Solimena",
+  "born": 1657,
+  "died": 1747,
+  "nationality": "Italian",
+  "period": "baroque",
+  "count": 5,
+  "cma": [
+   2315
+  ],
+  "aic": 36739
+ },
+ {
+  "id": "torii-kiyonobu-i",
+  "name": "Torii Kiyonobu I",
+  "born": 1664,
+  "died": 1729,
+  "nationality": "Japanese",
+  "period": "baroque",
+  "count": 21,
+  "cma": [
+   32756
+  ],
+  "aic": 35275
+ },
+ {
+  "id": "alessandro-magnasco",
+  "name": "Alessandro Magnasco",
+  "born": 1667,
+  "died": 1749,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 7,
+  "cma": [
+   2215
+  ],
+  "aic": 35562
+ },
+ {
+  "id": "jacques-rigaud",
+  "name": "Jacques Rigaud",
+  "born": 1681,
+  "died": 1754,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 16,
+  "cma": [
+   29622
+  ]
+ },
+ {
+  "id": "hua-yan",
+  "name": "Hua Yan",
+  "born": 1682,
+  "died": 1756,
+  "nationality": "Chinese",
+  "period": "eighteenth-century",
+  "count": 16,
+  "cma": [
+   23570
+  ],
+  "aic": 12128
+ },
+ {
+  "id": "giovanni-battista-piazzetta",
+  "name": "Giovanni Battista Piazzetta",
+  "born": 1682,
+  "died": 1754,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 11,
+  "cma": [
+   1198
+  ],
+  "aic": 20528
+ },
+ {
+  "id": "watanabe-shiko",
+  "name": "Watanabe Shikō",
+  "born": 1683,
+  "died": 1755,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 8,
+  "cma": [
+   6037
+  ]
+ },
+ {
+  "id": "miyagawa-choshun",
+  "name": "Miyagawa Chōshun",
+  "born": 1683,
+  "died": 1753,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 4,
+  "cma": [
+   6181
+  ],
+  "aic": 17482
+ },
+ {
+  "id": "bian-shoumin",
+  "name": "Bian Shoumin",
+  "born": 1684,
+  "died": 1752,
+  "nationality": "Chinese",
+  "period": "eighteenth-century",
+  "count": 13,
+  "cma": [
+   37393
+  ]
+ },
+ {
+  "id": "jean-antoine-watteau",
+  "name": "Jean-Antoine Watteau",
+  "born": 1684,
+  "died": 1721,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 5,
+  "cma": [
+   14067
+  ],
+  "aic": 37236
+ },
+ {
+  "id": "okumura-masanobu",
+  "name": "Okumura Masanobu",
+  "born": 1686,
+  "died": 1764,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 61,
+  "cma": [
+   32771
+  ],
+  "aic": 61758
+ },
+ {
+  "id": "nicolas-lancret",
+  "name": "Nicolas Lancret",
+  "born": 1690,
+  "died": 1743,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 8,
+  "cma": [
+   1885
+  ],
+  "aic": 35379
+ },
+ {
+  "id": "gabriel-huquier",
+  "name": "Gabriel Huquier",
+  "born": 1695,
+  "died": 1772,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 7,
+  "cma": [
+   28347
+  ]
+ },
+ {
+  "id": "giovanni-battista-tiepolo",
+  "name": "Giovanni Battista Tiepolo",
+  "born": 1696,
+  "died": 1770,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 20,
+  "cma": [
+   2329
+  ],
+  "aic": 36972
+ },
+ {
+  "id": "antonio-canaletto",
+  "name": "Antonio Canaletto",
+  "born": 1697,
+  "died": 1768,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 18,
+  "cma": [
+   11939
+  ]
+ },
+ {
+  "id": "nishimura-shigenaga",
+  "name": "Nishimura Shigenaga",
+  "born": 1697,
+  "died": 1756,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 18,
+  "cma": [
+   23334
+  ],
+  "aic": 36643
+ },
+ {
+  "id": "william-hogarth",
+  "name": "William Hogarth",
+  "born": 1697,
+  "died": 1764,
+  "nationality": "British",
+  "period": "eighteenth-century",
+  "count": 9,
+  "cma": [
+   23776
+  ]
+ },
+ {
+  "id": "torii-kiyomasu-i",
+  "name": "Torii Kiyomasu I",
+  "born": 1697,
+  "died": 1722,
+  "period": "eighteenth-century",
+  "count": 9,
+  "aic": 13960
+ },
+ {
+  "id": "giovanni-battista-nolli",
+  "name": "Giovanni Battista Nolli",
+  "born": 1701,
+  "died": 1756,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 9,
+  "cma": [
+   401107
+  ]
+ },
+ {
+  "id": "francois-boucher",
+  "name": "François Boucher",
+  "born": 1703,
+  "died": 1770,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 13,
+  "cma": [
+   1888
+  ],
+  "aic": 40453
+ },
+ {
+  "id": "torii-kiyomasu-ii",
+  "name": "Torii Kiyomasu II",
+  "born": 1706,
+  "died": 1763,
+  "period": "eighteenth-century",
+  "count": 29,
+  "aic": 35269
+ },
+ {
+  "id": "torii-kiyonobu-ii",
+  "name": "Torii Kiyonobu II",
+  "born": 1706,
+  "died": 1763,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 19,
+  "cma": [
+   32765
+  ],
+  "aic": 35276
+ },
+ {
+  "id": "georg-dionysius-ehret",
+  "name": "Georg Dionysius Ehret",
+  "born": 1708,
+  "died": 1770,
+  "nationality": "German",
+  "period": "eighteenth-century",
+  "count": 10,
+  "cma": [
+   1310
+  ]
+ },
+ {
+  "id": "pompeo-girolamo-batoni",
+  "name": "Pompeo Girolamo Batoni",
+  "born": 1708,
+  "died": 1787,
+  "period": "eighteenth-century",
+  "count": 4,
+  "aic": 33548
+ },
+ {
+  "id": "arthur-devis",
+  "name": "Arthur Devis",
+  "born": 1708,
+  "died": 1787,
+  "period": "eighteenth-century",
+  "count": 4,
+  "aic": 34248
+ },
+ {
+  "id": "michele-marieschi",
+  "name": "Michele Marieschi",
+  "born": 1710,
+  "died": 1743,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 12,
+  "cma": [
+   24030
+  ]
+ },
+ {
+  "id": "ishikawa-toyonobu",
+  "name": "Ishikawa Toyonobu",
+  "born": 1711,
+  "died": 1785,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 27,
+  "cma": [
+   23378
+  ],
+  "aic": 26531
+ },
+ {
+  "id": "francesco-guardi",
+  "name": "Francesco Guardi",
+  "born": 1712,
+  "died": 1793,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 16,
+  "cma": [
+   1201
+  ],
+  "aic": 34761
+ },
+ {
+  "id": "zhang-ruoai",
+  "name": "Zhang Ruoai",
+  "born": 1713,
+  "died": 1746,
+  "nationality": "Chinese",
+  "period": "eighteenth-century",
+  "count": 11,
+  "cma": [
+   31202
+  ]
+ },
+ {
+  "id": "ito-jakuchu",
+  "name": "Ito Jakuchu",
+  "born": 1716,
+  "died": 1800,
+  "period": "eighteenth-century",
+  "count": 5,
+  "aic": 35098
+ },
+ {
+  "id": "jacques-francois-saly",
+  "name": "Jacques François Saly",
+  "born": 1717,
+  "died": 1776,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 17,
+  "cma": [
+   8718
+  ]
+ },
+ {
+  "id": "nathaniel-hone",
+  "name": "Nathaniel Hone",
+  "born": 1718,
+  "died": 1784,
+  "period": "eighteenth-century",
+  "count": 4,
+  "aic": 34990
+ },
+ {
+  "id": "giovanni-battista-piranesi",
+  "name": "Giovanni Battista Piranesi",
+  "born": 1720,
+  "died": 1778,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 25,
+  "cma": [
+   11946
+  ]
+ },
+ {
+  "id": "komatsuya-hyakki",
+  "name": "Komatsuya Hyakki",
+  "born": 1720,
+  "died": 1793,
+  "period": "eighteenth-century",
+  "count": 5,
+  "aic": 104167
+ },
+ {
+  "id": "ike-taiga",
+  "name": "Ike Taiga",
+  "born": 1723,
+  "died": 1776,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 8,
+  "cma": [
+   7625
+  ],
+  "aic": 25418
+ },
+ {
+  "id": "suzuki-harunobu",
+  "name": "Suzuki Harunobu",
+  "born": 1724,
+  "died": 1770,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 173,
+  "cma": [
+   23415
+  ],
+  "aic": 36845
+ },
+ {
+  "id": "katsukawa-shunsho",
+  "name": "Katsukawa Shunshō",
+  "born": 1726,
+  "died": 1792,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 305,
+  "cma": [
+   32843
+  ],
+  "aic": 36681
+ },
+ {
+  "id": "ippitsusai-buncho",
+  "name": "Ippitsusai Bunchō",
+  "born": 1727,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 37,
+  "cma": [
+   34681
+  ],
+  "aic": 33802
+ },
+ {
+  "id": "giovanni-domenico-tiepolo",
+  "name": "Giovanni Domenico Tiepolo",
+  "born": 1727,
+  "died": 1804,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 21,
+  "cma": [
+   1185
+  ],
+  "aic": 36973
+ },
+ {
+  "id": "thomas-gainsborough",
+  "name": "Thomas Gainsborough",
+  "born": 1727,
+  "died": 1788,
+  "nationality": "British",
+  "period": "eighteenth-century",
+  "count": 8,
+  "cma": [
+   1313
+  ],
+  "aic": 34593
+ },
+ {
+  "id": "francesco-bartolozzi",
+  "name": "Francesco Bartolozzi",
+  "born": 1727,
+  "died": 1815,
+  "nationality": "British",
+  "period": "eighteenth-century",
+  "count": 7,
+  "cma": [
+   1361
+  ]
+ },
+ {
+  "id": "benigno-bossi",
+  "name": "Benigno Bossi",
+  "born": 1727,
+  "died": 1792,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 6,
+  "cma": [
+   64320
+  ]
+ },
+ {
+  "id": "jean-baptiste-pillement",
+  "name": "Jean Baptiste Pillement",
+  "born": 1728,
+  "died": 1808,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 6,
+  "cma": [
+   13742
+  ]
+ },
+ {
+  "id": "min-zhen",
+  "name": "Min Zhen",
+  "born": 1730,
+  "died": 1788,
+  "nationality": "Chinese",
+  "period": "eighteenth-century",
+  "count": 13,
+  "cma": [
+   31140
+  ]
+ },
+ {
+  "id": "soga-shohaku",
+  "name": "Soga Shōhaku",
+  "born": 1730,
+  "died": 1781,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 9,
+  "cma": [
+   35627
+  ],
+  "aic": 36658
+ },
+ {
+  "id": "nathaniel-hurd",
+  "name": "Nathaniel Hurd",
+  "born": 1730,
+  "died": 1778,
+  "nationality": "American",
+  "period": "eighteenth-century",
+  "count": 8,
+  "cma": [
+   33346
+  ]
+ },
+ {
+  "id": "filippo-morghen",
+  "name": "Filippo Morghen",
+  "born": 1730,
+  "died": 1807,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 5,
+  "cma": [
+   402915
+  ]
+ },
+ {
+  "id": "paul-sandby",
+  "name": "Paul Sandby",
+  "born": 1731,
+  "died": 1809,
+  "nationality": "British",
+  "period": "eighteenth-century",
+  "count": 4,
+  "cma": [
+   5655
+  ]
+ },
+ {
+  "id": "jean-honore-fragonard",
+  "name": "Jean-Honoré Fragonard",
+  "born": 1732,
+  "died": 1806,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 12,
+  "cma": [
+   2002
+  ],
+  "aic": 40583
+ },
+ {
+  "id": "hubert-robert",
+  "name": "Hubert Robert",
+  "born": 1733,
+  "died": 1808,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 14,
+  "cma": [
+   1955
+  ],
+  "aic": 36407
+ },
+ {
+  "id": "utagawa-toyohiro",
+  "name": "Utagawa Toyohiro",
+  "born": 1733,
+  "died": 1828,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 13,
+  "cma": [
+   35360
+  ],
+  "aic": 37003
+ },
+ {
+  "id": "maruyama-okyo",
+  "name": "Maruyama Ōkyo",
+  "born": 1733,
+  "died": 1795,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 7,
+  "cma": [
+   6166
+  ],
+  "aic": 35633
+ },
+ {
+  "id": "gaetano-gandolfi",
+  "name": "Gaetano Gandolfi",
+  "born": 1734,
+  "died": 1802,
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "count": 4,
+  "cma": [
+   11949
+  ]
+ },
+ {
+  "id": "isoda-koryusai",
+  "name": "Isoda Koryūsai",
+  "born": 1735,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 105,
+  "cma": [
+   23427
+  ],
+  "aic": 35327
+ },
+ {
+  "id": "torii-kiyomitsu-i",
+  "name": "Torii Kiyomitsu I",
+  "born": 1735,
+  "died": 1785,
+  "period": "eighteenth-century",
+  "count": 42,
+  "aic": 26368
+ },
+ {
+  "id": "utagawa-toyoharu",
+  "name": "Utagawa Toyoharu",
+  "born": 1735,
+  "died": 1814,
+  "period": "eighteenth-century",
+  "count": 8,
+  "aic": 37002
+ },
+ {
+  "id": "john-singleton-copley",
+  "name": "John Singleton Copley",
+  "born": 1738,
+  "died": 1815,
+  "nationality": "American",
+  "period": "eighteenth-century",
+  "count": 10,
+  "cma": [
+   2409
+  ],
+  "aic": 34028
+ },
+ {
+  "id": "benjamin-west",
+  "name": "Benjamin West",
+  "born": 1738,
+  "died": 1820,
+  "nationality": "American",
+  "period": "eighteenth-century",
+  "count": 9,
+  "cma": [
+   2553
+  ],
+  "aic": 37270
+ },
+ {
+  "id": "kitao-shigemasa",
+  "name": "Kitao Shigemasa",
+  "born": 1739,
+  "died": 1819,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 33,
+  "cma": [
+   35270
+  ],
+  "aic": 23776
+ },
+ {
+  "id": "richard-cosway-r-a",
+  "name": "Richard Cosway, R.A.",
+  "born": 1740,
+  "died": 1821,
+  "period": "eighteenth-century",
+  "count": 8,
+  "aic": 34041
+ },
+ {
+  "id": "john-smart",
+  "name": "John Smart",
+  "born": 1741,
+  "died": 1811,
+  "period": "eighteenth-century",
+  "count": 6,
+  "aic": 9242
+ },
+ {
+  "id": "henry-fuseli",
+  "name": "Henry Fuseli",
+  "born": 1741,
+  "died": 1825,
+  "nationality": "Swiss",
+  "period": "eighteenth-century",
+  "count": 5,
+  "cma": [
+   1262
+  ],
+  "aic": 9093
+ },
+ {
+  "id": "jean-michel-the-younger-moreau",
+  "name": "Jean-Michel the Younger Moreau",
+  "born": 1741,
+  "died": 1814,
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "count": 4,
+  "cma": [
+   29545
+  ]
+ },
+ {
+  "id": "richard-crosse",
+  "name": "Richard Crosse",
+  "born": 1742,
+  "died": 1810,
+  "period": "eighteenth-century",
+  "count": 7,
+  "aic": 34088
+ },
+ {
+  "id": "ozias-humphry",
+  "name": "Ozias Humphry",
+  "born": 1742,
+  "died": 1810,
+  "period": "eighteenth-century",
+  "count": 4,
+  "aic": 42022
+ },
+ {
+  "id": "katsukawa-shunk",
+  "name": "Katsukawa Shunkо̄",
+  "born": 1743,
+  "died": 1812,
+  "period": "eighteenth-century",
+  "count": 46,
+  "aic": 57918
+ },
+ {
+  "id": "richard-earlom",
+  "name": "Richard Earlom",
+  "born": 1743,
+  "died": 1822,
+  "nationality": "British",
+  "period": "eighteenth-century",
+  "count": 15,
+  "cma": [
+   27058
+  ]
+ },
+ {
+  "id": "katsukawa-shunko",
+  "name": "Katsukawa Shunkō",
+  "born": 1743,
+  "died": 1812,
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "count": 5,
+  "cma": [
+   35342
+  ],
+  "aic": 115103
+ },
+ {
+  "id": "francisco-de-goya",
+  "name": "Francisco de Goya",
+  "born": 1746,
+  "died": 1828,
+  "nationality": "Spanish",
+  "period": "romantic",
+  "count": 135,
+  "cma": [
+   2386
+  ]
+ },
+ {
+  "id": "francisco-jose-de-goya-y-lucientes",
+  "name": "Francisco José de Goya y Lucientes",
+  "born": 1746,
+  "died": 1828,
+  "period": "romantic",
+  "count": 11,
+  "aic": 40615
+ },
+ {
+  "id": "mori-sosen",
+  "name": "Mori Sosen",
+  "born": 1747,
+  "died": 1821,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   32611
+  ]
+ },
+ {
+  "id": "shiba-kokan",
+  "name": "Shiba Kōkan",
+  "born": 1747,
+  "died": 1818,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   6205
+  ],
+  "aic": 35315
+ },
+ {
+  "id": "jacques-louis-david",
+  "name": "Jacques-Louis David",
+  "born": 1748,
+  "died": 1825,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   1643
+  ],
+  "aic": 34147
+ },
+ {
+  "id": "kishi-ganku",
+  "name": "Kishi Ganku",
+  "born": 1749,
+  "died": 1838,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   35692
+  ],
+  "aic": 9264
+ },
+ {
+  "id": "pierre-rousseau",
+  "name": "Pierre Rousseau",
+  "born": 1751,
+  "died": 1829,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 28,
+  "cma": [
+   1983
+  ]
+ },
+ {
+  "id": "zeng-yandong",
+  "name": "Zeng Yandong",
+  "born": 1751,
+  "died": 1827,
+  "nationality": "Chinese",
+  "period": "romantic",
+  "count": 13,
+  "cma": [
+   31426
+  ]
+ },
+ {
+  "id": "nathaniel-plimer",
+  "name": "Nathaniel Plimer",
+  "born": 1751,
+  "died": 1822,
+  "period": "romantic",
+  "count": 6,
+  "aic": 36218
+ },
+ {
+  "id": "torii-kiyonaga",
+  "name": "Torii Kiyonaga",
+  "born": 1752,
+  "died": 1815,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 136,
+  "cma": [
+   35136
+  ],
+  "aic": 35265
+ },
+ {
+  "id": "matsumura-goshun",
+  "name": "Matsumura Goshun",
+  "born": 1752,
+  "died": 1811,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   6178
+  ]
+ },
+ {
+  "id": "george-engleheart",
+  "name": "George Engleheart",
+  "born": 1752,
+  "died": 1829,
+  "period": "romantic",
+  "count": 6,
+  "aic": 34406
+ },
+ {
+  "id": "kitagawa-utamaro",
+  "name": "Kitagawa Utamaro",
+  "born": 1754,
+  "died": 1806,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 183,
+  "cma": [
+   23355
+  ],
+  "aic": 37074
+ },
+ {
+  "id": "nagasawa-rosetsu",
+  "name": "Nagasawa Rosetsu",
+  "born": 1754,
+  "died": 1799,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 9,
+  "cma": [
+   381102,
+   20337
+  ],
+  "aic": 56986
+ },
+ {
+  "id": "gilbert-stuart",
+  "name": "Gilbert Stuart",
+  "born": 1755,
+  "died": 1828,
+  "nationality": "American",
+  "period": "romantic",
+  "count": 8,
+  "cma": [
+   2556
+  ],
+  "aic": 36822
+ },
+ {
+  "id": "chobunsai-eishi",
+  "name": "Chōbunsai Eishi",
+  "born": 1756,
+  "died": 1829,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 61,
+  "cma": [
+   35477
+  ],
+  "aic": 52271
+ },
+ {
+  "id": "thomas-rowlandson",
+  "name": "Thomas Rowlandson",
+  "born": 1756,
+  "died": 1827,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 15,
+  "cma": [
+   1265
+  ]
+ },
+ {
+  "id": "horace-hone",
+  "name": "Horace Hone",
+  "born": 1756,
+  "died": 1825,
+  "period": "romantic",
+  "count": 6,
+  "aic": 34989
+ },
+ {
+  "id": "sir-henry-raeburn",
+  "name": "Sir Henry Raeburn",
+  "born": 1756,
+  "died": 1823,
+  "period": "romantic",
+  "count": 4,
+  "aic": 40761
+ },
+ {
+  "id": "kubo-shunman",
+  "name": "Kubo Shunman",
+  "born": 1757,
+  "died": 1820,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 28,
+  "cma": [
+   65597
+  ],
+  "aic": 23940
+ },
+ {
+  "id": "william-blake",
+  "name": "William Blake",
+  "born": 1757,
+  "died": 1827,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 23,
+  "cma": [
+   1257
+  ]
+ },
+ {
+  "id": "carle-vernet",
+  "name": "Carle Vernet",
+  "born": 1758,
+  "died": 1836,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 10,
+  "cma": [
+   14060
+  ]
+ },
+ {
+  "id": "pierre-paul-prud-hon",
+  "name": "Pierre-Paul Prud'hon",
+  "born": 1758,
+  "died": 1823,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 8,
+  "cma": [
+   1646
+  ],
+  "aic": 36286
+ },
+ {
+  "id": "katsushika-hokusai",
+  "name": "Katsushika Hokusai",
+  "born": 1760,
+  "died": 1849,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 236,
+  "cma": [
+   23328
+  ],
+  "aic": 31492
+ },
+ {
+  "id": "takebe-socho",
+  "name": "Takebe Sōchō",
+  "born": 1760,
+  "died": 1814,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   35743
+  ]
+ },
+ {
+  "id": "kitao-masayoshi",
+  "name": "Kitao Masayoshi",
+  "born": 1761,
+  "died": 1824,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   35505
+  ]
+ },
+ {
+  "id": "kitao-masanobu",
+  "name": "Kitao Masanobu",
+  "born": 1761,
+  "died": 1816,
+  "period": "romantic",
+  "count": 7,
+  "aic": 61760
+ },
+ {
+  "id": "katsukawa-shun-ei",
+  "name": "Katsukawa Shun'ei",
+  "born": 1762,
+  "died": 1819,
+  "period": "romantic",
+  "count": 47,
+  "aic": 57917
+ },
+ {
+  "id": "andrew-plimer",
+  "name": "Andrew Plimer",
+  "born": 1763,
+  "died": 1837,
+  "period": "romantic",
+  "count": 8,
+  "aic": 36217
+ },
+ {
+  "id": "tani-buncho",
+  "name": "Tani Bunchō",
+  "born": 1763,
+  "died": 1841,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   35576
+  ]
+ },
+ {
+  "id": "ryuryukyo-shinsai",
+  "name": "Ryuryukyo Shinsai",
+  "born": 1764,
+  "died": 1820,
+  "period": "romantic",
+  "count": 21,
+  "aic": 22656
+ },
+ {
+  "id": "kitao-masayoshi-kuwagata-keisai",
+  "name": "Kitao Masayoshi (Kuwagata Keisai)",
+  "born": 1764,
+  "died": 1824,
+  "period": "romantic",
+  "count": 7,
+  "aic": 13659
+ },
+ {
+  "id": "henri-joseph-redoute",
+  "name": "Henri Joseph Redouté",
+  "born": 1766,
+  "died": 1853,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 16,
+  "cma": [
+   13989
+  ]
+ },
+ {
+  "id": "jean-baptiste-isabey",
+  "name": "Jean-Baptiste Isabey",
+  "born": 1767,
+  "died": 1855,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   3682
+  ],
+  "aic": 35070
+ },
+ {
+  "id": "anne-louis-girodet-de-roucy-trioson",
+  "name": "Anne-Louis Girodet de Roucy-Trioson",
+  "born": 1767,
+  "died": 1824,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   1697
+  ]
+ },
+ {
+  "id": "charles-meynier",
+  "name": "Charles Meynier",
+  "born": 1768,
+  "died": 1832,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   44231
+  ]
+ },
+ {
+  "id": "robert-john-thornton",
+  "name": "Robert John Thornton",
+  "born": 1768,
+  "died": 1837,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   27182
+  ]
+ },
+ {
+  "id": "utagawa-toyokuni-i",
+  "name": "Utagawa Toyokuni I",
+  "born": 1769,
+  "died": 1825,
+  "period": "romantic",
+  "count": 51,
+  "aic": 26428
+ },
+ {
+  "id": "utagawa-toyokuni",
+  "name": "Utagawa Toyokuni",
+  "born": 1769,
+  "died": 1825,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 21,
+  "cma": [
+   34752
+  ]
+ },
+ {
+  "id": "karl-ludwig-bernhard-buchhorn",
+  "name": "Karl Ludwig Bernhard Buchhorn",
+  "born": 1770,
+  "died": 1856,
+  "nationality": "German",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   43671
+  ]
+ },
+ {
+  "id": "teisai-hokuba",
+  "name": "Teisai Hokuba",
+  "born": 1771,
+  "died": 1844,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 10,
+  "cma": [
+   35911
+  ],
+  "aic": 34970
+ },
+ {
+  "id": "antoine-jean-gros",
+  "name": "Antoine-Jean Gros",
+  "born": 1771,
+  "died": 1835,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   1706
+  ]
+ },
+ {
+  "id": "utagawa-kunimasa",
+  "name": "Utagawa Kunimasa",
+  "born": 1773,
+  "died": 1810,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   32768
+  ],
+  "aic": 35349
+ },
+ {
+  "id": "john-thomas-barber-beaumont",
+  "name": "John Thomas Barber Beaumont",
+  "born": 1774,
+  "died": 1841,
+  "period": "romantic",
+  "count": 4,
+  "aic": 1904
+ },
+ {
+  "id": "joseph-mallord-william-turner",
+  "name": "Joseph Mallord William Turner",
+  "born": 1775,
+  "died": 1851,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 30,
+  "cma": [
+   1280
+  ],
+  "aic": 37043
+ },
+ {
+  "id": "thomas-girtin",
+  "name": "Thomas Girtin",
+  "born": 1775,
+  "died": 1802,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 19,
+  "cma": [
+   1370
+  ]
+ },
+ {
+  "id": "john-constable",
+  "name": "John Constable",
+  "born": 1776,
+  "died": 1837,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 8,
+  "cma": [
+   1536
+  ],
+  "aic": 34023
+ },
+ {
+  "id": "jacob-eichholtz",
+  "name": "Jacob Eichholtz",
+  "born": 1776,
+  "died": 1842,
+  "period": "romantic",
+  "count": 4,
+  "aic": 43630
+ },
+ {
+  "id": "utagawa-toyoshige-toyokuni-ii",
+  "name": "Utagawa Toyoshige (Toyokuni II)",
+  "born": 1777,
+  "died": 1835,
+  "period": "romantic",
+  "count": 4,
+  "aic": 37006
+ },
+ {
+  "id": "totoya-hokkei",
+  "name": "Totoya Hokkei",
+  "born": 1780,
+  "died": 1850,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 71,
+  "cma": [
+   30864
+  ],
+  "aic": 34969
+ },
+ {
+  "id": "jean-auguste-dominique-ingres",
+  "name": "Jean-Auguste-Dominique Ingres",
+  "born": 1780,
+  "died": 1867,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   1685
+  ],
+  "aic": 35059
+ },
+ {
+  "id": "pieter-christoffel-wonder",
+  "name": "Pieter Christoffel Wonder",
+  "born": 1780,
+  "died": 1852,
+  "nationality": "Dutch",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   2861
+  ]
+ },
+ {
+  "id": "john-sell-cotman",
+  "name": "John Sell Cotman",
+  "born": 1782,
+  "died": 1842,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 8,
+  "cma": [
+   1539
+  ]
+ },
+ {
+  "id": "samuel-prout",
+  "name": "Samuel Prout",
+  "born": 1783,
+  "died": 1852,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 12,
+  "cma": [
+   1271
+  ]
+ },
+ {
+  "id": "thomas-sully",
+  "name": "Thomas Sully",
+  "born": 1783,
+  "died": 1872,
+  "nationality": "American",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   2424
+  ],
+  "aic": 36834
+ },
+ {
+  "id": "john-cox-dillman-engleheart",
+  "name": "John Cox Dillman Engleheart",
+  "born": 1783,
+  "died": 1862,
+  "period": "romantic",
+  "count": 6,
+  "aic": 34407
+ },
+ {
+  "id": "samuel-lovett-waldo",
+  "name": "Samuel Lovett Waldo",
+  "born": 1783,
+  "died": 1861,
+  "nationality": "American",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   2472
+  ],
+  "aic": 27814
+ },
+ {
+  "id": "yamamoto-baiitsu",
+  "name": "Yamamoto Baiitsu",
+  "born": 1783,
+  "died": 1856,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   11282
+  ]
+ },
+ {
+  "id": "ferdinand-olivier",
+  "name": "Ferdinand Olivier",
+  "born": 1785,
+  "died": 1841,
+  "nationality": "German",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   25873
+  ]
+ },
+ {
+  "id": "utagawa-kunisada-i-toyokuni-iii",
+  "name": "Utagawa Kunisada I (Toyokuni III)",
+  "born": 1786,
+  "died": 1865,
+  "period": "romantic",
+  "count": 50,
+  "aic": 61302
+ },
+ {
+  "id": "yashima-gakutei",
+  "name": "Yashima Gakutei",
+  "born": 1786,
+  "died": 1868,
+  "period": "romantic",
+  "count": 38,
+  "aic": 9879
+ },
+ {
+  "id": "utagawa-kunisada",
+  "name": "Utagawa Kunisada",
+  "born": 1786,
+  "died": 1865,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 13,
+  "cma": [
+   30882
+  ]
+ },
+ {
+  "id": "kikukawa-eizan",
+  "name": "Kikukawa Eizan",
+  "born": 1787,
+  "died": 1867,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 24,
+  "cma": [
+   23352,
+   34449
+  ],
+  "aic": 34385
+ },
+ {
+  "id": "jakob-alt",
+  "name": "Jakob Alt",
+  "born": 1789,
+  "died": 1872,
+  "nationality": "Austrian",
+  "period": "romantic",
+  "count": 27,
+  "cma": [
+   12454
+  ]
+ },
+ {
+  "id": "horace-vernet",
+  "name": "Horace Vernet",
+  "born": 1789,
+  "died": 1863,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 12,
+  "cma": [
+   1612
+  ]
+ },
+ {
+  "id": "keisai-eisen",
+  "name": "Keisai Eisen",
+  "born": 1790,
+  "died": 1848,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 24,
+  "cma": [
+   34672
+  ],
+  "aic": 34380
+ },
+ {
+  "id": "theodore-gericault",
+  "name": "Théodore Géricault",
+  "born": 1791,
+  "died": 1824,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 18,
+  "cma": [
+   11643
+  ]
+ },
+ {
+  "id": "nicolas-toussaint-charlet",
+  "name": "Nicolas Toussaint Charlet",
+  "born": 1792,
+  "died": 1845,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 10,
+  "cma": [
+   11550
+  ],
+  "aic": 40485
+ },
+ {
+  "id": "utagawa-kuniyasu",
+  "name": "Utagawa Kuniyasu",
+  "born": 1794,
+  "died": 1834,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   35238
+  ],
+  "aic": 14483
+ },
+ {
+  "id": "richard-dighton",
+  "name": "Richard Dighton",
+  "born": 1795,
+  "died": 1880,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   1501
+  ]
+ },
+ {
+  "id": "david-roberts",
+  "name": "David Roberts",
+  "born": 1796,
+  "died": 1864,
+  "nationality": "Scottish",
+  "period": "romantic",
+  "count": 35,
+  "cma": [
+   1474
+  ]
+ },
+ {
+  "id": "jean-baptiste-camille-corot",
+  "name": "Jean Baptiste Camille Corot",
+  "born": 1796,
+  "died": 1875,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 28,
+  "cma": [
+   1588
+  ],
+  "aic": 34035
+ },
+ {
+  "id": "utagawa-hiroshige",
+  "name": "Utagawa Hiroshige",
+  "born": 1797,
+  "died": 1858,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 799,
+  "cma": [
+   50381
+  ],
+  "aic": 34946
+ },
+ {
+  "id": "utagawa-kuniyoshi",
+  "name": "Utagawa Kuniyoshi",
+  "born": 1797,
+  "died": 1861,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 78,
+  "cma": [
+   23331
+  ],
+  "aic": 14488
+ },
+ {
+  "id": "eugene-delacroix",
+  "name": "Eugène Delacroix",
+  "born": 1798,
+  "died": 1863,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 45,
+  "cma": [
+   1658
+  ],
+  "aic": 40545
+ },
+ {
+  "id": "james-duffield-harding",
+  "name": "James Duffield Harding",
+  "born": 1798,
+  "died": 1863,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   27209
+  ]
+ },
+ {
+  "id": "edward-calvert",
+  "name": "Edward Calvert",
+  "born": 1799,
+  "died": 1883,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   26759
+  ]
+ },
+ {
+  "id": "achille-deveria",
+  "name": "Achille Devéria",
+  "born": 1800,
+  "died": 1857,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   29287
+  ]
+ },
+ {
+  "id": "octave-tassaert",
+  "name": "Octave Tassaert",
+  "born": 1800,
+  "died": 1874,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   1603
+  ]
+ },
+ {
+  "id": "tsubaki-chinzan",
+  "name": "Tsubaki Chinzan",
+  "born": 1801,
+  "died": 1854,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 9,
+  "cma": [
+   34613
+  ]
+ },
+ {
+  "id": "ernst-fries",
+  "name": "Ernst Fries",
+  "born": 1801,
+  "died": 1833,
+  "nationality": "German",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   60520
+  ]
+ },
+ {
+  "id": "thomas-cole",
+  "name": "Thomas Cole",
+  "born": 1801,
+  "died": 1848,
+  "nationality": "American",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   2659
+  ],
+  "aic": 34007
+ },
+ {
+  "id": "richard-parkes-bonington",
+  "name": "Richard Parkes Bonington",
+  "born": 1802,
+  "died": 1828,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 15,
+  "cma": [
+   2475
+  ],
+  "aic": 33691
+ },
+ {
+  "id": "david-lucas",
+  "name": "David Lucas",
+  "born": 1802,
+  "died": 1881,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   27427
+  ]
+ },
+ {
+  "id": "eugene-isabey",
+  "name": "Eugène Isabey",
+  "born": 1803,
+  "died": 1886,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 18,
+  "cma": [
+   1688
+  ]
+ },
+ {
+  "id": "alexandre-gabriel-decamps",
+  "name": "Alexandre-Gabriel Decamps",
+  "born": 1803,
+  "died": 1860,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 10,
+  "cma": [
+   1652
+  ],
+  "aic": 34210
+ },
+ {
+  "id": "paul-huet",
+  "name": "Paul Hüet",
+  "born": 1803,
+  "died": 1869,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   28341
+  ],
+  "aic": 12183
+ },
+ {
+  "id": "thomas-shotter-boys",
+  "name": "Thomas Shotter Boys",
+  "born": 1803,
+  "died": 1874,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   26966
+  ]
+ },
+ {
+  "id": "paul-gavarni",
+  "name": "Paul Gavarni",
+  "born": 1804,
+  "died": 1866,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 138,
+  "cma": [
+   6851
+  ]
+ },
+ {
+  "id": "auguste-raffet",
+  "name": "Auguste Raffet",
+  "born": 1804,
+  "died": 1860,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 11,
+  "cma": [
+   13913
+  ]
+ },
+ {
+  "id": "charles-joseph-travies-de-villers",
+  "name": "Charles Joseph Traviès de Villers",
+  "born": 1804,
+  "died": 1859,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   29377
+  ]
+ },
+ {
+  "id": "samuel-palmer",
+  "name": "Samuel Palmer",
+  "born": 1805,
+  "died": 1881,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 18,
+  "cma": [
+   1468
+  ]
+ },
+ {
+  "id": "constantin-guys",
+  "name": "Constantin Guys",
+  "born": 1805,
+  "died": 1892,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   13425
+  ]
+ },
+ {
+  "id": "eugene-blery",
+  "name": "Eugene Bléry",
+  "born": 1805,
+  "died": 1886,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 5,
+  "cma": [
+   13282
+  ],
+  "aic": 40528
+ },
+ {
+  "id": "louis-haghe",
+  "name": "Louis Haghe",
+  "born": 1806,
+  "died": 1885,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 90,
+  "cma": [
+   27203
+  ]
+ },
+ {
+  "id": "shibata-zeshin",
+  "name": "Shibata Zeshin",
+  "born": 1807,
+  "died": 1891,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 22,
+  "cma": [
+   6172
+  ],
+  "aic": 37416
+ },
+ {
+  "id": "utagawa-sadahide",
+  "name": "Utagawa Sadahide",
+  "born": 1807,
+  "died": 1873,
+  "nationality": "Japanese",
+  "period": "romantic",
+  "count": 17,
+  "cma": [
+   23412
+  ],
+  "aic": 22718
+ },
+ {
+  "id": "william-sidney-mount",
+  "name": "William Sidney Mount",
+  "born": 1807,
+  "died": 1868,
+  "nationality": "American",
+  "period": "romantic",
+  "count": 10,
+  "cma": [
+   2876
+  ],
+  "aic": 35854
+ },
+ {
+  "id": "narcisse-diaz-de-la-pena",
+  "name": "Narcisse Diaz de la Peña",
+  "born": 1807,
+  "died": 1876,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   1712
+  ]
+ },
+ {
+  "id": "narcisse-virgile-diaz-de-la-pena",
+  "name": "Narcisse Virgile Diaz de la Peña",
+  "born": 1807,
+  "died": 1876,
+  "period": "romantic",
+  "count": 4,
+  "aic": 30911
+ },
+ {
+  "id": "honore-daumier",
+  "name": "Honoré Daumier",
+  "born": 1808,
+  "died": 1879,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 76,
+  "cma": [
+   1638
+  ]
+ },
+ {
+  "id": "joseph-nash",
+  "name": "Joseph Nash",
+  "born": 1808,
+  "died": 1878,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 12,
+  "cma": [
+   27460
+  ]
+ },
+ {
+  "id": "constant-troyon",
+  "name": "Constant Troyon",
+  "born": 1810,
+  "died": 1865,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   1609
+  ],
+  "aic": 37028
+ },
+ {
+  "id": "alexandre-calame",
+  "name": "Alexandre Calame",
+  "born": 1810,
+  "died": 1864,
+  "nationality": "Swiss",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   13299
+  ],
+  "aic": 41140
+ },
+ {
+  "id": "jules-dupre",
+  "name": "Jules Dupré",
+  "born": 1811,
+  "died": 1889,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 12,
+  "cma": [
+   16976
+  ],
+  "aic": 40560
+ },
+ {
+  "id": "theodore-rousseau",
+  "name": "Théodore Rousseau",
+  "born": 1812,
+  "died": 1867,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 11,
+  "cma": [
+   1594
+  ],
+  "aic": 36476
+ },
+ {
+  "id": "edward-lear",
+  "name": "Edward Lear",
+  "born": 1812,
+  "died": 1888,
+  "nationality": "British",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   1319
+  ]
+ },
+ {
+  "id": "charles-emile-jacque",
+  "name": "Charles-Émile Jacque",
+  "born": 1813,
+  "died": 1894,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 42,
+  "cma": [
+   1868
+  ]
+ },
+ {
+  "id": "yang-yisun",
+  "name": "Yang Yisun",
+  "born": 1813,
+  "died": 1881,
+  "nationality": "Chinese",
+  "period": "romantic",
+  "count": 7,
+  "cma": [
+   36267
+  ]
+ },
+ {
+  "id": "eugene-ciceri",
+  "name": "Eugène Cicéri",
+  "born": 1813,
+  "died": 1890,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 6,
+  "cma": [
+   28928
+  ]
+ },
+ {
+  "id": "alade-joseph-lorentz",
+  "name": "Alade Joseph Lorentz",
+  "born": 1813,
+  "died": 1858,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 4,
+  "cma": [
+   29815
+  ]
+ },
+ {
+  "id": "jean-francois-millet",
+  "name": "Jean-François Millet",
+  "born": 1814,
+  "died": 1875,
+  "nationality": "French",
+  "period": "romantic",
+  "count": 21,
+  "cma": [
+   1667
+  ],
+  "aic": 35787
+ },
+ {
+  "id": "adolph-von-menzel",
+  "name": "Adolph von Menzel",
+  "born": 1815,
+  "died": 1905,
+  "nationality": "German",
+  "period": "modern-life",
+  "count": 7,
+  "cma": [
+   11961
+  ]
+ },
+ {
+  "id": "thomas-couture",
+  "name": "Thomas Couture",
+  "born": 1815,
+  "died": 1879,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   1623
+  ],
+  "aic": 34054
+ },
+ {
+  "id": "ernest-meissonier",
+  "name": "Ernest Meissonier",
+  "born": 1815,
+  "died": 1891,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   1661
+  ]
+ },
+ {
+  "id": "john-frederick-kensett",
+  "name": "John Frederick Kensett",
+  "born": 1816,
+  "died": 1872,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   2729
+  ],
+  "aic": 35239
+ },
+ {
+  "id": "victor-petit",
+  "name": "Victor Petit",
+  "born": 1817,
+  "died": 1874,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 47,
+  "cma": [
+   47597
+  ]
+ },
+ {
+  "id": "charles-francois-daubigny",
+  "name": "Charles François Daubigny",
+  "born": 1817,
+  "died": 1878,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 32,
+  "cma": [
+   1626
+  ],
+  "aic": 40516
+ },
+ {
+  "id": "mary-altha-nims",
+  "name": "Mary Altha Nims",
+  "born": 1817,
+  "died": 1907,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 13,
+  "cma": [
+   14799
+  ]
+ },
+ {
+  "id": "francois-bonvin",
+  "name": "François Bonvin",
+  "born": 1817,
+  "died": 1887,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   1562
+  ],
+  "aic": 42695
+ },
+ {
+  "id": "horace-harral",
+  "name": "Horace Harral",
+  "born": 1817,
+  "died": 1905,
+  "nationality": "British",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   708514
+  ]
+ },
+ {
+  "id": "francis-seymour-haden",
+  "name": "Francis Seymour Haden",
+  "born": 1818,
+  "died": 1910,
+  "nationality": "British",
+  "period": "modern-life",
+  "count": 78,
+  "cma": [
+   23701
+  ]
+ },
+ {
+  "id": "adolphe-appian",
+  "name": "Adolphe Appian",
+  "born": 1818,
+  "died": 1898,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   1548
+  ]
+ },
+ {
+  "id": "gustave-courbet",
+  "name": "Gustave Courbet",
+  "born": 1819,
+  "died": 1877,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 12,
+  "cma": [
+   1600
+  ],
+  "aic": 34049
+ },
+ {
+  "id": "johan-barthold-jongkind",
+  "name": "Johan Barthold Jongkind",
+  "born": 1819,
+  "died": 1891,
+  "nationality": "Dutch",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   1788
+  ],
+  "aic": 40642
+ },
+ {
+  "id": "martin-johnson-heade",
+  "name": "Martin Johnson Heade",
+  "born": 1819,
+  "died": 1904,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   2813
+  ],
+  "aic": 31435
+ },
+ {
+  "id": "charles-meryon",
+  "name": "Charles Meryon",
+  "born": 1821,
+  "died": 1868,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 63,
+  "cma": [
+   29529
+  ]
+ },
+ {
+  "id": "felix-ziem",
+  "name": "Félix Ziem",
+  "born": 1821,
+  "died": 1911,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   14070
+  ],
+  "aic": 29512
+ },
+ {
+  "id": "rodolphe-bresdin",
+  "name": "Rodolphe Bresdin",
+  "born": 1822,
+  "died": 1885,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 14,
+  "cma": [
+   25686
+  ]
+ },
+ {
+  "id": "rosa-bonheur",
+  "name": "Rosa Bonheur",
+  "born": 1822,
+  "died": 1899,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   1557
+  ],
+  "aic": 33690
+ },
+ {
+  "id": "xugu",
+  "name": "Xugu",
+  "born": 1823,
+  "died": 1896,
+  "nationality": "Chinese",
+  "period": "modern-life",
+  "count": 34,
+  "cma": [
+   33134
+  ],
+  "aic": 14404
+ },
+ {
+  "id": "theodule-ribot",
+  "name": "Théodule Ribot",
+  "born": 1823,
+  "died": 1891,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   1582
+  ]
+ },
+ {
+  "id": "jasper-f-cropsey",
+  "name": "Jasper F. Cropsey",
+  "born": 1823,
+  "died": 1900,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   2599
+  ]
+ },
+ {
+  "id": "charles-samuel-keene",
+  "name": "Charles Samuel Keene",
+  "born": 1823,
+  "died": 1891,
+  "nationality": "British",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   1486
+  ]
+ },
+ {
+  "id": "sanford-robinson-gifford",
+  "name": "Sanford Robinson Gifford",
+  "born": 1823,
+  "died": 1880,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   2816
+  ],
+  "aic": 34648
+ },
+ {
+  "id": "pierre-puvis-de-chavannes",
+  "name": "Pierre Puvis de Chavannes",
+  "born": 1824,
+  "died": 1898,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 12,
+  "cma": [
+   1649
+  ],
+  "aic": 36292
+ },
+ {
+  "id": "james-merritt-ives",
+  "name": "James Merritt Ives",
+  "born": 1824,
+  "died": 1895,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 9,
+  "cma": [
+   31097
+  ]
+ },
+ {
+  "id": "adolphe-joseph-thomas-monticelli",
+  "name": "Adolphe Joseph Thomas Monticelli",
+  "born": 1824,
+  "died": 1886,
+  "period": "modern-life",
+  "count": 9,
+  "aic": 35813
+ },
+ {
+  "id": "jean-leon-gerome",
+  "name": "Jean-Léon Gérôme",
+  "born": 1824,
+  "died": 1904,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   1694
+  ],
+  "aic": 34587
+ },
+ {
+  "id": "eastman-johnson",
+  "name": "Eastman Johnson",
+  "born": 1824,
+  "died": 1906,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 7,
+  "cma": [
+   2703
+  ],
+  "aic": 35142
+ },
+ {
+  "id": "eugene-boudin",
+  "name": "Eugène Boudin",
+  "born": 1824,
+  "died": 1898,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 7,
+  "cma": [
+   1568
+  ]
+ },
+ {
+  "id": "jozef-israels",
+  "name": "Jozef Israëls",
+  "born": 1824,
+  "died": 1911,
+  "nationality": "Dutch",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   2427
+  ],
+  "aic": 40639
+ },
+ {
+  "id": "adolphe-monticelli",
+  "name": "Adolphe Monticelli",
+  "born": 1824,
+  "died": 1886,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   1673
+  ]
+ },
+ {
+  "id": "george-inness",
+  "name": "George Inness",
+  "born": 1825,
+  "died": 1894,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 37,
+  "cma": [
+   2493
+  ],
+  "aic": 35061
+ },
+ {
+  "id": "nicolas-francois-chifflart",
+  "name": "Nicolas-François Chifflart",
+  "born": 1825,
+  "died": 1901,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   40057
+  ]
+ },
+ {
+  "id": "william-adolphe-bouguereau",
+  "name": "William Adolphe Bouguereau",
+  "born": 1825,
+  "died": 1905,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 7,
+  "cma": [
+   1571,
+   292526
+  ],
+  "aic": 33717
+ },
+ {
+  "id": "utagawa-hiroshige-ii-shigenobu",
+  "name": "Utagawa Hiroshige II (Shigenobu)",
+  "born": 1826,
+  "died": 1869,
+  "period": "modern-life",
+  "count": 40,
+  "aic": 34950
+ },
+ {
+  "id": "frederic-edwin-church",
+  "name": "Frederic Edwin Church",
+  "born": 1826,
+  "died": 1900,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   2697
+  ],
+  "aic": 33968
+ },
+ {
+  "id": "maxime-lalanne",
+  "name": "Maxime Lalanne",
+  "born": 1827,
+  "died": 1886,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 30,
+  "cma": [
+   29848
+  ]
+ },
+ {
+  "id": "david-johnson",
+  "name": "David Johnson",
+  "born": 1827,
+  "died": 1908,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   2732
+  ]
+ },
+ {
+  "id": "emile-van-marcke-de-lummen",
+  "name": "Emile van Marcke de Lummen",
+  "born": 1827,
+  "died": 1890,
+  "period": "modern-life",
+  "count": 4,
+  "aic": 37114
+ },
+ {
+  "id": "paul-gachet",
+  "name": "Paul Gachet",
+  "born": 1828,
+  "died": 1909,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   43551
+  ]
+ },
+ {
+  "id": "camille-pissarro",
+  "name": "Camille Pissarro",
+  "born": 1830,
+  "died": 1903,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 25,
+  "cma": [
+   1836
+  ],
+  "aic": 36211
+ },
+ {
+  "id": "albert-bierstadt",
+  "name": "Albert Bierstadt",
+  "born": 1830,
+  "died": 1902,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   3011
+  ],
+  "aic": 33637
+ },
+ {
+  "id": "kawanabe-kyosai",
+  "name": "Kawanabe Kyōsai",
+  "born": 1831,
+  "died": 1889,
+  "nationality": "Japanese",
+  "period": "modern-life",
+  "count": 12,
+  "cma": [
+   6187
+  ],
+  "aic": 35361
+ },
+ {
+  "id": "clemente-pruche",
+  "name": "Clémente Pruche",
+  "born": 1831,
+  "died": 1870,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 12,
+  "cma": [
+   29332
+  ]
+ },
+ {
+  "id": "edouard-manet",
+  "name": "Édouard Manet",
+  "born": 1832,
+  "died": 1883,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 39,
+  "cma": [
+   1796
+  ],
+  "aic": 35577
+ },
+ {
+  "id": "gustave-dore",
+  "name": "Gustave Doré",
+  "born": 1832,
+  "died": 1883,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 7,
+  "cma": [
+   13353
+  ],
+  "aic": 40557
+ },
+ {
+  "id": "samuel-colman",
+  "name": "Samuel Colman",
+  "born": 1832,
+  "died": 1920,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   31043
+  ],
+  "aic": 5103
+ },
+ {
+  "id": "felix-bracquemond",
+  "name": "Félix Bracquemond",
+  "born": 1833,
+  "died": 1914,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 51,
+  "cma": [
+   5538
+  ]
+ },
+ {
+  "id": "max-rosenthal",
+  "name": "Max Rosenthal",
+  "born": 1833,
+  "died": 1918,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 11,
+  "cma": [
+   32452
+  ]
+ },
+ {
+  "id": "felicien-rops",
+  "name": "Félicien Rops",
+  "born": 1833,
+  "died": 1898,
+  "nationality": "Belgian",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   12361
+  ]
+ },
+ {
+  "id": "utagawa-yoshiiku",
+  "name": "Utagawa Yoshiiku",
+  "born": 1833,
+  "died": 1904,
+  "period": "modern-life",
+  "count": 4,
+  "aic": 33198
+ },
+ {
+  "id": "james-mcneill-whistler",
+  "name": "James McNeill Whistler",
+  "born": 1834,
+  "died": 1903,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 160,
+  "cma": [
+   3330
+  ],
+  "aic": 37279
+ },
+ {
+  "id": "edgar-degas",
+  "name": "Edgar Degas",
+  "born": 1834,
+  "died": 1917,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 19,
+  "cma": [
+   1759,
+   286012
+  ]
+ },
+ {
+  "id": "george-louis-palmella-busson-du-maurier",
+  "name": "George Louis Palmella Busson Du Maurier",
+  "born": 1834,
+  "died": 1896,
+  "nationality": "British",
+  "period": "modern-life",
+  "count": 19,
+  "cma": [
+   27043
+  ]
+ },
+ {
+  "id": "hilaire-germain-edgar-degas",
+  "name": "Hilaire Germain Edgar Degas",
+  "born": 1834,
+  "died": 1917,
+  "period": "modern-life",
+  "count": 8,
+  "aic": 40543
+ },
+ {
+  "id": "claude-ferdinand-gaillard",
+  "name": "Claude-Ferdinand Gaillard",
+  "born": 1834,
+  "died": 1887,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   11553
+  ]
+ },
+ {
+  "id": "toyohara-kunichika",
+  "name": "Toyohara Kunichika",
+  "born": 1835,
+  "died": 1900,
+  "period": "modern-life",
+  "count": 14,
+  "aic": 31767
+ },
+ {
+  "id": "john-la-farge",
+  "name": "John La Farge",
+  "born": 1835,
+  "died": 1910,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   4047
+  ],
+  "aic": 35366
+ },
+ {
+  "id": "stanislas-lepine",
+  "name": "Stanislas Lépine",
+  "born": 1835,
+  "died": 1892,
+  "period": "modern-life",
+  "count": 4,
+  "aic": 35364
+ },
+ {
+  "id": "winslow-homer",
+  "name": "Winslow Homer",
+  "born": 1836,
+  "died": 1910,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 172,
+  "cma": [
+   3143
+  ],
+  "aic": 34988
+ },
+ {
+  "id": "henri-fantin-latour",
+  "name": "Henri Fantin-Latour",
+  "born": 1836,
+  "died": 1904,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 58,
+  "cma": [
+   1862,
+   374020
+  ],
+  "aic": 31094
+ },
+ {
+  "id": "james-tissot",
+  "name": "James Tissot",
+  "born": 1836,
+  "died": 1902,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   1824
+  ]
+ },
+ {
+  "id": "elihu-vedder",
+  "name": "Elihu Vedder",
+  "born": 1836,
+  "died": 1923,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   3315
+  ],
+  "aic": 37133
+ },
+ {
+  "id": "homer-dodge-martin",
+  "name": "Homer Dodge Martin",
+  "born": 1836,
+  "died": 1897,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   3182
+  ],
+  "aic": 35622
+ },
+ {
+  "id": "jules-cheret",
+  "name": "Jules Chéret",
+  "born": 1836,
+  "died": 1932,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   23474
+  ]
+ },
+ {
+  "id": "alphonse-legros",
+  "name": "Alphonse Legros",
+  "born": 1837,
+  "died": 1911,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 127,
+  "cma": [
+   53869
+  ]
+ },
+ {
+  "id": "mariano-fortuny",
+  "name": "Mariano Fortuny",
+  "born": 1838,
+  "died": 1874,
+  "nationality": "Spanish",
+  "period": "modern-life",
+  "count": 14,
+  "cma": [
+   26462
+  ]
+ },
+ {
+  "id": "harry-fenn",
+  "name": "Harry Fenn",
+  "born": 1838,
+  "died": 1911,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   4013
+  ]
+ },
+ {
+  "id": "tsukioka-yoshitoshi",
+  "name": "Tsukioka Yoshitoshi",
+  "born": 1839,
+  "died": 1892,
+  "period": "modern-life",
+  "count": 18,
+  "aic": 37401
+ },
+ {
+  "id": "paul-cezanne",
+  "name": "Paul Cezanne",
+  "born": 1839,
+  "died": 1906,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 16,
+  "cma": [
+   1754
+  ],
+  "aic": 40482
+ },
+ {
+  "id": "carlo",
+  "name": "Carlo",
+  "born": 1839,
+  "died": 1889,
+  "nationality": "Ape",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   47992
+  ]
+ },
+ {
+  "id": "william-keith",
+  "name": "William Keith",
+  "born": 1839,
+  "died": 1911,
+  "period": "modern-life",
+  "count": 4,
+  "aic": 35230
+ },
+ {
+  "id": "odilon-redon",
+  "name": "Odilon Redon",
+  "born": 1840,
+  "died": 1916,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 39,
+  "cma": [
+   1748
+  ],
+  "aic": 36336
+ },
+ {
+  "id": "claude-monet",
+  "name": "Claude Monet",
+  "born": 1840,
+  "died": 1926,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 38,
+  "cma": [
+   1844
+  ],
+  "aic": 35809
+ },
+ {
+  "id": "ren-yi",
+  "name": "Ren Yi",
+  "born": 1840,
+  "died": 1895,
+  "period": "modern-life",
+  "count": 9,
+  "aic": 20727
+ },
+ {
+  "id": "alfred-sisley",
+  "name": "Alfred Sisley",
+  "born": 1840,
+  "died": 1899,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 9,
+  "cma": [
+   1819
+  ],
+  "aic": 36707
+ },
+ {
+  "id": "auguste-rodin",
+  "name": "Auguste Rodin",
+  "born": 1840,
+  "died": 1917,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   5925
+  ]
+ },
+ {
+  "id": "pierre-auguste-renoir",
+  "name": "Pierre-Auguste Renoir",
+  "born": 1841,
+  "died": 1919,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 37,
+  "cma": [
+   1765
+  ],
+  "aic": 36351
+ },
+ {
+  "id": "berthe-morisot",
+  "name": "Berthe Morisot",
+  "born": 1841,
+  "died": 1895,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 9,
+  "cma": [
+   1865
+  ],
+  "aic": 35834
+ },
+ {
+  "id": "jean-charles-cazin",
+  "name": "Jean-Charles Cazin",
+  "born": 1841,
+  "died": 1901,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   1751
+  ],
+  "aic": 33896
+ },
+ {
+  "id": "armand-guillaumin",
+  "name": "Armand Guillaumin",
+  "born": 1841,
+  "died": 1927,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   1785,
+   286182
+  ]
+ },
+ {
+  "id": "henri-regnault",
+  "name": "Henri Regnault",
+  "born": 1843,
+  "died": 1871,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   1762
+  ],
+  "aic": 21516
+ },
+ {
+  "id": "mary-cassatt",
+  "name": "Mary Cassatt",
+  "born": 1844,
+  "died": 1926,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   3995
+  ],
+  "aic": 33890
+ },
+ {
+  "id": "thomas-eakins",
+  "name": "Thomas Eakins",
+  "born": 1844,
+  "died": 1916,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   4037
+  ],
+  "aic": 7353
+ },
+ {
+  "id": "leon-augustin-lhermitte",
+  "name": "Léon Augustin Lhermitte",
+  "born": 1844,
+  "died": 1925,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   13601
+  ],
+  "aic": 40672
+ },
+ {
+  "id": "yoshitsugu-haizan",
+  "name": "Yoshitsugu Haizan",
+  "born": 1846,
+  "died": 1915,
+  "nationality": "Japanese",
+  "period": "modern-life",
+  "count": 14,
+  "cma": [
+   22706
+  ]
+ },
+ {
+  "id": "henri-charles-guerard",
+  "name": "Henri Charles Guérard",
+  "born": 1846,
+  "died": 1897,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   47244
+  ]
+ },
+ {
+  "id": "felix-hilaire-buhot",
+  "name": "Félix Hilaire Buhot",
+  "born": 1847,
+  "died": 1898,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 24,
+  "cma": [
+   18294
+  ]
+ },
+ {
+  "id": "theodore-roussel",
+  "name": "Theodore Roussel",
+  "born": 1847,
+  "died": 1926,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 8,
+  "cma": [
+   57827
+  ]
+ },
+ {
+  "id": "kobayashi-kiyochika",
+  "name": "Kobayashi Kiyochika",
+  "born": 1847,
+  "died": 1915,
+  "period": "modern-life",
+  "count": 7,
+  "aic": 35262
+ },
+ {
+  "id": "paul-gauguin",
+  "name": "Paul Gauguin",
+  "born": 1848,
+  "died": 1903,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 33,
+  "cma": [
+   1776
+  ],
+  "aic": 34611
+ },
+ {
+  "id": "frank-duveneck",
+  "name": "Frank Duveneck",
+  "born": 1848,
+  "died": 1919,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 9,
+  "cma": [
+   3137
+  ],
+  "aic": 34341
+ },
+ {
+  "id": "edouard-detaille",
+  "name": "Édouard Detaille",
+  "born": 1848,
+  "died": 1912,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 6,
+  "cma": [
+   1768
+  ]
+ },
+ {
+  "id": "gustave-caillebotte",
+  "name": "Gustave Caillebotte",
+  "born": 1848,
+  "died": 1894,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   26343
+  ],
+  "aic": 3829
+ },
+ {
+  "id": "auguste-louis-lepere",
+  "name": "Auguste Louis Lepère",
+  "born": 1849,
+  "died": 1918,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 181,
+  "cma": [
+   13243
+  ]
+ },
+ {
+  "id": "eugene-carriere",
+  "name": "Eugène Carrière",
+  "born": 1849,
+  "died": 1906,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 13,
+  "cma": [
+   1739
+  ],
+  "aic": 4124
+ },
+ {
+  "id": "william-merritt-chase",
+  "name": "William Merritt Chase",
+  "born": 1849,
+  "died": 1916,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 9,
+  "cma": [
+   3071
+  ],
+  "aic": 41673
+ },
+ {
+  "id": "albert-besnard",
+  "name": "Albert Besnard",
+  "born": 1849,
+  "died": 1934,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 9,
+  "cma": [
+   1859
+  ],
+  "aic": 33627
+ },
+ {
+  "id": "jean-francois-raffaelli",
+  "name": "Jean-François Raffaëlli",
+  "born": 1850,
+  "died": 1924,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   1742
+  ]
+ },
+ {
+  "id": "frederic-remington",
+  "name": "Frederic Remington",
+  "born": 1851,
+  "died": 1909,
+  "period": "modern-life",
+  "count": 16,
+  "aic": 21570
+ },
+ {
+  "id": "leslie-matthew",
+  "name": "Leslie Matthew",
+  "born": 1851,
+  "died": 1922,
+  "nationality": "Spy",
+  "period": "modern-life",
+  "count": 4,
+  "cma": [
+   27664
+  ]
+ },
+ {
+  "id": "jean-louis-forain",
+  "name": "Jean Louis Forain",
+  "born": 1852,
+  "died": 1931,
+  "nationality": "French",
+  "period": "modern-life",
+  "count": 33,
+  "cma": [
+   13390
+  ],
+  "aic": 34505
+ },
+ {
+  "id": "henry-wolf",
+  "name": "Henry Wolf",
+  "born": 1852,
+  "died": 1916,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 11,
+  "cma": [
+   33056
+  ]
+ },
+ {
+  "id": "vincent-van-gogh",
+  "name": "Vincent van Gogh",
+  "born": 1853,
+  "died": 1890,
+  "nationality": "Dutch",
+  "period": "modern-life",
+  "count": 13,
+  "cma": [
+   1779
+  ],
+  "aic": 40610
+ },
+ {
+  "id": "john-henry-twachtman",
+  "name": "John Henry Twachtman",
+  "born": 1853,
+  "died": 1902,
+  "nationality": "American",
+  "period": "modern-life",
+  "count": 13,
+  "cma": [
+   3312
+  ],
+  "aic": 37048
+ },
+ {
+  "id": "ren-yu",
+  "name": "Ren Yu",
+  "born": 1853,
+  "died": 1901,
+  "nationality": "Chinese",
+  "period": "modern-life",
+  "count": 5,
+  "cma": [
+   286271
+  ]
+ },
+ {
+  "id": "will-hicock-low",
+  "name": "Will Hicock Low",
+  "born": 1853,
+  "died": 1932,
+  "period": "modern-life",
+  "count": 5,
+  "aic": 42518
+ },
+ {
+  "id": "otto-h-bacher",
+  "name": "Otto H. Bacher",
+  "born": 1856,
+  "died": 1909,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 60,
+  "cma": [
+   3002
+  ]
+ },
+ {
+  "id": "john-singer-sargent",
+  "name": "John Singer Sargent",
+  "born": 1856,
+  "died": 1925,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 18,
+  "cma": [
+   2559,
+   287402
+  ],
+  "aic": 36540
+ },
+ {
+  "id": "kenyon-cox",
+  "name": "Kenyon Cox",
+  "born": 1856,
+  "died": 1919,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 8,
+  "cma": [
+   3080
+  ]
+ },
+ {
+  "id": "william-henry-drake",
+  "name": "William Henry Drake",
+  "born": 1856,
+  "died": 1926,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   14317
+  ]
+ },
+ {
+  "id": "joseph-pennell",
+  "name": "Joseph Pennell",
+  "born": 1857,
+  "died": 1926,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 32,
+  "cma": [
+   6989
+  ]
+ },
+ {
+  "id": "max-klinger",
+  "name": "Max Klinger",
+  "born": 1857,
+  "died": 1920,
+  "nationality": "German",
+  "period": "fin-de-siecle",
+  "count": 15,
+  "cma": [
+   23790
+  ]
+ },
+ {
+  "id": "frank-short",
+  "name": "Frank Short",
+  "born": 1857,
+  "died": 1945,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 14,
+  "cma": [
+   27619
+  ]
+ },
+ {
+  "id": "robert-frederick-blum",
+  "name": "Robert Frederick Blum",
+  "born": 1857,
+  "died": 1903,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 7,
+  "cma": [
+   33599
+  ]
+ },
+ {
+  "id": "lovis-corinth",
+  "name": "Lovis Corinth",
+  "born": 1858,
+  "died": 1925,
+  "nationality": "German",
+  "period": "fin-de-siecle",
+  "count": 8,
+  "cma": [
+   3074
+  ]
+ },
+ {
+  "id": "maurice-prendergast",
+  "name": "Maurice Prendergast",
+  "born": 1858,
+  "died": 1924,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 7,
+  "cma": [
+   3246
+  ]
+ },
+ {
+  "id": "william-strang",
+  "name": "William Strang",
+  "born": 1859,
+  "died": 1921,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 18,
+  "cma": [
+   1447
+  ]
+ },
+ {
+  "id": "theophile-alexandre-steinlen",
+  "name": "Théophile Alexandre Steinlen",
+  "born": 1859,
+  "died": 1923,
+  "nationality": "Swiss",
+  "period": "fin-de-siecle",
+  "count": 16,
+  "cma": [
+   14017
+  ]
+ },
+ {
+  "id": "childe-hassam",
+  "name": "Childe Hassam",
+  "born": 1859,
+  "died": 1935,
+  "period": "fin-de-siecle",
+  "count": 5,
+  "aic": 34864
+ },
+ {
+  "id": "georges-seurat",
+  "name": "Georges Seurat",
+  "born": 1859,
+  "died": 1891,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   1816
+  ],
+  "aic": 40810
+ },
+ {
+  "id": "anders-zorn",
+  "name": "Anders Zorn",
+  "born": 1860,
+  "died": 1920,
+  "nationality": "Swedish",
+  "period": "fin-de-siecle",
+  "count": 31,
+  "cma": [
+   12438
+  ],
+  "aic": 37424
+ },
+ {
+  "id": "james-ensor",
+  "name": "James Ensor",
+  "born": 1860,
+  "died": 1949,
+  "nationality": "Belgian",
+  "period": "fin-de-siecle",
+  "count": 10,
+  "cma": [
+   1773
+  ]
+ },
+ {
+  "id": "mortimer-menpes",
+  "name": "Mortimer Menpes",
+  "born": 1860,
+  "died": 1938,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 9,
+  "cma": [
+   8706
+  ]
+ },
+ {
+  "id": "aristide-maillol",
+  "name": "Aristide Maillol",
+  "born": 1861,
+  "died": 1944,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 9,
+  "cma": [
+   6665
+  ]
+ },
+ {
+  "id": "gustave-leheutre",
+  "name": "Gustave Leheutre",
+  "born": 1861,
+  "died": 1932,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 7,
+  "cma": [
+   29793
+  ]
+ },
+ {
+  "id": "charles-hasslewood-shannon",
+  "name": "Charles Hasslewood Shannon",
+  "born": 1863,
+  "died": 1937,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 8,
+  "cma": [
+   3276
+  ]
+ },
+ {
+  "id": "albert-rosenthal",
+  "name": "Albert Rosenthal",
+  "born": 1863,
+  "died": 1939,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 8,
+  "cma": [
+   32449
+  ]
+ },
+ {
+  "id": "alexandre-lunois",
+  "name": "Alexandre Lunois",
+  "born": 1863,
+  "died": 1916,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 7,
+  "cma": [
+   29818
+  ]
+ },
+ {
+  "id": "paul-signac",
+  "name": "Paul Signac",
+  "born": 1863,
+  "died": 1935,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 6,
+  "cma": [
+   14008
+  ],
+  "aic": 36695
+ },
+ {
+  "id": "edvard-munch",
+  "name": "Edvard Munch",
+  "born": 1863,
+  "died": 1944,
+  "nationality": "Norwegian",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   28052
+  ],
+  "aic": 44014
+ },
+ {
+  "id": "henri-de-toulouse-lautrec",
+  "name": "Henri de Toulouse-Lautrec",
+  "born": 1864,
+  "died": 1901,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 59,
+  "cma": [
+   1856
+  ],
+  "aic": 40869
+ },
+ {
+  "id": "henri-riviere",
+  "name": "Henri Rivière",
+  "born": 1864,
+  "died": 1951,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 8,
+  "cma": [
+   9922
+  ]
+ },
+ {
+  "id": "hermann-paul",
+  "name": "Hermann Paul",
+  "born": 1864,
+  "died": 1940,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 7,
+  "cma": [
+   29322,
+   437631
+  ]
+ },
+ {
+  "id": "jean-veber",
+  "name": "Jean Veber",
+  "born": 1864,
+  "died": 1928,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   29412
+  ]
+ },
+ {
+  "id": "david-young-cameron",
+  "name": "David Young Cameron",
+  "born": 1865,
+  "died": 1945,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 21,
+  "cma": [
+   1435
+  ]
+ },
+ {
+  "id": "felix-vallotton",
+  "name": "Félix Vallotton",
+  "born": 1865,
+  "died": 1925,
+  "nationality": "Swiss",
+  "period": "fin-de-siecle",
+  "count": 12,
+  "cma": [
+   8972
+  ]
+ },
+ {
+  "id": "charles-marie-dulac",
+  "name": "Charles Marie Dulac",
+  "born": 1865,
+  "died": 1898,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 8,
+  "cma": [
+   29316
+  ]
+ },
+ {
+  "id": "kamisaka-sekka",
+  "name": "Kamisaka Sekka",
+  "born": 1866,
+  "died": 1942,
+  "nationality": "Japanese",
+  "period": "fin-de-siecle",
+  "count": 22,
+  "cma": [
+   1115
+  ],
+  "aic": 42579
+ },
+ {
+  "id": "vasily-kandinsky",
+  "name": "Vasily Kandinsky",
+  "born": 1866,
+  "died": 1944,
+  "period": "fin-de-siecle",
+  "count": 5,
+  "aic": 35188
+ },
+ {
+  "id": "pierre-bonnard",
+  "name": "Pierre Bonnard",
+  "born": 1867,
+  "died": 1947,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 11,
+  "cma": [
+   1733
+  ]
+ },
+ {
+  "id": "kathe-kollwitz",
+  "name": "Käthe Kollwitz",
+  "born": 1867,
+  "died": 1945,
+  "nationality": "German",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   29141
+  ]
+ },
+ {
+  "id": "edouard-vuillard",
+  "name": "Édouard Vuillard",
+  "born": 1868,
+  "died": 1940,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 21,
+  "cma": [
+   1833
+  ]
+ },
+ {
+  "id": "emile-bernard",
+  "name": "Émile Bernard",
+  "born": 1868,
+  "died": 1941,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 8,
+  "cma": [
+   46188
+  ]
+ },
+ {
+  "id": "tsukioka-kogyo",
+  "name": "Tsukioka Kôgyo",
+  "born": 1869,
+  "died": 1927,
+  "period": "fin-de-siecle",
+  "count": 166,
+  "aic": 26646
+ },
+ {
+  "id": "henri-matisse",
+  "name": "Henri Matisse",
+  "born": 1869,
+  "died": 1954,
+  "period": "fin-de-siecle",
+  "count": 4,
+  "aic": 35670
+ },
+ {
+  "id": "maurice-denis",
+  "name": "Maurice Denis",
+  "born": 1870,
+  "died": 1943,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 15,
+  "cma": [
+   22965
+  ]
+ },
+ {
+  "id": "william-nicholson",
+  "name": "William Nicholson",
+  "born": 1872,
+  "died": 1949,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 32,
+  "cma": [
+   23834
+  ]
+ },
+ {
+  "id": "auguste-brouet",
+  "name": "Auguste Brouet",
+  "born": 1872,
+  "died": 1941,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 12,
+  "cma": [
+   28750
+  ]
+ },
+ {
+  "id": "william-rothenstein",
+  "name": "William Rothenstein",
+  "born": 1872,
+  "died": 1945,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 10,
+  "cma": [
+   27540
+  ]
+ },
+ {
+  "id": "piet-mondrian",
+  "name": "Piet Mondrian",
+  "born": 1872,
+  "died": 1944,
+  "nationality": "Dutch",
+  "period": "fin-de-siecle",
+  "count": 6,
+  "cma": [
+   3204
+  ],
+  "aic": 17549
+ },
+ {
+  "id": "arthur-john-trevor-briscoe",
+  "name": "Arthur John Trevor Briscoe",
+  "born": 1873,
+  "died": 1943,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 11,
+  "cma": [
+   26979
+  ]
+ },
+ {
+  "id": "william-walcot",
+  "name": "William Walcot",
+  "born": 1874,
+  "died": 1943,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 24,
+  "cma": [
+   27657
+  ]
+ },
+ {
+  "id": "francis-dodd",
+  "name": "Francis Dodd",
+  "born": 1874,
+  "died": 1949,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 10,
+  "cma": [
+   27037
+  ]
+ },
+ {
+  "id": "georges-alfred-bottini",
+  "name": "Georges Alfred Bottini",
+  "born": 1874,
+  "died": 1907,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   11544
+  ]
+ },
+ {
+  "id": "muirhead-bone",
+  "name": "Muirhead Bone",
+  "born": 1876,
+  "died": 1953,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 40,
+  "cma": [
+   1289
+  ]
+ },
+ {
+  "id": "ernest-haskell",
+  "name": "Ernest Haskell",
+  "born": 1876,
+  "died": 1925,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 19,
+  "cma": [
+   14563
+  ]
+ },
+ {
+  "id": "frederick-landseer-maur-griggs",
+  "name": "Frederick Landseer Maur Griggs",
+  "born": 1876,
+  "died": 1938,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 9,
+  "cma": [
+   1420
+  ]
+ },
+ {
+  "id": "marsden-hartley",
+  "name": "Marsden Hartley",
+  "born": 1877,
+  "died": 1943,
+  "period": "fin-de-siecle",
+  "count": 9,
+  "aic": 34853
+ },
+ {
+  "id": "jean-emile-laboureur",
+  "name": "Jean-Émile Laboureur",
+  "born": 1877,
+  "died": 1943,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 6,
+  "cma": [
+   22359
+  ]
+ },
+ {
+  "id": "pierre-louis-gatier",
+  "name": "Pierre Louis Gatier",
+  "born": 1878,
+  "died": 1944,
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "count": 4,
+  "cma": [
+   29652
+  ]
+ },
+ {
+  "id": "frederick-garrison-hall",
+  "name": "Frederick Garrison Hall",
+  "born": 1879,
+  "died": 1946,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 6,
+  "cma": [
+   33221
+  ]
+ },
+ {
+  "id": "ernst-ludwig-kirchner",
+  "name": "Ernst Ludwig Kirchner",
+  "born": 1880,
+  "died": 1938,
+  "nationality": "German",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   3155
+  ]
+ },
+ {
+  "id": "pablo-picasso",
+  "name": "Pablo Picasso",
+  "born": 1881,
+  "died": 1973,
+  "nationality": "Spanish",
+  "period": "fin-de-siecle",
+  "count": 7,
+  "cma": [
+   2160
+  ]
+ },
+ {
+  "id": "george-bellows",
+  "name": "George Bellows",
+  "born": 1882,
+  "died": 1925,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 106,
+  "cma": [
+   3005
+  ]
+ },
+ {
+  "id": "percy-john-delf-smith",
+  "name": "Percy John Delf Smith",
+  "born": 1882,
+  "died": 1948,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 4,
+  "cma": [
+   27632
+  ]
+ },
+ {
+  "id": "amedeo-modigliani",
+  "name": "Amedeo Modigliani",
+  "born": 1884,
+  "died": 1920,
+  "nationality": "Italian",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   2145
+  ],
+  "aic": 35801
+ },
+ {
+  "id": "orville-houghton-peets",
+  "name": "Orville Houghton Peets",
+  "born": 1884,
+  "died": 1968,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 5,
+  "cma": [
+   32514
+  ]
+ },
+ {
+  "id": "max-beckmann",
+  "name": "Max Beckmann",
+  "born": 1884,
+  "died": 1950,
+  "nationality": "German",
+  "period": "fin-de-siecle",
+  "count": 4,
+  "cma": [
+   25607
+  ]
+ },
+ {
+  "id": "herbert-gordon-warlow",
+  "name": "Herbert Gordon Warlow",
+  "born": 1885,
+  "died": 1942,
+  "nationality": "British",
+  "period": "fin-de-siecle",
+  "count": 9,
+  "cma": [
+   27667
+  ]
+ },
+ {
+  "id": "frank-wilcox",
+  "name": "Frank Wilcox",
+  "born": 1887,
+  "died": 1964,
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "count": 7,
+  "cma": [
+   6783
+  ]
+ }
+]
