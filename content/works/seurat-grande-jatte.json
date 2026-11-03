@@ -1,0 +1,120 @@
+{
+  "id": "seurat-grande-jatte",
+  "artist": "georges-seurat",
+  "title": "A Sunday on La Grande Jatte — 1884",
+  "date": "1884–86, border added 1888–89",
+  "year": 1884,
+  "medium": "Oil on canvas",
+  "dimensions": "207.5 × 308.1 cm (81 3/4 × 121 1/4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/27992"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1686,/0/default.jpg",
+    "width": 9310,
+    "height": 6237,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection"
+  },
+  "archive": {
+    "aic": 27992
+  },
+  "phase": {
+    "label": "La Grande Jatte: developing Neo-Impressionism, 1884–86",
+    "source": {
+      "label": "Dita Amory, Georges Seurat (1859–1891) and Neo-Impressionism",
+      "url": "https://www.metmuseum.org/essays/georges-seurat-1859-1891-and-neo-impressionism"
+    }
+  },
+  "tags": [
+    {
+      "id": "divisionism",
+      "source": {
+        "label": "Dita Amory on Divisionism and Pointillism",
+        "url": "https://www.metmuseum.org/essays/georges-seurat-1859-1891-and-neo-impressionism"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "If we, like Cameron, come closer to the painting, figures and forms dissolve into dots and dashes of complementary colors laid side by side, characteristic of Seurat’s pointillist technique.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "A Sunday on La Grande Jatte — 1884",
+            "readAt": "https://api.artic.edu/api/v1/artworks/27992?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Art Institute of Chicago, medium: Oil on canvas",
+        "url": "https://www.artic.edu/artworks/27992"
+      }
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Georges Seurat, movement",
+        "url": "https://en.wikipedia.org/wiki/Georges_Seurat"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Many smaller painted and drawn sketches and several larger canvases, in which Seurat laid out the parameters for the landscape and figures, led up to this majestically composed scene. Seurat returned to the work two years after its start date, amplifying the silhouettes of some figures and adding others.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "A Sunday on La Grande Jatte — 1884",
+          "readAt": "https://api.artic.edu/api/v1/artworks/27992?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting was first exhibited at the eighth (and last) Impressionist exhibition in May 1886, then in August 1886, dominating the second Salon of the Société des Artistes Indépendants, of which Seurat had been a founder in 1884.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "To the artist, however, every decision was essential to his aim of making a painting of modern life equivalent to a classical Greek frieze.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "A Sunday on La Grande Jatte — 1884",
+          "readAt": "https://api.artic.edu/api/v1/artworks/27992?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

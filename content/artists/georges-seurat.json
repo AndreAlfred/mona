@@ -1,0 +1,61 @@
+{
+  "id": "georges-seurat",
+  "name": "Georges Seurat",
+  "born": 1859,
+  "died": 1891,
+  "active": "c. 1879–1891",
+  "nationality": "French",
+  "period": "modern-life",
+  "movements": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Georges Seurat, movement",
+        "url": "https://en.wikipedia.org/wiki/Georges_Seurat"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "paul-signac",
+      "name": "Paul Signac",
+      "source": {
+        "label": "Dita Amory on Seurat and Signac",
+        "url": "https://www.metmuseum.org/essays/georges-seurat-1859-1891-and-neo-impressionism"
+      }
+    },
+    {
+      "id": "camille-pissarro",
+      "name": "Camille Pissarro",
+      "source": {
+        "label": "Dita Amory on Pissarro’s adoption of Seurat’s system",
+        "url": "https://www.metmuseum.org/essays/georges-seurat-1859-1891-and-neo-impressionism"
+      }
+    }
+  ],
+  "archive": {
+    "aic": 40810,
+    "cma": [
+      1816
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "His first exhibited work, shown at the Salon, of 1883, was a Conté crayon drawing of Aman-Jean. He also studied the works of Eugène Delacroix carefully, making notes on his use of color.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Georges Seurat",
+        "readAt": "https://en.wikipedia.org/wiki/Georges_Seurat",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
