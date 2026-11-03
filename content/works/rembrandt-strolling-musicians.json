@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-strolling-musicians",
+  "artist": "rembrandt-van-rijn",
+  "title": "The Strolling Musicians",
+  "date": "c. 1635",
+  "year": 1630,
+  "medium": "etching and drypoint",
+  "dimensions": "Sheet: 14.5 x 11.8 cm (5 11/16 x 4 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1976.54"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1976.54/1976.54_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1976.54/1976.54_print.jpg",
+    "width": 730,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 148804
+  },
+  "phase": {
+    "label": "Early Amsterdam genre prints",
+    "source": {
+      "label": "Cleveland: date, medium, and collection description",
+      "url": "https://clevelandart.org/art/1976.54"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1976.54"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In this depiction of a pair of itinerant musicians wearily shuffling from door to door, Rembrandt reveals his compassionate understanding of human frailties.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Strolling Musicians",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/148804",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1976.54"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In this depiction of a pair of itinerant musicians wearily shuffling from door to door, Rembrandt reveals his compassionate understanding of human frailties.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Strolling Musicians",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/148804",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Although 17th-century Holland produced neither noteworthy composers nor renowned performers, rarely has another culture produced so many visual images of music as the Dutch.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Strolling Musicians",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/148804",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The hurdy-gurdy and bagpipes, as depicted here, were frequently associated with itinerant beggars and blind street singers in paintings and prints of the period.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Strolling Musicians",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/148804",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

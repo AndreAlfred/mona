@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-shah-jahan",
+  "artist": "rembrandt-van-rijn",
+  "title": "Shah Jahan",
+  "date": "c. 1656–61",
+  "year": 1656,
+  "medium": "pen and brown ink and brush and brown wash",
+  "dimensions": "Sheet: 22.5 x 17.1 cm (8 7/8 x 6 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1978.38"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1978.38/1978.38_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1978.38/1978.38_print.jpg",
+    "width": 698,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 149378
+  },
+  "phase": {
+    "label": "Late drawings after Mughal miniatures",
+    "source": {
+      "label": "Cleveland: date, medium, and collection description",
+      "url": "https://clevelandart.org/art/1978.38"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1978.38"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Rembrandt imposed his characteristic realist tendencies on a more detailed, formal, and stylized model, bringing the shah to life with especially fine pen strokes on the face and shoes mixed with evanescent brown ink washes around the figure that introduce a dynamic interplay of light, shade, and figure.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Shah Jahan",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149378",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1978.38"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is one of twenty-three drawings that Rembrandt made after Indian miniatures, which he had very likely studied in an album then in Holland.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Shah Jahan",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149378",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rembrandt’s drawing portrays Shah Jahan, the ruler of the Mughal Empire from 1628-58.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Shah Jahan",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149378",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "His meticulous technique and use of a rare and expensive Japanese paper suggest that he regarded his drawings after Mughal paintings as exceptional.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Shah Jahan",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149378",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

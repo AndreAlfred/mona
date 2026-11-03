@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-portrait-of-a-woman",
+  "artist": "rembrandt-van-rijn",
+  "title": "Portrait of a Woman",
+  "date": "1635 or earlier",
+  "year": 1630,
+  "medium": "oil on wood",
+  "dimensions": "Framed: 97.8 x 83.8 x 6.4 cm (38 1/2 x 33 x 2 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1944.90"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.90/1944.90_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1944.90/1944.90_print.jpg",
+    "width": 738,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Elisabeth Severance Prentiss Collection"
+  },
+  "archive": {
+    "cma": 124089
+  },
+  "phase": {
+    "label": "Early Amsterdam portrait practice",
+    "source": {
+      "label": "Cleveland: date, medium, and collection description",
+      "url": "https://clevelandart.org/art/1944.90"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1944.90"
+      }
+    },
+    {
+      "id": "impasto",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1944.90"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, Rembrandt used smooth, fluid brushstrokes to recreate the soft texture of the woman’s skin.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Portrait of a Woman",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124089",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The extraordinary demand at that time for a portrait by Rembrandt meant that in many cases (including, probably, this painting) he called upon assistants to help complete the work.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Portrait of a Woman",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124089",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "At the age of 25, Rembrandt moved from his hometown of Leiden to the bustling city of Amsterdam. Within a few years he had become one of the city’s most successful portrait painters, creating remarkably vivid likenesses that seemed to express the personality and soul of the sitter.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Portrait of a Woman",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124089",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In contrast, thicker, more textured strokes draw attention to the lavish display of her lace collar and gold jewelry—details sure to please a wealthy client.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Portrait of a Woman",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124089",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

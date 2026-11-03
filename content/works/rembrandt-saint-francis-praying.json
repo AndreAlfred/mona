@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-saint-francis-praying",
+  "artist": "rembrandt-van-rijn",
+  "title": "St. Francis Beneath a Tree Praying",
+  "date": "1657",
+  "year": 1657,
+  "medium": "drypoint and etching",
+  "dimensions": "Sheet: 18.1 x 24.5 cm (7 1/8 x 9 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2024.64"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2024.64/2024.64_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2024.64/2024.64_print.jpg",
+    "width": 900,
+    "height": 668,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 676879
+  },
+  "phase": {
+    "label": "Late religious printmaking",
+    "source": {
+      "label": "Cleveland: date, medium, and collection description",
+      "url": "https://clevelandart.org/art/2024.64"
+    }
+  },
+  "tags": [
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/2024.64"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "But while Rembrandt certainly looked to Italian art for inspiration and ideation, he always transformed what he saw into something distinctive and undeniably of his own invention, infused with the emotion and humanity that we see, for example, on the saint’s active face.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "St. Francis Beneath a Tree Praying",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/676879",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/2024.64"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Rembrandt focused on the lush, moody landscape surrounding the crucifix, creating space to the right of the composition by portraying a distant hill and structure.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "St. Francis Beneath a Tree Praying",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/676879",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "These compositional strategies reveal his knowledge of Venetian landscapes by Titian and others, which he had studied through prints and drawings.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "St. Francis Beneath a Tree Praying",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/676879",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "One of Rembrandt’s most spiritually moving works, this drypoint and etching depicts a hermit saint sequestered in the wilderness and praying to a crucifix. A second figure on the right, a monk in bare outline, helps to identify the saint as Francis, who traveled with a friar named Brother Leo.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "St. Francis Beneath a Tree Praying",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/676879",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
