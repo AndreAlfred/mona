@@ -1,0 +1,111 @@
+{
+  "id": "seurat-oil-sketch-grande-jatte",
+  "artist": "georges-seurat",
+  "title": "Oil Sketch for \"A Sunday on La Grande Jatte — 1884\"",
+  "date": "1884",
+  "year": 1884,
+  "medium": "Oil on panel",
+  "dimensions": "15.5 × 24.3 cm (6 1/8 × 9 9/16 in.); Framed: 25.4 × 35.6 cm (10 × 14 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/61616"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Georges_Seurat_-_Oil_Sketch_for_%22La_Grande_Jatte%22_-_1981.15_-_Art_Institute_of_Chicago.jpg/1280px-Georges_Seurat_-_Oil_Sketch_for_%22La_Grande_Jatte%22_-_1981.15_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Georges_Seurat_-_Oil_Sketch_for_%22La_Grande_Jatte%22_-_1981.15_-_Art_Institute_of_Chicago.jpg/2560px-Georges_Seurat_-_Oil_Sketch_for_%22La_Grande_Jatte%22_-_1981.15_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 745,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Georges Seurat - Oil Sketch for \"La Grande Jatte\" - 1981.15 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 61616
+  },
+  "phase": {
+    "label": "Studies for La Grande Jatte, 1884",
+    "source": {
+      "label": "Art Institute of Chicago, dated preparatory oil sketch",
+      "url": "https://api.artic.edu/api/v1/artworks/61616?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Art Institute of Chicago: oil on panel",
+        "url": "https://www.artic.edu/artworks/61616"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Seurat also made small studies outdoors on wooden panels, which he called croquetons.",
+          "source": {
+            "author": "National Gallery",
+            "title": "Landscape, Seated Man, Study for La Grande Jatte",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/georges-seurat-landscape-seated-man-study-for-la-grande-jatte",
+            "accessed": "2026-11-03",
+            "tier": 4
+          },
+          "lead": "On Seurat’s small oil studies:"
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Art Institute of Chicago, Post-Impressionism classification",
+        "url": "https://api.artic.edu/api/v1/artworks/61616"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This small oil on thin wood panel is one of over 20 painted studies Georges Seurat made for A Sunday on La Grande Jatte—1884 . Although at first glance its composition seems similar to the finished canvas, its 20 or more figures have little to do with the final version.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Oil Sketch for \"A Sunday on La Grande Jatte — 1884\"",
+          "readAt": "https://api.artic.edu/api/v1/artworks/61616?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "lead": "On the finished Grande Jatte:",
+        "text": "first publicly exhibited at the 8th and last Impressionist exhibition in May 1886.",
+        "source": {
+          "author": "Fitzwilliam Museum",
+          "title": "Study for A Sunday on the Island of la Grande Jatte: couple walking",
+          "readAt": "https://french-impressionists.fitzmuseum.cam.ac.uk/artists/seurat/la-grande-jatte",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "To the artist, however, every decision was essential to his aim of making a painting of modern life equivalent to a classical Greek frieze.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "A Sunday on La Grande Jatte — 1884",
+          "readAt": "https://api.artic.edu/api/v1/artworks/27992?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        },
+        "lead": "On the ambition behind the finished painting:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
