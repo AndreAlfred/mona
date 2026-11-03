@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-three-crosses",
+  "artist": "rembrandt-van-rijn",
+  "title": "Christ Crucified Between the Two Thieves: 'The Three Crosses'",
+  "date": "1653-c.1660",
+  "year": 1653,
+  "medium": "drypoint",
+  "dimensions": "Sheet: 37.5 x 44 cm (14 3/4 x 17 5/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1959.241"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1959.241/1959.241_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1959.241/1959.241_print.jpg",
+    "width": 900,
+    "height": 764,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Ralph King and Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 135706
+  },
+  "phase": {
+    "label": "Late Amsterdam years",
+    "source": {
+      "label": "Museum date; Liedtke on Amsterdam from 1632",
+      "url": "https://www.metmuseum.org/essays/rembrandt-van-rijn-1606-1669-paintings"
+    }
+  },
+  "tags": [
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Cleveland: medium and description",
+        "url": "https://clevelandart.org/art/1959.241"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In this fourth state, slashing strokes obscure the spectators visible in the earlier version, creating a tenebrous setting that focuses attention on Christ bathed in celestial light.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Christ Crucified Between the Two Thieves: 'The Three Crosses'",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135706",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Cleveland: medium and description",
+        "url": "https://clevelandart.org/art/1959.241"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Because of the delicacy of the technique, the copper plate was worn after the artist printed about 40 impressions of the first three states. In order to continue using the plate, Rembrandt reworked it, changing the image somewhat.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Christ Crucified Between the Two Thieves: 'The Three Crosses'",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135706",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Although drypoint is an inherently linear medium, Rembrandt used it to obtain tonal qualities associated with painting.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Christ Crucified Between the Two Thieves: 'The Three Crosses'",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135706",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The blackness becomes an active force that threatens to extinguish the light of Christ—a literal illustration of the Evangelist Luke’s description of the event that brought \"a darkness over all the earth.\"",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Christ Crucified Between the Two Thieves: 'The Three Crosses'",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135706",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

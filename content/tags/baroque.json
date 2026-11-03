@@ -1,0 +1,20 @@
+{
+  "id": "baroque",
+  "kind": "movement",
+  "name": "Baroque",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Baroque style used contrast, movement, exuberant detail, deep color, grandeur, and surprise to achieve a sense of awe.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Baroque",
+        "readAt": "https://en.wikipedia.org/wiki/Baroque",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "baroque"
+}

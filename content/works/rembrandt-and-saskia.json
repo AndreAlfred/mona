@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-and-saskia",
+  "artist": "rembrandt-van-rijn",
+  "title": "Rembrandt and His Wife Saskia",
+  "date": "1636",
+  "year": 1636,
+  "medium": "etching",
+  "dimensions": "Sheet: 10.5 x 9.2 cm (4 1/8 x 3 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1959.81"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1959.81/1959.81_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1959.81/1959.81_print.jpg",
+    "width": 806,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 136153
+  },
+  "phase": {
+    "label": "Amsterdam, 1630s",
+    "source": {
+      "label": "Museum date; Liedtke on Amsterdam from 1632",
+      "url": "https://www.metmuseum.org/essays/rembrandt-van-rijn-1606-1669-paintings"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland: medium and description",
+        "url": "https://clevelandart.org/art/1959.81"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "To represent himself, Rembrandt deeply etched the copper plate to create dark and decisive lines, as seen below his collar and on his left wrist. He etched Saskia’s image more lightly, with faint lines that situate her in the composition’s background.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Rembrandt and His Wife Saskia",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136153",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Cleveland: medium and description",
+        "url": "https://clevelandart.org/art/1959.81"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This self-portrait is the only one in which Rembrandt showed himself with his young wife, Saskia.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Rembrandt and His Wife Saskia",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136153",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Both figures appear in formal attire and directly meet the viewer’s gaze.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Rembrandt and His Wife Saskia",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136153",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Rembrandt may have drawn the image at least in part while sitting in front of a mirror.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Rembrandt and His Wife Saskia",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136153",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
