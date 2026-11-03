@@ -1,0 +1,117 @@
+{
+  "id": "goltzius-standard-bearer",
+  "artist": "hendrick-goltzius",
+  "title": "The Standard Bearer, Turned to Left",
+  "date": "1587",
+  "year": 1587,
+  "medium": "engraving",
+  "dimensions": "Sheet: 27.9 x 18.9 cm (11 x 7 7/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1996.364"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1996.364/1996.364_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1996.364/1996.364_print.jpg",
+    "width": 611,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 159650
+  },
+  "phase": {
+    "label": "Haarlem, military figures of the 1580s",
+    "source": {
+      "label": "Cleveland Museum of Art: military figures designed 1582–1600",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/157331"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (engraving)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159650"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "[The] delight he takes in rendering swelling curves, be they as bombastic as they will, is irresistible.",
+          "lead": "Arthur Hind, writing in 1908:",
+          "source": {
+            "author": "Arthur M. Hind",
+            "title": "A Short History of Engraving and Etching",
+            "publisher": "Archibald Constable (Internet Archive scan)",
+            "year": "1908",
+            "page": "120–121",
+            "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+            "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+            "accessed": "2026-11-03",
+            "tier": 2,
+            "license": "Public domain (US)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Wikipedia: Goltzius, style Northern Mannerism",
+        "url": "https://en.wikipedia.org/wiki/Hendrick_Goltzius"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Around 1587 Goltzius drew designs for 12 prints depicting officers and soldiers in landscape settings, which were engraved by his pupil Jacques de Gheyn II. Goltzius himself engraved a related pair of prints, The Captain of Infantry and The Great Standard Bearer.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Standard Bearer, Turned to Left",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159650",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A central figure in the army and civic guard, the standard bearer marked the position of the captain.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Standard Bearer, Turned to Left",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159650",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "At this time, the Netherlands were trying to oust their Spanish rulers and these prints were conceived as flamboyant expressions of military pride.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Standard Bearer, Turned to Left",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159650",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

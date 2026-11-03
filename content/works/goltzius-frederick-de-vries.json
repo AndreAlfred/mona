@@ -1,0 +1,138 @@
+{
+  "id": "goltzius-frederick-de-vries",
+  "artist": "hendrick-goltzius",
+  "title": "Portrait of Frederick de Vries and His Dog",
+  "date": "1597",
+  "year": 1597,
+  "medium": "engraving",
+  "dimensions": "Sheet: 36.3 x 26.8 cm (14 5/16 x 10 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1951.275"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1951.275/1951.275_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1951.275/1951.275_print.jpg",
+    "width": 663,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 128283
+  },
+  "phase": {
+    "label": "Haarlem, late 1590s",
+    "source": {
+      "label": "Cleveland Museum of Art: made in Haarlem, 1597",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/128283"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (engraving)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/128283"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "His portraits range in character from prints of the most minute hatching … to others of the greatest breadth of line-work, well exemplified in a portrait of himself",
+          "source": {
+            "author": "Arthur M. Hind",
+            "title": "A Short History of Engraving and Etching",
+            "publisher": "Archibald Constable (Internet Archive scan)",
+            "year": "1908",
+            "page": "120–121",
+            "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+            "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+            "accessed": "2026-11-03",
+            "tier": 2,
+            "license": "Public domain (US)"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Goltzius made this print for his friend the painter Dirck de Vries (Netherlandish, active 1590–1609) to let him know how his son was progressing under Goltzius’s care in the Dutch city of Haarlem. The two artists had met in Venice, where de Vries still lived.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Portrait of Frederick de Vries and His Dog",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/128283",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His portraits, though mostly miniatures, are notable for their finish and characterization.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hendrick Goltzius",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hendrick_Goltzius",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Phidias, referred to in the inscription, was an ancient Greek sculptor whose works were celebrated for their classical forms and their expressions of noble and moral character.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Portrait of Frederick de Vries and His Dog",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/128283",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I dedicate [this work] to the excellent painter Dirck de Vries in Venice out of friendship and to represent his absent son.",
+        "lead": "The inscription in the centre of the print:",
+        "source": {
+          "author": "Hendrick Goltzius",
+          "title": "Dedication on Portrait of Frederick de Vries and His Dog (1597), translated by the Cleveland Museum of Art",
+          "publisher": "Cleveland Museum of Art",
+          "year": "1597",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/128283",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "license": "CC0 (translation)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Simplicity seeks and loves faithfulness. The faithful dog and the innocent boy, that Goltzius faithfully rendered with a Phidian hand in copper.",
+        "lead": "The scholar Petrus Scriverius added a verse below:",
+        "source": {
+          "author": "Petrus Scriverius",
+          "title": "Verse in the margin of Portrait of Frederick de Vries and His Dog, translated by the Cleveland Museum of Art",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/128283",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "license": "CC0 (translation)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

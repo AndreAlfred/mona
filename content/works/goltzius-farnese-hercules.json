@@ -1,0 +1,126 @@
+{
+  "id": "goltzius-farnese-hercules",
+  "artist": "hendrick-goltzius",
+  "title": "The Farnesian Hercules",
+  "date": "1592",
+  "year": 1592,
+  "medium": "engraving",
+  "dimensions": "Platemark: 40.4 x 29.4 cm (15 7/8 x 11 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2022.137"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2022.137/2022.137_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2022.137/2022.137_print.jpg",
+    "width": 649,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund"
+  },
+  "archive": {
+    "cma": 523229
+  },
+  "phase": {
+    "label": "After the Italian journey, 1590s",
+    "source": {
+      "label": "Cleveland Museum of Art: travelled to Italy in 1590–91",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/523229"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (engraving)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/523229"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Goltzius recorded the less-common rear view, in a bravura engraving … which emphasizes the already bulky muscular form with swelling and tapering lines that flow over the contours.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Farnese Hercules",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Farnese_Hercules",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Wikipedia: Goltzius, style Northern Mannerism",
+        "url": "https://en.wikipedia.org/wiki/Hendrick_Goltzius"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Goltzius made drawings on-site and then made engravings after his designs once he returned to Haarlem in 1591. He portrayed the Farnese Hercules from a low viewpoint to capture the awesome experience of first encountering the famous monument. Goltzius showed the sculpture from behind and in shadow, emphasizing its glowing highlights.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Farnesian Hercules",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/523229",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Hendrick Goltzius was one of many late Renaissance artists who felt compelled to travel to Italy as part of his artistic training. He went with one purpose—to study antique sculpture.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Farnesian Hercules",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/523229",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Many engravings and woodcuts spread the fame of the Farnese's Hercules. … Before photography, prints were the only way to put the image into many hands.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Farnese Hercules",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Farnese_Hercules",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The print includes two observers, who were assumed by contemporary Dutch commentators to be a self-portrait of Goltzius with his stepson, Jacob Matham, who was also an engraver.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Farnesian Hercules",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/523229",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

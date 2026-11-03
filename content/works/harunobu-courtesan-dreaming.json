@@ -1,0 +1,134 @@
+{
+  "id": "harunobu-courtesan-dreaming",
+  "artist": "suzuki-harunobu",
+  "title": "Courtesan Dreaming of her Childhood",
+  "date": "c. 1770",
+  "year": 1770,
+  "medium": "Woodblock print; ink and color on paper",
+  "dimensions": "Sheet: 68 x 12.8 cm (26 3/4 x 5 1/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1920.516"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1920.516/1920.516_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1920.516/1920.516_print.jpg",
+    "width": 174,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of J. H. Wade"
+  },
+  "archive": {
+    "cma": 101854
+  },
+  "phase": {
+    "label": "Last years as master of ukiyo-e, late 1760s–1770",
+    "source": {
+      "label": "Wikipedia: regarded as the master of ukiyo-e in his last years",
+      "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (color woodblock print)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/101854"
+      }
+    },
+    {
+      "id": "bijin-ga",
+      "source": {
+        "label": "Wikipedia: Harunobu a primary producer of bijin-ga in the late 1760s",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: Harunobu worked in the ukiyo-e style",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This format is called a pillar print, or hashira-e (literally, \"pillar picture\"). It is made by pasting two sheets together vertically to form a long, narrow picture, often hung as a decoration on the narrow support posts of the interior of Japanese houses.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Courtesan Dreaming of her Childhood",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/101854",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Such tall narrow spaces are most difficult to handle. They stimulate what strength there is in a designer.",
+        "lead": "Fenollosa, on Harunobu’s pillar prints:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "The Masters of Ukioye",
+          "publisher": "W. H. Ketcham, New York (Internet Archive scan)",
+          "year": "1896",
+          "url": "https://archive.org/details/mastersukioyeac00ketcgoog",
+          "readAt": "https://archive.org/stream/mastersukioyeac00ketcgoog/mastersukioyeac00ketcgoog_djvu.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "They probably served as cheap alternatives to hanging scrolls (kakemono) which were typically made of silk.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hashira-e",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hashira-e",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Surviving examples are rare, and often faded, worn, or stained from exposure to soot and smoke.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hashira-e",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hashira-e",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This print depicts a courtesan dreaming about the time she was taken from her family to become a courtesan. The man leading the girl by the hand is probably escorting her to the Yoshiwara, the entertainment district in Edo.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Courtesan Dreaming of her Childhood",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/101854",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

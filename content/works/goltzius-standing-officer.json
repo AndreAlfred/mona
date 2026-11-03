@@ -1,0 +1,113 @@
+{
+  "id": "goltzius-standing-officer",
+  "artist": "hendrick-goltzius",
+  "title": "Standing Officer Holding a Boar's Spear",
+  "date": "1586",
+  "year": 1586,
+  "medium": "Pen and brown ink, brush and brown wash, red chalk with traces of white opaque watercolor over black chalk, on paper; traces of transfer",
+  "dimensions": "Sheet: 20.6 x 15.6 cm (8 1/8 x 6 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1994.195"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1994.195/1994.195_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1994.195/1994.195_print.jpg",
+    "width": 672,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 157331
+  },
+  "phase": {
+    "label": "Haarlem, military figures of the 1580s",
+    "source": {
+      "label": "Cleveland Museum of Art: military figures designed 1582–1600",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/157331"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (pen and brown ink, wash, red chalk)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/157331"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Goltzius's technique includes fine pen strokes and delicate brown washes combined with red chalk additions on the face and hands, which add a degree of naturalism and finish to the drawing.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Standing Officer Holding a Boar's Spear",
+            "publisher": "Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/157331",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Wikipedia: Goltzius, style Northern Mannerism",
+        "url": "https://en.wikipedia.org/wiki/Hendrick_Goltzius"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This sheet is the only known preparatory drawing for an important group of engravings depicting military figures designed by Hendrick Goltzius between 1582 and 1600.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Standing Officer Holding a Boar's Spear",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/157331",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Such imagery usually promoted militaristic values such as bravery in the period, as the Netherlands underwent continuous warfare with Spain.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Standing Officer Holding a Boar's Spear",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/157331",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "When he was still a child he fell into burning coals, an accident that left his right hand permanently deformed and unable to fully extend the fingers. This led him to draw and engrave using the larger muscles of his arm and shoulder, contributing to what has been described as a \"commanding swing of the line\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hendrick Goltzius",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hendrick_Goltzius",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

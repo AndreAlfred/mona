@@ -1,0 +1,123 @@
+{
+  "id": "harunobu-kureha-of-gakuiseya",
+  "artist": "suzuki-harunobu",
+  "title": "Kureha of Gakuiseya, from Selection of Beauties from the Pleasure Quarters",
+  "date": "1770",
+  "year": 1770,
+  "medium": "color woodblock print",
+  "dimensions": "Sheet: 21.6 x 14.6 cm (8 1/2 x 5 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1921.1282"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1921.1282/1921.1282_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1921.1282/1921.1282_print.jpg",
+    "width": 606,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift from J. H. Wade"
+  },
+  "archive": {
+    "cma": 102617
+  },
+  "phase": {
+    "label": "Final year: picture books of courtesans, 1770",
+    "source": {
+      "label": "Cleveland Museum of Art: date and five-volume picture-book series",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/102617"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (color woodblock print)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/102617"
+      }
+    },
+    {
+      "id": "bijin-ga",
+      "source": {
+        "label": "Cleveland Museum of Art: images of 166 beautiful courtesans",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/102617"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: Harunobu worked in the ukiyo-e style",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This print of a courtesan named Kureha reading a letter comes from a five-volume series of picture books that Suzuki Harunobu designed with images of 166 beautiful courtesans of the Edo (now Tokyo) pleasure district.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Kureha of Gakuiseya, from Selection of Beauties from the Pleasure Quarters",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/102617",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He was a draughtsman of extreme elegance and power, and his works have a charm that is peculiarly their own.",
+        "source": {
+          "author": "Frederick W. Gookin",
+          "title": "Japanese Colour-Prints and Their Designers",
+          "publisher": "Japan Society of New York (Project Gutenberg edition)",
+          "year": "1913",
+          "url": "https://www.gutenberg.org/ebooks/42811",
+          "readAt": "https://www.gutenberg.org/cache/epub/42811/pg42811.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "All poems in the volume are autumnal, and Kureha’s describes white dew on colorful maple leaves.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Kureha of Gakuiseya, from Selection of Beauties from the Pleasure Quarters",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/102617",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is useless to conjecture what might have happened if Harunobu had lived. He was not an old man; he had not reached the fulness of his powers.",
+        "lead": "On Harunobu’s death in 1770:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "The Masters of Ukioye",
+          "publisher": "W. H. Ketcham, New York (Internet Archive scan)",
+          "year": "1896",
+          "url": "https://archive.org/details/mastersukioyeac00ketcgoog",
+          "readAt": "https://archive.org/stream/mastersukioyeac00ketcgoog/mastersukioyeac00ketcgoog_djvu.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

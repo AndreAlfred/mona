@@ -1,0 +1,34 @@
+{
+  "id": "mannerism",
+  "kind": "movement",
+  "name": "Mannerism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Mannerism is a style in European art that emerged in the later years of the Italian High Renaissance around 1520, spreading by about 1530 and lasting until about the end of the 16th century in Italy, when the Baroque style largely replaced it. Northern Mannerism continued into the early 17th century.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Mannerism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Mannerism",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Where High Renaissance art emphasizes proportion, balance, and ideal beauty, Mannerism exaggerates such qualities, often resulting in compositions that are asymmetrical or unnaturally elegant.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Mannerism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Mannerism",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "mannerism"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "harunobu-pot-of-pinks",
+  "artist": "suzuki-harunobu",
+  "title": "Young Woman Looking at a Pot of Pinks",
+  "date": "c. 1767",
+  "year": 1767,
+  "medium": "color woodblock print, with embossing",
+  "dimensions": "Sheet: 27 x 19.2 cm (10 5/8 x 7 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1985.304"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1985.304/1985.304_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1985.304/1985.304_print.jpg",
+    "width": 641,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Kelvin Smith Collection, given by Mrs. Kelvin Smith"
+  },
+  "archive": {
+    "cma": 152481
+  },
+  "phase": {
+    "label": "Mastery after the experiments, 1767",
+    "source": {
+      "label": "Fenollosa: by early 1767 Harunobu “has satisfied himself at last with experiments”",
+      "url": "https://archive.org/details/mastersukioyeac00ketcgoog"
+    }
+  },
+  "tags": [
+    {
+      "id": "embossing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium includes embossing",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/152481"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The embossing on the waves in the stream and on the flowers was created by using unpigmented blocks during the printing process.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Young Woman Looking at a Pot of Pinks",
+            "publisher": "Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152481",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Cleveland Museum of Art: these prints came to be known as nishiki-e",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/152481"
+      }
+    },
+    {
+      "id": "bijin-ga",
+      "source": {
+        "label": "Wikipedia: Harunobu a primary producer of bijin-ga in the late 1760s",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The print has been identified as the summer subject in a set of four flowers representing each season and is considered to be one of Harunobu’s most enchanting designs.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Young Woman Looking at a Pot of Pinks",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152481",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "One of the most celebrated and productive of all ukiyo-e artists, Harunobu is widely recognized as the first Japanese printmaker to create designs by printing each color in the image with a different block. These prints came to be known as nishiki-e, or brocade pictures, suggesting their resemblance to the gorgeous brocades worn at the time.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Young Woman Looking at a Pot of Pinks",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152481",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Instead of restricting himself to a few primary or secondary hues and the variations resulting from their superposition, he mixed his colours to get the precise tint desired, and he used as many colour-blocks as were needed for the effects at which he aimed.",
+        "source": {
+          "author": "Frederick W. Gookin",
+          "title": "Japanese Colour-Prints and Their Designers",
+          "publisher": "Japan Society of New York (Project Gutenberg edition)",
+          "year": "1913",
+          "url": "https://www.gutenberg.org/ebooks/42811",
+          "readAt": "https://www.gutenberg.org/cache/epub/42811/pg42811.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A girl steps onto a veranda after a bath to look at a pot of pinks. A warm breeze stirs the poem-strip tied to the windbell above her. Irises bloom in the pool in the background.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Young Woman Looking at a Pot of Pinks",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152481",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Harunobu's special province, one in which he surpassed all other Japanese artists - eternal girlhood in unusual and poetic settings",
+        "source": {
+          "author": "Richard Lane",
+          "title": "Images from the Floating World (1978), quoted in “Suzuki Harunobu”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Suzuki_Harunobu",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

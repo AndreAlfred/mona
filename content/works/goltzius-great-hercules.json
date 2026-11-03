@@ -1,0 +1,143 @@
+{
+  "id": "goltzius-great-hercules",
+  "artist": "hendrick-goltzius",
+  "title": "The Great Hercules or 'Knollenman'",
+  "date": "1589",
+  "year": 1589,
+  "medium": "engraving",
+  "dimensions": "Sheet: 56.3 x 40.1 cm (22 3/16 x 15 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1995.38"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.38/1995.38_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1995.38/1995.38_print.jpg",
+    "width": 648,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 159194
+  },
+  "phase": {
+    "label": "Spranger-inspired Mannerism, 1585–90",
+    "source": {
+      "label": "Wikipedia: his most Mannerist phase lasted from 1585 to his trip to Rome in 1590",
+      "url": "https://en.wikipedia.org/wiki/Northern_Mannerism"
+    }
+  },
+  "tags": [
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Cleveland Museum of Art: Goltzius ushered in Mannerism in Northern Europe",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159194"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The monstrous muscle-men and over-elongated female nudes with tiny heads ... were replaced by figures with more normal proportions and movements.",
+          "lead": "What changed after his 1590 trip to Rome:",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Northern Mannerism",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Northern_Mannerism",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (engraving)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159194"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Known for his skill with an engraving burin, he transformed the technique, creating engraved lines that taper and swell to emphasize volume and form to extreme effect.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Great Hercules or 'Knollenman'",
+            "publisher": "Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159194",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The exaggerated and unnatural musculature of this figure may suggest that the Netherlandish artist Hendrick Goltzius had never studied a real human body. Indeed, he pulled from a mixture of sources including classical sculpture, Italian art, and his imagination.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Great Hercules or 'Knollenman'",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159194",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Goltzius ushered in Mannerism in Northern Europe, a style that featured exaggerated forms and metaphorical and allegorical subject matter.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Great Hercules or 'Knollenman'",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159194",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Their pictorial language was characterised by a strong awareness of style and cultivated elegance. They strove for artful ingenuity rather than naturalism.",
+        "lead": "Of the Haarlem Mannerists:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Karel van Mander",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Karel_van_Mander",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "During the 1580s Goltzius worked with Karel van Mander and Cornelis van Haarlem. Together they established an informal drawing academy in Haarlem where artists studied the human figure from life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hendrick Goltzius",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hendrick_Goltzius",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

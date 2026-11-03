@@ -1,0 +1,107 @@
+{
+  "id": "harunobu-benevolence",
+  "artist": "suzuki-harunobu",
+  "title": "Benevolence, from The Five Virtues",
+  "date": "1767",
+  "year": 1767,
+  "medium": "color woodblock print",
+  "dimensions": "Sheet: 27.6 x 20.4 cm (10 7/8 x 8 1/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1949.124"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1949.124/1949.124_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1949.124/1949.124_print.jpg",
+    "width": 660,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Mrs. Madeleine Hamill in memory of Lawrence Hamill"
+  },
+  "archive": {
+    "cma": 126689
+  },
+  "phase": {
+    "label": "The Five Virtues series, 1767",
+    "source": {
+      "label": "Cleveland Museum of Art: a series of five depicting the cardinal virtues of Confucianism",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/126689"
+    }
+  },
+  "tags": [
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikipedia: Harunobu produced many nishiki-e between 1765 and his death",
+        "url": "https://en.wikipedia.org/wiki/Nishiki-e"
+      }
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (color woodblock print)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/126689"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: Harunobu worked in the ukiyo-e style",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This print belongs to a series of five depicting the cardinal virtues of Confucianism. In this image, a courtesan demonstrates benevolence by shaving her attendant’s neck. The other virtues are righteousness, decorum, knowledge, and fidelity.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Benevolence, from The Five Virtues",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/126689",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Zashiki hakkei series exemplifies the mitate genre favoured by Harunobu, in which a traditional theme is playfully reimagined in a contemporary setting …",
+        "lead": "On the mode Harunobu favoured:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Suzuki Harunobu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Suzuki_Harunobu",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "If you would dwell on the path of the heart, / that is kind to others, / then must you not also be someone, / who suppresses even her own name?",
+        "lead": "The poem at the top, in the museum’s translation:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Benevolence, from The Five Virtues",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/126689",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}

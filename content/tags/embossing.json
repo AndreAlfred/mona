@@ -1,0 +1,36 @@
+{
+  "id": "embossing",
+  "kind": "technique",
+  "name": "Blind embossing",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Uninked blocks were used for embossing portions of the designs. The skill of the printer was a large factor in producing the best results.",
+      "source": {
+        "author": "Frederick W. Gookin",
+        "title": "Japanese Colour-Prints and Their Designers",
+        "publisher": "Japan Society of New York (Project Gutenberg edition)",
+        "year": "1913",
+        "url": "https://www.gutenberg.org/ebooks/42811",
+        "readAt": "https://www.gutenberg.org/cache/epub/42811/pg42811.txt",
+        "accessed": "2026-11-03",
+        "tier": 2,
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The technique involves pressing a carved but unpigmented woodblock against the print surface.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Courtesan and Sleeping Attendant",
+        "publisher": "Cleveland Museum of Art",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152486",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "license": "CC0"
+      }
+    }
+  ],
+  "archiveTerm": "embossing"
+}

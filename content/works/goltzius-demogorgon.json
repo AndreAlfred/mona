@@ -1,0 +1,98 @@
+{
+  "id": "goltzius-demogorgon",
+  "artist": "hendrick-goltzius",
+  "title": "The Deities: Demogorgon in the Cave of Eternity",
+  "date": "1588–90",
+  "year": 1588,
+  "medium": "chiaroscuro woodcut",
+  "dimensions": "Overall: 34.9 x 26.2 cm (13 3/4 x 10 5/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1952.204"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.204/1952.204_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1952.204/1952.204_print.jpg",
+    "width": 679,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 129364
+  },
+  "phase": {
+    "label": "Spranger-inspired Mannerism, 1585–90",
+    "source": {
+      "label": "Wikipedia: his most Mannerist phase lasted from 1585 to his trip to Rome in 1590",
+      "url": "https://en.wikipedia.org/wiki/Northern_Mannerism"
+    }
+  },
+  "tags": [
+    {
+      "id": "chiaroscuro-woodcut",
+      "source": {
+        "label": "Cleveland Museum of Art: medium (chiaroscuro woodcut)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/129364"
+      }
+    },
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Wikipedia: Goltzius’s most Mannerist phase, 1585–90",
+        "url": "https://en.wikipedia.org/wiki/Northern_Mannerism"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In Goltzius's print, which was so popular it was reprinted as late as the 19th century, the central male figure is Demogorgon, the omnipotent father of all gods.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Deities: Demogorgon in the Cave of Eternity",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129364",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Not all witches were women; men also performed magic. Unlike the destructive and sexualized stereotypes of female witches, male magicians were likened to the philosophers, alchemists, or heroic scientists of the Renaissance.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Deities: Demogorgon in the Cave of Eternity",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129364",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Although Demogorgon was feared as the \"Demon-gorgon,\" a terror who could unleash his primordial power, Goltzius portrays the god as a wizened and magical force who uses his power to give form to the world.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Deities: Demogorgon in the Cave of Eternity",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129364",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-routine"
+  }
+}
