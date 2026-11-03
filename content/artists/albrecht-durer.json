@@ -1,0 +1,55 @@
+{
+  "id": "albrecht-durer",
+  "name": "Albrecht Dürer",
+  "born": 1471,
+  "died": 1528,
+  "active": "1480s–1528",
+  "nationality": "German",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Northern Renaissance: Dürer and Italy",
+        "url": "https://en.wikipedia.org/wiki/Northern_Renaissance"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "martin-schongauer",
+      "name": "Martin Schongauer",
+      "source": {
+        "label": "Jacob Wisse: Dürer admired Schongauer",
+        "url": "https://www.metmuseum.org/essays/albrecht-durer-1471-1528"
+      }
+    }
+  ],
+  "archive": {
+    "aic": 40561,
+    "cma": [
+      11617
+    ]
+  },
+  "wikidata": "Q5580",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Since geometry is the right foundation of all painting, I have decided to teach its rudiments and principles to all youngsters eager for art.",
+      "source": {
+        "author": "Albrecht Dürer",
+        "title": "The Art of Measurement (1525), quoted on Wikiquote",
+        "readAt": "https://en.wikiquote.org/wiki/Albrecht_D%C3%BCrer",
+        "accessed": "2026-11-03",
+        "tier": 1,
+        "year": "1525",
+        "publisher": "Wikiquote",
+        "license": "Public-domain artist text; Wikiquote transcription CC BY-SA"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

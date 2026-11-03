@@ -1,0 +1,113 @@
+{
+  "id": "durer-melencolia-i",
+  "artist": "albrecht-durer",
+  "title": "Melencolia I",
+  "date": "1514",
+  "year": 1514,
+  "medium": "engraving",
+  "dimensions": "Platemark: 23.8 x 18.9 cm (9 3/8 x 7 7/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1926.211"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1926.211/1926.211_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1926.211/1926.211_print.jpg",
+    "width": 707,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Leonard C. Hanna Jr., in memory of Ralph King"
+  },
+  "archive": {
+    "cma": 108501
+  },
+  "phase": {
+    "label": "Mature engravings, 1514",
+    "source": {
+      "label": "Cleveland Museum of Art: date and context",
+      "url": "https://www.clevelandart.org/art/1926.211"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://www.clevelandart.org/art/1926.211"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Despite its implication of inner turmoil, the engraving demonstrates Dürer’s expertise in capturing visual perception. Light behaves differently against a transparent hourglass, a bursting comet, a rainbow, and a geometric stone.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Melencolia I",
+            "readAt": "https://www.clevelandart.org/art/1926.211",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Northern Renaissance: Dürer",
+        "url": "https://en.wikipedia.org/wiki/Northern_Renaissance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A crowning achievement of Albrecht Dürer’s engraved works, Melencolia I captivates the viewer with abundant variety.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Melencolia I",
+          "readAt": "https://www.clevelandart.org/art/1926.211",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Melancholy, or sadness, was associated with introspective, creative minds, and here, Dürer personified it as an immobilized, winged figure, unable to use the tools scattered around her.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Melencolia I",
+          "readAt": "https://www.clevelandart.org/art/1926.211",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A magic square whose numbers total 34 in all directions, an emaciated dog, an hourglass, and a ladder evoke time, order, suffering, life, and death.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Melencolia I",
+          "readAt": "https://www.clevelandart.org/art/1926.211",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

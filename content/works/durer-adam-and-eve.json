@@ -1,0 +1,113 @@
+{
+  "id": "durer-adam-and-eve",
+  "artist": "albrecht-durer",
+  "title": "Adam and Eve",
+  "date": "1504",
+  "year": 1504,
+  "medium": "engraving",
+  "dimensions": "Image: 25 x 19.2 cm (9 13/16 x 7 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1944.473"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_print.jpg",
+    "width": 696,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 123964
+  },
+  "phase": {
+    "label": "Classical models and the nude, 1504",
+    "source": {
+      "label": "Cleveland Museum of Art: date and context",
+      "url": "https://www.clevelandart.org/art/1944.473"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://www.clevelandart.org/art/1944.473"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Northern Renaissance: Dürer",
+        "url": "https://en.wikipedia.org/wiki/Northern_Renaissance"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Drawing upon classical sculptural models, he represented Adam and Eve in perfect, uncorrupted beauty moments before tasting the forbidden fruit.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Adam and Eve",
+            "readAt": "https://www.clevelandart.org/art/1944.473",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Albrecht Dürer’s iconic engraving was hugely impactful to the spread of natural symbolism in Europe.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Adam and Eve",
+          "readAt": "https://www.clevelandart.org/art/1944.473",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Drawing upon classical sculptural models, he represented Adam and Eve in perfect, uncorrupted beauty moments before tasting the forbidden fruit.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Adam and Eve",
+          "readAt": "https://www.clevelandart.org/art/1944.473",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The elk, rabbit, cat, and ox are symbols of the four human temperaments—melancholic (gloomy), sanguine (sensual), choleric (cruel), and phlegmatic (slothful)—in perfect balance.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Adam and Eve",
+          "readAt": "https://www.clevelandart.org/art/1944.473",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

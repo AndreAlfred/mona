@@ -1,0 +1,113 @@
+{
+  "id": "durer-last-supper",
+  "artist": "albrecht-durer",
+  "title": "The Last Supper",
+  "date": "1523",
+  "year": 1523,
+  "medium": "woodcut",
+  "dimensions": "Sheet: 21.6 x 30 cm (8 1/2 x 11 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1966.9"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1966.9/1966.9_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1966.9/1966.9_print.jpg",
+    "width": 1249,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund"
+  },
+  "archive": {
+    "cma": 143096
+  },
+  "phase": {
+    "label": "Late woodcuts, 1523",
+    "source": {
+      "label": "Cleveland Museum of Art: date and context",
+      "url": "https://www.clevelandart.org/art/1966.9"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://www.clevelandart.org/art/1966.9"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Northern Renaissance: Dürer",
+        "url": "https://en.wikipedia.org/wiki/Northern_Renaissance"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He adopted the typically Italian horizontal format, long table, and disciples seated on the far side.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Last Supper",
+            "readAt": "https://www.clevelandart.org/art/1966.9",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Albrecht Dürer made this version of the Last Supper after returning from Venice. He adopted the typically Italian horizontal format, long table, and disciples seated on the far side.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Last Supper",
+          "readAt": "https://www.clevelandart.org/art/1966.9",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Some art historians interpret the scene as the moment Christ exhorts his disciples to love one another (John 13:34), a passage emphasized by the Protestant leader Martin Luther, whose Ninety-Five Theses was championed by those sympathetic to Catholic reform.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Last Supper",
+          "readAt": "https://www.clevelandart.org/art/1966.9",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The table has been cleared, except for a single chalice, which, along with the empty platter, basket of bread, and wine decanter in the foreground, refers to the Christ’s body and blood in the sacrament of the Eucharist.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Last Supper",
+          "readAt": "https://www.clevelandart.org/art/1966.9",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

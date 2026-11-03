@@ -1,0 +1,20 @@
+{
+  "id": "engraving",
+  "kind": "technique",
+  "name": "Engraving",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Engraving is the practice of incising a design on a hard, usually flat surface by cutting grooves into it with a burin.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Engraving",
+        "readAt": "https://en.wikipedia.org/wiki/Engraving",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "engraving"
+}
