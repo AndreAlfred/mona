@@ -1,0 +1,109 @@
+{
+  "id": "seurat-at-the-concert-parisien",
+  "artist": "georges-seurat",
+  "title": "At the Concert Parisien",
+  "date": "1887–88",
+  "year": 1887,
+  "medium": "conté crayon heightened with white chalk on cream handmade modern laid paper",
+  "dimensions": "Sheet: 31.4 x 23.6 cm (12 3/8 x 9 5/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.344"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.344/1958.344_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.344/1958.344_print.jpg",
+    "width": 685,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 135341
+  },
+  "phase": {
+    "label": "Café-concert drawings, 1887–88",
+    "source": {
+      "label": "Cleveland Museum of Art, date and café-concert series",
+      "url": "https://www.clevelandart.org/art/1958.344"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art, Conté crayon drawing",
+        "url": "https://www.clevelandart.org/art/1958.344"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Seurat typically used a black crayon manufactured by the Conté company, and its waxy quality allowed him to exploit the texture of paper to striking effect.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "At the Concert Parisien",
+            "readAt": "https://www.clevelandart.org/art/1958.344",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Georges Seurat, Post-Impressionism",
+        "url": "https://en.wikipedia.org/wiki/Georges_Seurat"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Georges Seurat created eight drawings depicting café-concerts, some showing known establishments.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "At the Concert Parisien",
+          "readAt": "https://www.clevelandart.org/art/1958.344",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Café-concerts were popular places of entertainment for the middle classes in Paris during the late 1800s and usually featured singers or other forms of vaudeville entertainers.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "At the Concert Parisien",
+          "readAt": "https://www.clevelandart.org/art/1958.344",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This drawing has an innovative viewpoint, in which we peer through the bowler hats of male viewers listening to a female singer on stage.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "At the Concert Parisien",
+          "readAt": "https://www.clevelandart.org/art/1958.344",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
