@@ -1,0 +1,114 @@
+{
+  "id": "seurat-study-bathers-asnieres",
+  "artist": "georges-seurat",
+  "title": "Study for \"Bathers at Asnières\"",
+  "date": "c. 1883–84",
+  "year": 1883,
+  "medium": "oil on wood panel",
+  "dimensions": "Framed: 32 x 41 x 5 cm (12 5/8 x 16 1/8 x 1 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.51"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.51/1958.51_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.51/1958.51_print.jpg",
+    "width": 1263,
+    "height": 796,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 135512
+  },
+  "phase": {
+    "label": "Bathers at Asnières preparatory studies, 1883–84",
+    "source": {
+      "label": "Cleveland Museum of Art, date and description",
+      "url": "https://www.clevelandart.org/art/1958.51"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art, oil on wood panel",
+        "url": "https://www.clevelandart.org/art/1958.51"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Cleveland Museum of Art, borrowing and reforming Impressionism",
+        "url": "https://www.clevelandart.org/art/1958.51"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Seurat borrowed the brilliant colors of Impressionism to suggest outdoor light, but added structure by emphasizing basic geometric shapes and firm outlines.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Study for \"Bathers at Asnières\"",
+            "publisher": "Cleveland Museum of Art",
+            "readAt": "https://www.clevelandart.org/art/1958.51",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This oil sketch is one of many preparatory studies Seurat made for his monumental painting Bathers at Asnières (1883-84), depicting men leisurely bathing in the Seine near an industrial suburb of Paris.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Study for \"Bathers at Asnières\"",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://www.clevelandart.org/art/1958.51",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "As a leader of the movement to reform Impressionism, his style became known as Neo-Impressionism.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Study for \"Bathers at Asnières\"",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://www.clevelandart.org/art/1958.51",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "lead": "Ellen W. Lee on the Bathers studies:",
+        "text": "Seurat’s characters were not saints and superheroes, or the bourgeoisie depicted by most Impressionists, but working-class men and boys relaxing on the riverbank…",
+        "source": {
+          "author": "Ellen W. Lee",
+          "title": "Georges Seurat, Study for “Bathers at Asnières,” 1883",
+          "publisher": "The Nelson-Atkins Museum of Art",
+          "year": "2023",
+          "readAt": "https://www.nelson-atkins.org/fpc/catalogue/Post-Impressionism/724/",
+          "accessed": "2026-11-03",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
