@@ -1,0 +1,131 @@
+{
+  "id": "seurat-final-study-bathers-asnieres",
+  "artist": "georges-seurat",
+  "title": "Final Study for \"Bathers at Asnières\"",
+  "date": "1883",
+  "year": 1883,
+  "medium": "Oil on panel",
+  "dimensions": "15.8 × 25.1 cm (6 1/4 × 9 7/8 in.); Framed: 54.3 × 63.9 × 6.1 cm (21 3/8 × 25 1/8 × 2 3/8 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/20199"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Georges_Seurat_-_Final_Study_for_%22Bathers_at_Asni%C3%A8res%22_-_1962.578_-_Art_Institute_of_Chicago.jpg/1280px-Georges_Seurat_-_Final_Study_for_%22Bathers_at_Asni%C3%A8res%22_-_1962.578_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Georges_Seurat_-_Final_Study_for_%22Bathers_at_Asni%C3%A8res%22_-_1962.578_-_Art_Institute_of_Chicago.jpg/2560px-Georges_Seurat_-_Final_Study_for_%22Bathers_at_Asni%C3%A8res%22_-_1962.578_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 749,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Georges Seurat - Final Study for \"Bathers at Asnières\" - 1962.578 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 20199
+  },
+  "phase": {
+    "label": "Early career: studies for Bathers at Asnières, 1883",
+    "source": {
+      "label": "Ellen W. Lee on the preparatory studies for Seurat’s first major work",
+      "url": "https://www.nelson-atkins.org/fpc/catalogue/Post-Impressionism/724/"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Art Institute of Chicago: Oil on panel",
+        "url": "https://www.artic.edu/artworks/20199"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Art Institute of Chicago on Seurat’s adaptation of Impressionist painting",
+        "url": "https://api.artic.edu/api/v1/artworks/20199?fields=id,title,description"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Nevertheless, Seurat’s focus on a subject from modern life, his luminous palette, and his airy brushwork show how the young artist adapted characteristics of Impressionist painting for his own purposes.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Final Study for \"Bathers at Asnières\"",
+            "publisher": "Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/20199",
+            "readAt": "https://api.artic.edu/api/v1/artworks/20199?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Georges Seurat made this painting as a preparatory work for his monumental Bathers at Asnières, now in the National Gallery, London.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Final Study for \"Bathers at Asnières\"",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/20199",
+          "readAt": "https://api.artic.edu/api/v1/artworks/20199?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "lead": "On the Bathers studies:",
+        "text": "Seurat utilized drawings and sketches with variety, experimenting with color, tone, or composition rather than adhering to a specific sequence.",
+        "source": {
+          "author": "Ellen W. Lee",
+          "title": "Georges Seurat, Study for “Bathers at Asnières,” 1883",
+          "publisher": "The Nelson-Atkins Museum of Art",
+          "year": "2023",
+          "readAt": "https://www.nelson-atkins.org/fpc/catalogue/Post-Impressionism/724/",
+          "accessed": "2026-11-03",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The frozen gestures and sedate poses of these bathers set a mood distinct from the sparkling scenes of Parisians enjoying restaurants and other riverbank activities favored by the Impressionists.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Final Study for \"Bathers at Asnières\"",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/20199",
+          "readAt": "https://api.artic.edu/api/v1/artworks/20199?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It shows men and boys on the bank of the Seine River in the working-class Parisian suburb of Asnières. The view presented here is just across the river from the leisure park Seurat immortalized in his best-known work, A Sunday on La Grande Jatte—1884.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Final Study for \"Bathers at Asnières\"",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/20199",
+          "readAt": "https://api.artic.edu/api/v1/artworks/20199?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
