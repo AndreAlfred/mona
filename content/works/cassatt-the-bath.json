@@ -1,0 +1,119 @@
+{
+  "id": "cassatt-the-bath",
+  "artist": "mary-cassatt",
+  "title": "The Bath",
+  "date": "1890–91",
+  "year": 1890,
+  "medium": "Color aquatint with burnishing, drypoint, and softground, on ivory laid paper",
+  "dimensions": "Image/plate: 32.1 × 24.7 cm (12 11/16 × 9 3/4 in.); Sheet: 43.6 × 30 cm (17 3/16 × 11 13/16 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/13527"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/6413fa04-66d7-b4c6-6e22-f5adb321db7b/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/6413fa04-66d7-b4c6-6e22-f5adb321db7b/full/1686,/0/default.jpg",
+    "width": 7125,
+    "height": 10391,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection"
+  },
+  "archive": {
+    "aic": 13527
+  },
+  "phase": {
+    "label": "Japanese-inspired color print series, 1890–91",
+    "source": {
+      "label": "National Museum of Women in the Arts: The Bath",
+      "url": "https://nmwa.org/art/collection/bath/"
+    }
+  },
+  "tags": [
+    {
+      "id": "aquatint",
+      "source": {
+        "label": "Art Institute of Chicago: The Bath",
+        "url": "https://www.artic.edu/artworks/13527"
+      }
+    },
+    {
+      "id": "etching",
+      "source": {
+        "label": "Art Institute of Chicago: The Bath",
+        "url": "https://www.artic.edu/artworks/13527"
+      }
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "National Museum of Women in the Arts: The Bath",
+        "url": "https://nmwa.org/art/collection/bath/"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Japanese woodblock prints commonly depicted women bathing children.",
+          "source": {
+            "author": "National Museum of Women in the Arts",
+            "title": "The Bath",
+            "readAt": "https://nmwa.org/art/collection/bath/",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Museum of Women in the Arts"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Bath is related to the mother and child paintings and pastels Cassatt was making before she embarked upon the color prints.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Bath",
+          "readAt": "https://www.clevelandart.org/art/1941.70",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The exhibition inspired her to create a series of 10 color aquatints.",
+        "source": {
+          "author": "National Museum of Women in the Arts",
+          "title": "The Bath",
+          "readAt": "https://nmwa.org/art/collection/bath/",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Museum of Women in the Arts"
+        },
+        "lead": "On the 1890 Japanese print exhibition in Paris:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As her career progressed, the theme of mothers and children, physically close and psychologically absorbed in each other, would play an increasingly significant role in her art.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Bath",
+          "readAt": "https://www.clevelandart.org/art/1941.70",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

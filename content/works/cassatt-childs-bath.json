@@ -1,0 +1,113 @@
+{
+  "id": "cassatt-childs-bath",
+  "artist": "mary-cassatt",
+  "title": "The Child's Bath",
+  "date": "1893",
+  "year": 1893,
+  "medium": "Oil on canvas",
+  "dimensions": "101.3 × 67.3 cm (39 15/16 × 26 1/2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/111442"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/1686,/0/default.jpg",
+    "width": 8470,
+    "height": 12853,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Robert A. Waller Fund"
+  },
+  "archive": {
+    "aic": 111442
+  },
+  "phase": {
+    "label": "Japanese aesthetics and maternal subjects, 1890s",
+    "source": {
+      "label": "Art Institute of Chicago: The Child's Bath",
+      "url": "https://www.artic.edu/artworks/111442"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Art Institute of Chicago: The Child's Bath",
+        "url": "https://www.artic.edu/artworks/111442"
+      }
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Art Institute of Chicago: The Child's Bath",
+        "url": "https://www.artic.edu/artworks/111442"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The steep angle from above creates a shallow picture plane, pulling viewers into the space. The carpeted floor seems to sit upright on the surface of the canvas. Adding to this sense of flatness, pattern is everywhere within the frame. These formal elements reflect Cassatt’s intense engagement with Japanese aesthetics in the 1890s.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "The Child's Bath",
+            "readAt": "https://api.artic.edu/api/v1/artworks/111442?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "An extraordinary composition featuring the artist’s signature subject, The Child’s Bath was widely exhibited beginning in 1893.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Child's Bath",
+          "readAt": "https://api.artic.edu/api/v1/artworks/111442?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The steep angle from above creates a shallow picture plane, pulling viewers into the space. The carpeted floor seems to sit upright on the surface of the canvas. Adding to this sense of flatness, pattern is everywhere within the frame. These formal elements reflect Cassatt’s intense engagement with Japanese aesthetics in the 1890s.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Child's Bath",
+          "readAt": "https://api.artic.edu/api/v1/artworks/111442?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In The Child’s Bath, Cassatt centered two figures in a moment of physical closeness: a woman steadies a young charge on her lap as she holds the child’s foot in the washbasin below.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Child's Bath",
+          "readAt": "https://api.artic.edu/api/v1/artworks/111442?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

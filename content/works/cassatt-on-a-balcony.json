@@ -1,0 +1,113 @@
+{
+  "id": "cassatt-on-a-balcony",
+  "artist": "mary-cassatt",
+  "title": "On a Balcony",
+  "date": "1878–79",
+  "year": 1878,
+  "medium": "Oil on canvas",
+  "dimensions": "85.2 × 65.5 cm (33 9/16 × 25 13/16 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/26650"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/f0150d21-33ab-f6ea-0d4d-32d459f091fe/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/f0150d21-33ab-f6ea-0d4d-32d459f091fe/full/1686,/0/default.jpg",
+    "width": 9148,
+    "height": 11911,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Gift of Mrs. Albert J. Beveridge in memory of her aunt, Delia Spencer Field"
+  },
+  "archive": {
+    "aic": 26650
+  },
+  "phase": {
+    "label": "Exhibiting with the Impressionists, 1878–80",
+    "source": {
+      "label": "Art Institute of Chicago: On a Balcony",
+      "url": "https://www.artic.edu/artworks/26650"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Art Institute of Chicago: On a Balcony",
+        "url": "https://www.artic.edu/artworks/26650"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Art Institute of Chicago: On a Balcony",
+        "url": "https://www.artic.edu/artworks/26650"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In this vibrant portrayal of a woman reading, Cassatt amplified her palette and brushwork, using energetic daubs of red, yellow, pink, and blue to describe the floral backdrop and the figure’s patterned dress.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "On a Balcony",
+            "readAt": "https://api.artic.edu/api/v1/artworks/26650?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In this vibrant portrayal of a woman reading, Cassatt amplified her palette and brushwork, using energetic daubs of red, yellow, pink, and blue to describe the floral backdrop and the figure’s patterned dress.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "On a Balcony",
+          "readAt": "https://api.artic.edu/api/v1/artworks/26650?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting was included in the 1880 Impressionist exhibition, Cassatt’s second showing with the group.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "On a Balcony",
+          "readAt": "https://api.artic.edu/api/v1/artworks/26650?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Reading a newspaper rather than a novel demonstrates that even at home, the woman is connected to the contemporary world.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "On a Balcony",
+          "readAt": "https://api.artic.edu/api/v1/artworks/26650?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

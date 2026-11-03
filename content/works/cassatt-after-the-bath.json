@@ -1,0 +1,110 @@
+{
+  "id": "cassatt-after-the-bath",
+  "artist": "mary-cassatt",
+  "title": "After the Bath",
+  "date": "1901",
+  "year": 1901,
+  "medium": "pastel",
+  "dimensions": "Sheet: 66 x 100 cm (26 x 39 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1920.379"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1920.379/1920.379_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1920.379/1920.379_print.jpg",
+    "width": 900,
+    "height": 608,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of J. H. Wade"
+  },
+  "archive": {
+    "cma": 101646
+  },
+  "phase": {
+    "label": "Later pastel experiments, 1901",
+    "source": {
+      "label": "Cleveland Museum of Art: After the Bath",
+      "url": "https://clevelandart.org/art/1920.379"
+    }
+  },
+  "tags": [
+    {
+      "id": "pastel",
+      "source": {
+        "label": "Cleveland Museum of Art: After the Bath",
+        "url": "https://clevelandart.org/art/1920.379"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Cassatt typically used the technique seen here, in which she finished her sitters’ faces with a high degree of detail but rendered the rest of the composition in a much looser and sketchier style.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "After the Bath",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/101646",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "impressionism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Mary Cassatt began using pastel in the 1870s and continued to experiment with the medium throughout her career.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "After the Bath",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/101646",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The medium has been especially popular in French art. It has often been used for portraits, but can be very effective for other subjects, such as landscape paintings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pastel",
+          "readAt": "https://en.wikipedia.org/wiki/Pastel",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This drawing depicts a mother and child, one of the artist's preferred subjects.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "After the Bath",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/101646",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
