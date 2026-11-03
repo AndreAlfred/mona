@@ -1,0 +1,20 @@
+{
+  "id": "woodblock-printing",
+  "kind": "technique",
+  "name": "Woodblock printing",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Each page or image is created by carving a wooden block to leave only some areas and lines at the original level; it is these that are inked and show in the print, in a relief printing process.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Woodblock printing",
+        "readAt": "https://en.wikipedia.org/wiki/Woodblock_printing",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "woodblock print"
+}

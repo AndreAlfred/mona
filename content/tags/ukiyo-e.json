@@ -1,0 +1,20 @@
+{
+  "id": "ukiyo-e",
+  "kind": "movement",
+  "name": "Ukiyo-e",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "… is a genre of Japanese art that flourished from the 17th through 19th centuries.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Ukiyo-e",
+        "readAt": "https://en.wikipedia.org/wiki/Ukiyo-e",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "ukiyo-e"
+}

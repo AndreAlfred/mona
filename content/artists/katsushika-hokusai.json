@@ -1,0 +1,79 @@
+{
+  "id": "katsushika-hokusai",
+  "name": "Katsushika Hokusai",
+  "born": 1760,
+  "died": 1849,
+  "active": "1779–1849",
+  "nationality": "Japanese",
+  "period": "romantic",
+  "movements": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "The Met: Hokusai and ukiyo-e landscape views",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "utagawa-hiroshige",
+      "name": "Utagawa Hiroshige",
+      "source": {
+        "label": "The Met: Hiroshige and Hokusai",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      }
+    }
+  ],
+  "archive": {
+    "aic": 31492,
+    "cma": [
+      23328
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "lead": "In the colophon to One Hundred Views of Mount Fuji:",
+      "text": "When I am one hundred and ten, each dot, each line will possess a life of its own.",
+      "source": {
+        "author": "Katsushika Hokusai",
+        "title": "Colophon to One Hundred Views of Mount Fuji, quoted in “Hokusai”",
+        "year": "1834",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Hokusai",
+        "accessed": "2026-11-03",
+        "tier": 1,
+        "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Hokusai was best known for his woodblock ukiyo-e prints, but he worked in a variety of mediums including painting and book illustration.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Hokusai",
+        "readAt": "https://en.wikipedia.org/wiki/Hokusai",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Katsushika Hokusai’s much celebrated series, Thirty-Six Views of Mount Fuji (Fugaku sanjûrokkei), was begun in 1830, when the artist was 70 years old.",
+      "source": {
+        "author": "Art Institute of Chicago",
+        "title": "Under the Wave off Kanagawa",
+        "readAt": "https://api.artic.edu/api/v1/artworks/24645?fields=id,title,description",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "license": "CC BY 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
