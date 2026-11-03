@@ -1,0 +1,109 @@
+{
+  "id": "rembrandt-christ-presented-to-the-people",
+  "artist": "rembrandt-van-rijn",
+  "title": "Ecce Homo. Christ Presented to the People",
+  "date": "1655",
+  "year": 1655,
+  "medium": "drypoint",
+  "dimensions": "Sheet: 36.1 x 45.6 cm (14 3/16 x 17 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2006.155"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2006.155/2006.155_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2006.155/2006.155_print.jpg",
+    "width": 900,
+    "height": 718,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 164752
+  },
+  "phase": {
+    "label": "Late monumental drypoints",
+    "source": {
+      "label": "Cleveland: date, medium, and collection description",
+      "url": "https://clevelandart.org/art/2006.155"
+    }
+  },
+  "tags": [
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/2006.155"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Drypoint produces blurred lines and rich, velvety shadows, but these effects are lost as the plate wears.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Ecce Homo. Christ Presented to the People",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/164752",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/2006.155"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A limited number of rich impressions exist like this fine example of the fifth state, which demonstrates how Rembrandt redefined the expressive potential of printmaking.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Ecce Homo. Christ Presented to the People",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/164752",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rembrandt was an experimental and innovative printmaker and the first to execute works in pure drypoint on this monumental scale.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Ecce Homo. Christ Presented to the People",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/164752",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The throng in Christ Presented to the People represents a cross section of the population and reflects the pictorial tradition that common humanity condemned Christ. Large areas of the imposing building, symbolizing the crushing weight and authority of the state, remain unworked so that blank white paper seems radiant in contrast to rich black shadows.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Ecce Homo. Christ Presented to the People",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/164752",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

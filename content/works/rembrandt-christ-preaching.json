@@ -1,0 +1,116 @@
+{
+  "id": "rembrandt-christ-preaching",
+  "artist": "rembrandt-van-rijn",
+  "title": "Christ Preaching ('La Petite Tombe')",
+  "date": "c. 1652",
+  "year": 1647,
+  "medium": "etching, drypoint, and burin",
+  "dimensions": "Sheet: 15.8 x 21 cm (6 1/4 x 8 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.306"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.306/1958.306_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.306/1958.306_print.jpg",
+    "width": 1180,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland in honor of William Mathewson Milliken"
+  },
+  "archive": {
+    "cma": 135295
+  },
+  "phase": {
+    "label": "Mature Amsterdam printmaking",
+    "source": {
+      "label": "Cleveland: date, medium, and collection description",
+      "url": "https://clevelandart.org/art/1958.306"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1958.306"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In this impression, he allowed ink to remain on the plate’s surface during printing to create the dramatic shadows in the background, producing a contrast to the spiritual glow of light emanating from Christ.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Christ Preaching ('La Petite Tombe')",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135295",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1958.306"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland: date, medium, and collection description",
+        "url": "https://clevelandart.org/art/1958.306"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Rembrandt’s prints with biblical subject matter often focus on Christ’s relationships with ordinary people.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Christ Preaching ('La Petite Tombe')",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135295",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rembrandt worked more prolifically in etching than any artist before him, using it for about 300 prints. This work demonstrates the draftsman-like, sketchy technique he brought to the medium.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Christ Preaching ('La Petite Tombe')",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135295",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Here, he depicted Christ preaching in a humble village, with onlookers ranging from distracted children to turbaned merchants.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Christ Preaching ('La Petite Tombe')",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135295",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
