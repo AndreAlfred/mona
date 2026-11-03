@@ -1,0 +1,110 @@
+{
+  "id": "cassatt-after-the-bullfight",
+  "artist": "mary-cassatt",
+  "title": "After the Bullfight",
+  "date": "1873",
+  "year": 1873,
+  "medium": "Oil on canvas",
+  "dimensions": "110.5 × 93.4 cm (43 1/2 × 36 3/4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/31816"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/7a314af6-336f-b6a4-809c-15659313a757/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/7a314af6-336f-b6a4-809c-15659313a757/full/1686,/0/default.jpg",
+    "width": 10124,
+    "height": 12929,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Bequest of Mrs. Sterling Morton"
+  },
+  "archive": {
+    "aic": 31816
+  },
+  "phase": {
+    "label": "Early travels: Seville, 1873",
+    "source": {
+      "label": "Art Institute of Chicago: After the Bullfight",
+      "url": "https://www.artic.edu/artworks/31816"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Art Institute of Chicago: After the Bullfight",
+        "url": "https://www.artic.edu/artworks/31816"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Cassatt harmonized these various elements in After the Bullfight, executed in Seville: The figure’s controlled, tonal modeling recalls that of Spanish Baroque painter Diego Velázquez, and the dynamic flourishes of rich pigment describing the bullfighter’s regalia evoke the modernist techniques of Frenchman Édouard Manet.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "After the Bullfight",
+            "readAt": "https://api.artic.edu/api/v1/artworks/31816?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Cassatt harmonized these various elements in After the Bullfight, executed in Seville: The figure’s controlled, tonal modeling recalls that of Spanish Baroque painter Diego Velázquez, and the dynamic flourishes of rich pigment describing the bullfighter’s regalia evoke the modernist techniques of Frenchman Édouard Manet.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "After the Bullfight",
+          "readAt": "https://api.artic.edu/api/v1/artworks/31816?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "She looked especially to Renaissance and Baroque art of the 15th to 17th centuries and to the avant-garde explorations of her French contemporaries for inspiration.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "After the Bullfight",
+          "readAt": "https://api.artic.edu/api/v1/artworks/31816?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "During her first years as a professional artist, Cassatt traveled largely on her own to study European art, including an extended stay in Italy and Spain in 1872–73.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "After the Bullfight",
+          "readAt": "https://api.artic.edu/api/v1/artworks/31816?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

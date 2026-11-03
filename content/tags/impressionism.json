@@ -1,0 +1,21 @@
+{
+  "id": "impressionism",
+  "name": "Impressionism",
+  "kind": "movement",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Impressionism originated with a group of Paris-based artists whose independent exhibitions brought them to prominence during the 1870s and 1880s.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Impressionism",
+        "readAt": "https://en.wikipedia.org/wiki/Impressionism",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "impressionism"
+}

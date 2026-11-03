@@ -1,0 +1,21 @@
+{
+  "id": "pastel",
+  "name": "Pastel",
+  "kind": "material",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Pastel sticks or crayons consist of powdered pigment combined with a binder.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Pastel",
+        "readAt": "https://en.wikipedia.org/wiki/Pastel",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "pastel"
+}

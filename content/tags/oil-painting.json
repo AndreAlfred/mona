@@ -1,0 +1,21 @@
+{
+  "id": "oil-painting",
+  "name": "Oil painting",
+  "kind": "technique",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Oil painting is a painting method involving the procedure of painting with pigments combined with a drying oil as the binder.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Oil painting",
+        "readAt": "https://en.wikipedia.org/wiki/Oil_painting",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "oil painting"
+}

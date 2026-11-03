@@ -1,0 +1,21 @@
+{
+  "id": "aquatint",
+  "name": "Aquatint",
+  "kind": "technique",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Aquatint is an intaglio printmaking technique, a variant of etching that produces areas of tone rather than lines.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Aquatint",
+        "readAt": "https://en.wikipedia.org/wiki/Aquatint",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "aquatint"
+}
