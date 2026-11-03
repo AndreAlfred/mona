@@ -1,0 +1,111 @@
+{
+  "id": "hokusai-great-wave",
+  "artist": "katsushika-hokusai",
+  "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series \"Thirty-Six Views of Mount Fuji (Fugaku sanjūrokkei)\"",
+  "date": "1830/33",
+  "year": 1826,
+  "medium": "Color woodblock print; oban",
+  "dimensions": "25.4 × 37.6 cm (10 × 14 3/4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/24645"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/1686,/0/default.jpg",
+    "width": 6679,
+    "height": 4577,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Clarence Buckingham Collection"
+  },
+  "archive": {
+    "aic": 24645
+  },
+  "phase": {
+    "label": "Thirty-Six Views of Mount Fuji, begun at age 70",
+    "source": {
+      "label": "Art Institute of Chicago collection description",
+      "url": "https://api.artic.edu/api/v1/artworks/24645?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "AIC medium: Color woodblock print",
+        "url": "https://www.artic.edu/artworks/24645"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Several thousand impressions were taken of the design from the cherry-wood printing blocks, literally as many as the publisher could sell.",
+          "source": {
+            "author": "British Museum",
+            "title": "Hokusai’s The Great Wave",
+            "readAt": "https://artsandculture.google.com/asset/hokusai-s-the-great-wave/lwFOIObpzzqtrA?hl=en",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "The Met: Art of the Pleasure Quarters and the Ukiyo-e Style",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Katsushika Hokusai’s much celebrated series, Thirty-Six Views of Mount Fuji (Fugaku sanjûrokkei), was begun in 1830, when the artist was 70 years old. This tour-de-force series established the popularity of landscape prints, which continues to this day.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Under the Wave off Kanagawa",
+          "readAt": "https://api.artic.edu/api/v1/artworks/24645?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Perhaps most striking about the series is Hokusai’s copious use of the newly affordable Berlin blue pigment, featured in many of the compositions in the color for the sky and water.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Under the Wave off Kanagawa",
+          "readAt": "https://api.artic.edu/api/v1/artworks/24645?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "lead": "In the colophon to One Hundred Views of Mount Fuji:",
+        "text": "At seventy-three years I partly understood the structure of animals, birds, insects and fishes, and the life of grasses and plants.",
+        "source": {
+          "author": "Katsushika Hokusai",
+          "title": "Colophon to One Hundred Views of Mount Fuji, quoted in “Hokusai”",
+          "year": "1834",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hokusai",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
