@@ -59,5 +59,11 @@ export async function requestStatus(n: number) {
         : labels.includes("researching")
           ? "researching"
           : "queued";
-  return { number: n, state, url: i.html_url as string };
+  return {
+    number: n,
+    state,
+    url: i.html_url as string,
+    title: String(i.title).replace(/^\[[^\]]*\]\s*/, ""),
+    closedAt: (i.closed_at as string | null) ?? null,
+  };
 }

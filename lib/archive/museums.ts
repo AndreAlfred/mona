@@ -1,6 +1,7 @@
 import type { ArchiveWork } from "../types";
 import { slugify, stripHtml, today, UA } from "../util";
 import { commonsImagesForAic } from "./commons";
+import { wikidataWork } from "./wikidata";
 
 /**
  * AIC's image server won't serve images embedded in other sites, so AIC works
@@ -195,9 +196,10 @@ export async function cmaWorksByCreator(creatorId: number, limit = 40): Promise<
 }
 
 export async function archiveWork(key: string): Promise<ArchiveWork | null> {
-  const m = /^(aic|cma)-(\d+)$/.exec(key);
+  const m = /^(aic|cma|wd)-(\d+)$/.exec(key);
   if (!m) return null;
   const id = Number(m[2]);
+  if (m[1] === "wd") return wikidataWork(`Q${id}`);
   if (m[1] === "aic") {
     const r = await json(`https://api.artic.edu/api/v1/artworks/${id}?fields=${AIC_FIELDS.join(",")}`);
     const w = aicToWork(r.data);

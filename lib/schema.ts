@@ -84,6 +84,8 @@ export function periodForYear(year: number): PeriodId {
 export const ArchiveRef = z.object({
   aic: z.number().int().optional(),
   cma: z.number().int().optional(),
+  /** Wikidata item for works from any other museum. */
+  wd: z.string().regex(/^Q\d+$/).optional(),
 });
 
 export const Work = z.object({

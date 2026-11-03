@@ -4,8 +4,9 @@
   padding: 1.5rem var(--gutter) 5rem;
 }
 .intro {
-  max-width: var(--measure);
+  max-width: calc(var(--measure) + 2 * var(--gutter));
   margin: 1.5rem auto 2.5rem;
+  padding: 0 var(--gutter);
   animation: rise 600ms var(--ease-out) both;
 }
 .kicker {
@@ -115,4 +116,62 @@
     opacity: 1;
     transform: none;
   }
+}
+
+.request {
+  margin-top: 1.4rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.requests {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: var(--measure);
+}
+.requestItem {
+  border-top: 1px solid var(--rule);
+  animation: rise 500ms var(--ease-out) both;
+}
+.requestItem:last-child {
+  border-bottom: 1px solid var(--rule);
+}
+.requestLink {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem 0;
+  text-decoration: none;
+}
+.requestThumb {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: cover;
+  background: var(--wash);
+  display: block;
+}
+.requestTitle {
+  display: block;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  margin: 0.1rem 0 0.2rem;
+}
+.requestState {
+  display: block;
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--ink-2);
+}
+.requestItem[data-state="done"] .requestState {
+  color: var(--accent);
+  font-style: normal;
+}
+.requestItem[data-state="failed"] .requestState {
+  color: var(--ink-3);
+}
+
+.page .intro {
+  padding: 0;
 }

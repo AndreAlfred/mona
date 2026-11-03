@@ -41,7 +41,13 @@ export function ArtistPage({ id }: { id: string }) {
         {passages.map((p, i) => (
           <Passage key={i} p={p!} />
         ))}
-        {!ref.curated && <ResearchButton subject={{ type: "artist", key: ref.key, label: "this artist" }} />}
+        <div className={styles.request}>
+          <ResearchButton
+            subject={{ type: "artist", key: ref.key, label: ref.name }}
+            name={ref.name}
+            meta={{ title: `More by ${ref.name}`, href: `/artist/${ref.key}` }}
+          />
+        </div>
       </header>
       <Feed only={id} />
     </>

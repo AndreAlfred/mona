@@ -91,13 +91,6 @@ export function WorkCard({
           <CardActions card={card} />
         </header>
 
-        {!card.curated && card.research && (
-          <div className={styles.archive}>
-            <span className="smallcaps">From the archive · not yet curated</span>
-            <ResearchButton subject={card.research} onLanded={onLanded} />
-          </div>
-        )}
-
         {card.sections.map((s) => (
           <Section key={s.id} heading={s.heading} passages={s.passages} />
         ))}
@@ -112,6 +105,18 @@ export function WorkCard({
             ))}
           </section>
         ))}
+
+        {!card.curated && card.research && (
+          <aside className={styles.archive}>
+            <p className={`${styles.archiveLabel} smallcaps`}>From the archive · not yet curated</p>
+            <ResearchButton
+              subject={card.research}
+              name="this painting"
+              meta={{ title: `${card.title} · ${card.artist.name}`, href: `/${card.key}`, thumb: card.image.url }}
+              onLanded={onLanded}
+            />
+          </aside>
+        )}
 
         <Threads card={card} />
       </div>

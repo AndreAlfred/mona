@@ -93,6 +93,6 @@ export function archiveCard(
       const id = slugify(m);
       return { name: m, href: opts.tags?.[id] ? `/tag/${id}` : `/tag/${id}?term=${encodeURIComponent(m)}` };
     }),
-    research: { type: "work", key: w.key, label: "this work" },
+    research: { type: "work", key: w.key, label: "this painting" },
   };
 }

@@ -4,7 +4,7 @@ import { archiveWork } from "@/lib/archive/museums";
 import { createRequest, findOpenRequest, type RequestSubject } from "@/lib/github";
 
 const KEY = {
-  work: /^(aic|cma)-\d{1,9}$/,
+  work: /^(aic|cma|wd)-\d{1,12}$/,
   artist: /^[a-z0-9]+(?:-[a-z0-9]+)*$/,
   tag: /^[a-z0-9]+(?:-[a-z0-9]+)*$/,
 };
@@ -36,10 +36,23 @@ export async function POST(req: Request) {
     title = `${w.title} — ${w.artistName}`;
     details = { title: w.title, artist: w.artistName, museum: w.museum.url };
   } else if (type === "artist") {
+    // Curated artists live in the deployed catalog; others in the archive index.
+    const catalog = await fetch(new URL("/data/catalog.json", req.url))
+      .then((r) => r.json())
+      .catch(() => null);
+    const curated = catalog?.artists?.[key] as { name: string; wikidata?: string; workIds: string[] } | undefined;
     const a = (archive as { id: string; name: string; aic?: number; cma?: number[] }[]).find((x) => x.id === key);
-    if (!a) return Response.json({ error: "unknown artist" }, { status: 404 });
-    title = a.name;
-    details = { name: a.name, aic: a.aic, cma: a.cma };
+    if (!curated && !a) return Response.json({ error: "unknown artist" }, { status: 404 });
+    title = `More by ${curated?.name ?? a!.name}`;
+    details = {
+      goal: "find more works by this artist",
+      name: curated?.name ?? a!.name,
+      curated: Boolean(curated),
+      curatedWorks: curated?.workIds ?? [],
+      wikidata: curated?.wikidata,
+      aic: a?.aic,
+      cma: a?.cma,
+    };
   } else {
     title = `tag “${key.replace(/-/g, " ")}”`;
   }

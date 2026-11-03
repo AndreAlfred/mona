@@ -27,7 +27,13 @@ export type DeviceState = {
   passphrase?: string;
   /** subject key ("work:aic-123" | "artist:<id>" | "tag:<id>") -> GitHub issue number */
   requests: Record<string, number>;
+  /** What each request was for, so the Requests page can list it. */
+  requestMeta?: Record<string, RequestMeta>;
+  /** Finished requests the reader has already looked at (no dot for these). */
+  seenDone?: string[];
 };
+
+export type RequestMeta = { title: string; href: string; thumb?: string; at: number };
 
 const KEY = "mona:v1";
 const listeners = new Set<() => void>();
@@ -138,4 +144,24 @@ function dedupe(list: Entry[]) {
   const seen = new Map<string, Entry>();
   for (const e of list) if (!seen.has(e.key) || seen.get(e.key)!.at > e.at) seen.set(e.key, e);
   return [...seen.values()].sort((a, b) => b.at - a.at);
+}
+
+export function recordRequest(id: string, issue: number, meta: RequestMeta, passphrase?: string) {
+  update((s) => ({
+    ...s,
+    passphrase: passphrase ?? s.passphrase,
+    requests: { ...s.requests, [id]: issue },
+    requestMeta: { ...(s.requestMeta ?? {}), [id]: meta },
+    seenDone: (s.seenDone ?? []).filter((x) => x !== `${id}#${issue}`),
+  }));
+}
+
+export function markRequestsSeen(keys: string[]) {
+  update((s) => ({ ...s, seenDone: [...new Set([...(s.seenDone ?? []), ...keys])] }));
+}
+
+/** Where a request's results live, for requests made before metadata was stored. */
+export function requestHref(id: string) {
+  const [type, key] = id.split(":");
+  return type === "work" ? `/a/${key}` : type === "artist" ? `/artist/${key}` : `/tag/${key}`;
 }

@@ -230,6 +230,7 @@ function RunView({
       {done && (
         <EndOfArtist
           artist={run.artist.name}
+          artistKey={run.artist.key}
           seen={shown.map((c) => ({ thumb: c.image.url, title: c.title }))}
           canContinue={run.remaining > 0}
           onContinue={onContinue}

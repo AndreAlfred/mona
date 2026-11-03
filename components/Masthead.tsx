@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { RequestsLink } from "./RequestsLink";
 import styles from "./Masthead.module.css";
 
 export function Masthead() {
@@ -10,6 +11,7 @@ export function Masthead() {
       <nav className={`${styles.nav} smallcaps`}>
         <Link href="/collection">Collection</Link>
         <Link href="/history">History</Link>
+        <RequestsLink />
       </nav>
     </header>
   );

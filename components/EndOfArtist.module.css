@@ -128,3 +128,11 @@
     transform: none;
   }
 }
+
+.more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.3rem;
+  max-width: 26rem;
+}

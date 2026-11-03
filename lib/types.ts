@@ -12,8 +12,8 @@ export type CardImage = {
 
 /** A work built live from a museum's open data. No AI anywhere in it. */
 export type ArchiveWork = {
-  key: string; // "aic-80607" | "cma-94979"
-  source: "aic" | "cma";
+  key: string; // "aic-80607" | "cma-94979" | "wd-12345" (Wikidata Q12345)
+  source: "aic" | "cma" | "wd";
   sourceId: number;
   title: string;
   date: string;
@@ -26,6 +26,9 @@ export type ArchiveWork = {
   image: CardImage;
   museumText?: QuotePassage;
   tags: { id: string; name: string }[];
+  /** Wikidata works only. */
+  wikidata?: string;
+  aic?: number;
 };
 
 /** Live context about an artist from Wikipedia, Wikiquote and Wikidata. */

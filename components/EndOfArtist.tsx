@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
+import { ResearchButton } from "./ResearchButton";
 import styles from "./EndOfArtist.module.css";
 
 const MAX = 150; // px the tether can stretch, visually
@@ -10,6 +11,7 @@ const stretch = (raw: number) => MAX * (1 - Math.exp(-Math.max(0, raw) / 230));
 
 export function EndOfArtist({
   artist,
+  artistKey,
   seen,
   canContinue,
   onContinue,
@@ -17,6 +19,7 @@ export function EndOfArtist({
   active,
 }: {
   artist: string;
+  artistKey: string;
   seen: { thumb: string; title: string }[];
   canContinue: boolean;
   onContinue: () => void;
@@ -115,7 +118,15 @@ export function EndOfArtist({
           Keep going with {artist}
         </button>
       ) : (
-        <p className={styles.note}>That’s everything Mona has by {artist} for now.</p>
+        <div className={styles.more}>
+          <p className={styles.note}>That’s everything Mona has by {artist} for now.</p>
+          <ResearchButton
+            variant="panel"
+            subject={{ type: "artist", key: artistKey, label: artist }}
+            name={artist}
+            meta={{ title: `More by ${artist}`, href: `/artist/${artistKey}`, thumb: seen[0]?.thumb }}
+          />
+        </div>
       )}
 
       <div className={styles.leave} aria-live="polite">

@@ -47,7 +47,14 @@ export function TagPage({ id, term }: { id: string; term?: string }) {
         <p className={`${styles.kicker} smallcaps`}>{tag ? tag.kind : "Thread · from the archive"}</p>
         <h1 className={styles.h1}>{name.charAt(0).toUpperCase() + name.slice(1)}</h1>
         {tag?.summary.map((p, i) => <Passage key={i} p={p} />)}
-        {!tag && <ResearchButton subject={{ type: "tag", key: id, label: "this thread" }} />}
+        {!tag && (
+          <ResearchButton
+            subject={{ type: "tag", key: id, label: name }}
+            name={name}
+            cta={`Ask our curator to explain ${name}`}
+            meta={{ title: `On ${name}`, href: `/tag/${id}` }}
+          />
+        )}
       </header>
       {!cards ? (
         <Loading />
