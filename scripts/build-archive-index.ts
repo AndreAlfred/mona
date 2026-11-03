@@ -182,6 +182,8 @@ async function main() {
   const out: Entry[] = [];
   for (const e of [...merged.values()].sort((x, y) => y.count - x.count)) {
     if (e.count < 4 || !e.born) continue;
+    // Cultures and schools ("Venetian", born 1000, died 1900) are not artists.
+    if (e.born < 1150 || (e.died && e.died - e.born > 105)) continue;
     const mid = e.born + 35;
     if (mid > 1930) continue;
     e.period = periodForYear(mid);

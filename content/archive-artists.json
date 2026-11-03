@@ -1,23 +1,5 @@
 [
  {
-  "id": "venetian",
-  "name": "Venetian",
-  "born": 1000,
-  "died": 1900,
-  "period": "medieval",
-  "count": 5,
-  "aic": 29742
- },
- {
-  "id": "north-netherlandish",
-  "name": "North Netherlandish",
-  "born": 1000,
-  "died": 1900,
-  "period": "medieval",
-  "count": 4,
-  "aic": 29775
- },
- {
   "id": "giovanni-di-paolo",
   "name": "Giovanni di Paolo",
   "born": 1403,
