@@ -1,0 +1,107 @@
+{
+  "id": "van-gogh-peasant-woman-digging",
+  "artist": "vincent-van-gogh",
+  "title": "A Peasant Woman Digging in Front of Her Cottage",
+  "date": "c. 1885",
+  "year": 1880,
+  "medium": "Oil on canvas",
+  "dimensions": "31.3 × 42 cm (12 5/16 × 16 1/2 in.); Framed: 52.1 × 62.6 × 10.8 cm (20 1/2 × 24 5/8 × 4 1/4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/28862"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/1d3a275d-45dd-6026-b6ed-d7d8df417a3d/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/1d3a275d-45dd-6026-b6ed-d7d8df417a3d/full/1686,/0/default.jpg",
+    "width": 6255,
+    "height": 4687,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Bequest of Dr. John J. Ireland"
+  },
+  "archive": {
+    "aic": 28862
+  },
+  "phase": {
+    "label": "Nuenen, 1883–85",
+    "source": {
+      "label": "Art Institute of Chicago record",
+      "url": "https://www.artic.edu/artworks/28862"
+    }
+  },
+  "tags": [
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In Nuenen, the artist also returned to the more monochromatic palette of browns, greens, and grays that he had used in his early years in the Netherlands. He painted a series of cottages— including this painting—based on his walks through the village.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: A Peasant Woman Digging in Front of Her Cottage",
+          "readAt": "https://api.artic.edu/api/v1/artworks/28862?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/28862",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Van Gogh was an admirer of the Realism of Jules Breton, Gustave Courbet and Millet, and he compared his copies to a musician's interpreting Beethoven.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vincent van Gogh",
+          "readAt": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I've tried to bring out the idea that these people eating potatoes by the light of their lamp have dug the earth with the self-same hands they are now putting into the dish, and it thus suggests manual labour and - a meal honestly earned.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 404 to Theo van Gogh, Nuenen, c. 30 April 1885",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/15/404.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1885"
+        },
+        "lead": "On The Potato Eaters, painted the same spring:"
+      },
+      {
+        "kind": "quote",
+        "text": "Van Gogh carefully infused the woman, the cottage, and the setting with the same earthy tones and the loose, directional texture of the brushstrokes. In doing so, he emphasized the way she belonged to this place, and it to her.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: A Peasant Woman Digging in Front of Her Cottage",
+          "readAt": "https://api.artic.edu/api/v1/artworks/28862?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/28862",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

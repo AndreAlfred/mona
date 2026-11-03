@@ -1,0 +1,143 @@
+{
+  "id": "van-gogh-bedroom",
+  "artist": "vincent-van-gogh",
+  "title": "The Bedroom",
+  "date": "1889",
+  "year": 1889,
+  "medium": "Oil on canvas",
+  "dimensions": "73.6 × 92.3 cm (29 × 36 5/8 in.); Framed: 88.9 × 108 × 8.9 cm (35 × 42 1/2 × 3 1/2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/28560"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1686,/0/default.jpg",
+    "width": 12614,
+    "height": 9875,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection"
+  },
+  "archive": {
+    "aic": 28560
+  },
+  "phase": {
+    "label": "Saint-Rémy, September 1889 — a repetition of an Arles composition",
+    "source": {
+      "label": "Art Institute of Chicago record",
+      "url": "https://www.artic.edu/artworks/28560"
+    }
+  },
+  "tags": [
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Van Gogh, letter 554",
+        "url": "https://www.webexhibits.org/vangogh/letter/18/554.htm"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The shadows and the cast shadows are suppressed; it is painted in free flat tints like the Japanese prints.",
+          "source": {
+            "author": "Vincent van Gogh",
+            "title": "Letter 554 to Theo van Gogh, Arles, 16 October 1888",
+            "readAt": "https://www.webexhibits.org/vangogh/letter/18/554.htm",
+            "accessed": "2026-11-03",
+            "tier": 1,
+            "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+            "year": "1888"
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The composition exists in three versions, the first of which Van Gogh conceived in October 1888, a month after he moved into the home.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: The Bedroom",
+          "readAt": "https://api.artic.edu/api/v1/artworks/28560?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/28560",
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting in the Art Institute’s collection is Van Gogh’s second version of the scene, made nearly a year after the first, in September 1889. He produced a third, smaller version at the same time as a gift for his mother and sister.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: The Bedroom",
+          "readAt": "https://api.artic.edu/api/v1/artworks/28560?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/28560",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "I'd like you to spend some time here, you'd feel it — after some time your vision changes, you see with a more Japanese eye, you feel colour differently.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 620 to Theo van Gogh, Arles, c. 5 June 1888",
+          "readAt": "https://en.wikiquote.org/wiki/Vincent_van_Gogh",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "via Wikiquote",
+          "year": "1888",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This time it's just simply my bedroom, only here colour is to do everything, and giving by its simplification a grander style to things, is to be suggestive here of rest or of sleep in general. In a word, looking at the picture ought to rest the brain, or rather the imagination.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 554 to Theo van Gogh, Arles, 16 October 1888",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/18/554.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1888"
+        },
+        "lead": "Writing to Theo about the first version:"
+      },
+      {
+        "kind": "quote",
+        "text": "This by way of revenge for the enforced rest I was obliged to take.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 554 to Theo van Gogh, Arles, 16 October 1888",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/18/554.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1888"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

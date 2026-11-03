@@ -1,0 +1,57 @@
+name: content-gate
+
+# Every PR: tests, typecheck, build, and the content gate (schema, limits,
+# images, verbatim quote verification). PRs from this repo that touch only
+# content/ are merged automatically when everything passes.
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: gate-${{ github.event.pull_request.number || github.sha }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run typecheck
+      - name: Content gate
+        env:
+          GATE_BASE: ${{ github.event_name == 'pull_request' && format('origin/{0}', github.base_ref) || 'HEAD~1' }}
+        run: npm run gate
+      - run: npm run build
+
+      - name: Is this a content-only PR from this repo?
+        id: scope
+        if: github.event_name == 'pull_request'
+        run: |
+          changed=$(git diff --name-only origin/${{ github.base_ref }}...HEAD)
+          echo "$changed"
+          if [ -n "$changed" ] && ! echo "$changed" | grep -qv '^content/'; then
+            echo "content_only=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Auto-merge
+        if: >
+          github.event_name == 'pull_request' &&
+          steps.scope.outputs.content_only == 'true' &&
+          github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh pr merge ${{ github.event.pull_request.number }} --squash --delete-branch

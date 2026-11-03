@@ -12,7 +12,10 @@
     "validate": "tsx scripts/validate.ts",
     "verify-quotes": "tsx scripts/verify-quotes.ts",
     "archive-index": "tsx scripts/build-archive-index.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "new-work": "tsx scripts/new-work.ts",
+    "coverage": "tsx scripts/coverage.ts",
+    "gate": "tsx scripts/gate.ts"
   },
   "dependencies": {
     "next": "16.4.4",

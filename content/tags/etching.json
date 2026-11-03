@@ -1,0 +1,34 @@
+{
+  "id": "etching",
+  "kind": "technique",
+  "name": "Etching",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Etching is traditionally the process of using strong acid or mordant to cut into the unprotected parts of a metal surface to create a design in intaglio (incised) in the metal.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Etching",
+        "readAt": "https://en.wikipedia.org/wiki/Etching",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "As a method of printmaking, it is, along with engraving, the most important technique for old master prints, and remains in wide use today.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Etching",
+        "readAt": "https://en.wikipedia.org/wiki/Etching",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "etching"
+}

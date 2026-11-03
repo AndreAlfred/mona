@@ -1,0 +1,114 @@
+{
+  "id": "van-gogh-self-portrait-1887",
+  "artist": "vincent-van-gogh",
+  "title": "Self-Portrait",
+  "date": "1887",
+  "year": 1887,
+  "medium": "Oil on artist's board, mounted on cradled panel",
+  "dimensions": "41 × 32.5 cm (16 1/8 × 12 13/16 in.); Framed: 61.6 × 53.4 × 8.9 cm (24 1/4 × 21 × 3 1/2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/80607"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/47c5bcb8-62ef-e5d7-55e7-f5121f409a30/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/47c5bcb8-62ef-e5d7-55e7-f5121f409a30/full/1686,/0/default.jpg",
+    "width": 6116,
+    "height": 7794,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Joseph Winterbotham Collection"
+  },
+  "archive": {
+    "aic": 80607
+  },
+  "phase": {
+    "label": "Paris, 1886–88",
+    "source": {
+      "label": "Art Institute of Chicago record",
+      "url": "https://www.artic.edu/artworks/80607"
+    }
+  },
+  "tags": [
+    {
+      "id": "divisionism",
+      "source": {
+        "label": "Art Institute of Chicago record",
+        "url": "https://www.artic.edu/artworks/80607"
+      }
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Van Gogh was apparently inspired by the energy of the city and by his introduction to Impressionism, and he created at least twenty-four self-portraits during his two-year stay in the French capital.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Self-Portrait",
+          "readAt": "https://api.artic.edu/api/v1/artworks/80607?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/80607",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "What was for Seurat a method based on the cool objectivity of science became in Van Gogh’s hands an intense emotional language.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Self-Portrait",
+          "readAt": "https://api.artic.edu/api/v1/artworks/80607?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/80607",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I have lacked money for paying models else I had entirely given myself to figure painting.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 459a to Horace M. Livens, Paris, August–October 1886",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/17/459a.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1886"
+        },
+        "lead": "From Paris, to the English painter Horace Livens:"
+      },
+      {
+        "kind": "quote",
+        "text": "I prefer painting people’s eyes to cathedrals … However solemn and imposing the latter may be—a human soul, be it that of a poor streetwalker, is more interesting to me.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter to Theo van Gogh (as quoted by the Art Institute of Chicago)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/80607?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/80607"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

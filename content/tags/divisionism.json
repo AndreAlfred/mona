@@ -1,0 +1,21 @@
+{
+  "id": "divisionism",
+  "kind": "technique",
+  "name": "Divisionism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "By requiring the viewer to combine the colors optically instead of physically mixing pigments, Divisionists believed that they were achieving the maximum luminosity scientifically possible.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Divisionism",
+        "readAt": "https://en.wikipedia.org/wiki/Divisionism",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Pointillism"
+}

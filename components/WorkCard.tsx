@@ -128,8 +128,12 @@ function Section({ heading, passages }: { heading: string; passages: CardModel["
 }
 
 function Threads({ card }: { card: CardModel }) {
+  const movementNames = new Set(card.movements.map((m) => m.name.toLowerCase()));
   const groups = [
-    { label: "Techniques & materials", items: card.tags.map((t) => ({ name: t.name, href: t.href, ai: t.ai })) },
+    {
+      label: "Techniques & styles",
+      items: card.tags.filter((t) => !movementNames.has(t.name.toLowerCase())).map((t) => ({ name: t.name, href: t.href, ai: t.ai })),
+    },
     { label: "Movement", items: card.movements.map((m) => ({ ...m, ai: false })) },
     { label: "Circle", items: card.peers.map((p) => ({ ...p, ai: false })) },
   ].filter((g) => g.items.length);

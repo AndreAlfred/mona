@@ -36,7 +36,7 @@ export function Passage({ p, compact }: { p: P; compact?: boolean }) {
             <>
               {" · "}
               <a href={s.readAt} target="_blank" rel="noreferrer">
-                read here
+                source text
               </a>
             </>
           )}

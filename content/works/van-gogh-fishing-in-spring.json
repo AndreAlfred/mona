@@ -1,0 +1,117 @@
+{
+  "id": "van-gogh-fishing-in-spring",
+  "artist": "vincent-van-gogh",
+  "title": "Fishing in Spring, the Pont de Clichy (Asnières)",
+  "date": "1887",
+  "year": 1887,
+  "medium": "Oil on canvas",
+  "dimensions": "50.5 × 60 cm (19 7/8 × 23 5/8 in.); Framed: 71.2 × 78.5 × 4.8 cm (28 × 30 7/8 × 1 7/8 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/109314"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/5512cee9-6d00-d01b-b0be-ac7843cc8f76/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/5512cee9-6d00-d01b-b0be-ac7843cc8f76/full/1686,/0/default.jpg",
+    "width": 10057,
+    "height": 8391,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Gift of Charles Deering McCormick, Brooks McCormick, and Roger McCormick"
+  },
+  "archive": {
+    "aic": 109314
+  },
+  "phase": {
+    "label": "Paris, 1886–88",
+    "source": {
+      "label": "Art Institute of Chicago record",
+      "url": "https://www.artic.edu/artworks/109314"
+    }
+  },
+  "tags": [
+    {
+      "id": "divisionism",
+      "source": {
+        "label": "Art Institute of Chicago record",
+        "url": "https://www.artic.edu/artworks/109314"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Divisionism, also called chromoluminarism, is the characteristic style in Neo-Impressionist painting defined by the separation of colors into individual dots or patches that interact optically.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Divisionism",
+            "readAt": "https://en.wikipedia.org/wiki/Divisionism",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Although Van Gogh was only in Paris working among these artists for about two years, their influence can be seen here in his use of small brushstrokes of pure, brilliant color that combine to create the effect of light reflecting off the various surfaces represented in the composition.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Fishing in Spring, the Pont de Clichy (Asnières)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/109314?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/109314",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Van Gogh was inspired by Signac and Georges Seurat, both of whose work is on view nearby. Their technique, called divisionism, used science-based theories of color, which they applied in individual strokes to maximize luminosity.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Fishing in Spring, the Pont de Clichy (Asnières)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/109314?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/109314",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Vincent would start out with a large canvas mounted on his back, then divide it up in as many sections as demanded by the motifs he found. In the evening he brought it home filled, and it was like a little portable museum, wherein were culled all the emotions of the day.",
+        "source": {
+          "author": "Émile Bernard",
+          "title": "Preface, Lettres de Vincent van Gogh à Émile Bernard",
+          "readAt": "https://en.wikiquote.org/wiki/Vincent_van_Gogh",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "publisher": "Ambroise Vollard, Paris (via Wikiquote)",
+          "year": "1911",
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "His friend the painter Émile Bernard remembered these outings:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

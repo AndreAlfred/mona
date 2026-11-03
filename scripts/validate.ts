@@ -6,6 +6,7 @@
 import { loadContent, passagesOf, isQuote } from "../lib/content";
 import { QUOTE_WORD_LIMIT } from "../lib/schema";
 import { UA } from "../lib/util";
+import { readFileSync } from "node:fs";
 
 async function main() {
   const { artists, works, tags, archive, errors } = loadContent();
@@ -22,7 +23,7 @@ async function main() {
       if (!isQuote(p)) continue;
       const n = p.text.split(/\s+/).filter(Boolean).length;
       if (n > QUOTE_WORD_LIMIT) problems.push(`${file} ${where}: quote is ${n} words (limit ${QUOTE_WORD_LIMIT})`);
-      if (p.source.tier <= 3) {
+      if (p.source.tier === 2 || p.source.tier === 3) {
         const k = `${p.source.author}|${p.source.title}`;
         perSource.set(k, (perSource.get(k) ?? 0) + 1);
       }
@@ -37,6 +38,10 @@ async function main() {
     checkPassages(file, "artist", a);
   }
   for (const { file, value: t } of tags) checkPassages(file, "tag", t);
+  for (const { file } of [...artists, ...works, ...tags]) {
+    const raw = readFileSync(file, "utf8");
+    if (/TODO|_museumText/.test(raw)) problems.push(`${file}: leftover TODO or _museumText scaffold field`);
+  }
   for (const { file, value: w } of works) {
     if (workIds.has(w.id)) problems.push(`${file}: duplicate work id ${w.id}`);
     workIds.add(w.id);
@@ -54,6 +59,19 @@ async function main() {
   if (process.argv.includes("--images")) {
     await Promise.all(
       works.map(async ({ file, value: w }) => {
+        // AIC's image server refuses non-browser clients, so check the
+        // record instead: public domain, and this exact image id.
+        const iiif = /artic\.edu\/iiif\/2\/([^/]+)\//.exec(w.image.url)?.[1];
+        if (iiif) {
+          const rec = w.archive?.aic
+            ? await fetch(`https://api.artic.edu/api/v1/artworks/${w.archive.aic}?fields=image_id,is_public_domain`, { headers: { "User-Agent": UA } })
+                .then((r) => r.json())
+                .catch(() => null)
+            : null;
+          if (!rec?.data?.is_public_domain || rec.data.image_id !== iiif)
+            problems.push(`${file}: AIC record ${w.archive?.aic ?? "(missing archive.aic)"} doesn't confirm this public-domain image`);
+          return;
+        }
         const res = await fetch(w.image.url, { method: "HEAD", headers: { "User-Agent": UA } }).catch(() => null);
         if (!res?.ok) problems.push(`${file}: image not reachable (${res?.status ?? "network"})`);
       }),

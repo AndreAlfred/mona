@@ -1,0 +1,21 @@
+{
+  "id": "complementary-colours",
+  "kind": "technique",
+  "name": "Complementary colours",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "When two highly chromatic complementary colors are placed next to each other, they create a strong contrast. Complementary colors may also be called \"opposite colors\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Complementary colors",
+        "readAt": "https://en.wikipedia.org/wiki/Complementary_colors",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "complementary colors"
+}

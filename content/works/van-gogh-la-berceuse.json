@@ -1,0 +1,107 @@
+{
+  "id": "van-gogh-la-berceuse",
+  "artist": "vincent-van-gogh",
+  "title": "Madame Roulin Rocking the Cradle (La berceuse)",
+  "date": "1889",
+  "year": 1889,
+  "medium": "Oil on canvas",
+  "dimensions": "92.7 × 73.8 cm (36 1/2 × 29 1/2 in.); Framed: 111.9 × 91.8 × 8.3 cm (44 1/16 × 36 1/8 × 3 1/2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/27949"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/6f3ca8b9-fef6-edfc-a71c-3e7b471d5f6c/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/6f3ca8b9-fef6-edfc-a71c-3e7b471d5f6c/full/1686,/0/default.jpg",
+    "width": 8676,
+    "height": 10963,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection"
+  },
+  "archive": {
+    "aic": 27949
+  },
+  "phase": {
+    "label": "Arles, January 1889, after his hospitalisation",
+    "source": {
+      "label": "Art Institute of Chicago record",
+      "url": "https://www.artic.edu/artworks/27949"
+    }
+  },
+  "tags": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Van Gogh painted five versions of this image. He completed this one in January 1889, soon after returning from his stay in the hospital following Paul Gauguin’s fraught departure. Madame Roulin sits in Gauguin’s chair, an attempt by Van Gogh to fill the space left by the older artist.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Madame Roulin Rocking the Cradle (La berceuse)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/27949?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/27949",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Now, it may be said that it is like a chromolithograph from a cheap shop. A woman in green with orange hair standing out against a background of green with pink flowers.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 574 to Theo van Gogh, Arles, 28 January 1889",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/19/574.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1889"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the idea came to me to paint a picture in such a way that sailors, who are at once children and martyrs, seeing it in the cabin of their Icelandic fishing boat, would feel the old sense of being rocked come over them and remember their own lullabies.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 574 to Theo van Gogh, Arles, 28 January 1889",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/19/574.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1889"
+        },
+        "lead": "To Theo, a month after his breakdown:"
+      },
+      {
+        "kind": "quote",
+        "text": "Vincent van Gogh saw in Augustine Roulin—along with her husband, Joseph, and their children—a model of love and family life.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Madame Roulin Rocking the Cradle (La berceuse)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/27949?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/27949",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

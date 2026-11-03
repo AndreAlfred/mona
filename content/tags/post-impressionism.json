@@ -1,0 +1,34 @@
+{
+  "id": "post-impressionism",
+  "kind": "movement",
+  "name": "Post-Impressionism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Post-Impressionism (also spelled Postimpressionism) was a predominantly French art movement which developed roughly between 1886 and 1905, from the last Impressionist exhibition to the birth of Fauvism. Post-Impressionism emerged as a reaction against Impressionists' concern for the naturalistic depiction of light and colour.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Post-Impressionism",
+        "readAt": "https://en.wikipedia.org/wiki/Post-Impressionism",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The term Post-Impressionism was first used by art critic Roger Fry in 1906.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Post-Impressionism",
+        "readAt": "https://en.wikipedia.org/wiki/Post-Impressionism",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Post-Impressionism"
+}

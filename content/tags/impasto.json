@@ -1,0 +1,21 @@
+{
+  "id": "impasto",
+  "kind": "technique",
+  "name": "Impasto",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Impasto is a technique used in painting where paint is laid on an area of the surface thickly, usually thick enough that the brush or painting-knife strokes are visible. Paint can also be mixed right on the canvas. When dry, impasto provides texture; the paint appears to be coming out of the canvas.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Impasto",
+        "readAt": "https://en.wikipedia.org/wiki/Impasto",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "impasto"
+}

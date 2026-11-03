@@ -1,0 +1,21 @@
+{
+  "id": "realism",
+  "kind": "movement",
+  "name": "Realism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Realism was an artistic movement that emerged in France in the 1840s. Realists rejected Romanticism, which had dominated French literature and art since the early 19th century. The artist Gustave Courbet, the original proponent of Realism, sought to portray real and typical contemporary people and situations with truth and accuracy, not avoiding unpleasant or sordid aspects of life.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Realism (art movement)",
+        "readAt": "https://en.wikipedia.org/wiki/Realism_(art_movement)",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Realism"
+}

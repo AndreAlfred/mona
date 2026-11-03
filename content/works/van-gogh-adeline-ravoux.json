@@ -1,0 +1,108 @@
+{
+  "id": "van-gogh-adeline-ravoux",
+  "artist": "vincent-van-gogh",
+  "title": "Adeline Ravoux",
+  "date": "1890",
+  "year": 1890,
+  "medium": "oil on fabric",
+  "dimensions": "Framed: 72.5 x 73.5 x 8.5 cm (28 9/16 x 28 15/16 x 3 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.31"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_print.jpg",
+    "width": 900,
+    "height": 897,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 135299
+  },
+  "phase": {
+    "label": "Auvers-sur-Oise, May–July 1890",
+    "source": {
+      "label": "Cleveland Museum of Art record",
+      "url": "https://clevelandart.org/art/1958.31"
+    }
+  },
+  "tags": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This portrait, completed during the last months of the artist’s life, depicts Ravoux’s 13-year-old daughter, Adeline.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Adeline Ravoux",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135299",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1958.31",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In his case I sense that I am in the presence of someone higher, more masterful, someone who disturbs me, moves me, and compels recognition.",
+        "source": {
+          "author": "Octave Mirbeau",
+          "title": "“Vincent van Gogh”, Écho de Paris, 31 March 1891",
+          "readAt": "https://en.wikiquote.org/wiki/Vincent_van_Gogh",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "publisher": "via Wikiquote",
+          "year": "1891",
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The critic Octave Mirbeau, the year after Van Gogh’s death:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I should like to paint portraits which would appear after a century to people living then as apparitions. By which I mean that I do not endeavour to achieve this by a photographic resemblance, but by means of our impassioned expressions",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter W22 to Wilhelmina van Gogh, Auvers-sur-Oise, 5 June 1890",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/21/W22.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1890"
+        },
+        "lead": "To his sister Wil, the month he painted Adeline:"
+      },
+      {
+        "kind": "quote",
+        "text": "She later wrote a memoir of Van Gogh's stay with them.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Adeline Ravoux",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Adeline_Ravoux",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

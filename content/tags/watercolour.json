@@ -1,0 +1,21 @@
+{
+  "id": "watercolour",
+  "kind": "material",
+  "name": "Watercolour",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "is a painting method in which the paints are made of pigments suspended in a water-based solution. Watercolor refers to both the medium and the resulting artwork.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Watercolor painting",
+        "readAt": "https://en.wikipedia.org/wiki/Watercolor_painting",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "watercolor"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "van-gogh-grapes-lemons-pears-apples",
+  "artist": "vincent-van-gogh",
+  "title": "Grapes, Lemons, Pears, and Apples",
+  "date": "1887",
+  "year": 1887,
+  "medium": "Oil on canvas",
+  "dimensions": "46.5 × 55.2 cm (18 1/4 × 21 3/4 in.); Framed: 57.8 × 66.7 × 5.1 cm (22 3/4 × 26 1/4 × 2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/64957"
+  },
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/f11bd233-6cc3-4221-59eb-f7363be4119e/full/843,/0/default.jpg",
+    "large": "https://www.artic.edu/iiif/2/f11bd233-6cc3-4221-59eb-f7363be4119e/full/1686,/0/default.jpg",
+    "width": 2717,
+    "height": 2250,
+    "license": "CC0",
+    "credit": "Art Institute of Chicago, Gift of Kate L. Brewster"
+  },
+  "archive": {
+    "aic": 64957
+  },
+  "phase": {
+    "label": "Paris, autumn 1887",
+    "source": {
+      "label": "Art Institute of Chicago record",
+      "url": "https://www.artic.edu/artworks/64957"
+    }
+  },
+  "tags": [
+    {
+      "id": "complementary-colours",
+      "source": {
+        "label": "Art Institute of Chicago record",
+        "url": "https://www.artic.edu/artworks/64957"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "But I have made a series of colour studies in painting, simply flowers, red poppies, blue corn flowers and myosotys, white and rose roses, yellow chrysanthemums-seeking oppositions of blue with orange, red and green, yellow and violet",
+          "source": {
+            "author": "Vincent van Gogh",
+            "title": "Letter 459a to Horace M. Livens, Paris, August–October 1886",
+            "readAt": "https://www.webexhibits.org/vangogh/letter/17/459a.htm",
+            "accessed": "2026-11-03",
+            "tier": 1,
+            "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+            "year": "1886"
+          },
+          "lead": "Van Gogh describing his Paris experiments:"
+        }
+      ]
+    },
+    {
+      "id": "impasto",
+      "source": {
+        "label": "Art Institute of Chicago record",
+        "url": "https://www.artic.edu/artworks/64957"
+      }
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In these works, he simplified his palette, employed more vibrant colors, and used a thicker, broader paint application than he had earlier. Here he explored the use of complementary colors—yellow and purple, blue and orange, and red and green—in the service of chromatic intensity.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Grapes, Lemons, Pears, and Apples",
+          "readAt": "https://api.artic.edu/api/v1/artworks/64957?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/64957",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting was probably among the “violent still lifes”—to quote Van Gogh’s friend the painter Emile Bernard—that he included in the group exhibition of young avant-garde artists that he organized at a local restaurant in November–December 1887.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Grapes, Lemons, Pears, and Apples",
+          "readAt": "https://api.artic.edu/api/v1/artworks/64957?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/64957",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "So as we said at the time: in colour seeking life the true drawing is modelling with colour. I did a dozen landscapes too, frankly green frankly blue. And so I am struggling for life and progress in art.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 459a to Horace M. Livens, Paris, August–October 1886",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/17/459a.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1886"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

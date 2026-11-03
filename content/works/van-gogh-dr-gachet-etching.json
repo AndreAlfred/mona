@@ -1,0 +1,110 @@
+{
+  "id": "van-gogh-dr-gachet-etching",
+  "artist": "vincent-van-gogh",
+  "title": "Dr. Gachet",
+  "date": "1890",
+  "year": 1890,
+  "medium": "Etching and drypoint, enhanced with black ink on laid paper",
+  "dimensions": "18.1 x 15.2 cm (7 1/8 x 6 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1948.303"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1948.303/1948.303_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1948.303/1948.303_print.jpg",
+    "width": 697,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 126085
+  },
+  "phase": {
+    "label": "Auvers-sur-Oise, May–July 1890",
+    "source": {
+      "label": "Cleveland Museum of Art record",
+      "url": "https://clevelandart.org/art/1948.303"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record (medium)",
+        "url": "https://clevelandart.org/art/1948.303"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The doctor was himself an amateur printmaker and gave Van Gogh a varnished copper plate, helping him print it on his own small hand press. For his first attempt, Van Gogh depicted Gachet seated in his garden smoking a pipe.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Dr. Gachet",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/126085",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1948.303",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This portrait of Dr. Paul Gachet, made just two months before the artist’s death, is the only etching that Vincent van Gogh created.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Dr. Gachet",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/126085",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1948.303",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "I hope he does some etchings of southern subjects, say six, since I can print them without cost at M. Gachet's, who is kind enough to print them for nothing if I do them.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 642 to Theo van Gogh, Auvers-sur-Oise, 17 June 1890",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/21/642.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1890"
+        },
+        "lead": "Hoping Gauguin would join him in printmaking:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He is a very nervous man himself and very queer in his behaviour; he has extended much friendliness to the artists of the new school, and he has helped them as much as was in his power.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter W22 to Wilhelmina van Gogh, Auvers-sur-Oise, 5 June 1890",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/21/W22.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1890"
+        },
+        "lead": "Describing Gachet to his sister Wil:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

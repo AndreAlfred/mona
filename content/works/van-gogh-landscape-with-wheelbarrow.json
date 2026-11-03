@@ -1,0 +1,107 @@
+{
+  "id": "van-gogh-landscape-with-wheelbarrow",
+  "artist": "vincent-van-gogh",
+  "title": "Landscape with Wheelbarrow",
+  "date": "1883",
+  "year": 1883,
+  "medium": "watercolor and opaque watercolor with black chalk on cream paper",
+  "dimensions": "Sheet: 24.9 x 35.7 cm (9 13/16 x 14 1/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.30"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.30/1958.30_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.30/1958.30_print.jpg",
+    "width": 1263,
+    "height": 892,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 135286
+  },
+  "phase": {
+    "label": "Drenthe, autumn 1883",
+    "source": {
+      "label": "Cleveland Museum of Art record",
+      "url": "https://clevelandart.org/art/1958.30"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art record (medium)",
+        "url": "https://clevelandart.org/art/1958.30"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In September 1883 Van Gogh left the bustling Dutch city of The Hague in search of open countryside in which to paint. He moved to Drenthe, a village in northeastern Netherlands that was virtually untouched by the Industrial Revolution.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Landscape with Wheelbarrow",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135286",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1958.30",
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With a limited palette of steely greens and cool blues, Van Gogh masterfully portrayed one of the region’s expanses of heath",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Landscape with Wheelbarrow",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135286",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1958.30",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Van Gogh went to The Hague to try to sell paintings and to meet with his second cousin, Anton Mauve. Mauve was the successful artist Van Gogh longed to be.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vincent van Gogh",
+          "readAt": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "What tranquility, what expanse, what calmness in this nature.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter to Theo van Gogh from Drenthe, 1883 (as quoted by the Cleveland Museum of Art)",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135286",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1958.30"
+        },
+        "lead": "He described the heath to his brother:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

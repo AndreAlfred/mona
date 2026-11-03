@@ -1,0 +1,117 @@
+{
+  "id": "vincent-van-gogh",
+  "name": "Vincent van Gogh",
+  "born": 1853,
+  "died": 1890,
+  "active": "1880–1890",
+  "nationality": "Dutch",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "paul-gauguin",
+      "name": "Paul Gauguin",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    },
+    {
+      "id": "emile-bernard",
+      "name": "Émile Bernard",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    },
+    {
+      "id": "henri-de-toulouse-lautrec",
+      "name": "Henri de Toulouse-Lautrec",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    },
+    {
+      "id": "georges-seurat",
+      "name": "Georges Seurat",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    },
+    {
+      "id": "paul-signac",
+      "name": "Paul Signac",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    },
+    {
+      "id": "camille-pissarro",
+      "name": "Camille Pissarro",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    },
+    {
+      "id": "jean-francois-millet",
+      "name": "Jean-François Millet",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "wikidata": "Q5582",
+  "archive": {
+    "aic": 40610,
+    "cma": [
+      1779
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Vincent Willem van Gogh … was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade he created about 2,100 artworks, including around 860 oil paintings, most of them in the last two years of his life.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Vincent van Gogh",
+        "readAt": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "his profound and almost childlike sincerity, his great love for nature and for truth - his own personal truth.",
+      "source": {
+        "author": "G. Albert Aurier",
+        "title": "“Les Isolés: Vincent van Gogh”, Mercure de France, January 1890",
+        "readAt": "https://en.wikiquote.org/wiki/Vincent_van_Gogh",
+        "accessed": "2026-11-03",
+        "tier": 3,
+        "publisher": "via Wikiquote",
+        "year": "1890",
+        "license": "CC BY-SA 4.0"
+      },
+      "lead": "The critic Albert Aurier, in the first major article on his work:"
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

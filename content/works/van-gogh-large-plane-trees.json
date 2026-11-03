@@ -1,0 +1,107 @@
+{
+  "id": "van-gogh-large-plane-trees",
+  "artist": "vincent-van-gogh",
+  "title": "The Large Plane Trees (Road Menders at Saint-Rémy)",
+  "date": "1889",
+  "year": 1889,
+  "medium": "oil on fabric",
+  "dimensions": "Framed: 104.5 x 124.5 x 7.6 cm (41 1/8 x 49 x 3 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1947.209"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_print.jpg",
+    "width": 900,
+    "height": 718,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of the Hanna Fund"
+  },
+  "archive": {
+    "cma": 125249
+  },
+  "phase": {
+    "label": "Saint-Rémy, 1889–90",
+    "source": {
+      "label": "Cleveland Museum of Art record",
+      "url": "https://clevelandart.org/art/1947.209"
+    }
+  },
+  "tags": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Vincent van Gogh",
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The last study I did is a view of the village, where they were at work - under some enormous plane trees - repairing the pavements. So there are heaps of sand, stones and gigantic trunks - the leaves yellowing and here and there you get a glimpse of a house front and small figures.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 618 to Theo van Gogh, Saint-Rémy, 7 December 1889",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/20/618.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1889"
+        },
+        "lead": "Van Gogh describing this painting to Theo:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Limited access to life outside the clinic resulted in a shortage of subject matter. Van Gogh instead worked on interpretations of other artist's paintings, such as Millet's The Sower and Noonday Rest, and variations on his own earlier work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vincent van Gogh",
+          "readAt": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Vincent van Gogh painted this autumnal landscape while living in a psychiatric hospital near Saint-Rémy in southern France where he was treated for severe depression. Understanding that painting from nature eased his symptoms, Van Gogh’s physician permitted the artist to paint landscapes outside.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: The Large Plane Trees (Road Menders at Saint-Rémy)",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/125249",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1947.209",
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "my fear of madness is wearing off markedly, since I can see at close quarters those who are affected by it in the same way as I may very easily be in the future.",
+        "source": {
+          "author": "Vincent van Gogh",
+          "title": "Letter 592 to Theo van Gogh, Saint-Rémy, 22 May 1889",
+          "readAt": "https://www.webexhibits.org/vangogh/letter/20/592.htm",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "The Complete Letters of Vincent van Gogh, via WebExhibits",
+          "year": "1889"
+        },
+        "lead": "Soon after arriving at the asylum:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude (seed)"
+  }
+}

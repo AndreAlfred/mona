@@ -1,12 +1,19 @@
 "use client";
 import { useParams } from "next/navigation";
+import { Suspense } from "react";
 import { SingleCard } from "@/components/SingleCard";
 
-export default function ArchiveWorkPage() {
+function Inner() {
   const { key } = useParams<{ key: string }>();
+  return <SingleCard kind="a" id={key} />;
+}
+
+export default function ArchiveWorkPage() {
   return (
     <main>
-      <SingleCard kind="a" id={key} />
+      <Suspense>
+        <Inner />
+      </Suspense>
     </main>
   );
 }

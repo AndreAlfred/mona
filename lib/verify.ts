@@ -67,11 +67,20 @@ export function fetchPageText(url: string): Promise<string> {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const body = await res.text();
         const type = res.headers.get("content-type") ?? "";
+        if (type.includes("json")) return jsonText(JSON.parse(body));
         return type.includes("html") ? stripHtml(body) : body;
       })(),
     );
   }
   return pageCache.get(url)!;
+}
+
+/** Every string value in a JSON document, HTML stripped, one per line (museum APIs). */
+function jsonText(v: unknown): string {
+  if (typeof v === "string") return stripHtml(v);
+  if (Array.isArray(v)) return v.map(jsonText).join("\n");
+  if (v && typeof v === "object") return Object.values(v).map(jsonText).join("\n");
+  return "";
 }
 
 export async function verifyQuote(p: QuotePassage): Promise<VerifyResult> {

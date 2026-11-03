@@ -1,0 +1,21 @@
+{
+  "id": "japonisme",
+  "kind": "style",
+  "name": "Japonisme",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Japonisme is a French term that refers to the popularity and influence of Japanese art and design among a number of Western European artists in the nineteenth century following the forced reopening of foreign trade with Japan in 1858.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Japonisme",
+        "readAt": "https://en.wikipedia.org/wiki/Japonisme",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "ukiyo-e"
+}
