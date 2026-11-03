@@ -42,6 +42,9 @@ export function artistUniverse(catalog: Catalog, archive: ArchiveArtist[]): Arti
   const byCma = new Map(curated.flatMap((a) => (a.cma ?? []).map((c) => [c, a] as const)));
   const rest: ArtistRef[] = [];
   for (const e of archive) {
+    // AIC images can't be embedded and Commons covers few of them, so the
+    // feed draws archive artists from those with Cleveland works.
+    if (!e.cma?.length && !byName.has(normName(e.name)) && !(e.aic && byAic.has(e.aic))) continue;
     const twin =
       (e.aic && byAic.get(e.aic)) || e.cma?.map((c) => byCma.get(c)).find(Boolean) || byName.get(normName(e.name));
     if (twin) {

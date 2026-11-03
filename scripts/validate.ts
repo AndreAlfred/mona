@@ -59,17 +59,10 @@ async function main() {
   if (process.argv.includes("--images")) {
     await Promise.all(
       works.map(async ({ file, value: w }) => {
-        // AIC's image server refuses non-browser clients, so check the
-        // record instead: public domain, and this exact image id.
-        const iiif = /artic\.edu\/iiif\/2\/([^/]+)\//.exec(w.image.url)?.[1];
-        if (iiif) {
-          const rec = w.archive?.aic
-            ? await fetch(`https://api.artic.edu/api/v1/artworks/${w.archive.aic}?fields=image_id,is_public_domain`, { headers: { "User-Agent": UA } })
-                .then((r) => r.json())
-                .catch(() => null)
-            : null;
-          if (!rec?.data?.is_public_domain || rec.data.image_id !== iiif)
-            problems.push(`${file}: AIC record ${w.archive?.aic ?? "(missing archive.aic)"} doesn't confirm this public-domain image`);
+        // AIC's image server doesn't serve images embedded in other sites, so
+        // these cards would show blank. Use the Commons photograph instead.
+        if (/artic\.edu\/iiif\//.test(w.image.url)) {
+          problems.push(`${file}: AIC image URLs don't display when embedded; use the Wikimedia Commons image (npm run commons-images)`);
           return;
         }
         const res = await fetch(w.image.url, { method: "HEAD", headers: { "User-Agent": UA } }).catch(() => null);

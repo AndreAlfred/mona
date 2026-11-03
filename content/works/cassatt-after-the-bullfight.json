@@ -11,12 +11,11 @@
     "url": "https://www.artic.edu/artworks/31816"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/7a314af6-336f-b6a4-809c-15659313a757/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/7a314af6-336f-b6a4-809c-15659313a757/full/1686,/0/default.jpg",
-    "width": 10124,
-    "height": 12929,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Bequest of Mrs. Sterling Morton"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mary_Cassatt_-_After_the_Bullfight_-_1969.332_-_Art_Institute_of_Chicago.jpg/1280px-Mary_Cassatt_-_After_the_Bullfight_-_1969.332_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1536,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mary Cassatt - After the Bullfight - 1969.332 - Art Institute of Chicago.jpg)"
   },
   "archive": {
     "aic": 31816

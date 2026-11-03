@@ -14,7 +14,8 @@ const catalog = {
 
 const archive: ArchiveArtist[] = [
   { id: "rembrandt-van-rijn", name: "Rembrandt van Rijn", period: "baroque", aic: 1, cma: [9], count: 50 },
-  { id: "hokusai", name: "Katsushika Hokusai", period: "romantic", aic: 2, count: 200 },
+  { id: "hokusai", name: "Katsushika Hokusai", period: "romantic", aic: 2, cma: [7], count: 200 },
+  { id: "aic-only", name: "Only In Chicago", period: "baroque", aic: 99, count: 50 },
   { id: "durer", name: "Albrecht Dürer", period: "renaissance", cma: [3], count: 100 },
 ];
 
@@ -24,6 +25,9 @@ describe("artistUniverse", () => {
     expect(u[0].key).toBe("rembrandt");
     expect(u[0].cma).toEqual([9]);
     expect(u.find((a) => a.key === "rembrandt-van-rijn")).toBeUndefined();
+  });
+  it("skips archive artists with no embeddable (Cleveland) works", () => {
+    expect(u.find((a) => a.key === "aic-only")).toBeUndefined();
   });
   it("drops curated artists without works", () => {
     expect(u.find((a) => a.key === "nobody")).toBeUndefined();

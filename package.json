@@ -15,7 +15,8 @@
     "typecheck": "next typegen && tsc --noEmit",
     "new-work": "tsx scripts/new-work.ts",
     "coverage": "tsx scripts/coverage.ts",
-    "gate": "tsx scripts/gate.ts"
+    "gate": "tsx scripts/gate.ts",
+    "commons-images": "tsx scripts/commons-images.ts"
   },
   "dependencies": {
     "next": "16.4.4",

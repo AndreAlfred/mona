@@ -11,12 +11,11 @@
     "url": "https://www.artic.edu/artworks/80607"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/47c5bcb8-62ef-e5d7-55e7-f5121f409a30/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/47c5bcb8-62ef-e5d7-55e7-f5121f409a30/full/1686,/0/default.jpg",
-    "width": 6116,
-    "height": 7794,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Joseph Winterbotham Collection"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vincent_van_Gogh_-_Self-Portrait_-_1954.326_-_Art_Institute_of_Chicago.jpg/1280px-Vincent_van_Gogh_-_Self-Portrait_-_1954.326_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1522,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Vincent van Gogh - Self-Portrait - 1954.326 - Art Institute of Chicago.jpg)"
   },
   "archive": {
     "aic": 80607

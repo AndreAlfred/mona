@@ -1,5 +1,22 @@
 import type { ArchiveWork } from "../types";
 import { slugify, stripHtml, today, UA } from "../util";
+import { commonsImagesForAic } from "./commons";
+
+/**
+ * AIC's image server won't serve images embedded in other sites, so AIC works
+ * use the Wikimedia Commons photograph of the same object. Works without one
+ * are dropped rather than shown blank.
+ */
+async function withCommonsImages(works: ArchiveWork[]): Promise<ArchiveWork[]> {
+  const images = await commonsImagesForAic(works.filter((w) => w.source === "aic").map((w) => w.sourceId)).catch(
+    () => new Map(),
+  );
+  return works.flatMap((w) => {
+    if (w.source !== "aic") return [w];
+    const image = images.get(w.sourceId);
+    return image ? [{ ...w, image }] : [];
+  });
+}
 
 const AIC_FIELDS = [
   "id",
@@ -138,7 +155,7 @@ export function cmaToWork(w: any): ArchiveWork | null {
   };
 }
 
-export async function aicWorksByArtist(artistId: number, limit = 40): Promise<ArchiveWork[]> {
+export async function aicWorksByArtist(artistId: number, limit = 100): Promise<ArchiveWork[]> {
   const params = {
     query: {
       bool: {
@@ -156,7 +173,7 @@ export async function aicWorksByArtist(artistId: number, limit = 40): Promise<Ar
   const res = await json(
     `https://api.artic.edu/api/v1/artworks/search?params=${encodeURIComponent(JSON.stringify(params))}`,
   );
-  return res.data.map(aicToWork).filter(Boolean);
+  return withCommonsImages(res.data.map(aicToWork).filter(Boolean));
 }
 
 export async function cmaWorksByCreator(creatorId: number, limit = 40): Promise<ArchiveWork[]> {
@@ -183,14 +200,15 @@ export async function archiveWork(key: string): Promise<ArchiveWork | null> {
   const id = Number(m[2]);
   if (m[1] === "aic") {
     const r = await json(`https://api.artic.edu/api/v1/artworks/${id}?fields=${AIC_FIELDS.join(",")}`);
-    return aicToWork(r.data);
+    const w = aicToWork(r.data);
+    return w ? ((await withCommonsImages([w]))[0] ?? null) : null;
   }
   const r = await json(`https://openaccess-api.clevelandart.org/api/artworks/${id}`);
   return cmaToWork(r.data);
 }
 
 /** AIC works sharing a style/technique/material term, for tag feeds. */
-export async function aicWorksByTerm(term: string, limit = 30): Promise<ArchiveWork[]> {
+export async function aicWorksByTerm(term: string, limit = 80): Promise<ArchiveWork[]> {
   const params = {
     q: term,
     query: {
@@ -208,5 +226,5 @@ export async function aicWorksByTerm(term: string, limit = 30): Promise<ArchiveW
   const res = await json(
     `https://api.artic.edu/api/v1/artworks/search?params=${encodeURIComponent(JSON.stringify(params))}`,
   );
-  return res.data.map(aicToWork).filter(Boolean);
+  return withCommonsImages(res.data.map(aicToWork).filter(Boolean));
 }

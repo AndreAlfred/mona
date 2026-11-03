@@ -11,12 +11,12 @@
     "url": "https://www.artic.edu/artworks/64957"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/f11bd233-6cc3-4221-59eb-f7363be4119e/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/f11bd233-6cc3-4221-59eb-f7363be4119e/full/1686,/0/default.jpg",
-    "width": 2717,
-    "height": 2250,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Gift of Kate L. Brewster"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Grapes%2C_Lemons%2C_Pears%2C_and_Apples_-_1949.215_-_Art_Institute_of_Chicago.jpg/1280px-Vincent_van_Gogh_-_Grapes%2C_Lemons%2C_Pears%2C_and_Apples_-_1949.215_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Grapes%2C_Lemons%2C_Pears%2C_and_Apples_-_1949.215_-_Art_Institute_of_Chicago.jpg/2560px-Vincent_van_Gogh_-_Grapes%2C_Lemons%2C_Pears%2C_and_Apples_-_1949.215_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 994,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Vincent van Gogh - Grapes, Lemons, Pears, and Apples - 1949.215 - Art Institute of Chicago.jpg)"
   },
   "archive": {
     "aic": 64957

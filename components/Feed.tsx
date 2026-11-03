@@ -216,7 +216,14 @@ function RunView({
     <div id={`run-${run.id}`} className={styles.run}>
       {shown.map((card, i) => (
         <Seen key={card.key} card={card}>
-          <WorkCard card={card} eager={i === 0} position={`${i + 1} of ${run.slots.length} · ${run.artist.name}`} />
+          <WorkCard
+            card={card}
+            eager={i === 0}
+            position={`${i + 1} of ${run.slots.length} · ${run.artist.name}`}
+            onImageError={() =>
+              setCards((c) => c.map((x) => (x?.key === card.key ? ({ failed: true } as unknown as CardModel) : x)))
+            }
+          />
         </Seen>
       ))}
       {!done && <div ref={sentinel} className={styles.sentinel}>{cards[revealed - 1] === null && <Loading small />}</div>}

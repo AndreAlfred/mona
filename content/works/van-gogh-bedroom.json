@@ -11,12 +11,12 @@
     "url": "https://www.artic.edu/artworks/28560"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1686,/0/default.jpg",
-    "width": 12614,
-    "height": 9875,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg/1280px-Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg/2560px-Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 936,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Vincent van Gogh - The Bedroom - Google Art Project.jpg)"
   },
   "archive": {
     "aic": 28560

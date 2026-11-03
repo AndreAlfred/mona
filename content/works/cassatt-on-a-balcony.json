@@ -11,12 +11,11 @@
     "url": "https://www.artic.edu/artworks/26650"
   },
   "image": {
-    "url": "https://www.artic.edu/iiif/2/f0150d21-33ab-f6ea-0d4d-32d459f091fe/full/843,/0/default.jpg",
-    "large": "https://www.artic.edu/iiif/2/f0150d21-33ab-f6ea-0d4d-32d459f091fe/full/1686,/0/default.jpg",
-    "width": 9148,
-    "height": 11911,
-    "license": "CC0",
-    "credit": "Art Institute of Chicago, Gift of Mrs. Albert J. Beveridge in memory of her aunt, Delia Spencer Field"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mary_Cassatt_-_On_a_Balcony_-_1938.18_-_Art_Institute_of_Chicago.jpg/1280px-Mary_Cassatt_-_On_a_Balcony_-_1938.18_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1568,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mary Cassatt - On a Balcony - 1938.18 - Art Institute of Chicago.jpg)"
   },
   "archive": {
     "aic": 26650
