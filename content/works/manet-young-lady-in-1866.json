@@ -1,0 +1,115 @@
+{
+  "id": "manet-young-lady-in-1866",
+  "artist": "edouard-manet",
+  "title": "Young Lady in 1866",
+  "date": "1866",
+  "year": 1866,
+  "medium": "oil paint on canvas",
+  "dimensions": "185.1 × 128.6 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (89.21.3)",
+    "url": "https://www.metmuseum.org/art/collection/search/436964"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%C3%89douard_Manet_-_Young_Lady_in_1866_-_Google_Art_Project.jpg/1280px-%C3%89douard_Manet_-_Young_Lady_in_1866_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%C3%89douard_Manet_-_Young_Lady_in_1866_-_Google_Art_Project.jpg/2560px-%C3%89douard_Manet_-_Young_Lady_in_1866_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1736,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Édouard Manet - Young Lady in 1866 - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q942523"
+  },
+  "phase": {
+    "label": "Portraits of modern life, 1866",
+    "source": {
+      "label": "Metropolitan Museum: Young Lady in 1866",
+      "url": "https://www.metmuseum.org/art/collection/search/436964"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.metmuseum.org/art/collection/search/436964"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the texture of the one is silk, of the others flesh, because of the method of the brush-work. Upon the dress it was laid on in sweeps; upon the flesh-parts, in circular strokes and dabs.",
+          "source": {
+            "author": "Charles H. Caffin",
+            "title": "Manet, Masters in Art: How to Study Pictures, excerpted on p. 37",
+            "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 3,
+            "publisher": "Bates & Guild",
+            "year": "1908",
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Context and style",
+        "url": "https://en.wikipedia.org/wiki/A_Young_Lady_in_1866"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "So far, you observe, the artist has played upon grays. As a musician might explain it, he has given several modulations of the chord of gray, including the major and minor, the augmented and diminished.",
+        "source": {
+          "author": "Charles H. Caffin",
+          "title": "Manet, Masters in Art: How to Study Pictures, excerpted on p. 37",
+          "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Bates & Guild",
+          "year": "1908",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "At the 1868 Paris Salon, the work's realism and inclusion of a parrot was reminiscent of Gustave Courbet's 1866 Woman with a Parrot (Metropolitan Museum of Art), a nude that had caused a scandal at that year's Salon.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "A Young Lady in 1866",
+          "readAt": "https://en.wikipedia.org/wiki/A_Young_Lady_in_1866",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "showing his favourite model, Victorine Meurent, wearing a long pink peignoir, holding a small bouquet of violets, and accompanied by an African grey parrot.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "A Young Lady in 1866",
+          "readAt": "https://en.wikipedia.org/wiki/A_Young_Lady_in_1866",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

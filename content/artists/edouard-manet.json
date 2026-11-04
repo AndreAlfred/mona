@@ -1,0 +1,68 @@
+{
+  "id": "edouard-manet",
+  "name": "Édouard Manet",
+  "born": 1832,
+  "died": 1883,
+  "active": "1850–1883",
+  "nationality": "French",
+  "period": "modern-life",
+  "wikidata": "Q40599",
+  "archive": {
+    "aic": 35577,
+    "cma": [
+      1796
+    ]
+  },
+  "movements": [
+    {
+      "id": "realism",
+      "source": {
+        "label": "Thyssen-Bornemisza: Manet",
+        "url": "https://www.museothyssen.org/en/collection/artists/manet-edouard"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "claude-monet",
+      "name": "Claude Monet",
+      "source": {
+        "label": "Manet and Monet at Argenteuil",
+        "url": "https://www.metmuseum.org/art/collection/search/436947"
+      }
+    }
+  ],
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "to place a single figure on a canvas, and to concentrate all the interest exclusively on that figure without its losing its life and presence.",
+      "source": {
+        "author": "Édouard Manet",
+        "title": "Manet and Modern Beauty: Portraits of an Era",
+        "readAt": "https://www.getty.edu/art/exhibitions/late_manet/explore.html",
+        "accessed": "2026-11-04",
+        "tier": 1,
+        "publisher": "J. Paul Getty Museum"
+      },
+      "lead": "Manet on the challenge of portraiture, quoted by the Getty:"
+    },
+    {
+      "kind": "quote",
+      "text": "His \"impressionistic\" painting, so called, did not date until later; before that he had fought for his own independence, and his method was different from that of Monet, Pissarro, Sisley, Cézanne and the rest.",
+      "source": {
+        "author": "James Huneker",
+        "title": "Promenades of an Impressionist: Manet",
+        "readAt": "https://www.gutenberg.org/cache/epub/13296/pg13296.txt",
+        "accessed": "2026-11-04",
+        "tier": 3,
+        "publisher": "Project Gutenberg",
+        "year": "1910",
+        "license": "Public domain"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "manet-balcony",
+  "artist": "edouard-manet",
+  "title": "The Balcony (Le Balcon)",
+  "date": "1868",
+  "year": 1868,
+  "medium": "oil paint on canvas",
+  "dimensions": "170 × 124.5 cm",
+  "museum": {
+    "name": "Musée d'Orsay (RF 2772)",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/707"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg/1280px-Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg/2560px-Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1668,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edouard Manet - The Balcony - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q775407"
+  },
+  "phase": {
+    "label": "Bourgeois group portraits, 1868–69",
+    "source": {
+      "label": "Musée d’Orsay: Le Balcon",
+      "url": "https://www.musee-orsay.fr/en/artworks/le-balcon-707"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.musee-orsay.fr/fr/oeuvres/707"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Manet adopts a restrained colour palette, dominated by white, green and black, with accents of blue (Guillemet's tie) and red (Morisot's fan).",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Balcony (Manet)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Balcony_(Manet)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Context and style",
+        "url": "https://www.museothyssen.org/en/collection/artists/manet-edouard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This was the first portrait of Morisot by Manet.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Balcony (Manet)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Balcony_(Manet)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting was not well received after it was exhibited at the Paris Salon in 1869.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Balcony (Manet)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Balcony_(Manet)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The three characters, who were all friends of Manet, seem to be disconnected from each other:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Balcony (Manet)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Balcony_(Manet)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

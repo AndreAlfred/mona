@@ -1,0 +1,115 @@
+{
+  "id": "manet-luncheon-on-the-grass",
+  "artist": "edouard-manet",
+  "title": "Luncheon on the Grass (Le déjeuner sur l'herbe)",
+  "date": "1863",
+  "year": 1863,
+  "medium": "oil paint on canvas",
+  "dimensions": "208 × 264.5 cm",
+  "museum": {
+    "name": "Musée d'Orsay (RF 1668)",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/904"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/1280px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/2560px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 932,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edouard Manet - Luncheon on the Grass - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q152509"
+  },
+  "phase": {
+    "label": "Salon des Refusés breakthrough, 1863",
+    "source": {
+      "label": "Musée d’Orsay: Le Déjeuner sur l’herbe",
+      "url": "https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.musee-orsay.fr/fr/oeuvres/904"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He did not try to hide the brush strokes; the painting even looks unfinished in some parts of the scene.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Le D%C3%A9jeuner sur l%27herbe",
+            "readAt": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%27herbe",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Context and style",
+        "url": "https://www.museothyssen.org/en/collection/artists/manet-edouard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Perhaps the exceeding brilliancy of his paint and his unconventional manner of putting it on his canvas had as much to do with the obloquy as his theme.",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist: Manet",
+          "readAt": "https://www.gutenberg.org/cache/epub/13296/pg13296.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Project Gutenberg",
+          "year": "1910",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rejected by the Salon jury of 1863, Manet seized the opportunity to exhibit this and two other paintings in the 1863 Salon des Refusés, where the painting sparked public notoriety and controversy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Le D%C3%A9jeuner sur l%27herbe",
+          "readAt": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%27herbe",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "And then he would paint the life around him instead of producing _pastiches_ of old masters or sickly evocations of an unreal past.",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist: Manet",
+          "readAt": "https://www.gutenberg.org/cache/epub/13296/pg13296.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Project Gutenberg",
+          "year": "1910",
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}
