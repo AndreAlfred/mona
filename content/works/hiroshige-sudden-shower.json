@@ -1,0 +1,105 @@
+{
+  "id": "hiroshige-sudden-shower",
+  "artist": "utagawa-hiroshige",
+  "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo",
+  "date": "1857",
+  "year": 1857,
+  "medium": "color woodblock print",
+  "dimensions": "35.3 x 23.2 cm (13 7/8 x 9 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1921.318"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1921.318/1921.318_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1921.318/1921.318_print.jpg",
+    "width": 605,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift from J. H. Wade"
+  },
+  "archive": {
+    "cma": 103244
+  },
+  "phase": {
+    "label": "Late career: One Hundred Famous Views of Edo, 1857",
+    "source": {
+      "label": "Cleveland Museum of Art: series and date",
+      "url": "https://clevelandart.org/art/1921.318"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://clevelandart.org/art/1921.318"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The design shows Utagawa Hiroshige’s skill in capturing atmospheric conditions.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo",
+            "readAt": "https://clevelandart.org/art/1921.318",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "The Met: Hiroshige landscape prints",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The design shows Utagawa Hiroshige’s skill in capturing atmospheric conditions.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo",
+          "readAt": "https://clevelandart.org/art/1921.318",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Published two years after the great earthquake and fire of 1855, this print design illustrates the newly rebuilt Great Bridge over the Sumida River in Edo (now Tokyo).",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo",
+          "readAt": "https://clevelandart.org/art/1921.318",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "People try to protect themselves from sudden sheets of rain as they cross the bridge in opposite directions.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo",
+          "readAt": "https://clevelandart.org/art/1921.318",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

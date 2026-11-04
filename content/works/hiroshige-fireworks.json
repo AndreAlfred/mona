@@ -1,0 +1,105 @@
+{
+  "id": "hiroshige-fireworks",
+  "artist": "utagawa-hiroshige",
+  "title": "Fireworks at Ryōgoku, from the series One Hundred Views of Famous Places in Edo",
+  "date": "1858",
+  "year": 1858,
+  "medium": "color woodblock print",
+  "dimensions": "Sheet: 33.7 x 22 cm (13 1/4 x 8 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1940.986"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1940.986/1940.986_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1940.986/1940.986_print.jpg",
+    "width": 594,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of James Parmelee"
+  },
+  "archive": {
+    "cma": 120225
+  },
+  "phase": {
+    "label": "Late career: Edo views, 1858",
+    "source": {
+      "label": "Cleveland Museum of Art: series and date",
+      "url": "https://clevelandart.org/art/1940.986"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://clevelandart.org/art/1940.986"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "The Met: Hiroshige landscape prints",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, Hiroshige devoted nearly half the composition to the night sky glittering with fireworks.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Fireworks at Ryōgoku, from the series One Hundred Views of Famous Places in Edo",
+            "readAt": "https://clevelandart.org/art/1940.986",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Ryōgoku Bridge, a repeated subject of Hiroshige’s prints, spanned the Sumida River connecting bustling Edo (present-day Tokyo) neighborhoods.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Fireworks at Ryōgoku, from the series One Hundred Views of Famous Places in Edo",
+          "readAt": "https://clevelandart.org/art/1940.986",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Restaurants and other businesses along the riverbank frequently sponsored these dazzling displays during the 1850s.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Fireworks at Ryōgoku, from the series One Hundred Views of Famous Places in Edo",
+          "readAt": "https://clevelandart.org/art/1940.986",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The pyrotechnics drew large crowds, who gathered atop the bridge, along the shore, in teashops, and on rented pleasure boats to enjoy the show.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Fireworks at Ryōgoku, from the series One Hundred Views of Famous Places in Edo",
+          "readAt": "https://clevelandart.org/art/1940.986",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

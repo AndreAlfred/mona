@@ -1,0 +1,105 @@
+{
+  "id": "hiroshige-nagakubo",
+  "artist": "utagawa-hiroshige",
+  "title": "Nagakubo (Station 28) from the series Sixty-Nine Stations of the Kisokaido",
+  "date": "1835 or 1836",
+  "year": 1835,
+  "medium": "color woodblock print",
+  "dimensions": "Sheet: 22.8 x 35.4 cm (9 x 13 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1942.144"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.144/1942.144_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1942.144/1942.144_print.jpg",
+    "width": 900,
+    "height": 584,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. Henry S. Upson"
+  },
+  "archive": {
+    "cma": 121607
+  },
+  "phase": {
+    "label": "Kisokaidō landscapes, 1835–36",
+    "source": {
+      "label": "Cleveland Museum of Art: series and date",
+      "url": "https://clevelandart.org/art/1942.144"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://clevelandart.org/art/1942.144"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "The Met: Hiroshige landscape prints",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In the foreground, a man leading his weary horse gazes at the moon while children play with dogs.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Nagakubo (Station 28) from the series Sixty-Nine Stations of the Kisokaido",
+            "readAt": "https://clevelandart.org/art/1942.144",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Moonlight silhouettes travelers leaving the Nagakubo station, while a figure with a walking stick approaches it across the Wada Bridge.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Nagakubo (Station 28) from the series Sixty-Nine Stations of the Kisokaido",
+          "readAt": "https://clevelandart.org/art/1942.144",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1835, Hiroshige was involved in publishing the Sixty-nine Stations of the Kiso Road, comprising seventy prints.",
+        "source": {
+          "author": "Asian Art Museum",
+          "title": "Artist Profile: Utagawa (Ando) Hiroshige (1797–1858)",
+          "readAt": "https://education.asianart.org/resources/artist-profile-utagawa-ando-hiroshige/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "These prints of the mountainous Kisokaidō offered urban print collectors views of scenic spots without the inconveniences of travel.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Nagakubo (Station 28) from the series Sixty-Nine Stations of the Kisokaido",
+          "readAt": "https://clevelandart.org/art/1942.144",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

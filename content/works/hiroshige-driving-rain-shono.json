@@ -1,0 +1,105 @@
+{
+  "id": "hiroshige-driving-rain-shono",
+  "artist": "utagawa-hiroshige",
+  "title": "Driving Rain at Shōno, from Fifty-Three Stations of the Tokaidō",
+  "date": "1833",
+  "year": 1833,
+  "medium": "color woodblock print",
+  "dimensions": "38 x 25.4 cm (14 15/16 x 10 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1948.306"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1948.306/1948.306_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1948.306/1948.306_print.jpg",
+    "width": 900,
+    "height": 601,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. T. Wingate Todd from the Collection of Dr. T. Wingate Todd"
+  },
+  "archive": {
+    "cma": 126086
+  },
+  "phase": {
+    "label": "The first Tōkaidō series, 1833",
+    "source": {
+      "label": "Cleveland Museum of Art: series and date",
+      "url": "https://clevelandart.org/art/1948.306"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium",
+        "url": "https://clevelandart.org/art/1948.306"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Three printing blocks were required to produce the three shades of gray used to suggest distance in the thickets of bamboo in the background.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Driving Rain at Shōno, from Fifty-Three Stations of the Tokaidō",
+            "readAt": "https://clevelandart.org/art/1948.306",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "The Met: Hiroshige landscape prints",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Hiroshige created many different print series on the Tokaidō, a road that ran from Kyoto to Edo (now Tokyo).",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Driving Rain at Shōno, from Fifty-Three Stations of the Tokaidō",
+          "readAt": "https://clevelandart.org/art/1948.306",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Returning to Edo, Hiroshige immediately launched on his monumental project of publishing the Fifty-three Stations of the Tokaido Road.",
+        "source": {
+          "author": "Asian Art Museum",
+          "title": "Artist Profile: Utagawa (Ando) Hiroshige (1797–1858)",
+          "readAt": "https://education.asianart.org/resources/artist-profile-utagawa-ando-hiroshige/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Utagawa Hiroshige’s design for this print captures the atmospheric qualities of rain and its effects on two groups of travelers.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Driving Rain at Shōno, from Fifty-Three Stations of the Tokaidō",
+          "readAt": "https://clevelandart.org/art/1948.306",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
