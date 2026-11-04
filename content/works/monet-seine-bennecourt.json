@@ -1,0 +1,114 @@
+{
+  "id": "monet-seine-bennecourt",
+  "artist": "claude-monet",
+  "title": "On the Bank of the Seine, Bennecourt",
+  "date": "1868",
+  "year": 1868,
+  "medium": "Oil on canvas",
+  "dimensions": "81.5 × 100.7 cm (32 1/16 × 39 5/8 in.); Framed: 98.5 × 117.8 × 8 cm (38 3/4 × 46 3/8 × 3 1/8 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/81539"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Claude_Monet_-_On_the_Bank_of_the_Seine%2C_Bennecourt_-_1922.427_-_Art_Institute_of_Chicago.jpg/1280px-Claude_Monet_-_On_the_Bank_of_the_Seine%2C_Bennecourt_-_1922.427_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Claude_Monet_-_On_the_Bank_of_the_Seine%2C_Bennecourt_-_1922.427_-_Art_Institute_of_Chicago.jpg/2560px-Claude_Monet_-_On_the_Bank_of_the_Seine%2C_Bennecourt_-_1922.427_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 970,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Claude Monet - On the Bank of the Seine, Bennecourt - 1922.427 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 81539
+  },
+  "phase": {
+    "label": "Gloton retreat, 1868",
+    "source": {
+      "label": "On the Bank of the Seine, Bennecourt, Art Institute of Chicago",
+      "url": "https://api.artic.edu/api/v1/artworks/81539?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://www.artic.edu/artworks/81539"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Pentimenti (visible traces of earlier painting beneath a layer or layers of paint) suggest that in an early stage of the painting, Camille held a bonneted child, presumably the couple’s baby, Jean.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "On the Bank of the Seine, Bennecourt",
+            "readAt": "https://api.artic.edu/api/v1/artworks/81539?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is the only painting to survive from the brief period that the couple spent in Gloton",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "On the Bank of the Seine, Bennecourt",
+          "readAt": "https://api.artic.edu/api/v1/artworks/81539?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "which the novelist Émile Zola recommended to Monet as a cheap rural retreat that was easily accessible from Paris.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "On the Bank of the Seine, Bennecourt",
+          "readAt": "https://api.artic.edu/api/v1/artworks/81539?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        },
+        "lead": "On the couple’s stay in Gloton:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Here Claude Monet’s future wife, Camille Doncieux, sits on an island in the Seine River, looking toward the hamlet of Gloton, next to the town of Bennecourt, from which she and Monet have presumably rowed.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "On the Bank of the Seine, Bennecourt",
+          "readAt": "https://api.artic.edu/api/v1/artworks/81539?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

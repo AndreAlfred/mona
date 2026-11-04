@@ -1,0 +1,120 @@
+{
+  "id": "monet-apples-grapes",
+  "artist": "claude-monet",
+  "title": "Apples and Grapes",
+  "date": "1880",
+  "year": 1880,
+  "medium": "Oil on canvas",
+  "dimensions": "66.5 × 82.5 cm (26 3/16 × 32 1/2 in.); Framed: 88 × 103.9 × 10.2 cm (34 5/8 × 40 7/8 × 4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/16549"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Claude_Monet_-_Apples_and_Grapes_-_1933.1152_-_Art_Institute_of_Chicago.jpg/1280px-Claude_Monet_-_Apples_and_Grapes_-_1933.1152_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Claude_Monet_-_Apples_and_Grapes_-_1933.1152_-_Art_Institute_of_Chicago.jpg/2560px-Claude_Monet_-_Apples_and_Grapes_-_1933.1152_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 970,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Claude Monet - Apples and Grapes - 1933.1152 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 16549
+  },
+  "phase": {
+    "label": "Still lifes, 1879–80",
+    "source": {
+      "label": "Apples and Grapes, Art Institute of Chicago",
+      "url": "https://api.artic.edu/api/v1/artworks/16549?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://www.artic.edu/artworks/16549"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This is particularly evident in the extensive cloth surface—the play of light on the horizontal brushstrokes (indicating the folds in the tablecloth) recalls earlier canvases in which Monet used similar short horizontals of variegated colors to suggest water rippling in the sunlight.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Apples and Grapes",
+            "readAt": "https://api.artic.edu/api/v1/artworks/16549?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "still-life",
+      "source": {
+        "label": "Museum description",
+        "url": "https://api.artic.edu/api/v1/artworks/16549?fields=id,title,description"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Claude Monet probably painted this and other still lifes in 1879–80, knowing that they would be more readily marketable than his landscapes.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Apples and Grapes",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16549?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In Apples and Grapes, however, he employed the complexity of color, light, and texture found in his most Impressionist landscapes.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Apples and Grapes",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16549?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "knowing that they would be more readily marketable than his landscapes.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Apples and Grapes",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16549?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

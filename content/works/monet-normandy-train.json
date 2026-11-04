@@ -1,0 +1,113 @@
+{
+  "id": "monet-normandy-train",
+  "artist": "claude-monet",
+  "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+  "date": "1877",
+  "year": 1877,
+  "medium": "Oil on canvas",
+  "dimensions": "60.3 × 80.2 cm (23 3/4 × 31 1/2 in.); Framed: 80.7 × 100.4 × 10.2 cm (31 3/4 × 39 1/2 × 4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/16571"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Claude_Monet_-_Arrival_of_the_Normandy_Train%2C_Gare_Saint-Lazare_-_Google_Art_Project.jpg/1280px-Claude_Monet_-_Arrival_of_the_Normandy_Train%2C_Gare_Saint-Lazare_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Claude_Monet_-_Arrival_of_the_Normandy_Train%2C_Gare_Saint-Lazare_-_Google_Art_Project.jpg/2560px-Claude_Monet_-_Arrival_of_the_Normandy_Train%2C_Gare_Saint-Lazare_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 900,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Claude Monet - Arrival of the Normandy Train, Gare Saint-Lazare - Google Art Project.jpg)"
+  },
+  "archive": {
+    "aic": 16571
+  },
+  "phase": {
+    "label": "Gare Saint-Lazare paintings, 1877",
+    "source": {
+      "label": "Arrival of the Normandy Train, Gare Saint-Lazare, Art Institute of Chicago",
+      "url": "https://api.artic.edu/api/v1/artworks/16571?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://www.artic.edu/artworks/16571"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "One of the most avant-garde aspects of the Impressionists was their choice of subject matter, which frequently included scenes derived from modern, industrial Paris, from iron bridges to exhibition halls to train sheds.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+            "readAt": "https://api.artic.edu/api/v1/artworks/16571?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "But the Saint-Lazare paintings also represented his last attempt to capture urban life: from this point on in his career, Monet largely devoted himself to landscapes.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16571?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Monet completed eight of his twelve known paintings of the Gare Saint-Lazare in time for the third Impressionist exhibition, in 1877, probably displaying them in the same gallery.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16571?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The terminal linked Paris to Normandy, where the artist developed his technique of painting outdoors in the 1860s.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16571?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
