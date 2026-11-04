@@ -1,0 +1,110 @@
+{
+  "id": "homer-shepherdess",
+  "artist": "winslow-homer",
+  "title": "Shepherdess",
+  "date": "c. 1878",
+  "year": 1878,
+  "medium": "charcoal with brush and brown wash, heightened with white chalk; framing lines in graphite",
+  "dimensions": "Sheet: 41.8 x 25.8 cm (16 7/16 x 10 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1924.489"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1924.489/1924.489_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1924.489/1924.489_print.jpg",
+    "width": 554,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Dr. J. A. Vincent"
+  },
+  "archive": {
+    "cma": 106413
+  },
+  "phase": {
+    "label": "Houghton Farm pastorals, 1878",
+    "source": {
+      "label": "Cleveland Museum of Art: Shepherdess",
+      "url": "https://clevelandart.org/art/1924.489"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art: Shepherdess",
+        "url": "https://clevelandart.org/art/1924.489"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Homer spent the summer of 1878 at Mountainsville, New York, where his brother's business partner, Lawson Valentine, had a country place called Houghton Farm. While there he developed pastoral images of shepherdesses.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Shepherdess",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106413",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Homer spent the summer of 1878 at Mountainsville, New York, where his brother's business partner, Lawson Valentine, had a country place called Houghton Farm.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Shepherdess",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106413",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "While there he developed pastoral images of shepherdesses.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Shepherdess",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106413",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The flirtatious quality of these depictions becomes intriguing when we consider that Homer never married, and that he worked not only from female models but also sometimes from boys in girls' clothing.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Shepherdess",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106413",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

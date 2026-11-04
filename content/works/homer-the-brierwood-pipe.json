@@ -1,0 +1,110 @@
+{
+  "id": "homer-the-brierwood-pipe",
+  "artist": "winslow-homer",
+  "title": "The Brierwood Pipe",
+  "date": "1864",
+  "year": 1864,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 68.9 x 64.1 x 9.2 cm (27 1/8 x 25 1/4 x 3 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1944.524"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.524/1944.524_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1944.524/1944.524_print.jpg",
+    "width": 791,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund"
+  },
+  "archive": {
+    "cma": 124040
+  },
+  "phase": {
+    "label": "Civil War years",
+    "source": {
+      "label": "Cleveland Museum of Art: The Brierwood Pipe",
+      "url": "https://clevelandart.org/art/1944.524"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: The Brierwood Pipe",
+        "url": "https://clevelandart.org/art/1944.524"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Created during the United States Civil War, Winslow Homer’s painting depicts two volunteers for the Union Army who sport their regiment’s highly colorful uniforms, a design discovered to be impractical due to its ability to be spotted by sharpshooters.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "The Brierwood Pipe",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124040",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Passing idle time in their encampment, one soldier holds a lit pipe and watches his companion whittle a block of wood.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Brierwood Pipe",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124040",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Brierwood Pipe",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124040",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        },
+        "text": "Created during the United States Civil War, Winslow Homer’s painting depicts two volunteers for the Union Army who sport their regiment’s highly colorful uniforms, a design discovered to be impractical due to its ability to be spotted by sharpshooters."
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The painting shares its title with a contemporary poem, in which a soldier smokes a brierwood pipe and daydreams of the time when the conflict will end so he can return home.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Brierwood Pipe",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124040",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

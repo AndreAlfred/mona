@@ -1,0 +1,110 @@
+{
+  "id": "homer-indian-camp-roberval-p-q",
+  "artist": "winslow-homer",
+  "title": "Indian Camp, Roberval, P.Q.",
+  "date": "1895",
+  "year": 1895,
+  "medium": "watercolor with gouache over graphite",
+  "dimensions": "Sheet: 35.4 x 50.6 cm (13 15/16 x 19 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1943.70"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1943.70/1943.70_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1943.70/1943.70_print.jpg",
+    "width": 1258,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 123466
+  },
+  "phase": {
+    "label": "Canadian fishing expedition, 1895",
+    "source": {
+      "label": "Cleveland Museum of Art: Indian Camp, Roberval, P.Q.",
+      "url": "https://clevelandart.org/art/1943.70"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art: Indian Camp, Roberval, P.Q.",
+        "url": "https://clevelandart.org/art/1943.70"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Using straightforward visual material, Homer produced an unusual and arresting composition.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Indian Camp, Roberval, P.Q.",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123466",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1895, Winslow Homer produced 25 watercolors while on a fishing expedition in Canada.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Indian Camp, Roberval, P.Q.",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123466",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Using straightforward visual material, Homer produced an unusual and arresting composition.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Indian Camp, Roberval, P.Q.",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123466",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Indian Camp, Roberval, P.Q. was painted at Lake St. John, about 100 miles north of Quebec and shows Montangnais Indians at Pont Bleue.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Indian Camp, Roberval, P.Q.",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123466",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

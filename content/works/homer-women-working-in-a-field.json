@@ -1,0 +1,110 @@
+{
+  "id": "homer-women-working-in-a-field",
+  "artist": "winslow-homer",
+  "title": "Women Working in a Field",
+  "date": "1867",
+  "year": 1867,
+  "medium": "oil on wood",
+  "dimensions": "Framed: 30.5 x 45.5 x 4.5 cm (12 x 17 15/16 x 1 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1992.315"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1992.315/1992.315_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1992.315/1992.315_print.jpg",
+    "width": 1263,
+    "height": 668,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Elizabeth Whitney Evans and Mr. and Mrs. William H. Marlatt Fund"
+  },
+  "archive": {
+    "cma": 156615
+  },
+  "phase": {
+    "label": "France, 1866–67",
+    "source": {
+      "label": "Cleveland Museum of Art: Women Working in a Field",
+      "url": "https://clevelandart.org/art/1992.315"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: Women Working in a Field",
+        "url": "https://clevelandart.org/art/1992.315"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In December 1866, Winslow Homer sailed from Boston for a year of study in France.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Women Working in a Field",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/156615",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In December 1866, Winslow Homer sailed from Boston for a year of study in France.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Women Working in a Field",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/156615",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Since the early 1850s he had known the principles of French painting, particularly the outdoor style of the Barbizon school.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Women Working in a Field",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/156615",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "While in France, Homer spent most of his time working in Paris and the rural village of Cernay-la-Ville in Picardy, about 40 miles from the French capital. This oil sketch was probably painted there.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Women Working in a Field",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/156615",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

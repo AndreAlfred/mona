@@ -1,0 +1,110 @@
+{
+  "id": "homer-leaping-trout",
+  "artist": "winslow-homer",
+  "title": "Leaping Trout",
+  "date": "1889",
+  "year": 1889,
+  "medium": "watercolor over graphite",
+  "dimensions": "Sheet: 35 x 50.6 cm (13 3/4 x 19 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1973.142"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1973.142/1973.142_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1973.142/1973.142_print.jpg",
+    "width": 1263,
+    "height": 887,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Anonymous Gift"
+  },
+  "archive": {
+    "cma": 147393
+  },
+  "phase": {
+    "label": "Adirondack sporting subjects",
+    "source": {
+      "label": "Cleveland Museum of Art: Leaping Trout",
+      "url": "https://clevelandart.org/art/1973.142"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art: Leaping Trout",
+        "url": "https://clevelandart.org/art/1973.142"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "On the water’s surface, Homer uses scraping to create two brilliant white highlights, and dry brushing to produce the impression of a reflective surface.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Leaping Trout",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147393",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1886, Winslow Homer began to produce oil paintings and watercolors of subjects in the Adirondack Mountains, where he and his brother Charles had fished and hunted since the 1870s.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Leaping Trout",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147393",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His technique, influenced by the free brushwork of French Impressionism, similarly animates his still-life subject.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Leaping Trout",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147393",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Homer’s choice to adopt the fish’s perspective, rather than a fisherman’s, is quite unconventional and heightens the drama and immediacy of the scene.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Leaping Trout",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147393",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
