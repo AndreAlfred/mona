@@ -1,0 +1,143 @@
+{
+  "id": "hogarth-distrest-poet",
+  "artist": "william-hogarth",
+  "title": "The Distrest Poet (The Distressed Poet)",
+  "date": "1736",
+  "year": 1736,
+  "medium": "oil paint on canvas",
+  "dimensions": "63.5 × 78.5 cm",
+  "museum": {
+    "name": "Birmingham Museums Trust (1934P500)",
+    "url": "https://www.birminghammuseums.org.uk/explore-art/items/1934P500/the-distressed-poet"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hogarth_-_The_Distressed_Poet%2C_1733_-_1735%2C_1934P500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 941,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hogarth - The Distressed Poet, 1733 - 1735, 1934P500.jpg)"
+  },
+  "archive": {
+    "wd": "Q7730381"
+  },
+  "phase": {
+    "label": "Popular single prints of the later 1730s",
+    "source": {
+      "label": "Austin Dobson, William Hogarth (1891): separate prints of 1735–44",
+      "url": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Distrest Poet, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Distrest_Poet"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "The Distrest Poet, Wikipedia: a scene in a small, dingy attic room",
+        "url": "https://en.wikipedia.org/wiki/The_Distrest_Poet"
+      }
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "The Distrest Poet, Wikipedia: inspired by Pope's satirical poem The Dunciad",
+        "url": "https://en.wikipedia.org/wiki/The_Distrest_Poet"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "several separate prints appeared, which are among the most popular of his works — i.e., the Strolling Actresses Dressing in a Barn, the Enraged Musician, and the Distressed Poet.",
+        "source": {
+          "author": "Austin Dobson",
+          "title": "William Hogarth",
+          "publisher": "Sampson Low, Marston & Company",
+          "year": "1891",
+          "readAt": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "66"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The engraving of The Distrest Poet in its third state was issued on 15 December 1741 as a companion piece to The Enraged Musician, a comic scene of a violinist driven to distraction by the noise from the street outside his practice room.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Distrest Poet",
+          "readAt": "https://en.wikipedia.org/wiki/The_Distrest_Poet",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The scene shown in The Distrest Poet was probably inspired by Alexander Pope's satirical poem The Dunciad",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Distrest Poet",
+          "readAt": "https://en.wikipedia.org/wiki/The_Distrest_Poet",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Paulson suggests that the real \"villain\" of The Distrest Poet may be Pope, unseen but representing the successful \"Great Poet\" whom the deluded aspiring artist hopes to emulate, rather than the distressed poet himself.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Distrest Poet",
+          "readAt": "https://en.wikipedia.org/wiki/The_Distrest_Poet",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "is there nothing sweetly conciliatory in the mild patient face and gesture with which the wife seems to allay and ventilate the feverish irritated feelings of her poor poverty-distracted mate (the true copy of the genus irritabile) in the print of the Distrest Poet?",
+        "source": {
+          "author": "Charles Lamb",
+          "title": "On the Genius and Character of Hogarth (1811), in Anecdotes of William Hogarth",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "Public domain",
+          "page": "110"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In this way, Hogarth underlines the desperate circumstances of the occupants and the poverty of the family.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Distrest Poet",
+          "readAt": "https://en.wikipedia.org/wiki/The_Distrest_Poet",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

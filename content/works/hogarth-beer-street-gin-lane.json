@@ -1,0 +1,177 @@
+{
+  "id": "hogarth-beer-street-gin-lane",
+  "artist": "william-hogarth",
+  "title": "Beer Street and Gin Lane",
+  "date": "1751",
+  "year": 1751,
+  "museum": {
+    "name": "Victoria and Albert Museum",
+    "url": "https://www.wikidata.org/wiki/Q4879965"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Beer-street-and-Gin-lane.jpg/1280px-Beer-street-and-Gin-lane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Beer-street-and-Gin-lane.jpg/2560px-Beer-street-and-Gin-lane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 716,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Beer-street-and-Gin-lane.jpg)"
+  },
+  "archive": {
+    "wd": "Q4879965"
+  },
+  "phase": {
+    "label": "Cheap prints for a wide public, 1747–51",
+    "source": {
+      "label": "Beer Street and Gin Lane, Wikipedia: continuing a movement started in Industry and Idleness",
+      "url": "https://en.wikipedia.org/wiki/Beer_Street_and_Gin_Lane"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Hogarth: “When these two prints were designed and engraved”",
+        "url": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Neither minute accuracy of design, nor fine engraving, were deemed necessary, as the latter would render them too expensive for the persons to whom they were intended to be useful.",
+          "source": {
+            "author": "William Hogarth",
+            "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+            "publisher": "J. B. Nichols and Son",
+            "year": "1833",
+            "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 1,
+            "license": "Public domain"
+          },
+          "lead": "Hogarth on these plates:"
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Beer Street and Gin Lane, Wikipedia: two prints issued in 1751",
+        "url": "https://en.wikipedia.org/wiki/Beer_Street_and_Gin_Lane"
+      }
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "Beer Street and Gin Lane, Wikipedia: other targets of his satire",
+        "url": "https://en.wikipedia.org/wiki/Beer_Street_and_Gin_Lane"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "When these two prints were designed and engraved, the dreadful consequences of gin-drinking appeared in every street.",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Beer Street, its companion, was given as a contrast, where that invigorating liquor is recommended, in order to drive the other out of vogue. Here all is joyous and thriving.",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Issued together with The Four Stages of Cruelty, the prints continued a movement started in Industry and Idleness, away from depicting the laughable foibles of fashionable society (as he had done with Marriage A-la-Mode)",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Beer Street and Gin Lane",
+          "readAt": "https://en.wikipedia.org/wiki/Beer_Street_and_Gin_Lane",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Beer Street and Gin Lane are two prints issued in 1751 by English artist William Hogarth in support of what would become the Gin Act.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Beer Street and Gin Lane",
+          "readAt": "https://en.wikipedia.org/wiki/Beer_Street_and_Gin_Lane",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "There is more of imagination in it — that power which draws all things to one, — which makes things animate and inanimate, beings with their attributes, subjects and their accessaries, take one colour, and serve to one effect.",
+        "source": {
+          "author": "Charles Lamb",
+          "title": "On the Genius and Character of Hogarth (1811), in Anecdotes of William Hogarth",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "Public domain",
+          "page": "97"
+        },
+        "lead": "Charles Lamb on Gin Lane:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The leading points in these, as well as the two preceding prints, were made as obvious as possible, in the hope that their tendency might be seen by men of the lowest rank.",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        },
+        "lead": "Writing of these prints and The Four Stages of Cruelty:"
+      },
+      {
+        "kind": "quote",
+        "text": "There is no evidence that any of the actors in the dreary scene have ever been much better than we see them there. The best are pawning the commonest necessaries, and tools of their trades ; and the worst are homeless vagrants",
+        "source": {
+          "author": "Charles Dickens",
+          "title": "On Gin Lane, quoted in Austin Dobson, William Hogarth",
+          "year": "1891",
+          "readAt": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

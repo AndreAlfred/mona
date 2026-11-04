@@ -1,0 +1,147 @@
+{
+  "id": "hogarth-servants",
+  "artist": "william-hogarth",
+  "title": "Hogarth's Servants (Heads of Six of Hogarth’s Servants)",
+  "date": "1752",
+  "year": 1752,
+  "medium": "oil paint on canvas",
+  "dimensions": "62 × 75.5 cm",
+  "museum": {
+    "name": "Tate (N01374)",
+    "url": "https://www.tate.org.uk/art/artworks/hogarth-heads-of-six-of-hogarths-servants-n01374"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Hogarths-Servants.jpg/1280px-Hogarths-Servants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 990,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hogarths-Servants.jpg)"
+  },
+  "archive": {
+    "wd": "Q5722643"
+  },
+  "phase": {
+    "label": "Late portraiture, c. 1750–55",
+    "source": {
+      "label": "Hogarth's Servants, Wikipedia: evidently a late work",
+      "url": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Hogarth's Servants, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This is evidently a late work by Hogarth, demonstrating his mastery of portraiture.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Hogarth's Servants",
+            "readAt": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Hogarth's Servants, Wikipedia: an oil-on-canvas painting",
+        "url": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The subject matter and composition are unusual, with six studies of heads crammed in a small space, distributed in three groups of two, all lit by a light source at the upper left.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hogarth's Servants",
+          "readAt": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "By some they were said to be nature itself, by others declared most execrable ; so that time only can decide whether I was the best or the worst face painter of my day ; for a medium was never so much as suggested.",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        },
+        "lead": "Hogarth on his own portraits:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Hogarth is exploring the differences of human physiognomy as he had in his print Characters and Caricaturas of 1743.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hogarth's Servants",
+          "readAt": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It may have been hung in Hogarth's studio to demonstrate his ability as a portraitist to his patrons.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hogarth's Servants",
+          "readAt": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The work was not commissioned, but rather painted for Hogarth's own amusement.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hogarth's Servants",
+          "readAt": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The servants are shown in their natural appearance, in their usual work clothes, capturing their individual characters. It was painted with warmth and sensitivity, demonstrating Hogarth's affection for his servants",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hogarth's Servants",
+          "readAt": "https://en.wikipedia.org/wiki/Hogarth%27s_Servants",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

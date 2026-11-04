@@ -1,0 +1,133 @@
+{
+  "id": "hogarth-shrimp-girl",
+  "artist": "william-hogarth",
+  "title": "The Shrimp Girl",
+  "date": "1743",
+  "year": 1743,
+  "medium": "oil paint on canvas",
+  "dimensions": "63.5 × 52.5 cm",
+  "museum": {
+    "name": "National Gallery (NG1162)",
+    "url": "https://www.wikidata.org/wiki/Q4164272"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/William_Hogarth_-_The_Shrimp_Girl_-_WGA11467.jpg/1280px-William_Hogarth_-_The_Shrimp_Girl_-_WGA11467.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/William_Hogarth_-_The_Shrimp_Girl_-_WGA11467.jpg/2560px-William_Hogarth_-_The_Shrimp_Girl_-_WGA11467.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1455,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (William Hogarth - The Shrimp Girl - WGA11467.jpg)"
+  },
+  "archive": {
+    "wd": "Q4164272"
+  },
+  "phase": {
+    "label": "Late oil sketch, c. 1740–45",
+    "source": {
+      "label": "The Shrimp Girl, Wikipedia: a relatively late work",
+      "url": "https://en.wikipedia.org/wiki/The_Shrimp_Girl"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Shrimp Girl, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Shrimp_Girl"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The painting, a relatively late work by Hogarth, is one of several in which he experimented with a loose, almost impressionistic style comparable to the work of Fragonard.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Shrimp Girl",
+            "readAt": "https://en.wikipedia.org/wiki/The_Shrimp_Girl",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "The Shrimp Girl, Wikipedia: its size suggests it was intended as a portrait",
+        "url": "https://en.wikipedia.org/wiki/The_Shrimp_Girl"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This portrait, and his unfinished oil sketch of a young fishwoman, entitled The Shrimp Girl (National Gallery, London), may be called masterpieces of British painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is not strictly finished and was still in Hogarth's estate after his death.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Shrimp Girl",
+          "readAt": "https://en.wikipedia.org/wiki/The_Shrimp_Girl",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In its subject matter, it resembles the prints of hawkers and traders popular in Hogarth's day.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Shrimp Girl",
+          "readAt": "https://en.wikipedia.org/wiki/The_Shrimp_Girl",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The painting depicts a woman selling shellfish on the streets of London, typically a job for the wives and daughters of fishmongers who owned stalls in markets such as Billingsgate.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Shrimp Girl",
+          "readAt": "https://en.wikipedia.org/wiki/The_Shrimp_Girl",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His widow Jane was said to have told visitors on showing the picture to them: \"They say he could not paint flesh. There is flesh and blood for you.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Shrimp Girl",
+          "readAt": "https://en.wikipedia.org/wiki/The_Shrimp_Girl",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

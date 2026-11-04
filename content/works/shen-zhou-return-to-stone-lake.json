@@ -1,0 +1,165 @@
+{
+  "id": "shen-zhou-return-to-stone-lake",
+  "artist": "shen-zhou",
+  "title": "Return to Stone Lake",
+  "date": "1466",
+  "year": 1466,
+  "dimensions": "26.1 × 157.5 cm",
+  "museum": {
+    "name": "Art Institute of Chicago (1951.187)",
+    "url": "https://www.artic.edu/artworks/75320"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Shen_Zhou_-_Return_to_Stone_Lake_-_1951.187_-_Art_Institute_of_Chicago.jpg/1280px-Shen_Zhou_-_Return_to_Stone_Lake_-_1951.187_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Shen_Zhou_-_Return_to_Stone_Lake_-_1951.187_-_Art_Institute_of_Chicago.jpg/2560px-Shen_Zhou_-_Return_to_Stone_Lake_-_1951.187_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 444,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Shen Zhou - Return to Stone Lake - 1951.187 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "wd": "Q20267453",
+    "aic": 75320
+  },
+  "phase": {
+    "label": "Early works: small, careful scrolls of the 1460s",
+    "source": {
+      "label": "Edwards, The Field of Stones: Return from Stone Lake (Art Institute of Chicago), dated 1466, among the early works",
+      "url": "https://archive.org/details/fieldofstonesstu00edwa"
+    }
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Edwards, The Field of Stones, catalogue no. III: “Handscroll. Paper, ink.”",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This kind of scroll is intended to be read or viewed flat on a table, in sections. The format thus allows for the depiction of a continuous narrative or journey.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Handscroll",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Handscroll",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Edwards, The Field of Stones: a very light ink wash brushed over the whole paper",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Edwards, The Field of Stones: painted in imitation of the Yuan scholar-painter Ni Tsan",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The tenth month, 1466. While on the boat coming back from Stone Lake I had a good deal of leisure time, and so for my amusement I imitated the brush and meaning of Ni Tsan by painting this small scroll and adding a poem.",
+        "lead": "Shen Zhou’s inscription on the scroll:",
+        "source": {
+          "author": "Shen Zhou (Shen Chou)",
+          "title": "Inscription on Return from Stone Lake, 1466",
+          "publisher": "translated by Richard Edwards in The Field of Stones (Freer Gallery of Art, 1962; Internet Archive scan)",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[By Chinese reckoning,] Shen Chou is 40, and we are still clearly dealing with a small miniature-like production.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Ni Zan's landscapes after 1345 all take very much the same form: ink-monochrome paintings of widely separated riverbanks rendered in sketch brushwork and foreground trees silhouetted against the expanse of water. His sparse landscapes never represent people and defy many traditional concepts of Chinese painting.",
+        "lead": "On Ni Zan, the Yuan master Shen Zhou was imitating:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ni Zan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ni_Zan",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Shen possessed a large collection of paintings from the late Yuan and early Ming, which he and his scholar-painter colleagues used as models in forging the revivalist approach of the Wu style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shen Zhou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shen_Zhou",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Far trees and flat sand are clothed in fading light; / The lu grass on the land-spits rustles in the late faint wind; / An empty house becomes the color of the mountains; / While for the boatman at the lake’s head / Intoxication — still no return.",
+        "lead": "The poem Shen Zhou wrote above the lake:",
+        "source": {
+          "author": "Shen Zhou (Shen Chou)",
+          "title": "Poem inscribed on Return from Stone Lake, 1466",
+          "publisher": "translated by Richard Edwards in The Field of Stones (Freer Gallery of Art, 1962; Internet Archive scan)",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The boats on Stone Lake are scarcely visible, fading lines on the distant water, from which there is, as the poem above them tells, “still no return.”",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "medium": "Handscroll; ink on paper",
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

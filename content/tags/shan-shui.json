@@ -1,0 +1,21 @@
+{
+  "id": "shan-shui",
+  "kind": "subject",
+  "name": "Shan shui (mountain-and-water landscape)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Shan shui … refers to a style of traditional East Asian painting derived from Chinese painting that involves or depicts scenery or natural landscapes, using a brush and ink rather than more conventional paints. Mountains, rivers, and waterfalls are common subjects of shan shui paintings.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Shan shui",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Shan_shui",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "landscape"
+}

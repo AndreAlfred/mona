@@ -1,0 +1,152 @@
+{
+  "id": "hogarth-sigismunda",
+  "artist": "william-hogarth",
+  "title": "Sigismunda mourning over the Heart of Guiscardo",
+  "date": "1759",
+  "year": 1759,
+  "medium": "oil paint on canvas",
+  "dimensions": "100.4 × 126.5 cm",
+  "museum": {
+    "name": "Tate (N01046)",
+    "url": "http://www.tate.org.uk/art/artworks/hogarth-sigismunda-mourning-over-the-heart-of-guiscardo-n01046"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hogarth_sigismunda.JPG/1280px-Hogarth_sigismunda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 951,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hogarth sigismunda.JPG)"
+  },
+  "archive": {
+    "wd": "Q7512183"
+  },
+  "phase": {
+    "label": "Last bid as a history painter, 1759",
+    "source": {
+      "label": "Sigismunda, Wikipedia: the final and most ambitious of his attempts",
+      "url": "https://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Sigismunda, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It was the final and most ambitious of his attempts to secure for himself a reputation as a history painter.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Sigismunda mourning over the Heart of Guiscardo",
+            "readAt": "https://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Sigismunda, Wikipedia (oil-on-canvas)",
+        "url": "https://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "My object was dramatic, and my aim to draw tears from the spectator ; an effect I have often witnessed at a tragedy ; and it therefore struck me that it was worth trying, if a painter could not produce the same effect, and touch the heart through the eye, as the player does through the ear.",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "While Hogarth had expected this work to be acclaimed as a masterpiece of dramatic painting, the work was met with criticism and ridicule.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sigismunda mourning over the Heart of Guiscardo",
+          "readAt": "https://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "None of the somber grief, no dignity of suppressed anguish, no involuntary tear, no settled meditation on the fate she meant to meet, no amorous warmth turned holy by despair",
+        "source": {
+          "author": "Horace Walpole",
+          "title": "On Hogarth's Sigismunda, quoted in Wikipedia",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "At the present day there is no doubt that [Sigismunda] was not fairly treated in the painter's [lifetime].",
+        "source": {
+          "author": "Austin Dobson",
+          "title": "William Hogarth",
+          "publisher": "Sampson Low, Marston & Company",
+          "year": "1891",
+          "readAt": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "161"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The chief things that have brought much obloquy on me, are first, the attempting portrait painting; secondly, writing the Analysis of Beauty ; thirdly, painting the picture of Sigismunda ; and fourthly, publishing the first print of the Times.",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is probable that Hogarth modelled her on his wife, Jane.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sigismunda mourning over the Heart of Guiscardo",
+          "readAt": "https://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

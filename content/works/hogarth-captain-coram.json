@@ -1,0 +1,155 @@
+{
+  "id": "hogarth-captain-coram",
+  "artist": "william-hogarth",
+  "title": "Portrait of Captain Thomas Coram",
+  "date": "1740",
+  "year": 1740,
+  "medium": "oil paint on canvas",
+  "dimensions": "239 × 147.5 cm",
+  "museum": {
+    "name": "Foundling Museum",
+    "url": "https://www.wikidata.org/wiki/Q12108456"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Hogarth_coram.jpg/1280px-Hogarth_coram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1988,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hogarth coram.jpg)"
+  },
+  "archive": {
+    "wd": "Q12108456"
+  },
+  "phase": {
+    "label": "Life-size portraits, 1740s",
+    "source": {
+      "label": "Hogarth: Coram was “one of the first I painted the size of life”",
+      "url": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Portrait of Captain Thomas Coram, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Captain_Thomas_Coram"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The portrait, which represents Hogarth's highest achievement in direct portraiture, was not created as a commission and was instead donated to Coram's Foundling Hospital.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Portrait of Captain Thomas Coram",
+            "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Captain_Thomas_Coram",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Portrait of Captain Thomas Coram, Wikipedia (oil on canvas)",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Captain_Thomas_Coram"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The portrait which I painted with most pleasure, and in which I particularly wished to excel, was that of Captain Coram, for the Foundling Hospital",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He himself considered Captain Coram the best of his single portraits, and the judgment of posterity has ratified his opinion.",
+        "source": {
+          "author": "Austin Dobson",
+          "title": "William Hogarth",
+          "publisher": "Sampson Low, Marston & Company",
+          "year": "1891",
+          "readAt": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "76"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "if I am so wretched an artist as my enemies assert, it is somewhat strange that this, which was one of the first I painted the size of life, should stand the test of twenty years competition, and be generally thought the best portrait in the place",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        },
+        "lead": "Answering the professional portrait painters:"
+      },
+      {
+        "kind": "quote",
+        "text": "In 1740, he created a truthful, vivid full-length portrait of his friend, the philanthropic Captain Coram, for the Thomas Coram Foundation for Children, now in the Foundling Museum.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It was the object of Captain Coram, the patient philanthropist with whom the scheme originated, to provide some asylum for those deserted infants who, under the callous Poor Laws of the day, were too often committed to the tender mercies of the street.",
+        "source": {
+          "author": "Austin Dobson",
+          "title": "William Hogarth",
+          "publisher": "Sampson Low, Marston & Company",
+          "year": "1891",
+          "readAt": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "75"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the left side represents Coram's sea ventures, a major source of his wealth, while the right side shows a curtain pulled over a mother figure with a child.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Captain Thomas Coram",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Captain_Thomas_Coram",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

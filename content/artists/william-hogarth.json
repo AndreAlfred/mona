@@ -1,0 +1,97 @@
+{
+  "id": "william-hogarth",
+  "name": "William Hogarth",
+  "born": 1697,
+  "died": 1764,
+  "active": "1720–1764",
+  "nationality": "English",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Hogarth, “a real child of Rococo”",
+        "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "source": {
+        "label": "Wikipedia: Paulson on Hogarth's use of Dürer's images",
+        "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+      }
+    },
+    {
+      "id": "rembrandt-van-rijn",
+      "name": "Rembrandt van Rijn",
+      "source": {
+        "label": "Hogarth: his portraits “met with a fate somewhat similar to those of Rembrandt”",
+        "url": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt"
+      }
+    },
+    {
+      "id": "jean-honore-fragonard",
+      "name": "Jean-Honoré Fragonard",
+      "source": {
+        "label": "Wikipedia: The Shrimp Girl's loose style “comparable to the work of Fragonard”",
+        "url": "https://en.wikipedia.org/wiki/The_Shrimp_Girl"
+      }
+    }
+  ],
+  "wikidata": "Q171344",
+  "archive": {
+    "cma": [
+      23776
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "I therefore turned my thoughts to a still more novel mode, viz. painting and [engraving] modern moral subjects, a field not broken up in any country or any age.",
+      "source": {
+        "author": "William Hogarth",
+        "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+        "publisher": "J. B. Nichols and Son",
+        "year": "1833",
+        "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+        "accessed": "2026-11-04",
+        "tier": 1,
+        "license": "Public domain"
+      },
+      "lead": "Looking back on how he found his subject:"
+    },
+    {
+      "kind": "quote",
+      "text": "His work ranges from realistic portraiture to comic strip-like series of pictures called \"modern moral subjects\", and he is perhaps best known for his series A Harlot's Progress, A Rake's Progress and Marriage A-la-Mode.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "William Hogarth",
+        "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He belonged to no school of art ; he was the produce of no academy ; no man living or dead had any share in forming his mind, or in rendering his hand skilful.",
+      "source": {
+        "author": "Allan Cunningham",
+        "title": "Lives of the Most Eminent British Painters, quoted in Anecdotes of William Hogarth",
+        "publisher": "J. B. Nichols and Son",
+        "year": "1833",
+        "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+        "accessed": "2026-11-04",
+        "tier": 2,
+        "license": "Public domain"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

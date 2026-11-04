@@ -1,0 +1,142 @@
+{
+  "id": "hogarth-beggars-opera",
+  "artist": "william-hogarth",
+  "title": "A Scene from The Beggar's Opera",
+  "date": "1728",
+  "year": 1728,
+  "medium": "oil paint on canvas",
+  "dimensions": "51.1 × 61.2 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington (1983.1.42)",
+    "url": "https://www.nga.gov/collection/art-object-page.61392.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/A_Scene_from_the_Beggar%27s_Opera.jpg/1280px-A_Scene_from_the_Beggar%27s_Opera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/A_Scene_from_the_Beggar%27s_Opera.jpg/2560px-A_Scene_from_the_Beggar%27s_Opera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 996,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (A Scene from the Beggar's Opera.jpg)"
+  },
+  "archive": {
+    "wd": "Q20177829"
+  },
+  "phase": {
+    "label": "First oil paintings and conversation pieces, 1728–32",
+    "source": {
+      "label": "William Hogarth, Wikipedia: efforts in oil between 1728 and 1732",
+      "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: A Scene from The Beggar's Opera (oil paint on canvas)",
+        "url": "https://www.wikidata.org/wiki/Q20177829"
+      }
+    },
+    {
+      "id": "conversation-piece",
+      "source": {
+        "label": "Austin Dobson, William Hogarth (1891): Beggar's Opera among his first small oils",
+        "url": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "I THEN married, and commenced painter of small [Conversation] pieces, from twelve to fifteen inches high. This having novelty, succeeded for a few years.",
+          "source": {
+            "author": "William Hogarth",
+            "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+            "publisher": "J. B. Nichols and Son",
+            "year": "1833",
+            "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 1,
+            "license": "Public domain"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "several versions of the Polly and Lucy scene in Gay's \" Beggar's Opera,\" notable for their portraits of the beautiful actress, Lavinia Fenton and her future husband, the Duke of Bolton",
+        "source": {
+          "author": "Austin Dobson",
+          "title": "William Hogarth",
+          "publisher": "Sampson Low, Marston & Company",
+          "year": "1891",
+          "readAt": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "28"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Among his efforts in oil between 1728 and 1732 were The Fountaine Family (c. 1730), The Assembly at Wanstead House, The House of Commons examining Bambridge, and several pictures of the chief actors in John Gay's popular The Beggar's Opera.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Beggar's Opera premiered at the Lincoln's Inn Fields Theatre on 29 January 1728 and ran for 62 consecutive performances, the second-longest run in theatre history up to that time",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Beggar's Opera",
+          "readAt": "https://en.wikipedia.org/wiki/The_Beggar%27s_Opera",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Gay's capital work is his \"Beggar's Opera.\" It is, indeed, a masterpiece of wit and genius, not to say of morality.",
+        "source": {
+          "author": "William Hazlitt",
+          "title": "On the Works of Hogarth, in Lectures on the English Comic Writers",
+          "year": "1819",
+          "readAt": "https://archive.org/stream/lecturescomic00hazluoft/lecturescomic00hazluoft_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I therefore wished to compose pictures on canvas, similar to representations on the stage ; and further hope that they will be tried by the same test, and … criticised by the same criterion.",
+        "source": {
+          "author": "William Hogarth",
+          "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "Public domain"
+        },
+        "lead": "On what the stage taught him:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "handscroll",
+  "kind": "material",
+  "name": "Handscroll",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The handscroll is a long, narrow, horizontal scroll format in East Asia used for calligraphy or paintings. A handscroll usually measures up to several meters in length and around 25–40 cm in height. Handscrolls are generally viewed starting from the right end.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Handscroll",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Handscroll",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "handscroll"
+}

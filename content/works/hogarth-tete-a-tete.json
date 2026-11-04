@@ -1,0 +1,157 @@
+{
+  "id": "hogarth-tete-a-tete",
+  "artist": "william-hogarth",
+  "title": "Marriage A-la-Mode: 2. The Tête à Tête (Marriage A-la-Mode: 2, The Tête à Tête)",
+  "date": "1743",
+  "year": 1743,
+  "medium": "oil paint on canvas",
+  "dimensions": "70 × 91 cm",
+  "museum": {
+    "name": "National Gallery (NG114)",
+    "url": "https://www.wikidata.org/wiki/Q3944145"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Marriage_A-la-Mode_2%2C_The_T%C3%AAte_%C3%A0_T%C3%AAte_-_William_Hogarth.jpg/1280px-Marriage_A-la-Mode_2%2C_The_T%C3%AAte_%C3%A0_T%C3%AAte_-_William_Hogarth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Marriage_A-la-Mode_2%2C_The_T%C3%AAte_%C3%A0_T%C3%AAte_-_William_Hogarth.jpg/2560px-Marriage_A-la-Mode_2%2C_The_T%C3%AAte_%C3%A0_T%C3%AAte_-_William_Hogarth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 914,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Marriage A-la-Mode 2, The Tête à Tête - William Hogarth.jpg)"
+  },
+  "archive": {
+    "wd": "Q3944145"
+  },
+  "phase": {
+    "label": "Marriage A-la-Mode, 1743–45",
+    "source": {
+      "label": "William Hogarth, Wikipedia: Marriage A-la-Mode, 1743–1745",
+      "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+    }
+  },
+  "tags": [
+    {
+      "id": "modern-moral-subject",
+      "source": {
+        "label": "William Hogarth, Wikipedia: modern moral subjects",
+        "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "my picture is my stage, and men and women my players, who by means of certain actions and gestures, are to exhibit a [dumb show].",
+          "source": {
+            "author": "William Hogarth",
+            "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+            "publisher": "J. B. Nichols and Son",
+            "year": "1833",
+            "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 1,
+            "license": "Public domain"
+          },
+          "lead": "Hogarth on his method:"
+        }
+      ]
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "William Hogarth, Wikipedia: Hogarth here painted a satire",
+        "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: Marriage A-la-Mode 2 (oil paint on canvas)",
+        "url": "https://www.wikidata.org/wiki/Q3944145"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1743–1745, Hogarth painted the six pictures of Marriage A-la-Mode (National Gallery, London), a pointed skewering of upper-class 18th-century society.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This is regarded by many as his finest project.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Hogarth has with great skill contrasted the pale countenance of the [husband] with the yellow whitish colour of the marble chimney-piece behind him, in such a manner as to preserve the fleshy tone of the former. The airy splendour of the view of the inner room in this picture, is probably not exceeded by any of the productions of the Flemish school.",
+        "source": {
+          "author": "William Hazlitt",
+          "title": "On the Works of Hogarth, in Lectures on the English Comic Writers",
+          "year": "1819",
+          "readAt": "https://archive.org/stream/lecturescomic00hazluoft/lecturescomic00hazluoft_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "Public domain"
+        },
+        "lead": "On this “Morning Scene”:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Marital ethics were the topic of much debate in 18th-century Britain. The many marriages of convenience and their attendant unhappiness came in for particular criticism, with a variety of authors taking the view that love was a much sounder basis for marriage.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "there are signs that the marriage has already begun to break down. The husband and wife appear uninterested in one another, amidst evidence of their separate dalliances the previous night.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Marriage A-la-Mode (Hogarth)",
+          "readAt": "https://en.wikipedia.org/wiki/Marriage_A-la-Mode_(Hogarth)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The disarray of the house and the servant holding a stack of unpaid bills shows that the affairs of the household are a mess.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Marriage A-la-Mode (Hogarth)",
+          "readAt": "https://en.wikipedia.org/wiki/Marriage_A-la-Mode_(Hogarth)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

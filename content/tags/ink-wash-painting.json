@@ -1,0 +1,34 @@
+{
+  "id": "ink-wash-painting",
+  "kind": "technique",
+  "name": "Ink wash painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Ink wash painting … is a type of Chinese ink brush painting which uses washes of black ink, such as that used in East Asian calligraphy, in different concentrations.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Ink wash painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Ink_wash_painting",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In the hand of a master, a single stroke can produce considerable variations in tonality, from deep black to silvery gray.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Ink wash painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Ink_wash_painting",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "ink on paper"
+}
