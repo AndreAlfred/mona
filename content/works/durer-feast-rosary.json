@@ -1,0 +1,113 @@
+{
+  "id": "durer-feast-rosary",
+  "artist": "albrecht-durer",
+  "title": "Feast of the Rosary (Das Rosenkranzfest)",
+  "date": "1506",
+  "year": 1506,
+  "medium": "oil paint on poplar panel, panel",
+  "dimensions": "162 × 192 cm",
+  "museum": {
+    "name": "National Gallery Prague (O 1552)",
+    "url": "http://sbirky.ngprague.cz/en/dielo/CZE:NG.O_1552"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Albrecht_D%C3%BCrer_-_Das_Rosenkranzfest_%281506%29.jpg/1280px-Albrecht_D%C3%BCrer_-_Das_Rosenkranzfest_%281506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Albrecht_D%C3%BCrer_-_Das_Rosenkranzfest_%281506%29.jpg/2560px-Albrecht_D%C3%BCrer_-_Das_Rosenkranzfest_%281506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1007,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Dürer - Das Rosenkranzfest (1506).jpg)"
+  },
+  "archive": {
+    "wd": "Q1170194"
+  },
+  "phase": {
+    "label": "Second Venetian stay, 1506",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Mary is depicted handing out rose garlands to two groups of kneeling worshippers, portrayed in two symmetrical rows at the sides.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Feast of the Rosary",
+            "readAt": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Dürer was still working on the painting in September that year, when the Doge, the Patriarch, other Venetian nobles and a number of artists visited Dürer's workshop to see the finished work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Feast of the Rosary",
+          "readAt": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A single angel sits at the Virgin's feet playing a lute, an evident homage to Giovanni Bellini's altarpieces.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Feast of the Rosary",
+          "readAt": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It also stated it was to portray the Feast of the Rosary - German expatriates in Venice were particularly devoted to Our Lady of the Rosary.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Feast of the Rosary",
+          "readAt": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

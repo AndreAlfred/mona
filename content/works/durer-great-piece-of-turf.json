@@ -1,0 +1,113 @@
+{
+  "id": "durer-great-piece-of-turf",
+  "artist": "albrecht-durer",
+  "title": "Great Piece of Turf (Das große Rasenstück)",
+  "date": "1503",
+  "year": 1503,
+  "medium": "watercolor paint, top color on paper",
+  "dimensions": "40.8 × 31.5 cm",
+  "museum": {
+    "name": "Albertina (3075)",
+    "url": "https://sammlungenonline.albertina.at/de/objects/39098/das-groe-rasenstuck"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg/1280px-Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg/2560px-Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1541,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Dürer - The Large Piece of Turf, 1503 - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q254794"
+  },
+  "phase": {
+    "label": "Nature studies, 1503",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/Great_Piece_of_Turf"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Great_Piece_of_Turf"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Rather than functioning as a simple sketch, the work reflects a deliberate and methodical approach to plants and biology.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Great Piece of Turf",
+            "readAt": "https://en.wikipedia.org/wiki/Great_Piece_of_Turf",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "naturalism",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Great_Piece_of_Turf"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Although frequently described as a small-scale observational study, Great Piece of Turf holds a central place in Dürer's exploration of nature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Great Piece of Turf",
+          "readAt": "https://en.wikipedia.org/wiki/Great_Piece_of_Turf",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "These portrait-like depictions of plants are common in Frankish painting, which preceded Dürer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Great Piece of Turf",
+          "readAt": "https://en.wikipedia.org/wiki/Great_Piece_of_Turf",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "We can assume that Dürer studied the individual plants separately before assembling them for this work.",
+        "source": {
+          "author": "ALBERTINA",
+          "title": "Das große Rasenstück",
+          "readAt": "https://sammlungenonline.albertina.at/de/objects/39098/das-groe-rasenstuck",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "ALBERTINA",
+          "license": ""
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

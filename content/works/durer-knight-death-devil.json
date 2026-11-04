@@ -1,0 +1,113 @@
+{
+  "id": "durer-knight-death-devil",
+  "artist": "albrecht-durer",
+  "title": "Knight, Death, and the Devil",
+  "date": "1513",
+  "year": 1513,
+  "medium": "engraving on laid paper",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/artworks/6637-knight-death-and-devil",
+    "accession": "1943.3.3519"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg/1280px-Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg/2560px-Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1555,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Dürer, Knight, Death and Devil, 1513, NGA 6637.jpg)"
+  },
+  "archive": {
+    "wd": "Q1755464"
+  },
+  "phase": {
+    "label": "Master engravings, 1513",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The outline of the horse is built from a series of interlocking curves, while the knight's chin is woven into the line of his helmet.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Knight, Death and the Devil",
+            "readAt": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "one of the three Meisterstiche (master prints) … completed during a period when he almost ceased to work in paint or woodcuts to focus on engravings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Knight, Death and the Devil",
+          "readAt": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is believed by some art historians to be linked with publications of the Dutch humanist and theologian Erasmus's Enchiridion militis Christiani (Handbook of a Christian soldier).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Knight, Death and the Devil",
+          "readAt": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Death's rotting corpse holds an hourglass, a reminder of the shortness of life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Knight, Death and the Devil",
+          "readAt": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}
