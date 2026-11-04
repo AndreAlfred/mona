@@ -1,0 +1,113 @@
+{
+  "id": "cezanne-mount-sainte-victoire",
+  "artist": "paul-cezanne",
+  "title": "Mount Sainte-Victoire",
+  "date": "c. 1904",
+  "year": 1899,
+  "medium": "oil on fabric",
+  "dimensions": "Framed: 87.5 x 106.5 x 7 cm (34 7/16 x 41 15/16 x 2 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.21"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.21/1958.21_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.21/1958.21_print.jpg",
+    "width": 900,
+    "height": 714,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 135185
+  },
+  "phase": {
+    "label": "Late Aix landscapes, c. 1904",
+    "source": {
+      "label": "Mount Sainte-Victoire",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/135185"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "oil on fabric",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/135185"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He set up his easel at the edge of the road where he could see two umbrella pines and the mountain towering over the scene.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Mount Sainte-Victoire",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135185",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Voorhies on Cézanne’s painting",
+        "url": "https://www.metmuseum.org/essays/paul-cezanne-1839-1906"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "During the last 20 years of his life, Cezanne repeatedly painted Mount Sainte-Victoire near his home in Aix-en-Provence in southern France.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Mount Sainte-Victoire",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135185",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A branch of one of the pines extends from the left of the canvas across the sky, echoing the slope of the mountain, linking the near and the far.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Mount Sainte-Victoire",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135185",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Cezanne painted this view from life at one of his favorite sites, a small road that led from Aix eastward toward Mount Sainte-Victoire.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Mount Sainte-Victoire",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135185",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

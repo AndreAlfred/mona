@@ -1,0 +1,110 @@
+{
+  "id": "cezanne-basket-apples",
+  "artist": "paul-cezanne",
+  "title": "The Basket of Apples (La Corbeille de pommes)",
+  "date": "c. 1893",
+  "year": 1893,
+  "medium": "oil paint on canvas",
+  "dimensions": "65 × 80 cm",
+  "museum": {
+    "name": "Art Institute of Chicago (1926.252)",
+    "url": "https://www.cezannecatalogue.com/catalogue/entry.php?id=776"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg/1280px-Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg/2560px-Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 961,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Paul Cézanne - The Basket of Apples - 1926.252 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "wd": "Q3956440",
+    "aic": 111436
+  },
+  "phase": {
+    "label": "Mature still lifes, c. 1893",
+    "source": {
+      "label": "The Basket of Apples (La Corbeille de pommes)",
+      "url": "https://api.artic.edu/api/v1/artworks/111436?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata medium",
+        "url": "https://www.wikidata.org/wiki/Q3956440"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Closer looking reveals shifts in reality conveyed by the misaligned tabletop, tilted bottle, cascading apples, and the precarious tower of cookies known as langues de chat (cat tongues), which magically stop just short of falling out of the picture.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "The Basket of Apples (La Corbeille de pommes)",
+            "publisher": "Art Institute of Chicago",
+            "readAt": "https://api.artic.edu/api/v1/artworks/111436?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Cézanne and Impressionism",
+        "url": "https://www.metmuseum.org/essays/paul-cezanne-1839-1906"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Early on, he painted landscapes, the typical Impressionist subject, but his arresting and complex still lifes changed the traditional nature morte (dead nature) genre and continue to puzzle and tantalize today.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Basket of Apples (La Corbeille de pommes)",
+          "publisher": "Art Institute of Chicago",
+          "readAt": "https://api.artic.edu/api/v1/artworks/111436?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In many ways Paul Cezanne was the odd man out among the artists branded as “Impressionists”—those who showed their works outside of France’s state-sponsored Salon exhibitions.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Basket of Apples (La Corbeille de pommes)",
+          "publisher": "Art Institute of Chicago",
+          "readAt": "https://api.artic.edu/api/v1/artworks/111436?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Cezanne rarely signed his paintings, so his signature at the bottom left suggests the importance he ascribed to this painting or to its original owner.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Basket of Apples (La Corbeille de pommes)",
+          "publisher": "Art Institute of Chicago",
+          "readAt": "https://api.artic.edu/api/v1/artworks/111436?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

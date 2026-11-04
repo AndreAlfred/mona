@@ -1,0 +1,112 @@
+{
+  "id": "cezanne-hanged-mans-house",
+  "artist": "paul-cezanne",
+  "title": "The Hanged Man's House (La Maison du pendu, Auvers-sur-Oise)",
+  "date": "c. 1874",
+  "year": 1874,
+  "medium": "oil paint on canvas",
+  "dimensions": "55.5 × 66.3 cm",
+  "museum": {
+    "name": "Musée d'Orsay (RF 1970)",
+    "url": "https://www.cezannecatalogue.com/catalogue/entry.php?id=206"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg/1280px-La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 986,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (La Maison du pendu, Auvers-sur-Oise, par Paul Cézanne, FWN 81.jpg)"
+  },
+  "archive": {
+    "wd": "Q3821663"
+  },
+  "phase": {
+    "label": "Auvers and Impressionism, 1873",
+    "source": {
+      "label": "The Hanged Man's House (La Maison du pendu, Auvers-sur-Oise)",
+      "url": "https://www.musee-orsay.fr/en/artworks/la-maison-du-pendu-auvers-sur-oise-1476"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata medium",
+        "url": "https://www.wikidata.org/wiki/Q3821663"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The scene presents an atmosphere of solitude, due to the absence of people and the use of a cool colour palette.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "publisher": "Wikipedia",
+            "title": "The Hanged Man’s House",
+            "tier": 5,
+            "readAt": "https://en.wikipedia.org/wiki/The_Hanged_Man%27s_House",
+            "accessed": "2026-11-03",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Cézanne and Impressionism",
+        "url": "https://www.musee-orsay.fr/en/artworks/la-maison-du-pendu-auvers-sur-oise-1476"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In this composition, Cézanne challenged the conventions of art by making deliberate imperfections of perspective. The inaccuracies can be seen in the angle of the path that leads to the left and the bank on the right.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "publisher": "Wikipedia",
+          "title": "The Hanged Man’s House",
+          "tier": 5,
+          "readAt": "https://en.wikipedia.org/wiki/The_Hanged_Man%27s_House",
+          "accessed": "2026-11-03",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Cézanne had been heavily influenced by his friend Camille Pissarro and as a result, used grainy, broken brushstrokes and pale colours used by the Impressionists.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "publisher": "Wikipedia",
+          "title": "The Hanged Man’s House",
+          "tier": 5,
+          "readAt": "https://en.wikipedia.org/wiki/The_Hanged_Man%27s_House",
+          "accessed": "2026-11-03",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The Hanged Man's House was presented at the First Impressionist Exhibition in 1874 and was the first painting that Cézanne sold to a collector.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "publisher": "Wikipedia",
+          "title": "The Hanged Man’s House",
+          "tier": 5,
+          "readAt": "https://en.wikipedia.org/wiki/The_Hanged_Man%27s_House",
+          "accessed": "2026-11-03",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

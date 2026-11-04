@@ -1,0 +1,109 @@
+{
+  "id": "cezanne-large-bathers",
+  "artist": "paul-cezanne",
+  "title": "Les Grandes Baigneuses",
+  "date": "1906",
+  "year": 1906,
+  "medium": "oil paint on canvas",
+  "dimensions": "210.5 × 250.8 cm",
+  "museum": {
+    "name": "Philadelphia Museum of Art (W1937-1-1)",
+    "url": "https://www.cezannecatalogue.com/catalogue/entry.php?id=832"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg/1280px-Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg/2560px-Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1003,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Paul Cézanne, French - The Large Bathers - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q2270938"
+  },
+  "phase": {
+    "label": "Final decade: monumental bathers, 1900–1906",
+    "source": {
+      "label": "Les Grandes Baigneuses",
+      "url": "https://www.philamuseum.org/objects/104464"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata medium",
+        "url": "https://www.wikidata.org/wiki/Q2270938"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This is the largest, the last, and in many ways, the most ambitious work from Cézanne’s lifelong exploration of the time-honored theme of nudes in a landscape.",
+          "source": {
+            "author": "Philadelphia Museum of Art",
+            "title": "Les Grandes Baigneuses",
+            "publisher": "Philadelphia Museum of Art",
+            "readAt": "https://www.philamuseum.org/objects/104464",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Cézanne and Impressionism",
+        "url": "https://www.metmuseum.org/essays/paul-cezanne-1839-1906"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is the largest, the last, and in many ways, the most ambitious work from Cézanne’s lifelong exploration of the time-honored theme of nudes in a landscape.",
+        "source": {
+          "author": "Philadelphia Museum of Art",
+          "title": "Les Grandes Baigneuses",
+          "publisher": "Philadelphia Museum of Art",
+          "readAt": "https://www.philamuseum.org/objects/104464",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Perhaps it is its grand nobility—its authority as something beyond time, “like art in the museums,” as Cézanne said—that made it so attractive to many artists.",
+        "source": {
+          "author": "Philadelphia Museum of Art",
+          "title": "Les Grandes Baigneuses",
+          "publisher": "Philadelphia Museum of Art",
+          "readAt": "https://www.philamuseum.org/objects/104464",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is also, perhaps, in its unfinished state, the purest and most serene witness to the man whom Paul Gauguin described as spending “entire days on mountaintops reading Virgil,” dreaming of wooded glades populated with beautiful figures who, if not exactly participants in a narrative as such, are full of animation and interaction.",
+        "source": {
+          "author": "Philadelphia Museum of Art",
+          "title": "Les Grandes Baigneuses",
+          "publisher": "Philadelphia Museum of Art",
+          "readAt": "https://www.philamuseum.org/objects/104464",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
