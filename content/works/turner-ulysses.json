@@ -1,0 +1,108 @@
+{
+  "id": "turner-ulysses",
+  "artist": "joseph-mallord-william-turner",
+  "title": "Ulysses deriding Polyphemus (Ulysses deriding Polyphemus- Homer\\)",
+  "date": "1829",
+  "year": 1829,
+  "medium": "oil paint on canvas",
+  "dimensions": "132 × 203 cm",
+  "museum": {
+    "name": "National Gallery (NG508)",
+    "url": "https://www.wikidata.org/wiki/Q4003071"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Joseph_Mallord_William_Turner_064.jpg/1280px-Joseph_Mallord_William_Turner_064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 750,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Joseph Mallord William Turner 064.jpg)"
+  },
+  "archive": {
+    "wd": "Q4003071"
+  },
+  "phase": {
+    "label": "Colour and classical landscape, 1829",
+    "source": {
+      "label": "National Gallery: Ulysses deriding Polyphemus (Ulysses deriding Polyphemus- Homer\\)",
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: Ulysses deriding Polyphemus (Ulysses deriding Polyphemus- Homer\\)",
+        "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The rich variety of colours – which range from deep cobalt blues and fiery reds to delicate pinks, greens and yellows – signals the increasing role of colour and light over what Turner described as ‘historic tone’ in his historical landscapes.",
+          "source": {
+            "author": "National Gallery",
+            "title": "Ulysses deriding Polyphemus (Ulysses deriding Polyphemus- Homer\\)",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner, English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting signals the increasing role of colour and light in Turner’s historical landscapes.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Ulysses deriding Polyphemus (Ulysses deriding Polyphemus- Homer\\)",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This shift of emphasis was encouraged by his awareness of recent investigations into optics, including Goethe’s Theory of Colours (1810), which he probably discussed with his friend and fellow artist Charles Eastlake, who later translated Goethe’s book.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Ulysses deriding Polyphemus (Ulysses deriding Polyphemus- Homer\\)",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The delay in shipping these canvases back to London from Rome forced Turner to produce new paintings, including this one, for the Royal Academy exhibition of 1829.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Ulysses deriding Polyphemus (Ulysses deriding Polyphemus- Homer\\)",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-ulysses-deriding-polyphemus-homer-s-odyssey",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

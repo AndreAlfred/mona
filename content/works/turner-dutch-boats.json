@@ -1,0 +1,108 @@
+{
+  "id": "turner-dutch-boats",
+  "artist": "joseph-mallord-william-turner",
+  "title": "Dutch Boats in a Gale",
+  "date": "1801",
+  "year": 1801,
+  "medium": "oil paint on canvas",
+  "dimensions": "163 × 221 cm",
+  "museum": {
+    "name": "Unknown collection (L297)",
+    "url": "https://www.wikidata.org/wiki/Q16038417"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Joseph_Mallord_William_Turner_-_Dutch_Boats_in_a_Gale_-_WGA23163.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 870,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Joseph Mallord William Turner - Dutch Boats in a Gale - WGA23163.jpg)"
+  },
+  "archive": {
+    "wd": "Q16038417"
+  },
+  "phase": {
+    "label": "Early maritime paintings, 1801",
+    "source": {
+      "label": "National Gallery: Dutch Boats in a Gale",
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dutch-boats-in-a-gale-the-bridgewater-sea-piece"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: Dutch Boats in a Gale",
+        "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dutch-boats-in-a-gale-the-bridgewater-sea-piece"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The sense of movement is heightened by the contrasts between light and shade.",
+          "source": {
+            "author": "National Gallery",
+            "title": "Dutch Boats in a Gale",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dutch-boats-in-a-gale-the-bridgewater-sea-piece",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner, English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1801 J.M.W. Turner was an ambitious young painter, using all of his artistic and entrepreneurial skills to succeed in the competitive British art world.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Dutch Boats in a Gale",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dutch-boats-in-a-gale-the-bridgewater-sea-piece",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The finished work was intended to hang next to the Dutch painting in Bridgewater House. Turner saw this as an opportunity to demonstrate his skills in direct competition with an acknowledged master.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Dutch Boats in a Gale",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dutch-boats-in-a-gale-the-bridgewater-sea-piece",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Nature, in this instance the sea and the wind, is greater than the efforts of humans, who are powerless against forces beyond their control.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Dutch Boats in a Gale",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dutch-boats-in-a-gale-the-bridgewater-sea-piece",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

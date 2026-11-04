@@ -1,0 +1,109 @@
+{
+  "id": "turner-dido-building-carthage",
+  "artist": "joseph-mallord-william-turner",
+  "title": "Dido building Carthage",
+  "date": "1815",
+  "year": 1815,
+  "medium": "oil paint on canvas",
+  "dimensions": "155.5 × 232 cm",
+  "museum": {
+    "name": "National Gallery (NG498)",
+    "url": "https://www.wikidata.org/wiki/Q3027255"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Turner_-_Dido.jpg/1280px-Turner_-_Dido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Turner_-_Dido.jpg/2560px-Turner_-_Dido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 806,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Turner - Dido.jpg)"
+  },
+  "archive": {
+    "wd": "Q3027255"
+  },
+  "phase": {
+    "label": "Classical history landscapes, 1815",
+    "source": {
+      "label": "National Gallery: Dido building Carthage",
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: Dido building Carthage",
+        "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Although Turner broadly follows Claude’s model, his own painting is filled with architectural features, human activity and highly textured detail not found in Claude’s more classical compositions.",
+          "source": {
+            "author": "National Gallery",
+            "title": "Dido building Carthage",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner, English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Turner painted 10 major paintings on the subject of the Carthaginian empire.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Dido building Carthage",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This is the first of Turner’s paintings in which he intended to match the seventeenth-century French landscape painter, Claude, in particular his Seaport paintings.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Dido building Carthage",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "These grand narratives frequently concern a historical figure whose fate is subject to forces beyond their control. For Turner, the story of Carthage was also the tragic story of Dido and Aeneas.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Dido building Carthage",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

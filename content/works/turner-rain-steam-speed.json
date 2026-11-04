@@ -1,0 +1,109 @@
+{
+  "id": "turner-rain-steam-speed",
+  "artist": "joseph-mallord-william-turner",
+  "title": "Rain, Steam and Speed – The Great Western Railway",
+  "date": "1844",
+  "year": 1844,
+  "medium": "oil paint on canvas",
+  "dimensions": "91 × 121.8 cm",
+  "museum": {
+    "name": "National Gallery (NG53853)",
+    "url": "https://www.wikidata.org/wiki/Q2339059"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/J._M._W._Turner_-_Rain%2C_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway.jpg/1280px-J._M._W._Turner_-_Rain%2C_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/J._M._W._Turner_-_Rain%2C_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway.jpg/2560px-J._M._W._Turner_-_Rain%2C_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 901,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (J. M. W. Turner - Rain, Steam and Speed – The Great Western Railway.jpg)"
+  },
+  "archive": {
+    "wd": "Q2339059"
+  },
+  "phase": {
+    "label": "Industry and modern life, 1844",
+    "source": {
+      "label": "National Gallery: Rain, Steam and Speed – The Great Western Railway",
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: Rain, Steam and Speed – The Great Western Railway",
+        "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here he uses the exaggeratedly abrupt foreshortening of the viaduct, which our eye follows to the horizon, to suggest the speed with which the train bursts into view through the rain.",
+          "source": {
+            "author": "National Gallery",
+            "title": "Rain, Steam and Speed – The Great Western Railway",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner, English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Turner frequently painted scenes of contemporary life and was particularly interested in industry and technology.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Rain, Steam and Speed – The Great Western Railway",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The 1840s was a period of ‘railway mania’, and by 1844 the GWR had already constructed over 100 miles of line, which Turner could have travelled on during the previous six or seven years.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Rain, Steam and Speed – The Great Western Railway",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As he often used new forms of transport, including steam trains, it is unlikely that the painting is a rejection of modernity. Instead, he saw both the train and the bridge as subjects worthy of being painted.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Rain, Steam and Speed – The Great Western Railway",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

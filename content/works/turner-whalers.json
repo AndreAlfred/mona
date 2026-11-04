@@ -1,0 +1,109 @@
+{
+  "id": "turner-whalers",
+  "artist": "joseph-mallord-william-turner",
+  "title": "Whalers",
+  "date": "c. 1845",
+  "year": 1845,
+  "medium": "oil paint on canvas",
+  "dimensions": "91.8 × 122.6 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (96.29)",
+    "url": "https://www.metmuseum.org/art/collection/search/437854"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Whalers_MET_DP169567.jpg/1280px-Whalers_MET_DP169567.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Whalers_MET_DP169567.jpg/2560px-Whalers_MET_DP169567.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 901,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Whalers MET DP169567.jpg)"
+  },
+  "archive": {
+    "wd": "Q19904831"
+  },
+  "phase": {
+    "label": "Late whaling pictures, 1845–46",
+    "source": {
+      "label": "Metropolitan Museum commentary reproduced by Victorian Web",
+      "url": "https://www.victorianweb.org/painting/turner/paintings/64.html"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Metropolitan Museum commentary reproduced by Victorian Web",
+        "url": "https://www.victorianweb.org/painting/turner/paintings/64.html"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Turner may never have seen one and, using the descriptions and illustrations that were available to him, he created these works in part from his imagination, bringing to bear many years’ observation of the seas in the Channel and elsewhere along the English coast.",
+          "source": {
+            "author": "Metropolitan Museum of Art",
+            "title": "Whalers: Metropolitan Museum commentary",
+            "readAt": "https://www.victorianweb.org/painting/turner/paintings/64.html",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Metropolitan Museum of Art"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This picture is one of four whaling subjects by Turner; the other three form part of the artist's bequest at Tate Britain, London.",
+        "source": {
+          "author": "Metropolitan Museum of Art",
+          "title": "Whalers: Metropolitan Museum commentary",
+          "readAt": "https://www.victorianweb.org/painting/turner/paintings/64.html",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Metropolitan Museum of Art"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In the 1840s, few people in England knew what a sperm whale looked like.",
+        "source": {
+          "author": "Metropolitan Museum of Art",
+          "title": "Whalers: Metropolitan Museum commentary",
+          "readAt": "https://www.victorianweb.org/painting/turner/paintings/64.html",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Metropolitan Museum of Art"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Apparently Turner undertook the painting—which was returned to him—for the collector Elhanan Bicknell, who had made his fortune in the whale-oil business.",
+        "source": {
+          "author": "Metropolitan Museum of Art",
+          "title": "Whalers: Metropolitan Museum commentary",
+          "readAt": "https://www.victorianweb.org/painting/turner/paintings/64.html",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Metropolitan Museum of Art"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

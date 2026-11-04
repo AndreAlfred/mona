@@ -1,0 +1,53 @@
+{
+  "id": "joseph-mallord-william-turner",
+  "name": "J. M. W. Turner",
+  "born": 1775,
+  "died": 1851,
+  "active": "1790–1850",
+  "nationality": "British",
+  "period": "romantic",
+  "movements": [
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "john-constable",
+      "name": "John Constable",
+      "source": {
+        "label": "Egerton: Constable on Turner’s 1803 exhibits",
+        "url": "https://www.nationalgallery.org.uk/paintings/catalogues/egerton-2000/calais-pier"
+      }
+    }
+  ],
+  "wikidata": "Q159758",
+  "archive": {
+    "aic": 37043,
+    "cma": [
+      1280
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Turner was born near Covent Garden in London and entered the Royal Academy Schools in 1789. His earliest works form part of the 18th-century topographical tradition.",
+      "source": {
+        "author": "National Gallery",
+        "title": "Joseph Mallord William Turner",
+        "readAt": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "publisher": "National Gallery"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
