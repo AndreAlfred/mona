@@ -1,0 +1,20 @@
+{
+  "id": "gold-ground",
+  "kind": "technique",
+  "name": "Gold ground",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Gold ground (both a noun and adjective) or gold-ground (adjective) is a term in art history for a style of images with all or most of the background in a solid gold colour.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Gold ground",
+        "readAt": "https://en.wikipedia.org/wiki/Gold_ground",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

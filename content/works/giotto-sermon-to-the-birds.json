@@ -1,0 +1,112 @@
+{
+  "id": "giotto-sermon-to-the-birds",
+  "artist": "giotto",
+  "title": "Sermon to the Birds (fresco)",
+  "date": "1295",
+  "year": 1295,
+  "medium": "fresco",
+  "dimensions": "270 × 200 cm",
+  "museum": {
+    "name": "Basilica of San Francesco d'Assisi",
+    "url": "https://www.wikidata.org/wiki/Q3910084"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Giotto_di_Bondone_-_Legend_of_St_Francis_-_15._Sermon_to_the_Birds_-_WGA09139.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1560,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giotto di Bondone - Legend of St Francis - 15. Sermon to the Birds - WGA09139.jpg)"
+  },
+  "archive": {
+    "wd": "Q3910084"
+  },
+  "phase": {
+    "label": "Assisi, c. 1295 (attribution debated)",
+    "source": {
+      "label": "Giotto (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Giotto"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Fresco (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Fresco"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "[Fresco] is a technique of mural painting executed upon freshly laid (\"wet\") lime plaster.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Fresco",
+            "readAt": "https://en.wikipedia.org/wiki/Fresco",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Italian Renaissance painting (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Proto-Renaissance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The attribution of the fresco cycle of the Life of St. Francis in the Upper Church has been one of the most disputed in art history.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giotto",
+          "readAt": "https://en.wikipedia.org/wiki/Giotto",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "A caution on authorship:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "because, besides that which Giotto had from nature, he was most diligent and went on ever thinking out new ideas and wresting them from nature, he well deserved to be called the disciple of nature and not of others.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giotto, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "year": "1550"
+        },
+        "lead": "Vasari on Giotto's Franciscan work at Assisi:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "My little sisters, the birds, much bounden are ye unto God, your Creator, and always in every place ought ye to praise Him, for that He hath given you liberty to fly about everywhere",
+        "source": {
+          "author": "Francis of Assisi",
+          "title": "Sermon to the birds, as told in the Fioretti (The Little Flowers of St Francis)",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Francis_Preaching_to_the_Birds",
+          "accessed": "2026-11-03",
+          "tier": 5
+        },
+        "lead": "The saint's words, as the legend recounts them:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

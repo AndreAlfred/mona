@@ -1,0 +1,115 @@
+{
+  "id": "giotto-last-judgment",
+  "artist": "giotto",
+  "title": "Last Judgment",
+  "date": "1306",
+  "year": 1306,
+  "medium": "fresco",
+  "dimensions": "1000 × 840 cm",
+  "museum": {
+    "name": "Scrovegni Chapel",
+    "url": "https://www.wikidata.org/wiki/Q3769209"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LastJudgmentGiotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1404,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (LastJudgmentGiotto.jpg)"
+  },
+  "archive": {
+    "wd": "Q3769209"
+  },
+  "phase": {
+    "label": "Arena (Scrovegni) Chapel, Padua, c. 1303–05",
+    "source": {
+      "label": "Scrovegni Chapel (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Scrovegni Chapel (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He had a team of about 40 collaborators, and they calculated that 625 work days (giornate) were necessary to paint the chapel. A \"work day\" meant that portion of each fresco that could be painted before the plaster dried and was no longer \"fresh\" (fresco in Italian).",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Scrovegni Chapel",
+            "readAt": "https://en.wikipedia.org/wiki/Scrovegni_Chapel",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          },
+          "lead": "How the chapel was painted, section by section:"
+        }
+      ]
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Italian Renaissance painting (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Proto-Renaissance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Thus the walls of the chapel are covered with a continuous meditative poem on the mystery of the Incarnation, the acts of Redemption, the vices and virtues of mankind as proceeding from their scorn or acceptance of that Redemption, and their final judgment.",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Giotto and his Works in Padua",
+          "readAt": "https://www.gutenberg.org/cache/epub/18371/pg18371.txt",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "year": "1854"
+        },
+        "lead": "Ruskin on the chapel as a whole:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Both are visible on a model of the church painted by Giotto on the counter-façade (the Last Judgement).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Scrovegni Chapel",
+          "readAt": "https://en.wikipedia.org/wiki/Scrovegni_Chapel",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On the chapel's lost apse and transept:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The chapel's project was twofold: to serve as the family's private oratory and as a funerary monument for himself and his wife.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Scrovegni Chapel",
+          "readAt": "https://en.wikipedia.org/wiki/Scrovegni_Chapel",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On the patron, Enrico Scrovegni:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

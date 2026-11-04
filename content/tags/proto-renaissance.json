@@ -1,0 +1,20 @@
+{
+  "id": "proto-renaissance",
+  "kind": "movement",
+  "name": "Proto-Renaissance",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Proto-Renaissance begins with the professional life of the painter Giotto and includes Taddeo Gaddi, Orcagna, and Altichiero.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Italian Renaissance painting",
+        "readAt": "https://en.wikipedia.org/wiki/Proto-Renaissance",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

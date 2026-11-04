@@ -1,0 +1,112 @@
+{
+  "id": "giotto-lamentation",
+  "artist": "giotto",
+  "title": "Lamentation",
+  "date": "1305",
+  "year": 1305,
+  "medium": "fresco",
+  "dimensions": "200 × 185 cm",
+  "museum": {
+    "name": "Scrovegni Chapel",
+    "url": "https://www.wikidata.org/wiki/Q2067212"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Compianto_sul_Cristo_morto.jpg/1280px-Compianto_sul_Cristo_morto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Compianto_sul_Cristo_morto.jpg/2560px-Compianto_sul_Cristo_morto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1129,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Compianto sul Cristo morto.jpg)"
+  },
+  "archive": {
+    "wd": "Q2067212"
+  },
+  "phase": {
+    "label": "Arena (Scrovegni) Chapel, Padua, c. 1303–05",
+    "source": {
+      "label": "Scrovegni Chapel (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Scrovegni Chapel (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel"
+      }
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Italian Renaissance painting (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Proto-Renaissance"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The Proto-Renaissance begins with the professional life of the painter Giotto and includes Taddeo Gaddi, Orcagna, and Altichiero.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Italian Renaissance painting",
+            "readAt": "https://en.wikipedia.org/wiki/Proto-Renaissance",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It may be generally observed that the passionateness of the sorrow both of the Virgin and disciples, is represented by Giotto and all great following designers as reaching its crisis at the Entombment, not at the Crucifixion.",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Giotto and his Works in Padua",
+          "readAt": "https://www.gutenberg.org/cache/epub/18371/pg18371.txt",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "year": "1854"
+        },
+        "lead": "Ruskin on the scene (he calls it the Entombment):"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Giotto's masterwork is the decoration of the Scrovegni Chapel, in Padua, also known as the Arena Chapel, which was completed around 1305.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giotto",
+          "readAt": "https://en.wikipedia.org/wiki/Giotto",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "But when the agony was closed by actual death, and the full strain was put upon their faith, by their laying in the sepulchre, wrapped in His grave-clothes, Him in whom they trusted, \"that it had been He which should have redeemed Israel,\" their sorrow became suddenly hopeless; a gulf of horror opened, almost at unawares, under their feet",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Giotto and his Works in Padua",
+          "readAt": "https://www.gutenberg.org/cache/epub/18371/pg18371.txt",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "year": "1854"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

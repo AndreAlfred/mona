@@ -1,0 +1,134 @@
+{
+  "id": "giotto-ognissanti-madonna",
+  "artist": "giotto",
+  "title": "Madonna Enthroned (Madonna di Ognissanti di Giotto)",
+  "date": "c. 1300",
+  "year": 1300,
+  "medium": "tempera, gold on panel",
+  "dimensions": "325 × 204 cm",
+  "museum": {
+    "name": "Uffizi Gallery (00284545)",
+    "url": "https://www.wikidata.org/wiki/Q2016193"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg/1280px-Madonna_di_Ognissanti_by_Giotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg/2560px-Madonna_di_Ognissanti_by_Giotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1845,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Madonna di Ognissanti by Giotto.jpg)"
+  },
+  "archive": {
+    "wd": "Q2016193"
+  },
+  "phase": {
+    "label": "Florentine maturity, c. 1300–10",
+    "source": {
+      "label": "Giotto (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Giotto"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Ognissanti Madonna (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ognissanti_Madonna"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Ognissanti Madonna (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ognissanti_Madonna"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In both the gold coloring used throughout the artwork and the flat gold ground, Giotto's art continued the traditional Italo-Byzantine style usual in the proto-Renaissance period.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Ognissanti Madonna",
+            "readAt": "https://en.wikipedia.org/wiki/Ognissanti_Madonna",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Ognissanti Madonna (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ognissanti_Madonna"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Giotto's figures, however, escape the bounds of Byzantine art. His figures are weighty and are reminiscent of three-dimensional sculptures, such as those in classical Roman sculpture.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ognissanti Madonna",
+          "readAt": "https://en.wikipedia.org/wiki/Ognissanti_Madonna",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In painting Cimabue thought that he Should hold the field, now Giotto has the cry, So that the other's fame is growing dim.",
+        "source": {
+          "author": "Dante Alighieri",
+          "title": "Purgatorio XI (trans. Henry Wadsworth Longfellow)",
+          "readAt": "https://www.gutenberg.org/cache/epub/1002/pg1002.txt",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "year": "c. 1315"
+        },
+        "lead": "Dante, writing in Giotto's lifetime:"
+      },
+      {
+        "kind": "quote",
+        "text": "it is exhibited beside Cimabue's Santa Trinita Madonna and Duccio's Rucellai Madonna.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giotto",
+          "readAt": "https://en.wikipedia.org/wiki/Giotto",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Today in the Uffizi:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "For the Frati Umiliati of Ognissanti in Florence, Giotto painted a chapel and four panels, in one of which there was the Madonna, with many angels round her and the Child in her arms",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giotto, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "year": "1550"
+        },
+        "lead": "Vasari on the commission:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

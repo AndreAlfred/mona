@@ -1,0 +1,21 @@
+{
+  "id": "fresco",
+  "kind": "technique",
+  "name": "Fresco",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "[Fresco] is a technique of mural painting executed upon freshly laid (\"wet\") lime plaster.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Fresco",
+        "readAt": "https://en.wikipedia.org/wiki/Fresco",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "fresco"
+}
