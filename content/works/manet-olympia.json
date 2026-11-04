@@ -1,0 +1,117 @@
+{
+  "id": "manet-olympia",
+  "artist": "edouard-manet",
+  "title": "Olympia",
+  "date": "1863",
+  "year": 1863,
+  "medium": "oil paint on canvas",
+  "dimensions": "130.5 × 191 cm",
+  "museum": {
+    "name": "Musée d'Orsay (RF 644)",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/712"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/1280px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/2560px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 817,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edouard Manet - Olympia - Google Art Project 3.jpg)"
+  },
+  "archive": {
+    "wd": "Q737062"
+  },
+  "phase": {
+    "label": "The modern nude, 1863–65",
+    "source": {
+      "label": "Musée d’Orsay: Olympia",
+      "url": "https://www.musee-orsay.fr/en/artworks/olympia-712"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.musee-orsay.fr/fr/oeuvres/712"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "this flatly modeled body with its hard black outlines",
+          "source": {
+            "author": "Richard Muther",
+            "title": "Manet, Masters in Art: The History of Modern Painting, excerpted on p. 39",
+            "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 3,
+            "publisher": "Bates & Guild",
+            "year": "1908",
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Context and style",
+        "url": "https://www.museothyssen.org/en/collection/artists/manet-edouard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Cabanel’s ‘Venus’ is a beautiful design, but its destruction would create no appreciable gap in the history of nineteenth-century art. The destruction of ‘Olympia’ would.",
+        "source": {
+          "author": "George Moore",
+          "title": "Manet, Masters in Art: Modern Painting, excerpted on p. 40",
+          "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Bates & Guild",
+          "year": "1908",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was shown at the Salon of 1865 (where Monet exhibited for the first time) and became the scandal of the day. Again the painter was bombarded with invectives.",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist: Manet",
+          "readAt": "https://www.gutenberg.org/cache/epub/13296/pg13296.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Project Gutenberg",
+          "year": "1910",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Fresh from Paris, Manet was still smarting from the attacks made on him after the hanging of his Olympia in the Salon of 1865. Little wonder his nerves were on edge.",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist: Manet",
+          "readAt": "https://www.gutenberg.org/cache/epub/13296/pg13296.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Project Gutenberg",
+          "year": "1910",
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

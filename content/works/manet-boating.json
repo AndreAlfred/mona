@@ -1,0 +1,112 @@
+{
+  "id": "manet-boating",
+  "artist": "edouard-manet",
+  "title": "Boating",
+  "date": "1874",
+  "year": 1874,
+  "medium": "oil paint on canvas",
+  "dimensions": "97.2 × 130.2 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (29.100.115)",
+    "url": "https://www.metmuseum.org/art/collection/search/436947"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Edouard_Manet_Boating.jpg/1280px-Edouard_Manet_Boating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 906,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edouard Manet Boating.jpg)"
+  },
+  "archive": {
+    "wd": "Q15290965"
+  },
+  "phase": {
+    "label": "Argenteuil and Impressionism, 1874",
+    "source": {
+      "label": "Metropolitan Museum: Boating",
+      "url": "https://www.metmuseum.org/art/collection/search/436947"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.metmuseum.org/art/collection/search/436947"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In Boating, Manet purposely cut off the boat where the two figures are sitting, a tool used by Japanese artists.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Boating (Manet)",
+            "readAt": "https://en.wikipedia.org/wiki/Boating_(Manet)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Context and style",
+        "url": "https://en.wikipedia.org/wiki/Boating_(Manet)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "During the summer of 1874, Manet was working on many paintings including Boating and its sister painting, Argenteuil (Manet). The techniques that were used in Boating were new to Manet.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boating (Manet)",
+          "readAt": "https://en.wikipedia.org/wiki/Boating_(Manet)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Boating is often cited as Manet's foray into Impressionism based on its brushwork and subject matter.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boating (Manet)",
+          "readAt": "https://en.wikipedia.org/wiki/Boating_(Manet)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It was painted in the summer of 1874, during which time Manet was staying on his family's property in Gennevilliers.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boating (Manet)",
+          "readAt": "https://en.wikipedia.org/wiki/Boating_(Manet)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

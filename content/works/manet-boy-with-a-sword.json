@@ -1,0 +1,115 @@
+{
+  "id": "manet-boy-with-a-sword",
+  "artist": "edouard-manet",
+  "title": "Boy Carrying a Sword (Boy with a Sword)",
+  "date": "1861",
+  "year": 1861,
+  "medium": "oil paint on canvas",
+  "dimensions": "131.1 × 93.4 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (89.21.2)",
+    "url": "https://www.metmuseum.org/art/collection/search/436948"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%C3%89douard_Manet_-_L%27Enfant_%C3%A0_l%27%C3%A9p%C3%A9e.jpg/1280px-%C3%89douard_Manet_-_L%27Enfant_%C3%A0_l%27%C3%A9p%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%C3%89douard_Manet_-_L%27Enfant_%C3%A0_l%27%C3%A9p%C3%A9e.jpg/2560px-%C3%89douard_Manet_-_L%27Enfant_%C3%A0_l%27%C3%A9p%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1691,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Édouard Manet - L'Enfant à l'épée.jpg)"
+  },
+  "archive": {
+    "wd": "Q1844748"
+  },
+  "phase": {
+    "label": "Spanish influences, 1861",
+    "source": {
+      "label": "Manet, Masters in Art: Boy with the Sword",
+      "url": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.metmuseum.org/art/collection/search/436948"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Notice how the face becomes one simple, almost unbroken mass, marked by its strength of local color. Notice how the eyes are devoid of modeling.",
+          "source": {
+            "author": "J. Carroll Beckwith",
+            "title": "Manet, Masters in Art: Modern French Masters, excerpted on pp. 34–35",
+            "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 3,
+            "publisher": "Bates & Guild",
+            "year": "1908",
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Context and style",
+        "url": "https://www.museothyssen.org/en/collection/artists/manet-edouard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "According to Émile Zola, the work is typical of the influence of Spanish painters and shows the strong influence Diego Velázquez and Frans Hals had on Manet at the time.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boy Carrying a Sword",
+          "readAt": "https://en.wikipedia.org/wiki/Boy_Carrying_a_Sword",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This simplicity of aim, this research for a few fundamental truths, were his constant protest against the tyranny of tradition, against the intricacies of composition and sugary elaboration which pervaded the popular school of French art in his day.",
+        "source": {
+          "author": "J. Carroll Beckwith",
+          "title": "Manet, Masters in Art: Modern French Masters, excerpted on pp. 34–35",
+          "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Bates & Guild",
+          "year": "1908",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The artist's model was Leon Leenhoff, the stepson of the artist",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boy Carrying a Sword",
+          "readAt": "https://en.wikipedia.org/wiki/Boy_Carrying_a_Sword",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

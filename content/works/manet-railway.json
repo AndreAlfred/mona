@@ -1,0 +1,114 @@
+{
+  "id": "manet-railway",
+  "artist": "edouard-manet",
+  "title": "The Railway (Le chemin de fer)",
+  "date": "1873",
+  "year": 1873,
+  "medium": "oil paint on canvas",
+  "dimensions": "93.3 × 111.5 cm",
+  "museum": {
+    "name": "Unknown collection (1956.10.1)",
+    "url": "https://www.nga.gov/collection/art-object-page.43624.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg/1280px-Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg/2560px-Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 977,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edouard Manet - Le Chemin de fer - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q1212098"
+  },
+  "phase": {
+    "label": "Outdoor modern life, 1873",
+    "source": {
+      "label": "Duret on The Railway, Masters in Art, pp. 40–41",
+      "url": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.nga.gov/collection/art-object-page.43624.html"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The arrangement compresses the foreground into a narrow focus, separated from the background by the row of railings. The traditional convention of deep space is ignored.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Railway",
+            "readAt": "https://en.wikipedia.org/wiki/The_Railway",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Context and style",
+        "url": "https://www.museothyssen.org/en/collection/artists/manet-edouard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This picture marks a novelty amongst his works sent to the Salon, that of painting in the open air,",
+        "source": {
+          "author": "Théodore Duret",
+          "title": "Manet, Masters in Art: Histoire d’Édouard Manet, translated excerpt on pp. 40–41",
+          "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Bates & Guild",
+          "year": "1908",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Visitors and critics found its subject baffling, its composition incoherent, and its execution sketchy.",
+        "source": {
+          "author": "Isabelle Dervaux",
+          "title": "The Railway: reception, quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Railway",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "Wikipedia"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He thus had to do with true painting and could have referred his picture to the Dutch masters, who have so often kept their figures unoccupied, and not engaged in any definite action.",
+        "source": {
+          "author": "Théodore Duret",
+          "title": "Manet, Masters in Art: Histoire d’Édouard Manet, translated excerpt on pp. 40–41",
+          "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Bates & Guild",
+          "year": "1908",
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

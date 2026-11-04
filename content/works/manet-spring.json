@@ -1,0 +1,114 @@
+{
+  "id": "manet-spring",
+  "artist": "edouard-manet",
+  "title": "Spring",
+  "date": "1881",
+  "year": 1881,
+  "medium": "oil paint on canvas",
+  "dimensions": "74 × 51.5 cm",
+  "museum": {
+    "name": "J. Paul Getty Museum (2014.62)",
+    "url": "https://www.wikidata.org/wiki/Q18620351"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%C3%89douard_Manet_-_Jeanne_%28Spring%29.jpg/1280px-%C3%89douard_Manet_-_Jeanne_%28Spring%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%C3%89douard_Manet_-_Jeanne_%28Spring%29.jpg/2560px-%C3%89douard_Manet_-_Jeanne_%28Spring%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1735,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Édouard Manet - Jeanne (Spring).jpg)"
+  },
+  "archive": {
+    "wd": "Q18620351"
+  },
+  "phase": {
+    "label": "Late decorative painting: the seasons, 1881–82",
+    "source": {
+      "label": "Getty: The Four Seasons Project",
+      "url": "https://www.getty.edu/art/exhibitions/late_manet/explore.html"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium in the collection record",
+        "url": "https://www.wikidata.org/wiki/Q18620351"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "hiding its grace under a parasol and walking swiftly under the trees, whose foliage cuts it off from the crude blue of the sky,",
+          "source": {
+            "author": "Edmond Bazire",
+            "title": "Manet, Masters in Art: Manet, translated excerpt on p. 36",
+            "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 3,
+            "publisher": "Bates & Guild",
+            "year": "1908",
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Context and style",
+        "url": "https://www.museothyssen.org/en/collection/artists/manet-edouard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The ‘Spring,’ that is in fact the name that Manet intended to give to this portrait, the first of four panels: ‘The Seasons.’ Time failed him.",
+        "source": {
+          "author": "Edmond Bazire",
+          "title": "Manet, Masters in Art: Manet, translated excerpt on p. 36",
+          "readAt": "https://archive.org/stream/manet00unse/manet00unse_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Bates & Guild",
+          "year": "1908",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "More than the perennial rhythms of nature, Manet’s principal concern was the modern fashion cycle.",
+        "source": {
+          "author": "J. Paul Getty Museum",
+          "title": "Manet and Modern Beauty: The Four Seasons Project",
+          "readAt": "https://www.getty.edu/art/exhibitions/late_manet/explore.html",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "J. Paul Getty Museum"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "But when the artist first exhibited it in the 1882 Salon—to much critical acclaim—he simply entitled it Jeanne.",
+        "source": {
+          "author": "Scott Allan",
+          "title": "The Real Woman Behind the Manet Painting",
+          "readAt": "https://www.getty.edu/news/the-women-behind-edouard-manets-seasons/",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "J. Paul Getty Museum",
+          "year": "2019"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}
