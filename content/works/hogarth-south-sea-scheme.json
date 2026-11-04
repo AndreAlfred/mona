@@ -1,0 +1,136 @@
+{
+  "id": "hogarth-south-sea-scheme",
+  "artist": "william-hogarth",
+  "title": "Emblematical Print on the South Sea Scheme",
+  "date": "1721",
+  "year": 1721,
+  "dimensions": "22.2 × 31.8 cm",
+  "museum": {
+    "name": "British Museum (S,2.4)",
+    "url": "https://www.wikidata.org/wiki/Q5370084"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/William_Hogarth_-_The_South_Sea_Scheme.png/1280px-William_Hogarth_-_The_South_Sea_Scheme.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 999,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (William Hogarth - The South Sea Scheme.png)"
+  },
+  "archive": {
+    "wd": "Q5370084"
+  },
+  "phase": {
+    "label": "Early satirical prints, 1720s",
+    "source": {
+      "label": "William Hogarth, Wikipedia: early satirical works",
+      "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Emblematical Print on the South Sea Scheme, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme"
+      }
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "Emblematical Print on the South Sea Scheme, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It caricatures the financial speculation, corruption and credulity that caused the South Sea Bubble in England in 1720–21. The print is often considered the first editorial cartoon or as a precursor of the form.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Emblematical Print on the South Sea Scheme",
+            "readAt": "https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The South Sea Scheme is an early essay in engraving by Hogarth, who had set up on his own as a copperplate artist and painter after his apprenticeship with silver engraver Ellis Gamble came to an early end in 1720.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emblematical Print on the South Sea Scheme",
+          "readAt": "https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "there is no necessity to linger over these confused, and — [compared] with his later work — obscure performances.",
+        "source": {
+          "author": "Austin Dobson",
+          "title": "William Hogarth",
+          "publisher": "Sampson Low, Marston & Company",
+          "year": "1891",
+          "readAt": "https://archive.org/stream/williamhogarth00dobs/williamhogarth00dobs_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "21"
+        },
+        "lead": "A Victorian biographer was blunt about the earliest satires:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The event triggered several satirical engravings by foreign artists that were widely published in English newspapers",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emblematical Print on the South Sea Scheme",
+          "readAt": "https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "English graphic satire really begins with Hogarth's Emblematical Print on the South Sea Scheme",
+        "source": {
+          "author": "John J. Richetti",
+          "title": "The Cambridge History of English Literature, 1660–1780 (2005), quoted in Wikipedia",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The events had personal piquancy for Hogarth, given his father's detention as a debtor in Fleet Prison from 1707–12 and his early death in 1718.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emblematical Print on the South Sea Scheme",
+          "readAt": "https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

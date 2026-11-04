@@ -1,0 +1,31 @@
+{
+  "id": "conversation-piece",
+  "kind": "subject",
+  "name": "Conversation piece",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A conversation piece refers to a group portrait in a domestic or landscape setting depicting persons chatting or otherwise socializing with each other.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Conversation piece",
+        "readAt": "https://en.wikipedia.org/wiki/Conversation_piece",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It was an especially popular genre in 18th-century England, beginning from the 1720s, largely due to the influence of William Hogarth.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Conversation piece",
+        "readAt": "https://en.wikipedia.org/wiki/Conversation_piece",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

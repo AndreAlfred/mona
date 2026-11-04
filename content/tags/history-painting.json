@@ -1,0 +1,19 @@
+{
+  "id": "history-painting",
+  "kind": "subject",
+  "name": "History painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "History painting is a genre in painting defined by its subject matter rather than any artistic style or specific period. History paintings depict a moment in a narrative story, most often (but not exclusively) Greek and Roman mythology and Bible stories",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "History painting",
+        "readAt": "https://en.wikipedia.org/wiki/History_painting",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}
