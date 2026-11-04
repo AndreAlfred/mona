@@ -1,0 +1,112 @@
+{
+  "id": "lautrec-jockey",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "The Jockey",
+  "date": "1899",
+  "year": 1899,
+  "medium": "color lithograph",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1967.234"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1967.234/1967.234_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1967.234/1967.234_print.jpg",
+    "width": 637,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. Charles G. Prasse Collection"
+  },
+  "archive": {
+    "cma": 143299
+  },
+  "phase": {
+    "label": "Late racing lithographs, 1899",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1967.234"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1967.234"
+      }
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1967.234"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Particular elements of the lithograph reveal the influence of the Japanese woodcut: the overall flatness; the daring cropping—particularly of the background horse whose head and hindquarters have been omitted; the pale green hue of the grass and the blue-violet sky; and the dramatic, rushing perspective of the horses galloping into the distance.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Jockey",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/143299",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Motivated by the popularity of the races, Henri de Toulouse-Lautrec executed this lithograph both in color, seen here, and in black and white. He intended to publish the color version in a portfolio of horse-racing subjects, but the project never came to fruition and Jockey was published alone.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Jockey",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/143299",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The artist's admiration for Edgar Degas's horse-racing pictures is clear in Jockey, and he shared Degas's appreciation of Japanese ukiyo-e woodblock prints.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Jockey",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/143299",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Unlike Degas, Toulouse-Lautrec ignored Eadweard Muybridge's photographs and depicted his horse and rider in the physically impossible \"flying-gallop\" position.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Jockey",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/143299",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

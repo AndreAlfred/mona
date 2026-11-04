@@ -1,0 +1,113 @@
+{
+  "id": "lautrec-mount-sinai-front-cover",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "Front Cover",
+  "date": "1898",
+  "year": 1898,
+  "medium": "lithograph",
+  "dimensions": "Image: 26 x 41.2 cm (10 1/4 x 16 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1950.586"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1950.586/1950.586_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1950.586/1950.586_print.jpg",
+    "width": 1263,
+    "height": 825,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 127956
+  },
+  "phase": {
+    "label": "Book illustration, 1898",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1950.586"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1950.586"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "As he worked on the commission to illustrate the book, Henri de Toulouse-Lautrec spent many hours sketching Russian and Polish Jews living in the Tournelle district in Paris, using them as inspiration for his depiction of Clemenceau’s characters, including the Jewish officer in the Russian army and the poor shopkeeper shown here.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Front Cover",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127956",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1950.586"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "As he worked on the commission to illustrate the book, Henri de Toulouse-Lautrec spent many hours sketching Russian and Polish Jews living in the Tournelle district in Paris, using them as inspiration for his depiction of Clemenceau’s characters, including the Jewish officer in the Russian army and the poor shopkeeper shown here.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Front Cover",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127956",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The book was written and released during France’s Dreyfus affair, a political controversy surrounding false accusations of treason and espionage against Jewish officer Alfred Dreyfus.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Front Cover",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127956",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "At the Foot of Mount Sinai by politician and journalist Georges Clemenceau collects six short stories about the lives of Jewish characters in the Poland of his time. … Clemenceau supported Dreyfus and, as editor of the newspaper L’Aurore (Dawn), published several articles defending him.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Front Cover",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127956",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

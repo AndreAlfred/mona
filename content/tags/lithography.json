@@ -1,0 +1,20 @@
+{
+  "id": "lithography",
+  "kind": "technique",
+  "name": "Lithography",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The desired design is drawn with a greasy chalk on to a thick slab of stone.",
+      "source": {
+        "author": "The National Gallery",
+        "title": "Lithographs",
+        "readAt": "https://www.nationalgallery.org.uk/paintings/glossary/lithographs",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "publisher": "The National Gallery"
+      }
+    }
+  ],
+  "archiveTerm": "lithography"
+}

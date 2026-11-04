@@ -1,0 +1,113 @@
+{
+  "id": "lautrec-miss-loie-fuller",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "Miss Loïe Fuller",
+  "date": "1893",
+  "year": 1893,
+  "medium": "color lithograph",
+  "dimensions": "Image: 37.9 x 25.7 cm (14 15/16 x 10 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1925.1202"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1925.1202/1925.1202_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1925.1202/1925.1202_print.jpg",
+    "width": 608,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Ralph King"
+  },
+  "archive": {
+    "cma": 107208
+  },
+  "phase": {
+    "label": "Dance lithographs, 1893",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1925.1202"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1925.1202"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The artist used layers of colored ink—including some metallic tones—to convey the movement and energy of Fuller's performances.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Miss Loïe Fuller",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107208",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1925.1202"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Fuller’s extraordinary dance was the subject of Toulouse-Lautrec’s most abstract lithograph.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Miss Loïe Fuller",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107208",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Fuller danced in a specially designed space featuring a glass floor illuminated from below and surrounded by mirrors. Electric lights of various colors projected onto the stage created an ethereal, swirling effect.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Miss Loïe Fuller",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107208",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Parisian audiences were captivated by Loïe Fuller (1862–1928), the American dancer seen in this print, whose unique performances involved manipulating voluminous translucent gowns with the aid of large poles in each hand.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Miss Loïe Fuller",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107208",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

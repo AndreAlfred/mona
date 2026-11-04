@@ -1,0 +1,113 @@
+{
+  "id": "lautrec-yvette-guilbert",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "Yvette Guilbert",
+  "date": "c. 1894",
+  "year": 1894,
+  "medium": "black crayon",
+  "dimensions": "Framed: 135.2 x 73 cm (53 1/4 x 28 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1950.455"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1950.455/1950.455_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1950.455/1950.455_print.jpg",
+    "width": 491,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 127812
+  },
+  "phase": {
+    "label": "Poster studies, c. 1894",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1950.455"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1950.455"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, Lautrec began to work out the composition of a poster that Guilbert commissioned from him to publicize her upcoming season at Les Ambassadeurs, a popular night club.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Yvette Guilbert",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127812",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1950.455"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This drawing depicts Yvette Guilbert, a popular Parisian cabaret performer who was the subject of numerous prints, posters, drawings, and paintings by Henri de Toulouse-Lautrec.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Yvette Guilbert",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127812",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Here, Lautrec began to work out the composition of a poster that Guilbert commissioned from him to publicize her upcoming season at Les Ambassadeurs, a popular night club.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Yvette Guilbert",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127812",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A more finished study is part of the collection of the Musée Toulouse-Lautrec in Albi, France, but the poster itself was never realized after Guilbert rejected the design as unflattering.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Yvette Guilbert",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/127812",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

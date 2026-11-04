@@ -1,0 +1,110 @@
+{
+  "id": "lautrec-laundress",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "The Laundress",
+  "date": "1888",
+  "year": 1888,
+  "medium": "black and gray wash with white paint, scratched away in places, on gray cardboard prepared with white ground",
+  "dimensions": "Sheet: 75.9 x 63.1 cm (29 7/8 x 24 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1952.113"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.113/1952.113_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1952.113/1952.113_print.jpg",
+    "width": 749,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of the Hanna Fund"
+  },
+  "archive": {
+    "cma": 129221
+  },
+  "phase": {
+    "label": "Parisian illustration, 1888",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1952.113"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1952.113"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Because the image was to be reproduced in black and white, Toulouse-Lautrec thinned and brushed ink, scraping into it to expose fine white highlights.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Laundress",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129221",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Henri de Toulouse-Lautrec produced this drawing to illustrate an article about Parisian summers.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Laundress",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129221",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Because the image was to be reproduced in black and white, Toulouse-Lautrec thinned and brushed ink, scraping into it to expose fine white highlights.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Laundress",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129221",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It presents the type of poorly paid worker who remained in the city while others traveled to escape the urban heat.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Laundress",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129221",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

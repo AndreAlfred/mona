@@ -1,0 +1,75 @@
+{
+  "id": "henri-de-toulouse-lautrec",
+  "name": "Henri de Toulouse-Lautrec",
+  "born": 1864,
+  "died": 1901,
+  "active": "c. 1880–1901",
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Cora Michael on Japanese influences on Lautrec’s posters",
+        "url": "https://www.metmuseum.org/essays/henri-de-toulouse-lautrec-1864-1901"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "vincent-van-gogh",
+      "name": "Vincent van Gogh",
+      "source": {
+        "label": "Cora Michael on the artists in Cormon’s atelier",
+        "url": "https://www.metmuseum.org/essays/henri-de-toulouse-lautrec-1864-1901"
+      }
+    },
+    {
+      "id": "edgar-degas",
+      "name": "Edgar Degas",
+      "source": {
+        "label": "Cleveland Museum of Art on Lautrec’s admiration for Degas",
+        "url": "https://clevelandart.org/art/1967.234"
+      }
+    }
+  ],
+  "wikidata": "Q82445",
+  "archive": {
+    "aic": 40869,
+    "cma": [
+      1856
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "In his own time, Toulouse-Lautrec was considered a portraitist for such depictions of friends and other inhabitants of his neighborhood.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Monsieur Boileau at the Café",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173263",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "publisher": "Cleveland Museum of Art",
+        "license": "CC0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He preferred drawing for its immediacy, using it to record his sitters’ personalities through materials and formal choices.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Monsieur Boileau at the Café",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173263",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "publisher": "Cleveland Museum of Art",
+        "license": "CC0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
