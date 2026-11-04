@@ -1,0 +1,130 @@
+{
+  "id": "vermeer-woman-holding-balance",
+  "artist": "johannes-vermeer",
+  "title": "Woman Holding a Balance",
+  "date": "1665",
+  "year": 1665,
+  "medium": "oil paint on canvas",
+  "dimensions": "42.5 × 38 cm",
+  "museum": {
+    "name": "National Gallery of Art (1942.9.97)",
+    "url": "https://www.nga.gov/collection/art-object-page.1236.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg/1280px-Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg/2560px-Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1357,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Johannes Vermeer - Woman Holding a Balance - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q969367"
+  },
+  "phase": {
+    "label": "Mature Delft years, early 1660s",
+    "source": {
+      "label": "Wikipedia: Woman Holding a Balance",
+      "url": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Woman Holding a Balance",
+        "url": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance"
+      }
+    },
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: Woman Holding a Balance",
+        "url": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The first pigment analysis of this painting by Hermann Kühn revealed the use of ultramarine for the blue tablecloth and lead white for the grey wall.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Woman Holding a Balance",
+            "readAt": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Wikipedia: Woman Holding a Balance",
+        "url": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "At one time the painting, completed c. 1662–1663, was known as Woman Weighing Gold, but closer evaluation has determined that the balance in her hand is empty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Woman Holding a Balance",
+          "readAt": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "interpreted as a vanitas painting, as a representation of divine truth or justice, as a religious meditative aid, and as an incitement to lead a balanced, thoughtful life",
+        "source": {
+          "author": "Robert Huerta",
+          "title": "Woman Holding a Balance",
+          "readAt": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Robert Huerta on the painting’s many readings:"
+      },
+      {
+        "kind": "quote",
+        "text": "who describes her as \"symbolically weighing unborn souls\"",
+        "source": {
+          "author": "John Michael Montias",
+          "title": "Woman Holding a Balance",
+          "readAt": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "One reading, by the Vermeer scholar John Michael Montias, sees the woman as a figure of Mary:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It received 155 guilders, considerably above the prices fetched at the time for his Girl Asleep at a Table (62)",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Woman Holding a Balance",
+          "readAt": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

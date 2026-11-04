@@ -1,0 +1,19 @@
+{
+  "id": "glazing",
+  "kind": "technique",
+  "name": "Glazing",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "by varying the amount of lead white in the semi-translucent green glaze applied over the black underlayer",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Girl with a Pearl Earring",
+        "readAt": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

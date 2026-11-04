@@ -1,0 +1,129 @@
+{
+  "id": "vermeer-water-jug",
+  "artist": "johannes-vermeer",
+  "title": "Woman with a Water Jug (Young Woman with a Water Pitcher)",
+  "date": "1660",
+  "year": 1660,
+  "medium": "oil paint on canvas",
+  "dimensions": "45.7 × 40.6 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (89.15.21)",
+    "url": "https://www.metmuseum.org/art/collection/search/437881"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Jan_Vermeer_van_Delft_019.jpg/1280px-Jan_Vermeer_van_Delft_019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Jan_Vermeer_van_Delft_019.jpg/2560px-Jan_Vermeer_van_Delft_019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1354,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jan Vermeer van Delft 019.jpg)"
+  },
+  "archive": {
+    "wd": "Q386453"
+  },
+  "phase": {
+    "label": "Mature Delft years, early 1660s",
+    "source": {
+      "label": "Wikipedia: Young Woman with a Water Pitcher",
+      "url": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Young Woman with a Water Pitcher",
+        "url": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Young Woman with a Water Pitcher",
+        "url": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher"
+      }
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Wikipedia: Young Woman with a Water Pitcher",
+        "url": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "She is opening a window with her right hand, while she holds a water jug with her left hand.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Young Woman with a Water Pitcher",
+            "readAt": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The work suggests that Vermeer was aware that light is composed of colours, and the effect of colours on one another.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Young Woman with a Water Pitcher",
+          "readAt": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This painting is one of a closely related group painted in the early to mid-1660s as the artist was not using linear perspective and geometric order, and the light was his only source of emphasis.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Young Woman with a Water Pitcher",
+          "readAt": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "are apparently set in two smallish rooms in his house in Delft; they show the same furniture and decorations in various arrangements and they often portray the same people, mostly women.",
+        "source": {
+          "author": "Hans Koningsberger",
+          "title": "Johannes Vermeer",
+          "readAt": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Hans Koningsberger on Vermeer’s paintings as a whole:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "When Marquand brought it to the United States, it was the first Vermeer in America.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Young Woman with a Water Pitcher",
+          "readAt": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

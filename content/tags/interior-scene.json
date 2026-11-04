@@ -1,0 +1,19 @@
+{
+  "id": "interior-scene",
+  "kind": "subject",
+  "name": "Interior scene",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "a Dutch painter who specialized in domestic interior scenes of middle-class life.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Johannes Vermeer",
+        "readAt": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

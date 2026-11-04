@@ -1,0 +1,132 @@
+{
+  "id": "vermeer-view-of-delft",
+  "artist": "johannes-vermeer",
+  "title": "View of Delft (Gezicht op Delft)",
+  "date": "c. 1661",
+  "year": 1661,
+  "medium": "oil paint on canvas",
+  "dimensions": "96.5 × 115.7 cm",
+  "museum": {
+    "name": "Mauritshuis (92)",
+    "url": "https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/gezicht-op-delft-92/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg/1280px-Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg/2560px-Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1000,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Johannes Vermeer - View of Delft - 92 - Mauritshuis.jpg)"
+  },
+  "archive": {
+    "wd": "Q523974"
+  },
+  "phase": {
+    "label": "Delft townscapes, c. 1659–61",
+    "source": {
+      "label": "Wikipedia: View of Delft",
+      "url": "https://en.wikipedia.org/wiki/View_of_Delft"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: View of Delft",
+        "url": "https://en.wikipedia.org/wiki/View_of_Delft"
+      }
+    },
+    {
+      "id": "camera-obscura",
+      "source": {
+        "label": "Wikipedia: View of Delft",
+        "url": "https://en.wikipedia.org/wiki/View_of_Delft"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Because of the diffused highlights painted on the buildings and in the water, art historian Arthur K. Wheelock Jr. believes that Vermeer did use a camera obscura to create View of Delft.",
+          "source": {
+            "author": "Arthur K. Wheelock Jr.",
+            "title": "View of Delft",
+            "readAt": "https://en.wikipedia.org/wiki/View_of_Delft",
+            "accessed": "2026-11-03",
+            "tier": 2,
+            "license": "CC BY-SA 4.0"
+          },
+          "lead": "On a long-running debate:"
+        }
+      ]
+    },
+    {
+      "id": "dutch-golden-age",
+      "source": {
+        "label": "Wikipedia: View of Delft",
+        "url": "https://en.wikipedia.org/wiki/View_of_Delft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is one of three known paintings of Delft by Vermeer, along with The Little Street and the lost painting House Standing in Delft, and his only cityscape.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "View of Delft",
+          "readAt": "https://en.wikipedia.org/wiki/View_of_Delft",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "cityscapes across water, which were popular in the Netherlands at the time, celebrated the city and its trade",
+        "source": {
+          "author": "Emma Barker",
+          "title": "View of Delft",
+          "readAt": "https://en.wikipedia.org/wiki/View_of_Delft",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Art historian Emma Barker on the genre:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Ever since I saw the View of Delft in the museum in The Hague, I have known that I had seen the most beautiful painting in the world.",
+        "source": {
+          "author": "Marcel Proust",
+          "title": "View of Delft",
+          "readAt": "https://en.wikipedia.org/wiki/View_of_Delft",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Marcel Proust, in a letter of 1 May 1921:"
+      },
+      {
+        "kind": "quote",
+        "text": "made my language precious in itself, like this little patch of yellow wall",
+        "source": {
+          "author": "Marcel Proust",
+          "title": "View of Delft",
+          "readAt": "https://en.wikipedia.org/wiki/View_of_Delft",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The dying novelist Bergotte, before this painting, in Proust’s In Search of Lost Time:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

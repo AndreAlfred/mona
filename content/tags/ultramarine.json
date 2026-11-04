@@ -1,0 +1,20 @@
+{
+  "id": "ultramarine",
+  "kind": "material",
+  "name": "Ultramarine",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "There is no other 17th-century artist who employed the exorbitantly expensive pigment ultramarine (derived from natural lapis lazuli) either so lavishly or so early in his career.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Johannes Vermeer",
+        "readAt": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "ultramarine"
+}
