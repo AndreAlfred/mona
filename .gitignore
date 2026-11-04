@@ -42,3 +42,7 @@ next-env.d.ts
 
 # generated from content/ at build time
 /public/data/
+
+# Playwright
+/test-results/
+/playwright-report/

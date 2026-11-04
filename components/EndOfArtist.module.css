@@ -114,16 +114,39 @@
 .panel[data-armed="true"] .hint {
   color: var(--accent);
 }
-.hold {
-  margin-top: 0.4rem;
-  font-size: 0.82rem;
-  color: var(--ink-3);
-  opacity: 0.7;
-  min-height: 36px;
+/* Always there, on phones too: the pull is a nicety, never the only way on. */
+.next {
+  margin-top: 0.9rem;
+  font-size: 1rem;
+  padding: 0.6rem 1.3rem;
+  min-height: 48px;
+  border: 1px solid var(--rule);
+  color: var(--ink-2);
+  transition: border-color 160ms, color 160ms, opacity 160ms;
 }
-@media (hover: none) {
-  .hold {
-    display: none;
+.next[data-busy="true"] {
+  opacity: 0.45;
+  cursor: default;
+}
+@media (hover: hover) {
+  .next:not([data-busy="true"]):hover {
+    border-color: var(--ink);
+    color: var(--ink);
+  }
+}
+/* While the next artist is on its way, the knot keeps time. */
+.panel[data-leaving="true"] .knot {
+  animation: wait 900ms var(--ease-out) infinite alternate;
+}
+@keyframes wait {
+  to {
+    transform: scale(1.5);
+    opacity: 0.5;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .panel[data-leaving="true"] .knot {
+    animation: none;
   }
 }
 
