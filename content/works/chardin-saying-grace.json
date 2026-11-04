@@ -1,0 +1,144 @@
+{
+  "id": "chardin-saying-grace",
+  "artist": "jean-simeon-chardin",
+  "title": "Saying Grace (Le Bénédicité)",
+  "date": "ca. 1740",
+  "year": 1740,
+  "medium": "oil paint on canvas",
+  "dimensions": "49.5 × 38.5 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 3202)",
+    "url": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Le_B%C3%A9n%C3%A9dicit%C3%A9_de_Jean_Sim%C3%A9on_Chardin.jpg/1280px-Le_B%C3%A9n%C3%A9dicit%C3%A9_de_Jean_Sim%C3%A9on_Chardin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Le_B%C3%A9n%C3%A9dicit%C3%A9_de_Jean_Sim%C3%A9on_Chardin.jpg/2560px-Le_B%C3%A9n%C3%A9dicit%C3%A9_de_Jean_Sim%C3%A9on_Chardin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1477,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Le Bénédicité de Jean Siméon Chardin.jpg)"
+  },
+  "archive": {
+    "wd": "Q15973625"
+  },
+  "phase": {
+    "label": "Genre scenes of the late 1730s and 1740s",
+    "source": {
+      "label": "Saying Grace, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Saying Grace, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Saying Grace, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Chardin is well known for his depictions of humble, everyday life.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Saying Grace (Chardin)",
+            "readAt": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Saying Grace, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The quiet, peaceful atmosphere is reinforced by the subdued colour scheme, and the muted lighting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saying Grace (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "when touched by Chardin, with the full pathos of human life",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        },
+        "lead": "On a baby learning to say grace and a boy building a house of cards:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Chardin is often contrasted to Watteau, whose paintings of aristocratic life differ greatly from those of Chardin's common people.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saying Grace (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Chardin was presented to Louis XV at the Palace of Versailles on 27 November 1740 by Philibert Orry",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saying Grace (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "but Chardin did the honest and peaceful interior, the mother who clothes her son before sending him to school",
+        "source": {
+          "author": "Magasin Pittoresque",
+          "title": "Anonymous review of 1848, quoted in Saying Grace (Chardin), Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "A reviewer in the Magasin Pittoresque, 1848, on Watteau and Chardin:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "chardin-young-schoolmistress",
+  "artist": "jean-simeon-chardin",
+  "title": "The Young Schoolmistress",
+  "date": "ca. 1737",
+  "year": 1737,
+  "medium": "oil paint on canvas",
+  "dimensions": "61.5 × 66.5 cm",
+  "museum": {
+    "name": "National Gallery (NG4077)",
+    "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Jean-Baptiste_Sim%C3%A9on_Chardin_015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1109,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jean-Baptiste Siméon Chardin 015.jpg)"
+  },
+  "archive": {
+    "wd": "Q26708346"
+  },
+  "phase": {
+    "label": "Genre scenes of the 1730s",
+    "source": {
+      "label": "The Young Schoolmistress, National Gallery",
+      "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Young Schoolmistress, National Gallery",
+        "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "The Young Schoolmistress, National Gallery",
+        "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Chardin’s pictures of children and adolescents combine aspects of portraiture and genre painting.",
+          "source": {
+            "author": "National Gallery, London",
+            "title": "The Young Schoolmistress",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "publisher": "National Gallery, London"
+          }
+        }
+      ]
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "The Young Schoolmistress, National Gallery",
+        "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "his attention is on a quiet moment of interaction between two individuals, whose relationship he conveys brilliantly not just through details of gesture, expression and clothing but also through the handling of the paint itself",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Young Schoolmistress",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This class particularly valued education, especially literacy, which was no longer confined to the nobility and professional classes.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Young Schoolmistress",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Enlightenment thinkers, such as Jean-Jacques Rousseau, also extolled the importance of childhood and cultivating young minds.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Young Schoolmistress",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-young-schoolmistress",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Everything that he touched he touched with feeling as profound as it was personal.",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1999 Lucian Freud painted and etched several copies after The Young Schoolmistress",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

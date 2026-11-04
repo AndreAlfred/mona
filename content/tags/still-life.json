@@ -1,0 +1,19 @@
+{
+  "id": "still-life",
+  "kind": "subject",
+  "name": "Still life",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "a work of art depicting mostly inanimate subject matter, typically commonplace objects which are either natural (food, flowers, dead animals, plants, rocks, shells, etc.)",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Still life",
+        "readAt": "https://en.wikipedia.org/wiki/Still_life",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

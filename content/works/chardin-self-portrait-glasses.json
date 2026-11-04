@@ -1,0 +1,137 @@
+{
+  "id": "chardin-self-portrait-glasses",
+  "artist": "jean-simeon-chardin",
+  "title": "Self-Portrait with Spectacles",
+  "date": "1771",
+  "year": 1771,
+  "medium": "pastel on paper",
+  "dimensions": "46 × 38 cm",
+  "museum": {
+    "name": "Department of Prints and Drawings of the Louvre (INV 25206)",
+    "url": "http://arts-graphiques.louvre.fr/detail/oeuvres/1/11334-lAutoportrait-aux-besicles"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Chardin_pastel_selfportrait.jpg/1280px-Chardin_pastel_selfportrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1580,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Chardin pastel selfportrait.jpg)"
+  },
+  "archive": {
+    "wd": "Q60687590"
+  },
+  "phase": {
+    "label": "Late pastels, 1770s",
+    "source": {
+      "label": "Jean Siméon Chardin, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+    }
+  },
+  "tags": [
+    {
+      "id": "pastel",
+      "source": {
+        "label": "Jean Siméon Chardin, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "His works in pastels are now highly valued.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Jean Siméon Chardin",
+            "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Jean Siméon Chardin, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He is not afraid of leaving his touch just as he has placed it",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        },
+        "lead": "On Chardin's handling of pastel:"
+      },
+      {
+        "kind": "quote",
+        "text": "In the 1770s his eyesight weakened and he took to painting in pastels, a medium in which he executed portraits of his wife and himself",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "he took up the crayon because he found it less trying to his sight than painting, for all his pastels were produced in his later years",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1772 Chardin's son, also a painter, drowned in Venice, a probable suicide.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The artist's last known oil painting was dated 1776; his final Salon participation was in 1779, and featured several pastel studies.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}
