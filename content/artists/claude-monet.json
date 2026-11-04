@@ -1,0 +1,54 @@
+{
+  "id": "claude-monet",
+  "name": "Claude Monet",
+  "born": 1840,
+  "died": 1926,
+  "active": "1860s–1926",
+  "nationality": "French",
+  "period": "modern-life",
+  "movements": [
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio, Claude Monet (1840–1926)",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "pierre-auguste-renoir",
+      "name": "Auguste Renoir",
+      "source": {
+        "label": "Auricchio: classmates and fellow Impressionists",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      }
+    }
+  ],
+  "wikidata": "Q296",
+  "archive": {
+    "aic": 35809,
+    "cma": [
+      1844
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "I perhaps owe having become a painter to flowers.",
+      "lead": "Monet, as quoted by the Cleveland Museum of Art:",
+      "source": {
+        "author": "Claude Monet",
+        "title": "Spring Flowers: Did You Know?",
+        "readAt": "https://www.clevelandart.org/art/1953.155",
+        "accessed": "2026-11-03",
+        "tier": 1,
+        "publisher": "Cleveland Museum of Art"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

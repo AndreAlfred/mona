@@ -1,0 +1,114 @@
+{
+  "id": "monet-red-kerchief",
+  "artist": "claude-monet",
+  "title": "The Red Kerchief",
+  "date": "c. 1868–73",
+  "year": 1868,
+  "medium": "oil on fabric",
+  "dimensions": "Framed: 128.3 x 105.7 x 14.6 cm (50 1/2 x 41 5/8 x 5 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.39"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_print.jpg",
+    "width": 723,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 135382
+  },
+  "phase": {
+    "label": "Camille at Argenteuil, c. 1868–73",
+    "source": {
+      "label": "The Red Kerchief, Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1958.39"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://clevelandart.org/art/1958.39"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "broad, broken strokes of pure white and green",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Red Kerchief",
+            "readAt": "https://clevelandart.org/art/1958.39",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This painting depicts Monet's first wife, Camille",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Red Kerchief",
+          "readAt": "https://clevelandart.org/art/1958.39",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Her face is rendered in a radically bold Impressionist technique of mere daubs of paint quickly applied",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Red Kerchief",
+          "readAt": "https://clevelandart.org/art/1958.39",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This painting was very special to Monet and he kept it with him for his entire life.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Red Kerchief",
+          "readAt": "https://clevelandart.org/art/1958.39",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        },
+        "lead": "On Monet’s attachment to this painting:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}
