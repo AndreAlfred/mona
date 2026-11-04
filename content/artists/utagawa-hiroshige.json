@@ -1,0 +1,74 @@
+{
+  "id": "utagawa-hiroshige",
+  "name": "Utagawa Hiroshige",
+  "born": 1797,
+  "died": 1858,
+  "active": "c. 1811–1858",
+  "nationality": "Japanese",
+  "period": "romantic",
+  "wikidata": "Q200798",
+  "archive": {
+    "aic": 34946,
+    "cma": [
+      50381
+    ]
+  },
+  "movements": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "The Met: landscape ukiyo-e",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "katsushika-hokusai",
+      "name": "Katsushika Hokusai",
+      "source": {
+        "label": "The Met: Hiroshige and Hokusai",
+        "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+      }
+    }
+  ],
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Toyohiro’s interest in landscape prints, a minor genre at the time, influenced his young apprentice.",
+      "source": {
+        "author": "Asian Art Museum",
+        "title": "Artist Profile: Utagawa (Ando) Hiroshige (1797–1858)",
+        "readAt": "https://education.asianart.org/resources/artist-profile-utagawa-ando-hiroshige/",
+        "accessed": "2026-11-03",
+        "tier": 4
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "His work at this time already revealed his particular interest in changes in nature due to weather, time, and the seasons.",
+      "source": {
+        "author": "Asian Art Museum",
+        "title": "Artist Profile: Utagawa (Ando) Hiroshige (1797–1858)",
+        "readAt": "https://education.asianart.org/resources/artist-profile-utagawa-ando-hiroshige/",
+        "accessed": "2026-11-03",
+        "tier": 4
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In 1858, Hiroshige died suddenly at the age of sixty-two, a victim of the cholera epidemic that plagued Edo and claimed 28,000 lives.",
+      "source": {
+        "author": "Asian Art Museum",
+        "title": "Artist Profile: Utagawa (Ando) Hiroshige (1797–1858)",
+        "readAt": "https://education.asianart.org/resources/artist-profile-utagawa-ando-hiroshige/",
+        "accessed": "2026-11-03",
+        "tier": 4
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
