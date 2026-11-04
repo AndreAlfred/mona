@@ -1,0 +1,121 @@
+{
+  "id": "turner-calais-pier",
+  "artist": "joseph-mallord-william-turner",
+  "title": "Calais Pier",
+  "date": "1803",
+  "year": 1803,
+  "medium": "oil paint on canvas",
+  "dimensions": "172 × 240 cm",
+  "museum": {
+    "name": "National Gallery (NG472)",
+    "url": "https://www.wikidata.org/wiki/Q3794814"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Joseph_Mallord_William_Turner_024.jpg/1280px-Joseph_Mallord_William_Turner_024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Joseph_Mallord_William_Turner_024.jpg/2560px-Joseph_Mallord_William_Turner_024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 863,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Joseph Mallord William Turner 024.jpg)"
+  },
+  "archive": {
+    "wd": "Q3794814"
+  },
+  "phase": {
+    "label": "Early maritime paintings, 1803",
+    "source": {
+      "label": "National Gallery: Calais Pier",
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-calais-pier"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: Calais Pier",
+        "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-calais-pier"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Viewers more accustomed to the smooth translucent glazes of traditional marine paintings were particularly resistant to Turner’s visible brushwork and his impasto (thickly applied paint), often laid on with a palette knife.",
+          "source": {
+            "author": "National Gallery",
+            "title": "Calais Pier",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-calais-pier",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner, English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Calais Pier was based on Turner’s own observations; but his decision to paint it may have been stimulated by seeing, towards the end of his first trip abroad, Jacob van Ruisdael’s Une tempête sur le bord des Digues de la Hollande in the Louvre",
+        "source": {
+          "author": "Judy Egerton",
+          "title": "The British Paintings: Calais Pier",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/catalogues/egerton-2000/calais-pier",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Dutch maritime painting was an important precedent for Turner, and he may have been stimulated to paint Calais Pier when, towards the end of his trip, he saw (and sketched) Jacob van Ruisdael’s A Storm at Sea off the Dykes of Holland (1670) in the Louvre.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Calais Pier",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-calais-pier",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Our landing at Calais. Nearly swampt.",
+        "source": {
+          "author": "J. M. W. Turner",
+          "title": "Calais Pier sketchbook, quoted by the National Gallery",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-calais-pier",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "National Gallery"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On 15 July 1802, Turner, aged 27, began his first trip abroad, travelling from Dover to Calais in a cross-channel ferry (a packet) of the type shown here.",
+        "source": {
+          "author": "National Gallery",
+          "title": "Calais Pier",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-calais-pier",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

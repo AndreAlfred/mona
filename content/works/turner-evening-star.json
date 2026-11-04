@@ -1,0 +1,108 @@
+{
+  "id": "turner-evening-star",
+  "artist": "joseph-mallord-william-turner",
+  "title": "The Evening Star",
+  "date": "1830",
+  "year": 1830,
+  "medium": "oil paint on canvas",
+  "dimensions": "92.5 × 123 cm",
+  "museum": {
+    "name": "National Gallery (NG1991)",
+    "url": "https://www.wikidata.org/wiki/Q26706280"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Evening_Star_1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 890,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Evening Star 1983.jpg)"
+  },
+  "archive": {
+    "wd": "Q26706280"
+  },
+  "phase": {
+    "label": "Twilight studies, about 1830",
+    "source": {
+      "label": "National Gallery: The Evening Star",
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-evening-star"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: The Evening Star",
+        "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-evening-star"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The ghostly trace of a boat to the right of centre, which has been painted over, suggests that Turner decided to emphasise the vastness of the sky and sea rather than human industry.",
+          "source": {
+            "author": "National Gallery",
+            "title": "The Evening Star",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-evening-star",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner, English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In contrast to many of Turner’s paintings – often full of activity, grand architectural settings, dramatic weather and dazzling displays of colour and light – this is reduced to its most fundamental elements: day and night, land and sea, earth and sky.",
+        "source": {
+          "author": "National Gallery",
+          "title": "The Evening Star",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-evening-star",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Although the painting was originally thought by critics to be unfinished, it is possible that Turner was in fact satisfied with its evocation of a particular moment and did not see any need for additional work on it.",
+        "source": {
+          "author": "National Gallery",
+          "title": "The Evening Star",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-evening-star",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Even if these lines do not relate directly to this painting, they show that he was keenly interested in transitional moments, such as twilight or dawn, when one period of the day or night is superseded by the next.",
+        "source": {
+          "author": "National Gallery",
+          "title": "The Evening Star",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-evening-star",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

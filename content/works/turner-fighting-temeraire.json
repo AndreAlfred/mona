@@ -1,0 +1,109 @@
+{
+  "id": "turner-fighting-temeraire",
+  "artist": "joseph-mallord-william-turner",
+  "title": "The Fighting Temeraire (The Fighting Temeraire tugged to her last berth to be broken up, 1838)",
+  "date": "1839",
+  "year": 1839,
+  "medium": "oil paint on canvas",
+  "dimensions": "90.7 × 121.6 cm",
+  "museum": {
+    "name": "National Gallery (NG524)",
+    "url": "https://www.wikidata.org/wiki/Q257580"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg/1280px-Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg/2560px-Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 891,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Turner, J. M. W. - The Fighting Téméraire tugged to her last Berth to be broken.jpg)"
+  },
+  "archive": {
+    "wd": "Q257580"
+  },
+  "phase": {
+    "label": "Industry and modern life, 1839",
+    "source": {
+      "label": "National Gallery: The Fighting Temeraire (The Fighting Temeraire tugged to her last berth to be broken up, 1838)",
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: The Fighting Temeraire (The Fighting Temeraire tugged to her last berth to be broken up, 1838)",
+        "url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He has also replaced the original black and yellow paintwork with white and gold, giving the ship a ghostly presence as it glides across the glassy surface of the Thames.",
+          "source": {
+            "author": "National Gallery",
+            "title": "The Fighting Temeraire (The Fighting Temeraire tugged to her last berth to be broken up, 1838)",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "National Gallery: Turner, English Romantic artist",
+        "url": "https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He had already included a glimpse of the ship in a large painting of 1806, The Battle of Trafalgar, as seen from the Mizen Starboard Shrouds of the Victory (Tate, London), and in adopting its nickname, the ‘Fighting’ Temeraire, he explicitly acknowledged its action at the battle which, over 30 years later, continued to be commemorated in literature and art.",
+        "source": {
+          "author": "National Gallery",
+          "title": "The Fighting Temeraire (The Fighting Temeraire tugged to her last berth to be broken up, 1838)",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Although he may have mourned the passing of a great warship from the age of sail, he also acknowledged – and often painted – the realities of modern life and regularly travelled on new modes of transport, including steamships and the railways.",
+        "source": {
+          "author": "National Gallery",
+          "title": "The Fighting Temeraire (The Fighting Temeraire tugged to her last berth to be broken up, 1838)",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Despite offers to buy it, Turner kept the painting till he died in 1851.",
+        "source": {
+          "author": "National Gallery",
+          "title": "The Fighting Temeraire (The Fighting Temeraire tugged to her last berth to be broken up, 1838)",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
