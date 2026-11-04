@@ -1,0 +1,202 @@
+{
+  "id": "leonardo-mona-lisa",
+  "artist": "leonardo-da-vinci",
+  "title": "Mona Lisa (La Gioconda)",
+  "date": "1503",
+  "year": 1503,
+  "medium": "oil paint on poplar panel, wood",
+  "dimensions": "79.4 × 53.4 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 779)",
+    "url": "https://www.louvre.fr/decouvrir/le-palais/de-la-joconde-aux-noces-de-cana"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1280px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/2560px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1788,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg)"
+  },
+  "archive": {
+    "wd": "Q12418"
+  },
+  "phase": {
+    "label": "Second Florentine period and late years, 1503–1517",
+    "source": {
+      "label": "Mona Lisa",
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    }
+  },
+  "tags": [
+    {
+      "id": "sfumato",
+      "source": {
+        "label": "Sfumato",
+        "url": "https://en.wikipedia.org/wiki/Sfumato"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Wherefore O painter! do not surround your bodies with lines, and above all when representing objects smaller than nature; for not only will their external outlines become indistinct, but their parts will be invisible from distance.",
+          "lead": "Leonardo, on drawing the edges of bodies:",
+          "source": {
+            "author": "Leonardo da Vinci",
+            "title": "The Notebooks of Leonardo da Vinci",
+            "readAt": "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",
+            "accessed": "2026-11-03",
+            "tier": 1,
+            "publisher": "Translated by Jean Paul Richter",
+            "year": "1888",
+            "license": "Public domain"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "They found that Leonardo modelled the shadows with glazes or very thin layers of paint, applying the glazes in coats only 1 to 2 micrometres thick to a total thickness of no more than 30 to 40 micrometres.",
+          "lead": "On the Louvre's 2010 X-ray study of his faces:",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Sfumato",
+            "readAt": "https://en.wikipedia.org/wiki/Sfumato",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Mona Lisa",
+        "url": "https://en.wikipedia.org/wiki/Mona_Lisa"
+      }
+    },
+    {
+      "id": "high-renaissance",
+      "source": {
+        "label": "High Renaissance",
+        "url": "https://en.wikipedia.org/wiki/High_Renaissance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Or when you want to take a portrait do it in dull weather, or as evening falls, making the sitter stand with his back to one of the walls of the court yard. Note in the streets, as evening falls, the faces of the men and women, and when the weather is dull, what softness and delicacy you may perceive in them.",
+        "lead": "Leonardo on the light a portrait needs:",
+        "source": {
+          "author": "Leonardo da Vinci",
+          "title": "The Notebooks of Leonardo da Vinci",
+          "readAt": "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Translated by Jean Paul Richter",
+          "year": "1888",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Leonardo undertook to execute, for Francesco del Giocondo, the portrait of Monna Lisa, his wife; and after toiling over it for four years, he left it unfinished",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+          "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Translated by Gaston du C. de Vere",
+          "year": "1550",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the pit of the throat, if one gazed upon it intently, could be seen the beating of the pulse.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+          "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Translated by Gaston du C. de Vere",
+          "year": "1550",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is one of the canonical painting modes of the Renaissance.",
+        "lead": "On the soft-edged technique Leonardo made famous:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sfumato",
+          "readAt": "https://en.wikipedia.org/wiki/Sfumato",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Where earlier critics such as Vasari in the 16th century and André Félibien in the 17th praised the picture for its realism, by the mid-19th century, writers began to regard the Mona Lisa as imbued with a sense of mystery and romance.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mona Lisa",
+          "readAt": "https://en.wikipedia.org/wiki/Mona_Lisa",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "She is older than the rocks among which she sits; like the vampire, she has been dead many times, and learned the secrets of the grave",
+        "lead": "Walter Pater's 1869 reverie on the sitter:",
+        "source": {
+          "author": "Walter Pater",
+          "title": "The Renaissance: Studies in Art and Poetry",
+          "readAt": "https://www.gutenberg.org/cache/epub/2398/pg2398.txt",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "year": "1873",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting's global fame and popularity partly stem from its 1911 theft by Vincenzo Peruggia, who attributed his actions to Italian patriotism",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mona Lisa",
+          "readAt": "https://en.wikipedia.org/wiki/Mona_Lisa",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Leonardo's right hand was paralytic c. 1517, which may indicate why he left the Mona Lisa unfinished.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mona Lisa",
+          "readAt": "https://en.wikipedia.org/wiki/Mona_Lisa",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

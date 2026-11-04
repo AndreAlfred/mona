@@ -1,0 +1,67 @@
+{
+  "id": "leonardo-da-vinci",
+  "name": "Leonardo da Vinci",
+  "born": 1452,
+  "died": 1519,
+  "active": "1470s–1519",
+  "nationality": "Italian",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "high-renaissance",
+      "source": {
+        "label": "Leonardo da Vinci",
+        "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q762",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "The mind of the painter must resemble a mirror, which always takes the colour of the object it reflects and is completely occupied by the images of as many objects as are in front of it.",
+      "lead": "In his notebooks, on the painter's mind:",
+      "source": {
+        "author": "Leonardo da Vinci",
+        "title": "The Notebooks of Leonardo da Vinci",
+        "readAt": "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",
+        "accessed": "2026-11-03",
+        "tier": 1,
+        "publisher": "Translated by Jean Paul Richter",
+        "year": "1888",
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Leonardo is widely regarded as a genius who epitomised the Renaissance humanist ideal, and his collective works contributed to the development of European art to an extent rivalled only by that of his younger contemporary Michelangelo.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Leonardo da Vinci",
+        "readAt": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It is clear that Leonardo, through his comprehension of art, began many things and never finished one of them, since it seemed to him that the hand was not able to attain to the perfection of art in carrying out the things which he imagined",
+      "source": {
+        "author": "Giorgio Vasari",
+        "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+        "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+        "accessed": "2026-11-03",
+        "tier": 2,
+        "publisher": "Translated by Gaston du C. de Vere",
+        "year": "1550",
+        "license": "Public domain"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

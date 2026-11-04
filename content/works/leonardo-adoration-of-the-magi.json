@@ -1,0 +1,106 @@
+{
+  "id": "leonardo-adoration-of-the-magi",
+  "artist": "leonardo-da-vinci",
+  "title": "Adoration of the Magi (Adorazione dei Re Magi)",
+  "date": "c. 1482",
+  "year": 1482,
+  "medium": "drawing, charcoal, watercolor paint, ink",
+  "dimensions": "243 × 246 cm",
+  "museum": {
+    "name": "Uffizi Gallery (N. Inv. 1594)",
+    "url": "https://www.wikidata.org/wiki/Q1638622"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Leonardo_da_Vinci%2C_Adoration%2C_c1481%2C_Uffizi.jpg/1280px-Leonardo_da_Vinci%2C_Adoration%2C_c1481%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Leonardo_da_Vinci%2C_Adoration%2C_c1481%2C_Uffizi.jpg/2560px-Leonardo_da_Vinci%2C_Adoration%2C_c1481%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1197,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Leonardo da Vinci, Adoration, c1481, Uffizi.jpg)"
+  },
+  "archive": {
+    "wd": "Q1638622"
+  },
+  "phase": {
+    "label": "Last Florentine years, 1481–82",
+    "source": {
+      "label": "Leonardo da Vinci",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Adoration of the Magi",
+        "url": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Leonardo)"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He began a panel-picture of the Adoration of the Magi, containing many beautiful things, particularly the heads, … and this, also, remained unfinished, like his other works.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+          "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Translated by Gaston du C. de Vere",
+          "year": "1550",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Leonardo did numerous drawings and preparatory studies, including a detailed one in linear perspective of the ruined classical architecture that forms part of the background.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Leonardo da Vinci",
+          "readAt": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "in Florence in 1481, but he departed for Milan the following year, leaving merely more than the preparatory underdrawing in charcoal, ink and watercolor.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Adoration of the Magi (Leonardo)",
+          "readAt": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Leonardo)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Behind them is a semicircle of accompanying figures, including what may be a self-portrait of the young Leonardo",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Adoration of the Magi (Leonardo)",
+          "readAt": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Leonardo)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

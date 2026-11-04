@@ -1,0 +1,19 @@
+{
+  "id": "sfumato",
+  "kind": "technique",
+  "name": "Sfumato",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The technique is a fine shading meant to produce a soft transition between colours and tones, in order to achieve a more believable image.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Sfumato",
+        "readAt": "https://en.wikipedia.org/wiki/Sfumato",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

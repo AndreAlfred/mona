@@ -1,0 +1,128 @@
+{
+  "id": "leonardo-ginevra-de-benci",
+  "artist": "leonardo-da-vinci",
+  "title": "Ginevra de' Benci (Ritratto di Ginevra de' Benci)",
+  "date": "c. 1476",
+  "year": 1476,
+  "medium": "oil paint on panel",
+  "dimensions": "38.1 × 37 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington (1967.6.1.a)",
+    "url": "https://en.wikipedia.org/wiki/Ginevra_de'_Benci"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg/1280px-Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg/2560px-Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1238,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ginevra de' Benci - National Gallery of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q1267893"
+  },
+  "phase": {
+    "label": "Early Florentine period, 1470s",
+    "source": {
+      "label": "Leonardo da Vinci",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "ai": true
+    },
+    {
+      "id": "sfumato",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Leonardo painted the portrait in Florence between 1474 and 1478, possibly to commemorate Ginevra's marriage to Luigi di Bernardo Niccolini at the age of 16.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ginevra de' Benci",
+          "readAt": "https://en.wikipedia.org/wiki/Ginevra_de'_Benci",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He made a portrait of Ginevra d' Amerigo Benci, a very beautiful work",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+          "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Translated by Gaston du C. de Vere",
+          "year": "1550",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Commonly, contemporary portraits of women were commissioned for either of two occasions: betrothal or marriage.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ginevra de' Benci",
+          "readAt": "https://en.wikipedia.org/wiki/Ginevra_de'_Benci",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Renaissance Italy, the juniper was regarded a symbol of female virtue, while the Italian word for juniper, ginepro, also makes a play on Ginevra's name.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ginevra de' Benci",
+          "readAt": "https://en.wikipedia.org/wiki/Ginevra_de'_Benci",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The phrase is understood as symbolizing the intricate relationship between Ginevra's intellectual and moral virtue on the one hand, and her physical beauty on the other.",
+        "lead": "On the Latin motto painted on the back:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ginevra de' Benci",
+          "readAt": "https://en.wikipedia.org/wiki/Ginevra_de'_Benci",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Ginevra is beautiful, but austere; she has no hint of a smile and her gaze, although forward, seems indifferent to the viewer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ginevra de' Benci",
+          "readAt": "https://en.wikipedia.org/wiki/Ginevra_de'_Benci",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

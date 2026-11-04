@@ -1,0 +1,19 @@
+{
+  "id": "pen-and-ink",
+  "kind": "technique",
+  "name": "Pen and ink",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Early pens such as reed pens, quill pens, dip pens and ruling pens held a small amount of ink on a nib or in a small void or cavity that had to be periodically recharged by dipping the tip of the pen into an inkwell.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Pen and ink",
+        "readAt": "https://en.wikipedia.org/wiki/Pen_and_ink",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}
