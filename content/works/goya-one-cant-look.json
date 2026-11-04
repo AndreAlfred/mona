@@ -1,0 +1,108 @@
+{
+  "id": "goya-one-cant-look",
+  "artist": "francisco-de-goya",
+  "title": "The Horrors of War:  One Can't Look",
+  "date": "1810–20, published 1863",
+  "year": 1810,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.542"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.542/1922.542_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.542/1922.542_print.jpg",
+    "width": 1134,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 104418
+  },
+  "phase": {
+    "label": "The Disasters of War, 1810–1820",
+    "source": {
+      "label": "The Disasters of War",
+      "url": "https://en.wikipedia.org/wiki/The_Disasters_of_War"
+    }
+  },
+  "tags": [
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "The Disasters of War",
+        "url": "https://en.wikipedia.org/wiki/The_Disasters_of_War"
+      }
+    },
+    {
+      "id": "etching",
+      "source": {
+        "label": "The Disasters of War",
+        "url": "https://en.wikipedia.org/wiki/The_Disasters_of_War"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The series was produced using a variety of intaglio printmaking techniques, mainly etching for the line work and aquatint for the tonal areas",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Disasters of War",
+            "readAt": "https://en.wikipedia.org/wiki/The_Disasters_of_War",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He was in poor health and almost deaf when, at 62, he began work on the prints. They were not published until 1863, 35 years after his death.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Disasters of War",
+          "readAt": "https://en.wikipedia.org/wiki/The_Disasters_of_War",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In The Disasters of War, Goya does not excuse any purpose to the random slaughter—the plates are devoid of the consolation of divine order or the dispensation of human justice.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Disasters of War",
+          "readAt": "https://en.wikipedia.org/wiki/The_Disasters_of_War",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He rejects the bombastic heroics of most previous Spanish war art to show the effect of conflict on individuals.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Disasters of War",
+          "readAt": "https://en.wikipedia.org/wiki/The_Disasters_of_War",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

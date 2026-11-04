@@ -1,0 +1,105 @@
+{
+  "id": "goya-dog",
+  "artist": "francisco-de-goya",
+  "title": "The Dog (Guy Eats Pigs)",
+  "date": "1819",
+  "year": 1819,
+  "medium": "oil paint",
+  "dimensions": "131 × 79 cm",
+  "museum": {
+    "name": "Museo del Prado (P000767)",
+    "url": "https://www.wikidata.org/wiki/Q500936"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Goya_Dog.jpg/1280px-Goya_Dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2037,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Goya Dog.jpg)"
+  },
+  "archive": {
+    "wd": "Q500936"
+  },
+  "phase": {
+    "label": "Quinta del Sordo: Black Paintings, 1819–1823",
+    "source": {
+      "label": "The Dog (Goya)",
+      "url": "https://en.wikipedia.org/wiki/The_Dog_(Goya)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Dog (Goya)",
+        "url": "https://en.wikipedia.org/wiki/The_Dog_(Goya)"
+      }
+    },
+    {
+      "id": "romanticism",
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The dog itself is almost lost in the vastness of the rest of the image, which is empty except for a dark sloping area near the bottom of the picture: an unidentifiable mass which conceals the animal's body.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Dog (Goya)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Dog_(Goya)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ],
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Dog is one of Goya's Black Paintings, which he painted directly onto the walls of his house sometime between 1819 and 1823 when he was in his mid-70s, living alone and suffering from acute mental and physical distress.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Dog (Goya)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Dog_(Goya)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Uncommissioned and never meant for public display, these pictures reflect his darkening mood with their depictions of intense scenes of malevolence, conflict, and despair.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Dog (Goya)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Dog_(Goya)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He did not intend the paintings for public exhibition, and they were not removed from the house until 50 years after Goya had left.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Dog (Goya)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Dog_(Goya)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

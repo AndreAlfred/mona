@@ -1,0 +1,105 @@
+{
+  "id": "goya-self-portrait-arrieta",
+  "artist": "francisco-de-goya",
+  "title": "Self-portrait with Dr Arrieta (Goya atendido por Arriet)",
+  "date": "1820",
+  "year": 1820,
+  "medium": "oil paint on canvas",
+  "dimensions": "45.125 × 30.125",
+  "museum": {
+    "name": "Minneapolis Institute of Art (52.14)",
+    "url": "https://www.wikidata.org/wiki/Q2736720"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Francisco_Goya_Self-Portrait_with_Dr_Arrieta_MIA_5214.jpg/1280px-Francisco_Goya_Self-Portrait_with_Dr_Arrieta_MIA_5214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Francisco_Goya_Self-Portrait_with_Dr_Arrieta_MIA_5214.jpg/2560px-Francisco_Goya_Self-Portrait_with_Dr_Arrieta_MIA_5214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1637,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Francisco Goya Self-Portrait with Dr Arrieta MIA 5214.jpg)"
+  },
+  "archive": {
+    "wd": "Q2736720"
+  },
+  "phase": {
+    "label": "Recovery from illness, 1820",
+    "source": {
+      "label": "Self-Portrait with Dr Arrieta",
+      "url": "https://en.wikipedia.org/wiki/Self-Portrait_with_Dr_Arrieta"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Self-Portrait with Dr Arrieta",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_with_Dr_Arrieta"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Self-Portrait with Dr Arrieta",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_with_Dr_Arrieta"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Clutching his bed sheets, a feeble Goya lies back in Arrieta’s supportive arms while mysterious figures stand behind in the semi-darkness.",
+          "source": {
+            "author": "National Gallery, London",
+            "title": "Goya: Exhibition in focus — The private Goya",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/learn-about-art/lives-of-artists/goya-exhibition-in-focus?viewPage=6",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Goya was critical of quacks and charlatans and had ridiculed them in 1799 in his celebrated series of satirical prints known as ‘Los Caprichos’.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "Goya: Exhibition in focus — The private Goya",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/learn-about-art/lives-of-artists/goya-exhibition-in-focus?viewPage=6",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Not unlike the religious ex-votos one sees in Catholic churches today, Goya inscribed the portrait explaining what had happened:",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "Goya: Exhibition in focus — The private Goya",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/learn-about-art/lives-of-artists/goya-exhibition-in-focus?viewPage=6",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Goya, in gratitude to his friend Arrieta: for the skill and care with which he saved his life in his acute and dangerous illness, suffered at the end of the year 1819, at the age of 73. He painted it in 1820",
+        "source": {
+          "author": "Francisco de Goya",
+          "title": "Goya: Exhibition in focus — The private Goya",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/learn-about-art/lives-of-artists/goya-exhibition-in-focus?viewPage=6",
+          "accessed": "2026-11-03",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

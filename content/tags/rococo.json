@@ -1,0 +1,20 @@
+{
+  "id": "rococo",
+  "kind": "style",
+  "name": "Rococo",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "It is characterized by extensive ornamentation, fluid curves, asymmetry, and a smaller scale designed to foster intimacy.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Rococo",
+        "readAt": "https://en.wikipedia.org/wiki/Rococo",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "rococo"
+}

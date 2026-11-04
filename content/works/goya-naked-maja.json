@@ -1,0 +1,109 @@
+{
+  "id": "goya-naked-maja",
+  "artist": "francisco-de-goya",
+  "title": "La maja desnuda",
+  "date": "1800",
+  "year": 1800,
+  "medium": "oil paint on canvas",
+  "dimensions": "98 × 191 cm",
+  "museum": {
+    "name": "Museo del Prado (P000742)",
+    "url": "https://www.wikidata.org/wiki/Q152867"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Maja_desnuda_%28museo_del_Prado%29.jpg/1280px-Maja_desnuda_%28museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Maja_desnuda_%28museo_del_Prado%29.jpg/2560px-Maja_desnuda_%28museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 609,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Maja desnuda (museo del Prado).jpg)"
+  },
+  "archive": {
+    "wd": "Q152867"
+  },
+  "phase": {
+    "label": "Private commissions, c. 1797–1800",
+    "source": {
+      "label": "La maja desnuda",
+      "url": "https://en.wikipedia.org/wiki/La_maja_desnuda"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "La maja desnuda",
+        "url": "https://en.wikipedia.org/wiki/La_maja_desnuda"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "La maja desnuda",
+        "url": "https://en.wikipedia.org/wiki/La_maja_desnuda"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Goya's figuration is short and angular, while Velázquez's is elongated and curved, and his figure placed on richly coloured satin, which starkly contrasts to the bare white cloths Goya's maja rests on.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "La maja desnuda",
+            "readAt": "https://en.wikipedia.org/wiki/La_maja_desnuda",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Goya created a pendant of the same woman identically posed, but clothed, known today as La maja vestida (The Clothed Maja), also in the Prado, and usually hung next to La maja desnuda.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La maja desnuda",
+          "readAt": "https://en.wikipedia.org/wiki/La_maja_desnuda",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting carries many of the traditions of depictions of the nude in Spanish art, but marks a clear break in significant ways, especially in her bold gaze.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La maja desnuda",
+          "readAt": "https://en.wikipedia.org/wiki/La_maja_desnuda",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The identity of the model and why the paintings were created are today unknown.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La maja desnuda",
+          "readAt": "https://en.wikipedia.org/wiki/La_maja_desnuda",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
