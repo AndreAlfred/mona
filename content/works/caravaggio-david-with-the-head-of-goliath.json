@@ -1,0 +1,152 @@
+{
+  "id": "caravaggio-david-with-the-head-of-goliath",
+  "artist": "caravaggio",
+  "title": "David with the Head of Goliath",
+  "date": "1605–1610",
+  "year": 1605,
+  "medium": "oil paint on canvas",
+  "dimensions": "125 × 101 cm",
+  "museum": {
+    "name": "Galleria Borghese, Rome (455)",
+    "url": "https://www.collezionegalleriaborghese.it/opere/david-con-la-testa-di-golia"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg/1280px-David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg/2560px-David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1485,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (David with the Head of Goliath-Caravaggio (1610).jpg)"
+  },
+  "archive": {
+    "wd": "Q2627056"
+  },
+  "phase": {
+    "label": "Exile and the last years, c. 1605–1610 (dating disputed)",
+    "source": {
+      "label": "David with the Head of Goliath",
+      "url": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tenebrism",
+      "source": {
+        "label": "Caravaggio: tenebrism",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Chiaroscuro was practised long before he came on the scene, but it was Caravaggio who made the technique a dominant stylistic element, darkening the shadows and transfixing the subject in a blinding shaft of light.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Caravaggio",
+            "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Caravaggio: chiaroscuro",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Caravaggio: Baroque",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Caravaggio captures the drama more effectively by having the head dangling from David's hand and dripped out blood, rather than resting on a ledge.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "David with the Head of Goliath (Caravaggio, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The decision to depict him as pensive and resigned rather than jubilant creates an unusual psychological bond between him and Goliath.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "David with the Head of Goliath (Caravaggio, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The sword in David's hand carries an abbreviated inscription H-AS OS; this has been interpreted as an abbreviation of the Latin phrase humilitas occidit superbiam (\"humility kills pride\").",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "David with the Head of Goliath (Caravaggio, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "David and Goliath standing for Christ and Satan and the triumph of good over evil in orthodox Christian iconography of the period",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "David with the Head of Goliath (Caravaggio, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This bond is further complicated by the fact that Caravaggio has depicted himself as Goliath, while the model for David is il suo Caravaggino (\"his own little Caravaggio\").",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "David with the Head of Goliath (Caravaggio, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "If the painting was a gift to Cardinal Borghese, the papal official with the power to grant Caravaggio a pardon for murder, it can also be interpreted as a personal plea for mercy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "David with the Head of Goliath (Caravaggio, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

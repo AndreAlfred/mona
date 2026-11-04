@@ -1,0 +1,150 @@
+{
+  "id": "caravaggio-boy-bitten-by-a-lizard",
+  "artist": "caravaggio",
+  "title": "Boy Bitten by a Lizard",
+  "date": "c. 1594",
+  "year": 1594,
+  "medium": "oil paint on canvas",
+  "dimensions": "66 × 49.5 cm",
+  "museum": {
+    "name": "National Gallery, London (NG6504)",
+    "url": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-boy-bitten-by-a-lizard"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg/1280px-Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg/2560px-Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1613,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Caravaggio - Boy Bitten by a Lizard.jpg)"
+  },
+  "archive": {
+    "wd": "Q585437"
+  },
+  "phase": {
+    "label": "Early Rome and the Del Monte household, 1592–1599",
+    "source": {
+      "label": "Caravaggio: early years in Rome",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio"
+    }
+  },
+  "tags": [
+    {
+      "id": "naturalism",
+      "source": {
+        "label": "Caravaggio: realistic observation",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It is very unusual for a late sixteenth-century painting to show such a moment of action, but Caravaggio rejected artistic convention and painted directly onto the canvas from live models. This gave his works an immediacy and intensity that made them instantly popular.",
+          "source": {
+            "author": "National Gallery, London",
+            "title": "Boy bitten by a Lizard",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-boy-bitten-by-a-lizard",
+            "accessed": "2026-11-04",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q585437"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Caravaggio: Baroque",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The affected pose may have been the inevitable result of the experiment Caravaggio appears to have been undertaking here: observing and recording acute emotions – surprise and fear – in a situation where real surprise was impossible and where the pose had to be held for a considerable period.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boy Bitten by a Lizard",
+          "readAt": "https://en.wikipedia.org/wiki/Boy_Bitten_by_a_Lizard",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Boy Bitten by a Lizard is an important work in the artist's early oeuvre precisely because it shows a way out from the airless stillness of very early works such as Boy Peeling a Fruit and Sick Bacchus",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boy Bitten by a Lizard",
+          "readAt": "https://en.wikipedia.org/wiki/Boy_Bitten_by_a_Lizard",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "As was first suggested by Roberto Longhi, Caravaggio has probably borrowed the motif of biting a finger from a Boy Bitten by a Crab, a drawing by prominent Renaissance artist Sofonisba Anguissola.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boy Bitten by a Lizard",
+          "readAt": "https://en.wikipedia.org/wiki/Boy_Bitten_by_a_Lizard",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Both versions are thought to date from the period 1594–1596.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boy Bitten by a Lizard",
+          "readAt": "https://en.wikipedia.org/wiki/Boy_Bitten_by_a_Lizard",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The scene might refer to the pain that can derive from love – a warning against the perils of love and the unexpected dangers that lurk behind beautiful things.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "Boy bitten by a Lizard",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-boy-bitten-by-a-lizard",
+          "accessed": "2026-11-04",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Michael Fried has proposed instead that the painting is a disguised self-portrait of Caravaggio.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boy Bitten by a Lizard",
+          "readAt": "https://en.wikipedia.org/wiki/Boy_Bitten_by_a_Lizard",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}
