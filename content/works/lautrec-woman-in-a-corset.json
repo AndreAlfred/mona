@@ -1,0 +1,112 @@
+{
+  "id": "lautrec-woman-in-a-corset",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "Elles: Woman In a Corset",
+  "date": "1896",
+  "year": 1896,
+  "medium": "color lithograph",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1925.1204.10"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1925.1204.10/1925.1204.10_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1925.1204.10/1925.1204.10_print.jpg",
+    "width": 702,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Ralph King"
+  },
+  "archive": {
+    "cma": 107212
+  },
+  "phase": {
+    "label": "Elles portfolio, 1896",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1925.1204.10"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1925.1204.10"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Like Cassatt, Toulouse-Lautrec also made a series of color prints depicting the daily lives of women, but instead of portraying bourgeois wives and mothers, his subjects were prostitutes.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Elles: Woman In a Corset",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107212",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1925.1204.10"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Like Cassatt, Toulouse-Lautrec also made a series of color prints depicting the daily lives of women, but instead of portraying bourgeois wives and mothers, his subjects were prostitutes.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Elles: Woman In a Corset",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107212",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His series of twelve lithographs entitled Elles boldly confronted the reality of late 19th-century Parisian brothels on the rue de Moulins and the rue de Richelieu, in which rich men's pursuit of pleasure with the daughters of the poor was legal and accepted.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Elles: Woman In a Corset",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107212",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Although not portraits of classic beauty, his depictions of Parisian prostitutes embrace the poignancy of human experience. Here, a prostitute unhooks her corset in the presence of a client, her face sympathetically averted from the viewer's gaze.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Elles: Woman In a Corset",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/107212",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

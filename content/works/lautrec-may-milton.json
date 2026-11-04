@@ -1,0 +1,113 @@
+{
+  "id": "lautrec-may-milton",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "May Milton",
+  "date": "1895",
+  "year": 1895,
+  "medium": "color lithograph",
+  "dimensions": "Sheet: 79.5 x 61.5 cm (31 5/16 x 24 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1952.10"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.10/1952.10_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1952.10/1952.10_print.jpg",
+    "width": 682,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. Lewis B. Williams Collection"
+  },
+  "archive": {
+    "cma": 129201
+  },
+  "phase": {
+    "label": "Advertising posters, 1895",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1952.10"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1952.10"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "May Milton, one of his boldest compositions, illustrates Lautrec's innovative style based on a dynamic pattern of flat, simplified, brightly colored shapes and dramatic silhouettes.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "May Milton",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129201",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1952.10"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "May Milton, one of his boldest compositions, illustrates Lautrec's innovative style based on a dynamic pattern of flat, simplified, brightly colored shapes and dramatic silhouettes.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "May Milton",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129201",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Posters grew in popularity after 1881, when many restrictions on their placement were lifted and it became unlawful to remove or destroy them. The first exhibition of posters took place in 1884, and they were soon accepted as a legitimate art form.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "May Milton",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129201",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "May Milton was an English dancer who appeared at the Moulin Rouge, one of Paris's most popular café-concerts. This poster was made to advertise her tour of the United States.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "May Milton",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129201",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

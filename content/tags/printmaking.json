@@ -1,0 +1,21 @@
+{
+  "id": "printmaking",
+  "kind": "technique",
+  "name": "Printmaking",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Printmaking is the process of creating artworks by printing, normally on paper, but also on fabric, wood, metal, and other surfaces.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Printmaking",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Printmaking",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "printmaking"
+}

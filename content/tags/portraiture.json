@@ -1,0 +1,21 @@
+{
+  "id": "portraiture",
+  "kind": "subject",
+  "name": "Portraiture",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The intent is to display the likeness, personality, and even the mood of the person.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Portrait",
+        "readAt": "https://en.wikipedia.org/wiki/Portrait",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "portraiture"
+}

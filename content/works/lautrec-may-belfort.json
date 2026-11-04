@@ -1,0 +1,113 @@
+{
+  "id": "lautrec-may-belfort",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "May Belfort",
+  "date": "1895",
+  "year": 1895,
+  "medium": "oil on millboard",
+  "dimensions": "Sheet: 62.5 x 48.2 cm (24 5/8 x 19 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.54"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.54/1958.54_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.54/1958.54_print.jpg",
+    "width": 677,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 135515
+  },
+  "phase": {
+    "label": "Café-concert portraits, 1895",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1958.54"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1958.54"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Belfort soon became one of Lautrec's favorite models and is seen here wearing the ruffled dress and bonnet that became a signature of her performances.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "May Belfort",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135515",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1958.54"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Belfort soon became one of Lautrec's favorite models and is seen here wearing the ruffled dress and bonnet that became a signature of her performances.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "May Belfort",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135515",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Henri de Toulouse-Lautrec was inspired by café concerts, popular places of Parisian entertainment that featured singers or other performers.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "May Belfort",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135515",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This drawing depicts May Belfort, one such entertainer, who the artist discovered in 1895 during a visit to the popular nightclub Les Décadents. … The singer adopted a babyish voice and stood motionless on the stage, encouraging her fans to shout lyrics along with her.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "May Belfort",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135515",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

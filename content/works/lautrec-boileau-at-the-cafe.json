@@ -1,0 +1,113 @@
+{
+  "id": "lautrec-boileau-at-the-cafe",
+  "artist": "henri-de-toulouse-lautrec",
+  "title": "Monsieur Boileau at the Café",
+  "date": "1893",
+  "year": 1893,
+  "medium": "oil and tempera with charcoal on millboard",
+  "dimensions": "Sheet: 80.3 x 65 cm (31 5/8 x 25 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1925.1409"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1925.1409/1925.1409_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1925.1409/1925.1409_print.jpg",
+    "width": 734,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Hinman B. Hurlbut Collection"
+  },
+  "archive": {
+    "cma": 173263
+  },
+  "phase": {
+    "label": "Parisian portraits, 1893",
+    "source": {
+      "label": "Cleveland Museum of Art collection record",
+      "url": "https://clevelandart.org/art/1925.1409"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1925.1409"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, saturated, acidic tones evoke the room’s gas lamps and thinned oil paint absorbs into its support, producing texture that complements the scene’s grittiness.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Monsieur Boileau at the Café",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173263",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Cleveland Museum of Art collection record",
+        "url": "https://clevelandart.org/art/1925.1409"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He preferred drawing for its immediacy, using it to record his sitters’ personalities through materials and formal choices.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Monsieur Boileau at the Café",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173263",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In his own time, Toulouse-Lautrec was considered a portraitist for such depictions of friends and other inhabitants of his neighborhood.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Monsieur Boileau at the Café",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173263",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Its subject, Monsieur Boileau, was a gossip columnist known to drink heavily at Le Mirliton, a nightclub.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Monsieur Boileau at the Café",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173263",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
