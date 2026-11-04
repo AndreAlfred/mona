@@ -1,0 +1,77 @@
+{
+  "id": "winslow-homer",
+  "name": "Winslow Homer",
+  "born": 1836,
+  "died": 1910,
+  "active": "1850s–1910",
+  "nationality": "American",
+  "period": "modern-life",
+  "wikidata": "Q344838",
+  "archive": {
+    "aic": 34988,
+    "cma": [
+      3143
+    ]
+  },
+  "movements": [
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "peers": [
+    {
+      "id": "john-singer-sargent",
+      "name": "John Singer Sargent",
+      "source": {
+        "label": "Cleveland Museum of Art: The Patio",
+        "url": "https://www.clevelandart.org/art/1946.293"
+      }
+    }
+  ],
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "During the Civil War, Homer worked as an artist-reporter for the New York newspaper Harper's Weekly.",
+      "source": {
+        "author": "The Cleveland Museum of Art",
+        "title": "The Brierwood Pipe",
+        "publisher": "The Cleveland Museum of Art",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124040",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "license": "CC0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In 1886, Winslow Homer began to produce oil paintings and watercolors of subjects in the Adirondack Mountains, where he and his brother Charles had fished and hunted since the 1870s.",
+      "source": {
+        "author": "The Cleveland Museum of Art",
+        "title": "Leaping Trout",
+        "publisher": "The Cleveland Museum of Art",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147393",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "license": "CC0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The powerful Atlantic surf pounding against the desolate coast of Prouts Neck, Maine, provided primary subject matter for the dramatic paintings that Homer created during his final decades.",
+      "source": {
+        "author": "The Cleveland Museum of Art",
+        "title": "Early Morning After a Storm at Sea",
+        "publisher": "The Cleveland Museum of Art",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106088",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "license": "CC0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

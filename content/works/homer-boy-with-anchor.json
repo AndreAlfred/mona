@@ -1,0 +1,110 @@
+{
+  "id": "homer-boy-with-anchor",
+  "artist": "winslow-homer",
+  "title": "Boy with Anchor",
+  "date": "1873",
+  "year": 1873,
+  "medium": "Watercolor and graphite on paper",
+  "dimensions": "Sheet: 19.4 x 34.9 cm (7 5/8 x 13 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1954.128"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.128/1954.128_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1954.128/1954.128_print.jpg",
+    "width": 900,
+    "height": 511,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund"
+  },
+  "archive": {
+    "cma": 131337
+  },
+  "phase": {
+    "label": "Gloucester watercolors, 1873",
+    "source": {
+      "label": "Cleveland Museum of Art: Boy with Anchor",
+      "url": "https://clevelandart.org/art/1954.128"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art: Boy with Anchor",
+        "url": "https://clevelandart.org/art/1954.128"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Presumably working outdoors, Homer layered fluent washes of blue, gray, and brown transparent watercolor over his graphite underdrawing to flesh out the beach and sky.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Boy with Anchor",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/131337",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The work is an early example of Homer's talent for evoking atmospheric effects and his interest in technical variety.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Boy with Anchor",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/131337",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In this work from a series of watercolors produced in Gloucester, MA, in the summer of 1873 Winslow Homer evokes the fraught nature of the local fishing industry by focusing not on the perilous work of adults, but rather the children they leave behind.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Boy with Anchor",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/131337",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In Boy with Anchor, the massive anchor pointing toward the sea foreshadows the weight of the boy’s maritime destiny.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Boy with Anchor",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/131337",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

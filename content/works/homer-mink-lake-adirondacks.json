@@ -1,0 +1,109 @@
+{
+  "id": "homer-mink-lake-adirondacks",
+  "artist": "winslow-homer",
+  "title": "Mink Lake, Adirondacks",
+  "date": "1892",
+  "year": 1892,
+  "medium": "watercolor",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1954.833"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.833/1954.833_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1954.833/1954.833_print.jpg",
+    "width": 1263,
+    "height": 819,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Anonymous Gift"
+  },
+  "archive": {
+    "cma": 132366
+  },
+  "phase": {
+    "label": "Adirondack watercolors",
+    "source": {
+      "label": "Cleveland Museum of Art: Mink Lake, Adirondacks",
+      "url": "https://clevelandart.org/art/1954.833"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art: Mink Lake, Adirondacks",
+        "url": "https://clevelandart.org/art/1954.833"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Small breaks of brightness provide moments of relief in the monochromatic tonality of the whole.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Mink Lake, Adirondacks",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/132366",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Mink Pond was Homer’s favorite haunt in the Adirondacks.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Mink Lake, Adirondacks",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/132366",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "With a subtle range of smoky blue washes, the artist conveyed the grandeur of the mountains and a stormy sky towering above a diminutive canoe with a casting fisherman.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Mink Lake, Adirondacks",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/132366",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Small breaks of brightness provide moments of relief in the monochromatic tonality of the whole.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Mink Lake, Adirondacks",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/132366",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
