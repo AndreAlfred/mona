@@ -1,0 +1,119 @@
+{
+  "id": "cassatt-cup-of-tea",
+  "artist": "mary-cassatt",
+  "title": "The Cup of Tea",
+  "date": "ca. 1880–81",
+  "year": 1880,
+  "medium": "oil paint on canvas",
+  "dimensions": "92.4 × 65.4 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (22.16.17)",
+    "url": "https://www.metmuseum.org/art/collection/search/10388"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Cassatt_Mary_The_Cup_of_Tea_1880.jpg/1280px-Cassatt_Mary_The_Cup_of_Tea_1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Cassatt_Mary_The_Cup_of_Tea_1880.jpg/2560px-Cassatt_Mary_The_Cup_of_Tea_1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1693,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cassatt Mary The Cup of Tea 1880.jpg)"
+  },
+  "archive": {
+    "wd": "Q12859910"
+  },
+  "phase": {
+    "label": "Early Impressionist years, late 1870s–early 1880s",
+    "source": {
+      "label": "H. Barbara Weinberg, Mary Stevenson Cassatt",
+      "url": "https://www.metmuseum.org/essays/mary-stevenson-cassatt-1844-1926"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Cup of Tea",
+        "url": "https://www.metmuseum.org/art/collection/search/10388"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "H. Barbara Weinberg, Mary Stevenson Cassatt",
+        "url": "https://www.metmuseum.org/essays/mary-stevenson-cassatt-1844-1926"
+      }
+    },
+    {
+      "id": "complementary-colours",
+      "source": {
+        "label": "The Cup of Tea",
+        "url": "https://www.metmuseum.org/art/collection/search/10388"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "contrasting colors are additionally used for shadows",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Cup of Tea",
+            "readAt": "https://en.wikipedia.org/wiki/The_Cup_of_Tea",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          },
+          "lead": "On Cassatt’s modeling of the forms:"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "loose brushstrokes, and novel perspective",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Cup of Tea",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cup_of_Tea",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Features of Cassatt’s treatment of the scene:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "but she has more power",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Response to the 1881 Impressionist exhibition, quoted in The Cup of Tea",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cup_of_Tea",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Paul Gauguin’s assessment at the 1881 Impressionist exhibition:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The painting depicts Mary's sister Lydia Cassatt",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Cup of Tea",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cup_of_Tea",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
