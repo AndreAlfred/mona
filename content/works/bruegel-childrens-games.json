@@ -1,0 +1,107 @@
+{
+  "id": "bruegel-childrens-games",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "Children's Games (Children’s Games)",
+  "date": "1560",
+  "year": 1560,
+  "medium": "oil paint on panel",
+  "dimensions": "118 × 161 cm",
+  "museum": {
+    "name": "Kunsthistorisches Museum (GG_1017)",
+    "url": "https://www.wikidata.org/wiki/Q697332"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/1280px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/2560px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 872,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Bruegel the Elder - Children’s Games - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q697332"
+  },
+  "phase": {
+    "label": "Early Antwerp paintings, 1560",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/children%E2%80%99s-games-0013/CQEeZWQPOI2Yjg"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/children%E2%80%99s-games-0013/CQEeZWQPOI2Yjg"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/children%E2%80%99s-games-0013/CQEeZWQPOI2Yjg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The panel is carefully organized.",
+          "source": {
+            "author": "Amy Orrock",
+            "title": "Homo ludens: Pieter Bruegel’s Children’s Games and the Humanist Educators",
+            "readAt": "https://jhna.org/articles/homo-ludens-pieter-bruegels-childrens-games-humanist-educators/",
+            "accessed": "2026-11-03",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "an encyclopaedic view of the children’s games of his time.",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "Children's Games (Children’s Games)",
+          "readAt": "https://artsandculture.google.com/asset/children%E2%80%99s-games-0013/CQEeZWQPOI2Yjg",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum (GG_1017)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "an encyclopedic representation of games and festive traditions drawn from children’s culture throughout the year.",
+        "source": {
+          "author": "Amy Orrock",
+          "title": "Homo ludens: Pieter Bruegel’s Children’s Games and the Humanist Educators",
+          "readAt": "https://jhna.org/articles/homo-ludens-pieter-bruegels-childrens-games-humanist-educators/",
+          "accessed": "2026-11-03",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The whole city seems to be theirs.",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "Children's Games (Children’s Games)",
+          "readAt": "https://artsandculture.google.com/asset/children%E2%80%99s-games-0013/CQEeZWQPOI2Yjg",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum (GG_1017)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

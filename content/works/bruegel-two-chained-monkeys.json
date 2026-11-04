@@ -1,0 +1,109 @@
+{
+  "id": "bruegel-two-chained-monkeys",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "Two Chained Monkeys (Zwei angekettete Affen)",
+  "date": "1562",
+  "year": 1562,
+  "medium": "oil paint on oak panel",
+  "dimensions": "20 × 23 cm",
+  "museum": {
+    "name": "Gemäldegalerie Berlin (2077)",
+    "url": "https://www.smb.museum/museen-einrichtungen/gemaeldegalerie/sammeln-forschen/restaurierung/pieter-bruegel-der-aeltere-zwei-affen/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Zwei_angekettete_Affen_-_2077_-_Gem%C3%A4ldegalerie.jpg/1280px-Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Zwei_angekettete_Affen_-_2077_-_Gem%C3%A4ldegalerie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1022,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Bruegel (der Ältere) (ca. 1525 - 1569) - Zwei angekettete Affen - 2077 - Gemäldegalerie.jpg)"
+  },
+  "archive": {
+    "wd": "Q231953"
+  },
+  "phase": {
+    "label": "Antwerp paintings, 1562",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/zwei-angekettete-affen/WAHc3JWW3F7kQA?hl=en-GB"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/zwei-angekettete-affen/WAHc3JWW3F7kQA?hl=en-GB"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/zwei-angekettete-affen/WAHc3JWW3F7kQA?hl=en-GB"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "to symbolize the follies of men",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Two Monkeys (Bruegel)",
+            "readAt": "https://en.wikipedia.org/wiki/Two_Monkeys_(Bruegel)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Bruegel’s picture is not an animal study",
+        "source": {
+          "author": "Rainald Grosshans",
+          "title": "Two Chained Monkeys (Zwei angekettete Affen)",
+          "readAt": "https://artsandculture.google.com/asset/zwei-angekettete-affen/WAHc3JWW3F7kQA?hl=en-GB",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Gemäldegalerie Berlin (2077)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "the symbol of two chained monkeys from Gentile da Fabriano's Adoration of the Magi.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Two Monkeys (Bruegel)",
+          "readAt": "https://en.wikipedia.org/wiki/Two_Monkeys_(Bruegel)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On a possible precedent:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "an allegory of captivity and the hope of a free life",
+        "source": {
+          "author": "Rainald Grosshans",
+          "title": "Two Chained Monkeys (Zwei angekettete Affen)",
+          "readAt": "https://artsandculture.google.com/asset/zwei-angekettete-affen/WAHc3JWW3F7kQA?hl=en-GB",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Gemäldegalerie Berlin (2077)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

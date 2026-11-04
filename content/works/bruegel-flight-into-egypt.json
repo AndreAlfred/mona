@@ -1,0 +1,110 @@
+{
+  "id": "bruegel-flight-into-egypt",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "Landscape with the Flight into Egypt",
+  "date": "1563",
+  "year": 1563,
+  "medium": "oil paint on panel",
+  "dimensions": "37.1 × 55.6 cm",
+  "museum": {
+    "name": "Courtauld Gallery (P.1978.PG.47)",
+    "url": "https://www.wikidata.org/wiki/Q1803755"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg/1280px-Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg/2560px-Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 786,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Bruegel der Ältere - Landschaft mit der Flucht nach Ägypten.jpg)"
+  },
+  "archive": {
+    "wd": "Q1803755"
+  },
+  "phase": {
+    "label": "Biblical landscapes, 1563",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/landscape-with-flight-into-egypt/pwHsbSquR0wuWw"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/landscape-with-flight-into-egypt/pwHsbSquR0wuWw"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/landscape-with-flight-into-egypt/pwHsbSquR0wuWw"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "an imaginary panoramic landscape seen from an elevated viewpoint",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Landscape with the Flight into Egypt (Bruegel)",
+            "readAt": "https://en.wikipedia.org/wiki/Landscape_with_the_Flight_into_Egypt_(Bruegel)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The dramatic setting enhances the religious narrative.",
+        "source": {
+          "author": "The Courtauld Institute of Art",
+          "title": "Landscape with the Flight into Egypt",
+          "readAt": "https://artsandculture.google.com/asset/landscape-with-flight-into-egypt/pwHsbSquR0wuWw",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Courtauld Gallery (P.1978.PG.47)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "following the conventions established by Joachim Patinir.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Landscape with the Flight into Egypt (Bruegel)",
+          "readAt": "https://en.wikipedia.org/wiki/Landscape_with_the_Flight_into_Egypt_(Bruegel)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On the landscape tradition:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The story of the Holy Family fleeing persecution in Bethlehem",
+        "source": {
+          "author": "The Courtauld Institute of Art",
+          "title": "Landscape with the Flight into Egypt",
+          "readAt": "https://artsandculture.google.com/asset/landscape-with-flight-into-egypt/pwHsbSquR0wuWw",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Courtauld Gallery (P.1978.PG.47)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

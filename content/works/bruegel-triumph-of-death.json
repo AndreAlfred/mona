@@ -1,0 +1,108 @@
+{
+  "id": "bruegel-triumph-of-death",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "The Triumph of Death (De triomf van de Dood)",
+  "date": "1560",
+  "year": 1560,
+  "medium": "oil paint on panel",
+  "dimensions": "117 × 162 cm",
+  "museum": {
+    "name": "Museo del Prado (P001393)",
+    "url": "https://www.wikidata.org/wiki/Q644856"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg/1280px-The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 856,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Triumph of Death by Pieter Bruegel the Elder.jpg)"
+  },
+  "archive": {
+    "wd": "Q644856"
+  },
+  "phase": {
+    "label": "Moral allegories, 1562",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/el-triunfo-de-la-muerte/WwEAAwTn3jAYUg"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/el-triunfo-de-la-muerte/WwEAAwTn3jAYUg"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/el-triunfo-de-la-muerte/WwEAAwTn3jAYUg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the sea is littered with shipwrecks.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Triumph of Death",
+            "readAt": "https://en.wikipedia.org/wiki/The_Triumph_of_Death",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "a large army of skeletons devastating Earth",
+        "source": {
+          "author": "Fundación Elkano",
+          "title": "The Triumph of Death (De triomf van de Dood)",
+          "readAt": "https://artsandculture.google.com/asset/el-triunfo-de-la-muerte/WwEAAwTn3jAYUg",
+          "accessed": "2026-11-03",
+          "tier": 6,
+          "publisher": "Fundación Elkano"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The horse-riding skeletons probably allude to the Four Horsemen of the Apocalypse.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Triumph of Death",
+          "readAt": "https://en.wikipedia.org/wiki/The_Triumph_of_Death",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "there is no hope of being saved by power or devotion",
+        "source": {
+          "author": "Fundación Elkano",
+          "title": "The Triumph of Death (De triomf van de Dood)",
+          "readAt": "https://artsandculture.google.com/asset/el-triunfo-de-la-muerte/WwEAAwTn3jAYUg",
+          "accessed": "2026-11-03",
+          "tier": 6,
+          "publisher": "Fundación Elkano"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

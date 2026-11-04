@@ -1,0 +1,110 @@
+{
+  "id": "bruegel-adoration-of-the-kings",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "The Adoration of the Kings",
+  "date": "1564",
+  "year": 1564,
+  "medium": "oil paint on oak panel",
+  "dimensions": "112.1 × 83.9 cm",
+  "museum": {
+    "name": "National Gallery (NG3556)",
+    "url": "https://archive.org/stream/expositiondesprimi00expo#page/133/mode/1up"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Anbetung_der_K%C3%B6nige_%28Bruegel%2C_1564%29.jpg/1280px-Anbetung_der_K%C3%B6nige_%28Bruegel%2C_1564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Anbetung_der_K%C3%B6nige_%28Bruegel%2C_1564%29.jpg/2560px-Anbetung_der_K%C3%B6nige_%28Bruegel%2C_1564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1597,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Anbetung der Könige (Bruegel, 1564).jpg)"
+  },
+  "archive": {
+    "wd": "Q4680634"
+  },
+  "phase": {
+    "label": "Biblical paintings, 1564",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/the-adoration-of-the-kings-pieter-bruegel-the-elder/IAEhuI8hP-hhZQ?hl=en"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/the-adoration-of-the-kings-pieter-bruegel-the-elder/IAEhuI8hP-hhZQ?hl=en"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/the-adoration-of-the-kings-pieter-bruegel-the-elder/IAEhuI8hP-hhZQ?hl=en"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "to concentrate on differences between individual faces",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Adoration of the Kings (Bruegel)",
+            "readAt": "https://en.wikipedia.org/wiki/Adoration_of_the_Kings_(Bruegel)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "one of Pieter Bruegel the Elder’s few religious paintings",
+        "source": {
+          "author": "The National Gallery, London",
+          "title": "The Adoration of the Kings",
+          "readAt": "https://artsandculture.google.com/asset/the-adoration-of-the-kings-pieter-bruegel-the-elder/IAEhuI8hP-hhZQ?hl=en",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery (NG3556)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The grouping of people, an idea taken from Italian mannerist painters like Parmigianino",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Adoration of the Kings (Bruegel)",
+          "readAt": "https://en.wikipedia.org/wiki/Adoration_of_the_Kings_(Bruegel)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On the composition:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "we know nothing of Bruegel’s own beliefs",
+        "source": {
+          "author": "The National Gallery, London",
+          "title": "The Adoration of the Kings",
+          "readAt": "https://artsandculture.google.com/asset/the-adoration-of-the-kings-pieter-bruegel-the-elder/IAEhuI8hP-hhZQ?hl=en",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "National Gallery (NG3556)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
