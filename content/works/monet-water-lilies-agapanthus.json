@@ -1,0 +1,114 @@
+{
+  "id": "monet-water-lilies-agapanthus",
+  "artist": "claude-monet",
+  "title": "Water Lilies (Agapanthus)",
+  "date": "c. 1915–26",
+  "year": 1915,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 204.9 x 430.3 x 6 cm (80 11/16 x 169 7/16 x 2 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1960.81"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1960.81/1960.81_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1960.81/1960.81_print.jpg",
+    "width": 900,
+    "height": 419,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund and an anonymous gift"
+  },
+  "archive": {
+    "cma": 136510
+  },
+  "phase": {
+    "label": "Late Giverny water lilies, c. 1915–26",
+    "source": {
+      "label": "Water Lilies (Agapanthus), Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1960.81"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://clevelandart.org/art/1960.81"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "omitting its horizon and surrounding banks",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Water Lilies (Agapanthus)",
+            "readAt": "https://clevelandart.org/art/1960.81",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Water lilies were a recurring theme in Monet's work",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Water Lilies (Agapanthus)",
+          "readAt": "https://clevelandart.org/art/1960.81",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Monumental in scale, this rendering of his water lily pond focuses on the momentary effects of sunlight as it both penetrates and reflects off its shimmering surface.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Water Lilies (Agapanthus)",
+          "readAt": "https://clevelandart.org/art/1960.81",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the private garden he designed and helped cultivate",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Water Lilies (Agapanthus)",
+          "readAt": "https://clevelandart.org/art/1960.81",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        },
+        "lead": "The pond belonged to:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

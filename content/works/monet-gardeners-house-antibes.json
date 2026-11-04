@@ -1,0 +1,114 @@
+{
+  "id": "monet-gardeners-house-antibes",
+  "artist": "claude-monet",
+  "title": "Gardener's House at Antibes",
+  "date": "1888",
+  "year": 1888,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 91.1 x 118.4 x 13.7 cm (35 7/8 x 46 5/8 x 5 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1916.1044"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_print.jpg",
+    "width": 900,
+    "height": 640,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade"
+  },
+  "archive": {
+    "cma": 95272
+  },
+  "phase": {
+    "label": "Antibes, 1888",
+    "source": {
+      "label": "Gardener's House at Antibes, Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1916.1044"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://clevelandart.org/art/1916.1044"
+      }
+    },
+    {
+      "id": "impasto",
+      "source": {
+        "label": "Museum technique",
+        "url": "https://clevelandart.org/art/1916.1044"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "through thickly applied paint in bright colors",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Gardener's House at Antibes",
+            "readAt": "https://clevelandart.org/art/1916.1044",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Small daubs of green on the slender trees framing the house suggest the onset of spring.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Gardener's House at Antibes",
+          "readAt": "https://clevelandart.org/art/1916.1044",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Monet portrays intense midday light through thickly applied paint in bright colors that evoke the region’s sun-drenched climate.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Gardener's House at Antibes",
+          "readAt": "https://clevelandart.org/art/1916.1044",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "strong winds that threatened to knock over his easel",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Gardener's House at Antibes",
+          "readAt": "https://clevelandart.org/art/1916.1044",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        },
+        "lead": "The museum describes the challenge of working at Antibes:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

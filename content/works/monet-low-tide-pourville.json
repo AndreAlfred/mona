@@ -1,0 +1,114 @@
+{
+  "id": "monet-low-tide-pourville",
+  "artist": "claude-monet",
+  "title": "Low Tide at Pourville, near Dieppe, 1882",
+  "date": "1882",
+  "year": 1882,
+  "medium": "oil on fabric",
+  "dimensions": "Framed: 65.4 x 106.7 x 10.5 cm (25 3/4 x 42 x 4 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1947.196"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1947.196/1947.196_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1947.196/1947.196_print.jpg",
+    "width": 900,
+    "height": 664,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. Henry White Cannon"
+  },
+  "archive": {
+    "cma": 125234
+  },
+  "phase": {
+    "label": "Normandy coast, 1882",
+    "source": {
+      "label": "Low Tide at Pourville, near Dieppe, 1882, Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1947.196"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://clevelandart.org/art/1947.196"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "narrow strokes of black paint",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Low Tide at Pourville, near Dieppe, 1882",
+            "readAt": "https://clevelandart.org/art/1947.196",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is one of several views Claude Monet painted of Pourville",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Low Tide at Pourville, near Dieppe, 1882",
+          "readAt": "https://clevelandart.org/art/1947.196",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Pourville featured a boardwalk, a broad beach, and stunning cliffs.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Low Tide at Pourville, near Dieppe, 1882",
+          "readAt": "https://clevelandart.org/art/1947.196",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "One could not be any closer to the sea than I am, on the pebbled beach itself and the waves beat at the foot of the house.",
+        "lead": "From Monet’s correspondence, quoted by the museum:",
+        "source": {
+          "author": "Claude Monet",
+          "title": "Low Tide at Pourville, near Dieppe, 1882",
+          "readAt": "https://clevelandart.org/art/1947.196",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

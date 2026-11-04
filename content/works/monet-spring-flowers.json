@@ -1,0 +1,113 @@
+{
+  "id": "monet-spring-flowers",
+  "artist": "claude-monet",
+  "title": "Spring Flowers",
+  "date": "1864",
+  "year": 1864,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 144.5 x 117.2 x 12.1 cm (56 7/8 x 46 1/8 x 4 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1953.155"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1953.155/1953.155_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1953.155/1953.155_print.jpg",
+    "width": 685,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of the Hanna Fund"
+  },
+  "archive": {
+    "cma": 130391
+  },
+  "phase": {
+    "label": "Early work, 1864",
+    "source": {
+      "label": "Spring Flowers, Cleveland Museum of Art",
+      "url": "https://clevelandart.org/art/1953.155"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://clevelandart.org/art/1953.155"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Monet's energetic brushwork conveys the sparkling play of light on leaves and petals.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Spring Flowers",
+            "readAt": "https://clevelandart.org/art/1953.155",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This early work reveals Claude Monet's fascination with capturing the transitory effects",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Spring Flowers",
+          "readAt": "https://clevelandart.org/art/1953.155",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Painted with almost scientific accuracy, this still life has a freshness and immediacy derived partly from its composition.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Spring Flowers",
+          "readAt": "https://clevelandart.org/art/1953.155",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He painted this work in 1864, the first productive year of his career.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Spring Flowers",
+          "readAt": "https://clevelandart.org/art/1953.155",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}
