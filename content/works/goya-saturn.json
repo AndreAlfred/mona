@@ -1,0 +1,108 @@
+{
+  "id": "goya-saturn",
+  "artist": "francisco-de-goya",
+  "title": "Saturn Devouring His Son (Saturno devorando a un hijo)",
+  "date": "1819",
+  "year": 1819,
+  "medium": "mixed technique, wall on canvas",
+  "dimensions": "143.5 × 81.4 cm",
+  "museum": {
+    "name": "Museo del Prado (P000763)",
+    "url": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg/1280px-Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2204,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Francisco de Goya, Saturno devorando a su hijo (1819-1823).jpg)"
+  },
+  "archive": {
+    "wd": "Q1150997"
+  },
+  "phase": {
+    "label": "Quinta del Sordo: Black Paintings, 1820–1823",
+    "source": {
+      "label": "Saturn Devouring His Son",
+      "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son"
+    }
+  },
+  "tags": [
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Saturn Devouring His Son",
+        "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Saturn Devouring His Son",
+        "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The only other brightness in the picture comes from the white flesh, the red blood of the corpse, and the white knuckles of the larger figure as he digs his fingers into the back of the body.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Saturn Devouring His Son",
+            "readAt": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The work is one of the 14 so-called Black Paintings that Goya painted directly on the walls of his house some time between 1820 and 1823.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saturn Devouring His Son",
+          "readAt": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Unlike the painting, the myths usually portray Saturn/Cronus swallowing his children whole, and later vomiting them up alive after swallowing the stone, rather than violently tearing them apart as in the painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saturn Devouring His Son",
+          "readAt": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Like all of the Black Paintings, it was not originally intended for public consumption and Goya did not provide a title or notes. Thus, its interpretation is disputed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saturn Devouring His Son",
+          "readAt": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
