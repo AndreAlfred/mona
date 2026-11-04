@@ -1,0 +1,112 @@
+{
+  "id": "leonardo-annunciation",
+  "artist": "leonardo-da-vinci",
+  "title": "Annunciation",
+  "date": "c. 1472",
+  "year": 1472,
+  "medium": "oil paint on panel",
+  "dimensions": "90 × 222 cm",
+  "museum": {
+    "name": "Uffizi Gallery (00285888)",
+    "url": "https://www.wikidata.org/wiki/Q1217213"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Annunciation_%28Leonardo%29_%28cropped%29.jpg/1280px-Annunciation_%28Leonardo%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Annunciation_%28Leonardo%29_%28cropped%29.jpg/2560px-Annunciation_%28Leonardo%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 533,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Annunciation (Leonardo) (cropped).jpg)"
+  },
+  "archive": {
+    "wd": "Q1217213"
+  },
+  "phase": {
+    "label": "Apprenticeship in Verrocchio's workshop, early 1470s",
+    "source": {
+      "label": "Leonardo da Vinci",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Annunciation",
+        "url": "https://en.wikipedia.org/wiki/Annunciation_(Leonardo)"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Annunciation",
+        "url": "https://en.wikipedia.org/wiki/Annunciation_(Leonardo)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He used chiaroscuro to depict the angel Gabriel and the Virgin Mary, employing a modeling technique to soften their forms.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Annunciation (Leonardo)",
+            "readAt": "https://en.wikipedia.org/wiki/Annunciation_(Leonardo)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Leonardo's earliest extant major work, it was completed in Florence while he was an apprentice in the studio of Andrea del Verrocchio.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Annunciation (Leonardo)",
+          "readAt": "https://en.wikipedia.org/wiki/Annunciation_(Leonardo)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The subject of the annunciation was very popular for contemporaneous artworks painted in Christian countries such as Italy and had been depicted many times in Florentine art, including several examples by the Early Renaissance painter Fra Angelico.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Annunciation (Leonardo)",
+          "readAt": "https://en.wikipedia.org/wiki/Annunciation_(Leonardo)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Leonardo painted an angel who was holding some garments; and although he was but a lad, Leonardo executed it in such a manner that his angel was much better than the figures of Andrea",
+        "lead": "Vasari on Leonardo's first brushwork in Verrocchio's Baptism of Christ:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+          "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Translated by Gaston du C. de Vere",
+          "year": "1550",
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "leonardo-portrait-of-a-man-in-red-chalk",
+  "artist": "leonardo-da-vinci",
+  "title": "Head of a Bearded Man (so-called Self-portrait)",
+  "date": "c. 1510",
+  "year": 1510,
+  "medium": "red chalk on paper",
+  "dimensions": "333 × 213 mm",
+  "museum": {
+    "name": "Royal Library of Turin (15571)",
+    "url": "https://www.wikidata.org/wiki/Q993743"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/1280px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1871,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Leonardo da Vinci - presumed self-portrait - WGA12798.jpg)"
+  },
+  "archive": {
+    "wd": "Q993743"
+  },
+  "phase": {
+    "label": "Late years, c. 1510",
+    "source": {
+      "label": "Portrait of a Man in Red Chalk",
+      "url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_Red_Chalk"
+    }
+  },
+  "tags": [
+    {
+      "id": "red-chalk",
+      "source": {
+        "label": "Portrait of a Man in Red Chalk",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_Red_Chalk"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Leonardo da Vinci, in the late 15th century, was the first major artist to work in the medium.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Red chalk",
+            "readAt": "https://en.wikipedia.org/wiki/Red_chalk",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Portrait of a Man in Red Chalk",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_Red_Chalk"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The drawing has been drawn in fine, unique lines, shadowed by hatching and executed with the left hand, as was Leonardo's habit.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of a Man in Red Chalk",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_Red_Chalk",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "By the 16th century deposits were known in Italy, Spain, Flanders, France, and Germany, and the material became a popular medium for drawing.",
+        "lead": "On red chalk in Leonardo's time:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Red chalk",
+          "readAt": "https://en.wikipedia.org/wiki/Red_chalk",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is widely, though not universally, accepted as a self-portrait of the Renaissance artist Leonardo da Vinci.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of a Man in Red Chalk",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_Red_Chalk",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The portrait has been extensively reproduced and has become an iconic representation of him as a polymath",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of a Man in Red Chalk",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_Red_Chalk",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

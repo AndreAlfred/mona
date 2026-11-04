@@ -1,0 +1,155 @@
+{
+  "id": "leonardo-lady-with-an-ermine",
+  "artist": "leonardo-da-vinci",
+  "title": "Lady with an Ermine (Dama con l'ermelli)",
+  "date": "c. 1490",
+  "year": 1490,
+  "medium": "oil paint, walnut panel, tempera on panel",
+  "dimensions": "54 × 40.3 cm",
+  "museum": {
+    "name": "Czartoryski Museum (MNK XII-209)",
+    "url": "https://zbiory.mnk.pl/en/catalog/157417"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg/1280px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg/2560px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1614,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Lady with an Ermine - Leonardo da Vinci - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q474338"
+  },
+  "phase": {
+    "label": "First Milan period, 1482–1499",
+    "source": {
+      "label": "Leonardo da Vinci",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Lady with an Ermine",
+        "url": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Lady with an Ermine",
+        "url": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The attribution is due to the style of chiaroscuro, intricate detail and",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Lady with an Ermine",
+            "readAt": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "high-renaissance",
+      "source": {
+        "label": "Leonardo da Vinci",
+        "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The mind of the painter must resemble a mirror, which always takes the colour of the object it reflects and is completely occupied by the images of as many objects as are in front of it.",
+        "lead": "Leonardo on what a painter must learn to see:",
+        "source": {
+          "author": "Leonardo da Vinci",
+          "title": "The Notebooks of Leonardo da Vinci",
+          "readAt": "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Translated by Jean Paul Richter",
+          "year": "1888",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting is characterised by the pose of the figure with the head turned at a very different angle to the torso, unusual at a date when many portraits were still rigidly in profile.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Leonardo da Vinci",
+          "readAt": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is the second of only four surviving portraits of women painted by Leonardo, the others being Ginevra de' Benci, La Belle Ferronnière and the Mona Lisa.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lady with an Ermine",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Leonardo was painter to the Sforza court in Milan at the time of its execution.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lady with an Ermine",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In its winter coat, the ermine was a traditional symbol of purity and moderation, as it was believed it would face death rather than soil its white coat.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lady with an Ermine",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Nazis seized it in 1939, and it hung in the Wawel Castle offices of Hans Frank, Governor-General of occupied Poland.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lady with an Ermine",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

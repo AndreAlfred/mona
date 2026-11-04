@@ -1,0 +1,19 @@
+{
+  "id": "high-renaissance",
+  "kind": "movement",
+  "name": "High Renaissance",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In art history, the High Renaissance was a short period of the most exceptional artistic production in the Italian states, particularly Rome, capital of the Papal States, and in Florence, during the Italian Renaissance.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "High Renaissance",
+        "readAt": "https://en.wikipedia.org/wiki/High_Renaissance",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

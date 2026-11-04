@@ -1,0 +1,20 @@
+{
+  "id": "red-chalk",
+  "kind": "material",
+  "name": "Red chalk",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Red chalk is chalk of a reddish-brown color, which was used as a material for drawing. It is obtained from the red ochre variety of hematite.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Red chalk",
+        "readAt": "https://en.wikipedia.org/wiki/Red_chalk",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "red chalk"
+}

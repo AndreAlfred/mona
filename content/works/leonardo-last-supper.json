@@ -1,0 +1,155 @@
+{
+  "id": "leonardo-last-supper",
+  "artist": "leonardo-da-vinci",
+  "title": "The Last Supper",
+  "date": "1490",
+  "year": 1490,
+  "medium": "tempera, gesso",
+  "dimensions": "700 × 880 cm",
+  "museum": {
+    "name": "Santa Maria delle Grazie",
+    "url": "http://legraziemilano.it/ultima-cena/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg/1280px-Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg/2560px-Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 625,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498).jpg)"
+  },
+  "archive": {
+    "wd": "Q128910"
+  },
+  "phase": {
+    "label": "First Milan period, 1482–1499",
+    "source": {
+      "label": "Leonardo da Vinci",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    }
+  },
+  "tags": [
+    {
+      "id": "high-renaissance",
+      "source": {
+        "label": "The Last Supper",
+        "url": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "The Last Supper",
+        "url": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Leonardo also sought a greater luminosity and intensity of light and shade (chiaroscuro) than could be achieved with fresco",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Last Supper (Leonardo)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Another with his hands spread open shows the palms, and shrugs his shoulders up his ears making a mouth of astonishment",
+        "lead": "Leonardo's notes for the Apostles' gestures, 1494–95:",
+        "source": {
+          "author": "Leonardo da Vinci",
+          "title": "The Notebooks of Leonardo da Vinci",
+          "readAt": "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Translated by Jean Paul Richter",
+          "year": "1888",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Another speaks into his neighbour's ear and he, as he listens to him, turns towards him to lend an ear",
+        "source": {
+          "author": "Leonardo da Vinci",
+          "title": "The Notebooks of Leonardo da Vinci",
+          "readAt": "https://www.gutenberg.org/cache/epub/5000/pg5000.txt",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Translated by Jean Paul Richter",
+          "year": "1888",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Leonardo imagined and succeeded in expressing that anxiety which had seized the Apostles in wishing to know who should betray their Master.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+          "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Translated by Gaston du C. de Vere",
+          "year": "1550",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Some commentators consider it pivotal in inaugurating the transition into what is now termed the High Renaissance.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Last Supper (Leonardo)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Rather than using the proven method of painting on walls, Leonardo painted The Last Supper in tempera, the medium generally used for panel painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Last Supper (Leonardo)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It seemed strange to him to see Leonardo sometimes stand half a day at a time, lost in contemplation",
+        "lead": "Vasari on the Prior who pressed Leonardo to finish:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 4 (Life of Leonardo da Vinci)",
+          "readAt": "https://www.gutenberg.org/cache/epub/28420/pg28420.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Translated by Gaston du C. de Vere",
+          "year": "1550",
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}
