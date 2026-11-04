@@ -1,0 +1,132 @@
+{
+  "id": "holbein-jane-seymour",
+  "artist": "hans-holbein-the-younger",
+  "title": "Queen Jane Seymour",
+  "date": "c. 1536–37",
+  "year": 1536,
+  "medium": "chalk, ink on paper",
+  "dimensions": "50 × 28.5 cm",
+  "museum": {
+    "name": "Royal Collection (RCIN 912267)",
+    "url": "https://www.wikidata.org/wiki/Q62071377"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Holbein_Jane_Seymour_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2099,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Holbein Jane Seymour drawing.jpg)"
+  },
+  "archive": {
+    "wd": "Q62071377"
+  },
+  "phase": {
+    "label": "King's Painter to Henry VIII, 1536–43",
+    "source": {
+      "label": "Hans Holbein the Younger (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+    }
+  },
+  "tags": [
+    {
+      "id": "chalk-drawing",
+      "source": {
+        "label": "Royal Collection record via Wikidata: chalk and ink on paper",
+        "url": "https://www.wikidata.org/wiki/Q62071377"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In the second, from 1532 to his death, he drew on smaller sheets of pink-primed paper, adding pen and brushwork in ink to the chalk.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Hans Holbein the Younger",
+            "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A gifted draughtsman, he was heir to a German tradition of line drawing and precise preparatory design. Holbein's chalk and ink portraits demonstrate his mastery of outline.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He adopted Clouet's method of drawing with coloured chalks on a plain ground, as well as his care over preliminary portraits for their own sake.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It was destroyed by fire in 1698, but is known from engravings and from a 1667 copy by Remigius van Leemput.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The figure of Jane Seymour in the mural is related to Holbein's sketch and painting of her.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "memento-mori",
+  "kind": "subject",
+  "name": "Memento mori",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "is an artistic symbol or trope acting as a reminder of the inevitability of death.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Memento mori",
+        "readAt": "https://en.wikipedia.org/wiki/Memento_mori",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "memento mori"
+}

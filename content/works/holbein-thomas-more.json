@@ -1,0 +1,160 @@
+{
+  "id": "holbein-thomas-more",
+  "artist": "hans-holbein-the-younger",
+  "title": "Portrait of Sir Thomas More",
+  "date": "1527",
+  "year": 1527,
+  "medium": "oil paint on oak panel",
+  "dimensions": "74.9 × 60.3 cm",
+  "museum": {
+    "name": "The Frick Collection (1912.1.77)",
+    "url": "https://www.wikidata.org/wiki/Q5296650"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg/1280px-Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg/2560px-Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1493,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hans Holbein, the Younger - Sir Thomas More - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q5296650"
+  },
+  "phase": {
+    "label": "First English stay, 1526–28",
+    "source": {
+      "label": "Hans Holbein the Younger (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "His portraits were renowned in their time for their likeness, and it is through his eyes that many famous figures of his day are pictured today, such as Erasmus and More.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Hans Holbein the Younger",
+            "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: oil on oak panel",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Sir_Thomas_More"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia): \"He worked in a Northern Renaissance style\"",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The portrait shows the English statesman and humanist Thomas More in three-quarter right half-profile, holding a book, in a fur-lined coat of rich fabrics, black satin, and red velvet.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Sir Thomas More",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Sir_Thomas_More",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Another Holbein portrait of More, part of a large group portrait of his family, is now lost, but several drawings (also mostly in the Royal Collection) and copies survive.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Sir Thomas More",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Sir_Thomas_More",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Your painter, my dearest Erasmus,\" he wrote, \"is a wonderful artist",
+        "lead": "More wrote to Erasmus:",
+        "source": {
+          "author": "Thomas More",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "During this first stay in England, Holbein worked largely for a humanist circle with ties to Erasmus.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A cord in the upper right is tied in a loose Franciscan knot, a sign of More's spiritual convictions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Sir Thomas More",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Sir_Thomas_More",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Holbein had deftly survived the downfall of his first two great patrons, Thomas More and Anne Boleyn",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}
