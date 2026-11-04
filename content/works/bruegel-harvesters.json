@@ -1,0 +1,110 @@
+{
+  "id": "bruegel-harvesters",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "The Harvesters",
+  "date": "1565",
+  "year": 1565,
+  "medium": "oil paint on panel",
+  "dimensions": "116.5 × 159.5 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (19.164)",
+    "url": "https://www.metmuseum.org/art/collection/search/435809"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg/1280px-Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg/2560px-Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 874,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Bruegel the Elder- The Harvesters - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q776175"
+  },
+  "phase": {
+    "label": "The Seasons cycle, 1565",
+    "source": {
+      "label": "The six seasonal paintings commissioned by Niclaes Jongelinck",
+      "url": "https://www.metmuseum.org/art/collection/search/435809"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum: oil on wood",
+        "url": "https://www.metmuseum.org/art/collection/search/435809"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "KHM: Northern Renaissance",
+        "url": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "is based on natural observations",
+          "source": {
+            "author": "The Metropolitan Museum of Art",
+            "title": "The Harvesters",
+            "readAt": "https://artsandculture.google.com/asset/die-kornernte-0096/PAH1oMZ5dGBkxg",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "The Metropolitan Museum of Art"
+          },
+          "lead": "On Bruegel’s description of the local scene:"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The series included six works, five of which survive.",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "The Harvesters",
+          "readAt": "https://artsandculture.google.com/asset/die-kornernte-0096/PAH1oMZ5dGBkxg",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "The Metropolitan Museum of Art"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The religious pretext for landscape painting has been suppressed",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "The Harvesters",
+          "readAt": "https://artsandculture.google.com/asset/die-kornernte-0096/PAH1oMZ5dGBkxg",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "The Metropolitan Museum of Art"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the theme of the changing seasons and the cycle of nature reinforced the suburban location of the residence.",
+        "source": {
+          "author": "Barbara A. Kaminska",
+          "title": "“Come, let us make a city and a tower”: Pieter Bruegel the Elder’s Tower of Babel and the Creation of a Harmonious Community in Antwerp",
+          "readAt": "https://jhna.org/articles/come-let-us-make-a-city-and-a-tower-pieter-bruegel-the-elder-tower-of-babel-creation-harmonious-community-antwerp/",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Journal of Historians of Netherlandish Art"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
