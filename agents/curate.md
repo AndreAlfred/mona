@@ -17,7 +17,8 @@ worker. Follow it exactly; the merge gate enforces most of it.
    the PR if the quote isn't on it word for word, or if the credited
    author's surname isn't on the page.
 2. **Prefer higher tiers.** For each section pick the best available:
-   1 the artist (letters, journals, statements) · 2 scholars (named
+   1 the artist (letters, journals, statements — only the artist's own
+   words; anyone else, even another painter or a novelist, is 2 or 3) · 2 scholars (named
    historians, curators' signed essays, catalogue essays, books) · 3
    critics · 4 museum text (collection descriptions, wall labels) · 5
    Wikipedia · 6 other web · 7 social media (only if nothing else exists).
@@ -120,8 +121,9 @@ Ids are kebab-case. Work ids: `<artist-surname>-<short-title>`, e.g.
        (create the artist and tags too if missing).
      - `artist` ("find more works by this artist"): the reader ran out of
        art by this artist and wants **more works**. If the artist isn't
-       curated yet, create the artist profile. Then add up to 10 works Mona
-       doesn't have yet (the subject lists `curatedWorks` already present),
+       curated yet, create the artist profile. Then add **8–10 works** Mona
+       doesn't have yet (at least 6 unless verifiable sources genuinely run
+       out — a run that adds only 2–3 works leaves the reader stranded again) (the subject lists `curatedWorks` already present),
        from any museum: use `npm run find-works -- <artist-id or Q-id>` to
        list the artist's public-domain works on Wikidata, prefer important
        works and ones that fill gaps in the career arc, and scaffold them
