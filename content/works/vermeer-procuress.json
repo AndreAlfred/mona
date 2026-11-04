@@ -1,0 +1,117 @@
+{
+  "id": "vermeer-procuress",
+  "artist": "johannes-vermeer",
+  "title": "The Procuress",
+  "date": "1656",
+  "year": 1656,
+  "medium": "oil paint on canvas",
+  "dimensions": "143 × 130 cm",
+  "museum": {
+    "name": "Staatliche Kunstsammlungen Dresden (Gal.-Nr. 1335)",
+    "url": "https://www.wikidata.org/wiki/Q63692"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg/1280px-Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg/2560px-Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1341,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Johannes Vermeer - The Procuress - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q63692"
+  },
+  "phase": {
+    "label": "Early genre painting, 1656",
+    "source": {
+      "label": "Wikipedia: The Procuress (Vermeer)",
+      "url": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: The Procuress (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)"
+      }
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Wikipedia: The Procuress (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It is his first genre painting and shows a scene of contemporary life, an image of mercenary love perhaps in a brothel.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Procuress (Vermeer)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dutch-golden-age",
+      "source": {
+        "label": "Wikipedia: The Procuress (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The temperament of the 24-year-old Vermeer fully emerges for the first time",
+        "source": {
+          "author": "Eduard Trautscholdt",
+          "title": "The Procuress (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The art historian Eduard Trautscholdt, writing around 1940:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It seems Vermeer was influenced by earlier works on the same subject by Gerard ter Borch, and The Procuress (c. 1622) by Dirck van Baburen, which was owned by Vermeer's mother-in-law Maria Thins and hung in her home.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Procuress (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Binstock says Vermeer used his family as models; the procuress could be Vermeer's wife Catherina and the lewd soldier her brother Willem.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Procuress (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

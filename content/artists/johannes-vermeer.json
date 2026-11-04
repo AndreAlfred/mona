@@ -1,0 +1,70 @@
+{
+  "id": "johannes-vermeer",
+  "name": "Johannes Vermeer",
+  "born": 1632,
+  "died": 1675,
+  "active": "1650s–1675",
+  "nationality": "Dutch",
+  "period": "baroque",
+  "wikidata": "Q41264",
+  "movements": [
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Young Woman with a Water Pitcher",
+        "url": "https://en.wikipedia.org/wiki/Young_Woman_with_a_Water_Pitcher"
+      }
+    },
+    {
+      "id": "dutch-golden-age",
+      "source": {
+        "label": "Wikipedia: Johannes Vermeer",
+        "url": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
+      }
+    }
+  ],
+  "peers": [],
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "are apparently set in two smallish rooms in his house in Delft; they show the same furniture and decorations in various arrangements and they often portray the same people, mostly women.",
+      "source": {
+        "author": "Hans Koningsberger",
+        "title": "Johannes Vermeer",
+        "readAt": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+        "accessed": "2026-11-03",
+        "tier": 2,
+        "license": "CC BY-SA 4.0"
+      },
+      "lead": "Hans Koningsberger on Vermeer’s subjects:"
+    },
+    {
+      "kind": "quote",
+      "text": "Vermeer worked slowly and with great care, and frequently used very expensive pigments.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Johannes Vermeer",
+        "readAt": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The modest celebrity he enjoyed during his life gave way to obscurity after his death.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Johannes Vermeer",
+        "readAt": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

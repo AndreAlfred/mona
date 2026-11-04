@@ -1,0 +1,20 @@
+{
+  "id": "camera-obscura",
+  "kind": "technique",
+  "name": "Camera obscura",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A camera obscura, meaning \"dark chamber,\" was a closed room with a small hole covered with a convex lens through which light could pass, casting a reverse image onto the wall that the artist could then trace.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "View of Delft",
+        "readAt": "https://en.wikipedia.org/wiki/View_of_Delft",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "camera obscura"
+}

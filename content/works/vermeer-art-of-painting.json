@@ -1,0 +1,140 @@
+{
+  "id": "vermeer-art-of-painting",
+  "artist": "johannes-vermeer",
+  "title": "The Art of Painting",
+  "date": "c. 1667",
+  "year": 1667,
+  "medium": "oil paint on canvas",
+  "dimensions": "120 × 100 cm",
+  "museum": {
+    "name": "Kunsthistorisches Museum (GG_9128)",
+    "url": "https://www.essentialvermeer.com/catalogue/art_of_painting.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/1280px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/2560px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1426,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jan Vermeer - The Art of Painting - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q588695"
+  },
+  "phase": {
+    "label": "Late Delft years, c. 1666–68",
+    "source": {
+      "label": "Wikipedia: The Art of Painting",
+      "url": "https://en.wikipedia.org/wiki/The_Art_of_Painting"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: The Art of Painting",
+        "url": "https://en.wikipedia.org/wiki/The_Art_of_Painting"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: The Art of Painting",
+        "url": "https://en.wikipedia.org/wiki/The_Art_of_Painting"
+      }
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Wikipedia: The Art of Painting",
+        "url": "https://en.wikipedia.org/wiki/The_Art_of_Painting"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Each object reflects or absorbs light differently, getting the most accurate rendering of material effects.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Art of Painting",
+            "readAt": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Its composition and iconography make it Vermeer's most complex work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Art of Painting",
+          "readAt": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "a virtuoso display of the artist's power of invention and execution, staged in an imaginary version of his studio",
+        "source": {
+          "author": "Walter Liedtke",
+          "title": "The Art of Painting",
+          "readAt": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "No other painting so flawlessly integrates naturalistic technique, brightly illuminated space, and a complexly integrated composition.",
+        "source": {
+          "author": "Albert Blankert",
+          "title": "The Art of Painting",
+          "readAt": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Vermeer obviously liked the painting; he never sold it during his lifetime.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Art of Painting",
+          "readAt": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1663 Vermeer had been visited by Balthasar de Monconys, but had no painting to show",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Art of Painting",
+          "readAt": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

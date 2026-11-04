@@ -1,0 +1,116 @@
+{
+  "id": "vermeer-martha-and-mary",
+  "artist": "johannes-vermeer",
+  "title": "Christ in the House of Martha and Mary",
+  "date": "1650",
+  "year": 1650,
+  "medium": "oil paint on canvas",
+  "dimensions": "158.5 × 141.5 cm",
+  "museum": {
+    "name": "Scottish National Gallery (NG 1670)",
+    "url": "https://web.archive.org/web/20151226152922/http://www.nationalgalleries.org/whatson/exhibitions/the-young-vermeer/christ-in-the-house-of-martha-and-mary"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg/1280px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg/2560px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1388,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Johannes (Jan) Vermeer - Christ in the House of Martha and Mary - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q927449"
+  },
+  "phase": {
+    "label": "Early history paintings, c. 1654–56",
+    "source": {
+      "label": "Wikipedia: Christ in the House of Martha and Mary (Vermeer)",
+      "url": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Christ in the House of Martha and Mary (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)"
+      }
+    },
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: Christ in the House of Martha and Mary (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Vermeer did not paint the robe of Christ with his usual blue pigment of choice ultramarine",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Christ in the House of Martha and Mary (Vermeer)",
+            "readAt": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dutch-golden-age",
+      "source": {
+        "label": "Wikipedia: Christ in the House of Martha and Mary (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is the largest painting by Vermeer (63in x 56in) and one of the very few with an overt religious subject.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ in the House of Martha and Mary (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Vermeer's style is similar to that of some of the Utrecht Caravaggists, whose works are depicted as paintings-within-paintings in the backgrounds of several of his compositions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Johannes Vermeer",
+          "readAt": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The story of Christ visiting the household of the two sisters Mary of Bethany and Martha goes back to the New Testament.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ in the House of Martha and Mary (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

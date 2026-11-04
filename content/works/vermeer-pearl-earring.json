@@ -1,0 +1,129 @@
+{
+  "id": "vermeer-pearl-earring",
+  "artist": "johannes-vermeer",
+  "title": "Girl with a Pearl Earring (Meisje met de parel)",
+  "date": "c. 1665",
+  "year": 1665,
+  "medium": "oil paint on canvas",
+  "dimensions": "44.5 × 39 cm",
+  "museum": {
+    "name": "Mauritshuis (670)",
+    "url": "https://www.mauritshuis.nl/ontdek-collectie/kunstwerken/670-meisje-met-de-parel/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1280px-1665_Girl_with_a_Pearl_Earring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/2560px-1665_Girl_with_a_Pearl_Earring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1421,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (1665 Girl with a Pearl Earring.jpg)"
+  },
+  "archive": {
+    "wd": "Q185372"
+  },
+  "phase": {
+    "label": "Mature Delft years, mid-1660s",
+    "source": {
+      "label": "Wikipedia: Girl with a Pearl Earring",
+      "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Girl with a Pearl Earring",
+        "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring"
+      }
+    },
+    {
+      "id": "glazing",
+      "source": {
+        "label": "Wikipedia: Girl with a Pearl Earring",
+        "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "research in 2018 indicated that Vermeer had modelled diagonal lines at the right side, suggesting folds in fabric, perhaps a curtain, by varying the amount of lead white in the semi-translucent green glaze applied over the black underlayer",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Girl with a Pearl Earring",
+            "readAt": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: Girl with a Pearl Earring",
+        "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting is a tronie, the Dutch 17th-century description of a \"head\" that was not meant to be a portrait.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Girl with a Pearl Earring",
+          "readAt": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Andrew Graham-Dixon believes that the subject of the painting was Magdalena, the 12-year-old daughter of Vermeer's chief patron Pieter Claesz van Ruijven",
+        "source": {
+          "author": "Andrew Graham-Dixon",
+          "title": "Girl with a Pearl Earring",
+          "readAt": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On who the girl might be:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "During the Nazi occupation of the Netherlands, the painting was kept hidden in a bombproof bunker located just below the Mauritshuis for two years",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Girl with a Pearl Earring",
+          "readAt": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "a CNN survey named it one of the world's most recognizable paintings",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Girl with a Pearl Earring",
+          "readAt": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

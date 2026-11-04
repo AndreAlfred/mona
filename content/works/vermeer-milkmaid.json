@@ -1,0 +1,150 @@
+{
+  "id": "vermeer-milkmaid",
+  "artist": "johannes-vermeer",
+  "title": "The Milkmaid (Het melkmeisje)",
+  "date": "c. 1660",
+  "year": 1660,
+  "medium": "oil paint on canvas",
+  "dimensions": "45.5 × 41 cm",
+  "museum": {
+    "name": "Rijksmuseum (SK-A-2344)",
+    "url": "https://www.rijksmuseum.nl/nl/collectie/SK-A-2344"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/1280px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/2560px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1346,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Johannes Vermeer - Het melkmeisje - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q167605"
+  },
+  "phase": {
+    "label": "Transition to maturity, c. 1657–61",
+    "source": {
+      "label": "Wikipedia: The Milkmaid (Vermeer)",
+      "url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: The Milkmaid (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"
+      }
+    },
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: The Milkmaid (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "One of the distinctions of Vermeer's palette, compared with his contemporaries, was his preference for the expensive natural ultramarine (made from crushed lapis lazuli) where other painters typically used the much cheaper azurite.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Milkmaid (Vermeer)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Wikipedia: The Milkmaid (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"
+      }
+    },
+    {
+      "id": "dutch-golden-age",
+      "source": {
+        "label": "Wikipedia: The Milkmaid (Vermeer)",
+        "url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "shopping around in Dutch art for different styles and subjects",
+        "source": {
+          "author": "Walter Liedtke",
+          "title": "The Milkmaid (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Curator Walter Liedtke on the twenty-five-year-old Vermeer:"
+      },
+      {
+        "kind": "quote",
+        "text": "Along with the ultramarine, lead-tin-yellow is also a dominant color in an exceptionally luminous work",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Milkmaid (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In almost all the works of this tradition there is an erotic element",
+        "source": {
+          "author": "Walter Liedtke",
+          "title": "The Milkmaid (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On the Dutch tradition of paintings of maids:"
+      },
+      {
+        "kind": "quote",
+        "text": "Vermeer's painting is one of the rare examples of a maid treated in an empathetic and dignified way, although amorous symbols in this work still exemplify the tradition.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Milkmaid (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "impossible to tell whether her downcast eyes and pursed lips express wistfulness or concentration",
+        "source": {
+          "author": "Karen Rosenberg",
+          "title": "The Milkmaid (Vermeer)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The New York Times critic Karen Rosenberg on the maid’s face:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

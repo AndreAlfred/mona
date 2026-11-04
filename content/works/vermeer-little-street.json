@@ -1,0 +1,128 @@
+{
+  "id": "vermeer-little-street",
+  "artist": "johannes-vermeer",
+  "title": "The Little Street (Gezicht op huizen in Delft, bekend als ‘Het straatje’)",
+  "date": "c. 1658",
+  "year": 1658,
+  "medium": "oil paint on canvas",
+  "dimensions": "54.3 × 44 cm",
+  "museum": {
+    "name": "Rijksmuseum (SK-A-2860)",
+    "url": "https://www.rijksmuseum.nl/nl/collectie/SK-A-2860"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg/1280px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg/2560px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1486,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Johannes Vermeer - Gezicht op huizen in Delft, bekend als 'Het straatje' - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q586035"
+  },
+  "phase": {
+    "label": "Delft townscapes, late 1650s",
+    "source": {
+      "label": "Wikipedia: The Little Street",
+      "url": "https://en.wikipedia.org/wiki/The_Little_Street"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: The Little Street",
+        "url": "https://en.wikipedia.org/wiki/The_Little_Street"
+      }
+    },
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: The Little Street",
+        "url": "https://en.wikipedia.org/wiki/The_Little_Street"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the blue in the sky contains lead white and natural ultramarine",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Little Street",
+            "readAt": "https://en.wikipedia.org/wiki/The_Little_Street",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dutch-golden-age",
+      "source": {
+        "label": "Wikipedia: The Little Street",
+        "url": "https://en.wikipedia.org/wiki/The_Little_Street"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is one of only three Vermeer paintings of views of Delft",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Little Street",
+          "readAt": "https://en.wikipedia.org/wiki/The_Little_Street",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The walls, stones and brickwork are painted in a thicker paint layer, such that it makes them almost palpable.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Little Street",
+          "readAt": "https://en.wikipedia.org/wiki/The_Little_Street",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting, showing a quiet street, depicts a typical aspect of the life in a Dutch Golden Age town.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Little Street",
+          "readAt": "https://en.wikipedia.org/wiki/The_Little_Street",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Ariaentgen Claes van der Minne. She had a business selling tripe, and the passageway beside the house was known as the Penspoort, or Tripe Gate.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Little Street",
+          "readAt": "https://en.wikipedia.org/wiki/The_Little_Street",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}
