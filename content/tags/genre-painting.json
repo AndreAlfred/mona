@@ -1,0 +1,19 @@
+{
+  "id": "genre-painting",
+  "kind": "subject",
+  "name": "Genre painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "the pictorial representation in any of various media of scenes or events from everyday life",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Genre art",
+        "readAt": "https://en.wikipedia.org/wiki/Genre_art",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

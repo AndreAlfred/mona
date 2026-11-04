@@ -1,0 +1,156 @@
+{
+  "id": "chardin-ray",
+  "artist": "jean-simeon-chardin",
+  "title": "The Ray (La Raie)",
+  "date": "1727–28",
+  "year": 1727,
+  "medium": "oil paint on canvas",
+  "dimensions": "114.5 × 146 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 3197)",
+    "url": "http://www.louvre.fr/oeuvre-notices/la-raie"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/La_Raie_-_Jean_Baptiste_Sim%C3%A9on_Chardin_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3197.jpg/1280px-La_Raie_-_Jean_Baptiste_Sim%C3%A9on_Chardin_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3197.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/La_Raie_-_Jean_Baptiste_Sim%C3%A9on_Chardin_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3197.jpg/2560px-La_Raie_-_Jean_Baptiste_Sim%C3%A9on_Chardin_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3197.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 936,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (La Raie - Jean Baptiste Siméon Chardin - Musée du Louvre Peintures INV 3197.jpg)"
+  },
+  "archive": {
+    "wd": "Q3212142"
+  },
+  "phase": {
+    "label": "Early career: Académie reception pieces, 1728",
+    "source": {
+      "label": "The Ray, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)"
+    }
+  },
+  "tags": [
+    {
+      "id": "still-life",
+      "source": {
+        "label": "The Ray, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Ray, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "employing his hands and fingertips rather than traditional brushes",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Ray (Chardin)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          },
+          "lead": "On Chardin's way of applying the paint:"
+        }
+      ]
+    },
+    {
+      "id": "dutch-golden-age",
+      "source": {
+        "label": "The Ray, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The piece is regarded as one of Chardin's most important still life works and played a vital role in his acceptance into the Académie royale de peinture et de sculpture in 1728.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ray (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "nave of a polychromatic cathedral",
+        "source": {
+          "author": "Marcel Proust",
+          "title": "On The Ray, quoted in Wikipedia's article The Ray (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Proust's image for the skate:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Chardin was influenced by the Dutch still life paintings of the 17th century",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ray (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "At a time when history painting was considered the supreme classification for public art, Chardin's subjects of choice were viewed as minor categories.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Many modern scholars address the skate's unnerving resemblance to a human face.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ray (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "They never seem to have been brought together by haphazard, but always look as if some one had just left them",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

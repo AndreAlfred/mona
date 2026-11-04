@@ -1,0 +1,136 @@
+{
+  "id": "chardin-soap-bubbles",
+  "artist": "jean-simeon-chardin",
+  "title": "Soap Bubbles",
+  "date": "ca. 1733–34",
+  "year": 1733,
+  "museum": {
+    "name": "Metropolitan Museum of Art (49.24)",
+    "url": "https://www.metmuseum.org/art/collection/search/435888"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Soap_Bubbles_MET_DP356133.jpg/1280px-Soap_Bubbles_MET_DP356133.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Soap_Bubbles_MET_DP356133.jpg/2560px-Soap_Bubbles_MET_DP356133.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1160,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Soap Bubbles MET DP356133.jpg)"
+  },
+  "archive": {
+    "wd": "Q110653861"
+  },
+  "phase": {
+    "label": "First figure paintings, early 1730s",
+    "source": {
+      "label": "Soap Bubbles, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Soap Bubbles, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Jean Siméon Chardin, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Scholars have interpreted Chardin's domestic genre paintings as embodying Enlightenment values through their emphasis on modesty, industriousness, and moral virtue in everyday life.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Jean Siméon Chardin",
+            "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Notably, he resisted painting figures using models, instead choosing to paint from memory or conceptually during the early stages of his career.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Soap Bubbles (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "two later versions of the painting are in the collections of the Los Angeles County Museum and the National Gallery of Art",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Soap Bubbles (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In each, we get the same uncompromising mosaic, so to say, of colour.",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        },
+        "lead": "On Soap Bubbles and The House of Cards together:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Some sources speculate that Chardin chose soap bubbles as a subject due to their historical appearance in 17th-century Dutch paintings where they served as allusions to the transience of life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Soap Bubbles (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Soon figures populated his scenes as well, supposedly in response to a portrait painter who challenged him to take up the genre.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  },
+  "dimensions": "61 × 63.2 cm",
+  "medium": "oil on canvas"
+}
