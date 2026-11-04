@@ -1,0 +1,71 @@
+{
+  "id": "hans-holbein-the-younger",
+  "name": "Hans Holbein the Younger",
+  "born": 1497,
+  "died": 1543,
+  "active": "1515–1543",
+  "nationality": "German",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q48319",
+  "archive": {
+    "aic": 34982,
+    "cma": [
+      2819
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "was a German painter and printmaker active in Switzerland and England. He worked in a Northern Renaissance style, and is considered one of the greatest portraitists of the 16th century.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Hans Holbein the Younger",
+        "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Holbein travelled to England in 1526 in search of work with a recommendation from Erasmus. He was welcomed into the humanist circle of Thomas More, where he quickly built a high reputation. He returned to Basel for four years, then resumed his career in England in 1532 under the patronage of Anne Boleyn and Thomas Cromwell. By 1535, he was King's Painter to Henry VIII.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Hans Holbein the Younger",
+        "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Holbein's art has sometimes been called realist, since he drew and painted with a rare precision. His portraits were renowned in their time for their likeness, and it is through his eyes that many famous figures of his day are pictured today, such as Erasmus and More.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Hans Holbein the Younger",
+        "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "anamorphosis",
+  "kind": "technique",
+  "name": "Anamorphosis",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Anamorphosis is a distorted projection that requires the viewer to occupy a specific vantage point, use special devices, or both to view a recognizable image.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Anamorphosis",
+        "readAt": "https://en.wikipedia.org/wiki/Anamorphosis",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

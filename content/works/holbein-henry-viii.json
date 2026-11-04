@@ -1,0 +1,147 @@
+{
+  "id": "holbein-henry-viii",
+  "artist": "hans-holbein-the-younger",
+  "title": "Portrait of Henry VIII of England",
+  "date": "1540",
+  "year": 1540,
+  "medium": "oil paint on panel",
+  "dimensions": "88.5 × 74.5 cm",
+  "museum": {
+    "name": "Galleria Nazionale d'Arte Antica (878)",
+    "url": "https://en.wikipedia.org/wiki/Portrait_of_Henry_VIII_(Holbein,_Rome)"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Hans_Holbein_the_Younger_%28attributed%29%2C_Portrait_of_Henry_VIII%2C_c._1537._Oil_on_panel._Palazzo_Barberini%2C_Galleria_Nazionale_d%E2%80%99Arte_Antica%2C_Rome.jpg/1280px-Hans_Holbein_the_Younger_%28attributed%29%2C_Portrait_of_Henry_VIII%2C_c._1537._Oil_on_panel._Palazzo_Barberini%2C_Galleria_Nazionale_d%E2%80%99Arte_Antica%2C_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Hans_Holbein_the_Younger_%28attributed%29%2C_Portrait_of_Henry_VIII%2C_c._1537._Oil_on_panel._Palazzo_Barberini%2C_Galleria_Nazionale_d%E2%80%99Arte_Antica%2C_Rome.jpg/2560px-Hans_Holbein_the_Younger_%28attributed%29%2C_Portrait_of_Henry_VIII%2C_c._1537._Oil_on_panel._Palazzo_Barberini%2C_Galleria_Nazionale_d%E2%80%99Arte_Antica%2C_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1426,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hans Holbein the Younger (attributed), Portrait of Henry VIII, c. 1537. Oil on panel. Palazzo Barberini, Galleria Nazionale d’Arte Antica, Rome.jpg)"
+  },
+  "archive": {
+    "wd": "Q118859377"
+  },
+  "phase": {
+    "label": "King's Painter to Henry VIII, 1536–43",
+    "source": {
+      "label": "Hans Holbein the Younger (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Holbein's portrait style altered after he entered Henry's service. He focused more intensely on the sitter's face and clothing, largely omitting props and three-dimensional settings.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Hans Holbein the Younger",
+            "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: oil on wood",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Henry_VIII_(Holbein,_Rome)"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia): \"He worked in a Northern Renaissance style\"",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Rather than with a sceptre or crown, Holbein depicts Henry holding a glove on one hand, and the other hand holding his sword-hilt. With emphasis on his clothing and jewellery, as well as the choice of a smaller canvas to increase the coverage of his body, emphasis is placed on Henry's imposing size and authority.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Henry VIII (Holbein, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Henry_VIII_(Holbein,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The inscription ANNO ÆTATIS SVÆ XLIX dates the painting to 1540, when Henry was 49 years old.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Henry VIII (Holbein, Rome)",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Henry_VIII_(Holbein,_Rome)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "By 1536, Holbein was employed as the King's Painter on an annual salary of 30 pounds—though he was never the highest-paid artist on the royal payroll.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1537, Holbein painted his most famous image: Henry VIII standing in a heroic pose with his feet planted apart.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The portrait has been called a work of propaganda, designed to enhance Henry's majesty. It deliberately skews his figure to make him more imposing.",
+        "lead": "Of the lost full-length Whitehall portrait that this image echoes:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Henry VIII",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Henry_VIII",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

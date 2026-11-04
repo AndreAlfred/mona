@@ -1,0 +1,161 @@
+{
+  "id": "holbein-erasmus",
+  "artist": "hans-holbein-the-younger",
+  "title": "Portrait of Erasmus of Rotterdam Writing",
+  "date": "1523",
+  "year": 1523,
+  "medium": "oil paint on panel",
+  "dimensions": "43 × 33 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 1345)",
+    "url": "https://www.wikidata.org/wiki/Q19943528"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Hans_Holbein_d._J._-_Erasmus_-_Louvre.jpg/1280px-Hans_Holbein_d._J._-_Erasmus_-_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1588,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hans Holbein d. J. - Erasmus - Louvre.jpg)"
+  },
+  "archive": {
+    "wd": "Q19943528"
+  },
+  "phase": {
+    "label": "Basel years, 1519–26",
+    "source": {
+      "label": "Hans Holbein the Younger (Wikipedia): first Erasmus portraits, 1523",
+      "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "remains unsurpassed for sureness and economy of statement, penetration into character, and a combined richness and purity of style.",
+          "lead": "Art historian Ellis Waterhouse on Holbein's portraiture:",
+          "source": {
+            "author": "Ellis Waterhouse",
+            "title": "Hans Holbein the Younger",
+            "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+            "accessed": "2026-11-04",
+            "tier": 2,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Louvre record via Wikidata: oil on panel",
+        "url": "https://www.wikidata.org/wiki/Q19943528"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia): \"He worked in a Northern Renaissance style\"",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1523, Holbein painted his first portraits of the great Renaissance scholar Erasmus, who required likenesses to send to his friends and admirers throughout Europe.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It seems to have been Holbein's practice to make a very careful drawing of his subjects (though no full drawings for any of these portraits survive) and to then produce the painted portrait without the sitter being present.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Erasmus of Rotterdam",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Erasmus_of_Rotterdam",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Such was the fame of Erasmus, who corresponded with scholars throughout Europe, that he needed many portraits of himself to send abroad to his protectors; although not an admirer of painting, he understood the power of image.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Erasmus of Rotterdam",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Erasmus_of_Rotterdam",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Recently I sent again two portraits of Erasmus to France, painted by a very skillful artist.",
+        "lead": "Erasmus wrote in 1524:",
+        "source": {
+          "author": "Desiderius Erasmus",
+          "title": "Portrait of Erasmus of Rotterdam",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Erasmus_of_Rotterdam",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The arts are freezing in this part of the world,\" he wrote, \"and he is on the way to England to pick up some angels",
+        "lead": "Erasmus on sending Holbein to England:",
+        "source": {
+          "author": "Desiderius Erasmus",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When Holbein moved to England he had a letter of recommendation from Erasmus to Thomas More, in whose house he initially lived.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Erasmus of Rotterdam",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Erasmus_of_Rotterdam",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

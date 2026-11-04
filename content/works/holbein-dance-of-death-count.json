@@ -1,0 +1,133 @@
+{
+  "id": "holbein-dance-of-death-count",
+  "artist": "hans-holbein-the-younger",
+  "title": "Dance of Death: The Count",
+  "date": "c. 1526",
+  "year": 1526,
+  "medium": "woodcut",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1929.164"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1929.164/1929.164_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1929.164/1929.164_print.jpg",
+    "width": 625,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 110600
+  },
+  "phase": {
+    "label": "Basel years, 1519–26",
+    "source": {
+      "label": "Danse Macabre (Wikipedia): designs drawn 1526 in Basel",
+      "url": "https://en.wikipedia.org/wiki/Danse_Macabre"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: woodcut series",
+        "url": "https://www.clevelandart.org/art/1929.164"
+      }
+    },
+    {
+      "id": "memento-mori",
+      "source": {
+        "label": "Cleveland Museum of Art: the series' purpose was to prepare viewers for the Last Judgement",
+        "url": "https://www.clevelandart.org/art/1929.164"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In a period when the life span was short, the purpose of the Dance of Death was to remind the people to prepare for the Last Judgement.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Dance of Death: The Count",
+            "readAt": "https://www.clevelandart.org/art/1929.164",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia): \"He worked in a Northern Renaissance style\"",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Dance of Death is the most celebrated series of woodcuts designed by Holbein. The 41 blocks were cut by Hans Lützelburger in the years immediately before his death in 1526, though the set was not published until 1538.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Dance of Death: The Count",
+          "readAt": "https://www.clevelandart.org/art/1929.164",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Renowned for his Dance of Death series, the famous designs by Hans Holbein the Younger (1497–1543) were drawn in 1526 while he was in Basel. They were cut in wood by the accomplished Formschneider (block cutter) Hans Lützelburger.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Danse Macabre",
+          "readAt": "https://en.wikipedia.org/wiki/Danse_Macabre",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Following widespread epidemics such as the black plague, these plays took place in a cemetery or churchyard. Dressed in pale costumes painted to resemble skeletons, actors personified Death and summoned a group of people from all social classes in a dancelike procession.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Dance of Death: The Count",
+          "readAt": "https://www.clevelandart.org/art/1929.164",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Both Catholics and Protestants wished, through the pictures, to turn men's thoughts to a Christian preparation for death.",
+        "lead": "Historian Natalie Zemon Davis on how both camps read the series:",
+        "source": {
+          "author": "Natalie Zemon Davis",
+          "title": "Danse Macabre",
+          "readAt": "https://en.wikipedia.org/wiki/Danse_Macabre",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}
