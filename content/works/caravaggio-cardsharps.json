@@ -1,0 +1,153 @@
+{
+  "id": "caravaggio-cardsharps",
+  "artist": "caravaggio",
+  "title": "The Cardsharps",
+  "date": "c. 1596",
+  "year": 1596,
+  "medium": "oil paint on canvas",
+  "dimensions": "94.2 × 130.9 cm",
+  "museum": {
+    "name": "Kimbell Art Museum (AP 1987.06)",
+    "url": "https://kimbellart.org/collection/ap-198706"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Caravaggio_-_The_Cardsharps_%281596-97%29_Kimbell_Art_Museum.jpg/1280px-Caravaggio_-_The_Cardsharps_%281596-97%29_Kimbell_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Caravaggio_-_The_Cardsharps_%281596-97%29_Kimbell_Art_Museum.jpg/2560px-Caravaggio_-_The_Cardsharps_%281596-97%29_Kimbell_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 863,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Caravaggio - The Cardsharps (1596-97) Kimbell Art Museum.jpg)"
+  },
+  "archive": {
+    "wd": "Q663133"
+  },
+  "phase": {
+    "label": "Early Rome and the Del Monte household, 1592–1599",
+    "source": {
+      "label": "Caravaggio: early years in Rome",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio"
+    }
+  },
+  "tags": [
+    {
+      "id": "naturalism",
+      "source": {
+        "label": "Caravaggio: realistic observation",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The subjects of The Fortune Teller and Cardsharps offered something new: realistic scenes of street life, highlighted by the attention to little details such as the split fingers on the older man's gloves, or the teenage cheat's anxious glance at his master.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Cardsharps",
+            "readAt": "https://en.wikipedia.org/wiki/The_Cardsharps",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q663133"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Caravaggio: Baroque",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The second boy, a cardsharp, has extra cards tucked in his belt behind his back, out of sight of the mark but not the viewer, and a sinister older man is peering over the dupe's shoulder and signaling to his young accomplice.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Cardsharps",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cardsharps",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The composition is balanced, the three figures bound together by the common drama, yet each with his own unique interaction within the image as a whole",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Cardsharps",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cardsharps",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Cardsharps, with its mixture of brutal low-life realism and luminous Venetian delicacy, was much admired",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Cardsharps",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cardsharps",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Caravaggio came to the notice of the prominent collector Cardinal Francesco Maria del Monte, who purchased Cardsharps and became the artist's first important patron, giving him lodgings in his Palazzo Madama behind the Piazza Navona",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Cardsharps",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cardsharps",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "for if the innocent is being duped, the other boy is no older, another innocent being corrupted even as he cheats his gull.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Cardsharps",
+          "readAt": "https://en.wikipedia.org/wiki/The_Cardsharps",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "after a fortnight's work he will swagger about for a month or two with a sword at his side and a servant following him, from one ball-court to the next, ever ready to engage in a fight or an argument, so that it is most awkward to get along with him.",
+        "lead": "A published notice of 1604, describing his life in 1601:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Caravaggio",
+          "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "caravaggio-supper-at-emmaus",
+  "artist": "caravaggio",
+  "title": "The Supper at Emmaus",
+  "date": "1601",
+  "year": 1601,
+  "medium": "oil paint on canvas",
+  "dimensions": "196.2 × 141 cm",
+  "museum": {
+    "name": "National Gallery, London (NG172)",
+    "url": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-the-supper-at-emmaus"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Caravaggio_-_Supper_at_Emmaus_-_National_Gallery_London.jpeg/1280px-Caravaggio_-_Supper_at_Emmaus_-_National_Gallery_London.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Caravaggio_-_Supper_at_Emmaus_-_National_Gallery_London.jpeg/2560px-Caravaggio_-_Supper_at_Emmaus_-_National_Gallery_London.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 854,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Caravaggio - Supper at Emmaus - National Gallery London.jpeg)"
+  },
+  "archive": {
+    "wd": "Q318947"
+  },
+  "phase": {
+    "label": "Most famous painter in Rome, 1600–1606",
+    "source": {
+      "label": "Caravaggio: Rome years",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio"
+    }
+  },
+  "tags": [
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Caravaggio: chiaroscuro",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Caravaggio manipulated dramatic contrasts between light and dark, referred to as ‘chiaroscuro’ in Italian, to underline the drama of the scene which takes place in an otherwise very ordinary environment.",
+          "source": {
+            "author": "National Gallery, London",
+            "title": "The Supper at Emmaus",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-the-supper-at-emmaus",
+            "accessed": "2026-11-04",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "naturalism",
+      "source": {
+        "label": "Caravaggio: realistic observation",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q318947"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Typically for Caravaggio, he has shown the disciples as ordinary working men, with bearded, lined faces and ragged clothes, in contrast to the youthful beardless Christ, who seems to have come from a different world.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Supper at Emmaus",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-the-supper-at-emmaus",
+          "accessed": "2026-11-04",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Supper at Emmaus depicts the recognition of Christ by his disciples: a moment before he is a fellow traveller, mourning the passing of the Messiah, as he never ceases to be to the innkeeper's eyes; the second after, he is the Saviour.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Caravaggio",
+          "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was commissioned from Caravaggio in 1601, following the sensation caused by the public unveiling of his first major religious works – the paintings of Saint Matthew in the Contarelli Chapel in the Roman church of San Luigi dei Francesi.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Supper at Emmaus",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-the-supper-at-emmaus",
+          "accessed": "2026-11-04",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting is unusual for the life-sized figures, the dark and blank background.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Supper at Emmaus (Caravaggio, London)",
+          "readAt": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Caravaggio,_London)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is also a recurring theme in Caravaggio's paintings to find the sublime interrupting the daily routine.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Supper at Emmaus (Caravaggio, London)",
+          "readAt": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Caravaggio,_London)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This difference possibly reflects the circumstances of Caravaggio's life at that point (he had fled Rome as an outlaw following the death of Ranuccio Tomassoni)",
+        "lead": "Of the quieter Milan version he painted in 1606:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Supper at Emmaus (Caravaggio, London)",
+          "readAt": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Caravaggio,_London)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}
