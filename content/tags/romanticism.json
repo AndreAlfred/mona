@@ -1,0 +1,20 @@
+{
+  "id": "romanticism",
+  "kind": "movement",
+  "name": "Romanticism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Romanticism (also known as the Romantic movement or Romantic era) was an artistic and intellectual movement that originated in Europe towards the end of the 18th century.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Romanticism",
+        "readAt": "https://en.wikipedia.org/wiki/Romanticism",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Romanticism"
+}

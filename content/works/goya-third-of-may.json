@@ -1,0 +1,109 @@
+{
+  "id": "goya-third-of-may",
+  "artist": "francisco-de-goya",
+  "title": "The Third of May 1808 (El 3 de mayo en Madrid)",
+  "date": "1814",
+  "year": 1814,
+  "medium": "oil paint on canvas",
+  "dimensions": "268 × 347 cm",
+  "museum": {
+    "name": "Museo del Prado (P000749)",
+    "url": "https://www.wikidata.org/wiki/Q1091086"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg/1280px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg/2560px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 925,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (El Tres de Mayo, by Francisco de Goya, from Prado in Google Earth.jpg)"
+  },
+  "archive": {
+    "wd": "Q1091086"
+  },
+  "phase": {
+    "label": "Peninsular War and its aftermath, 1808–1814",
+    "source": {
+      "label": "The Third of May 1808",
+      "url": "https://en.wikipedia.org/wiki/The_Third_of_May_1808"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Third of May 1808",
+        "url": "https://en.wikipedia.org/wiki/The_Third_of_May_1808"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "The Third of May 1808",
+        "url": "https://en.wikipedia.org/wiki/The_Third_of_May_1808"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "A square lantern situated on the ground between the two groups throws a dramatic light on the scene.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Third of May 1808",
+            "readAt": "https://en.wikipedia.org/wiki/The_Third_of_May_1808",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Along with its companion piece of the same size, The Second of May 1808 (or The Charge of the Mamelukes), it was commissioned by the provisional government of Spain at Goya's own suggestion shortly after the ousting of the French occupation and the restoration of King Ferdinand VII.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third of May 1808",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third_of_May_1808",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Artists had previously tended to depict war in the high style of history painting, and Goya's unheroic description was unusual for the time.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third of May 1808",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third_of_May_1808",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is not known whether he had personally witnessed either the rebellion or the reprisals, despite many later attempts to place him at the events of either day.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third of May 1808",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third_of_May_1808",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

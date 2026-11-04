@@ -1,0 +1,120 @@
+{
+  "id": "goya-sleep-of-reason",
+  "artist": "francisco-de-goya",
+  "title": "The Sleep of Reason Produces Monsters (El sueño de la razón produce monstruos)",
+  "date": "1799",
+  "year": 1799,
+  "dimensions": "23 × 15.5 cm",
+  "museum": {
+    "name": "Biblioteca Nacional de España",
+    "url": "https://www.museodelprado.es/goya-en-el-prado/obras/ficha/goya/el-sueno-de-la-razon-produce-monstruos/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Museo_del_Prado_-_Goya_-_Caprichos_-_No._43_-_El_sue%C3%B1o_de_la_razon_produce_monstruos.jpg/1280px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._43_-_El_sue%C3%B1o_de_la_razon_produce_monstruos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1768,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Museo del Prado - Goya - Caprichos - No. 43 - El sueño de la razon produce monstruos.jpg)"
+  },
+  "archive": {
+    "wd": "Q671237"
+  },
+  "phase": {
+    "label": "Los Caprichos, 1797–1799",
+    "source": {
+      "label": "The Sleep of Reason Produces Monsters",
+      "url": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "The Sleep of Reason Produces Monsters",
+        "url": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters"
+      }
+    },
+    {
+      "id": "aquatint",
+      "source": {
+        "label": "The Sleep of Reason Produces Monsters",
+        "url": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Goya's usage of the recently developed technique of aquatint (etching a printing plate so that tones similar to watercolor washes can be reproduced) gave Los Caprichos pronounced tonal effects and spirited contrast that made them a major achievement in the history of engraving.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Sleep of Reason Produces Monsters",
+            "readAt": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Created between 1797 and 1799 for the Diario de Madrid, it is the 43rd of the 80 aquatints making up the satirical Los caprichos.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Sleep of Reason Produces Monsters",
+          "readAt": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Many observers believe that Goya intended to depict himself asleep amidst his drawing tools, his reason dulled by slumber, bedeviled by creatures that prowl in the dark.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Sleep of Reason Produces Monsters",
+          "readAt": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Los Caprichos is a series of 80 etchings published in 1799 wherein Goya criticized the rampant political, social, and religious abuses of the time period.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Sleep of Reason Produces Monsters",
+          "readAt": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "lead": "Goya’s caption, in translation:",
+        "text": "Imagination abandoned by reason produces impossible monsters; united with her, she is the mother of the arts and source of their wonders",
+        "source": {
+          "author": "Francisco Goya",
+          "title": "Caption for The Sleep of Reason Produces Monsters (English translation quoted in Wikipedia)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "francisco-de-goya",
+  "name": "Francisco de Goya",
+  "born": 1746,
+  "died": 1828,
+  "active": "1760s–1828",
+  "nationality": "Spanish",
+  "period": "romantic",
+  "movements": [
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Goya: movement",
+        "url": "https://en.wikipedia.org/wiki/Francisco_Goya"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "rembrandt-van-rijn",
+      "name": "Rembrandt van Rijn",
+      "source": {
+        "label": "Voorhies on stylistic influences",
+        "url": "https://www.metmuseum.org/essays/francisco-de-goya-1746-1828-and-the-spanish-enlightenment"
+      }
+    }
+  ],
+  "archive": {
+    "cma": [
+      2386
+    ]
+  },
+  "wikidata": "Q5432",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Goya became a court painter to the Spanish Crown in 1786 and this early portion of his career is marked by portraits of the Spanish aristocracy and royalty, and Rococo-style tapestry cartoons designed for the royal palace.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Francisco Goya",
+        "readAt": "https://en.wikipedia.org/wiki/Francisco_Goya",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
