@@ -1,0 +1,117 @@
+{
+  "id": "hokusai-rain-below-mountain",
+  "artist": "katsushika-hokusai",
+  "title": "Rain Below the Mountain (from the series Thirty-six Views of Mt. Fuji)",
+  "date": "early 1830s",
+  "year": 1830,
+  "medium": "color woodblock print",
+  "dimensions": "Overall: 25.4 x 38.4 cm (10 x 15 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1940.1002"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1940.1002/1940.1002_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1940.1002/1940.1002_print.jpg",
+    "width": 1263,
+    "height": 852,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of James Parmelee"
+  },
+  "archive": {
+    "cma": 118800
+  },
+  "phase": {
+    "label": "Thirty-Six Views of Mount Fuji, early 1830s",
+    "source": {
+      "label": "Cleveland Museum of Art: date, title and attribution",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/118800"
+    }
+  },
+  "tags": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Cleveland Museum of Art: medium and collection description",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/118800"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, a sudden shower covers most of the mountain’s base and slope with dark clouds.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Rain Below the Mountain (from the series Thirty-six Views of Mt. Fuji)",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/118800",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0",
+            "url": "https://clevelandart.org/art/1940.1002"
+          }
+        }
+      ]
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodblock print",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/118800"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Hokusai probably composed this print as a complement to Mt. Fuji in Clear Weather … and to illustrate the mountain’s majesty in different weather.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Rain Below the Mountain (from the series Thirty-six Views of Mt. Fuji)",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/118800",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1940.1002"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Mt. Fuji, Japan’s highest mountain, appeared in most Japanese 19th-century travel literature.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111654",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1930.189"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Here, a sudden shower covers most of the mountain’s base and slope with dark clouds.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Rain Below the Mountain (from the series Thirty-six Views of Mt. Fuji)",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/118800",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1940.1002"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

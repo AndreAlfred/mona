@@ -1,0 +1,111 @@
+{
+  "id": "hokusai-poem-tenchi",
+  "artist": "katsushika-hokusai",
+  "title": "Poem by Emperor Tenchi, from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+  "date": "1835–36",
+  "year": 1835,
+  "medium": "color woodblock print",
+  "dimensions": "Sheet: 24.4 x 37 cm (9 5/8 x 14 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1916.1164"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1916.1164/1916.1164_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1916.1164/1916.1164_print.jpg",
+    "width": 900,
+    "height": 601,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade"
+  },
+  "archive": {
+    "cma": 95413
+  },
+  "phase": {
+    "label": "One Hundred Poems Explained by the Nurse, 1835–36",
+    "source": {
+      "label": "Cleveland Museum of Art: date, title and attribution",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/95413"
+    }
+  },
+  "tags": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Cleveland Museum of Art: medium and collection description",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/95413"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The scene shows us labourers at work in the rice-fields and travellers passing along a narrow path, and in the right foreground another peasant and his wife, preceded by a boy crossing a small bridge over a stream.",
+          "source": {
+            "author": "Basil Stewart",
+            "title": "A Guide to Japanese Prints, Chapter 15: Further Series by Hokusai and Pupils",
+            "readAt": "https://www.hiroshige.org.uk/Stewart/Stewart_Chapter_15.htm",
+            "accessed": "2026-11-03",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodblock print",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/95413"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This autumn landscape with rice farmers and travelers is from Katsushika Hokusai’s series of prints inspired by the anthology One Hundred Poems by One Hundred Poets (Hyakunin isshu uba ga etoki).",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Poem by Emperor Tenchi, from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/95413",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1916.1164"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Hokusai, however, had egalitarian ideals and filled many of his scenes with ordinary people engaging in daily chores and rejoicing in the simple pleasures of life.",
+        "source": {
+          "author": "National Gallery of Victoria",
+          "title": "Hokusai: exhibition themes",
+          "readAt": "https://www.ngv.vic.gov.au/exhibition/hokusai/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "While traveling through the countryside, like the two figures in the center, a sudden storm forced the Emperor Tenchi (reigned 661–72) to take shelter in a rice farmer’s hut. The experience produced tears of sympathy for the common people toiling under heavy burdens and living in rough, flimsy homes.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Poem by Emperor Tenchi, from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/95413",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1916.1164"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
