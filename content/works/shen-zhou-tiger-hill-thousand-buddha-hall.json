@@ -1,0 +1,161 @@
+{
+  "id": "shen-zhou-tiger-hill-thousand-buddha-hall",
+  "artist": "shen-zhou",
+  "title": "The Thousand Buddha Hall and the Pagoda of the \"Cloudy Cliff\" Monastery, from Twelve Views of Tiger Hill, Suzhou",
+  "date": "after 1490",
+  "year": 1491,
+  "medium": "Album leaf; ink on paper or ink and slight color on paper",
+  "dimensions": "Image: 31.1 x 41 cm (12 1/4 x 16 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1964.371.7"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.371.7/1964.371.7_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1964.371.7/1964.371.7_print.jpg",
+    "width": 1162,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 140450
+  },
+  "phase": {
+    "label": "Mature style: views of Suzhou, after 1490",
+    "source": {
+      "label": "Cleveland Museum of Art: after 1490; “representations of the artist’s mature style”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/140450"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: a suite of monochrome scenes; ink on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/140450"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It is worth noting here a characteristic of almost all great ink paintings, the great variety in the handling of ink value, from the slightly grayed surface of the paper to the deepest spot of pure jet black.",
+          "source": {
+            "author": "Richard Edwards",
+            "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+            "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+            "year": "1962",
+            "url": "https://archive.org/details/fieldofstonesstu00edwa",
+            "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: a landscape album of a historic site near Suzhou",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/140450"
+      }
+    },
+    {
+      "id": "wu-school",
+      "source": {
+        "label": "Cleveland Museum of Art: Shen Zhou is regarded as the founder of the Wu School",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/140450"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Views of Tiger Hill depicts a historic site a few miles northwest of Suzhou. The scenes simulate a visit from arriving by boat at the foot of the mountain to climbing to Cloudy Cliff Monastery.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Thousand Buddha Hall and the Pagoda of the “Cloudy Cliff” Monastery, from Twelve Views of Tiger Hill",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/140450",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Wu School became the most dominant school nationwide. Suzhou, the activity center for Wu School painters, became the biggest center for Chinese painting during this period.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ming dynasty painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ming_dynasty_painting",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Turning to painting in midlife, he is regarded as the founder of the Wu School of painting, with its center in Suzhou.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Thousand Buddha Hall and the Pagoda of the “Cloudy Cliff” Monastery, from Twelve Views of Tiger Hill",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/140450",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Yunyan Temple, also known as Tiger Hill or Huqiu Temple, was a Buddhist temple located on Tiger Hill in Suzhou in southeastern Jiangsu Province in eastern China.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Yunyan Temple (Suzhou)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Yunyan_Temple_(Suzhou)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Construction of the pagoda began in 907 during the Five Dynasties interregnum between the Tang and Song dynasties.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tiger Hill Pagoda",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Huqiu_Tower",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Man’s works have slowly and inevitably left their mark on the well-lived countryside of China and in a way have made possible the love of nature and its consequent recreation in painting.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

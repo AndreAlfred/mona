@@ -1,0 +1,35 @@
+{
+  "id": "literati-painting",
+  "kind": "movement",
+  "name": "Literati painting (wenrenhua)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Southern School … of Chinese painting, often called literati painting … is a term used to denote art and artists which stand in opposition to the formal Northern School",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Southern School",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Southern_School",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "What the adherents of the Southern School valued was elegance, charm, good taste ; theirs (at least, as we know it from the Ming painter Shen Chou onwards) was essentially a happy art.",
+      "source": {
+        "author": "Arthur Waley",
+        "title": "An Introduction to the Study of Chinese Painting",
+        "publisher": "Ernest Benn, London (Internet Archive scan)",
+        "year": "1923",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+        "accessed": "2026-11-04",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "literati"
+}

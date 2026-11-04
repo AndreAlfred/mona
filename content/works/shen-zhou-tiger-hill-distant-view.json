@@ -1,0 +1,149 @@
+{
+  "id": "shen-zhou-tiger-hill-distant-view",
+  "artist": "shen-zhou",
+  "title": "Distant View of Tiger Hill from the Canal Mooring, from Twelve Views of Tiger Hill, Suzhou",
+  "date": "after 1490",
+  "year": 1491,
+  "medium": "Album leaf; ink on paper or ink and slight color on paper",
+  "dimensions": "Image: 31.5 x 40.6 cm (12 3/8 x 16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1964.371.1"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.371.1/1964.371.1_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1964.371.1/1964.371.1_print.jpg",
+    "width": 1136,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 140441
+  },
+  "phase": {
+    "label": "Mature style: views of Suzhou, after 1490",
+    "source": {
+      "label": "Cleveland Museum of Art: after 1490; “representations of the artist’s mature style”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/140441"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: a landscape album of a historic site near Suzhou",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/140441"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: a suite of monochrome scenes; ink on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/140441"
+      }
+    },
+    {
+      "id": "wu-school",
+      "source": {
+        "label": "Cleveland Museum of Art: Shen Zhou is regarded as the founder of the Wu School",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/140441"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Wu School became the most dominant school nationwide. Suzhou, the activity center for Wu School painters, became the biggest center for Chinese painting during this period.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Ming dynasty painting",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Ming_dynasty_painting",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Views of Tiger Hill depicts a historic site a few miles northwest of Suzhou. The scenes simulate a visit from arriving by boat at the foot of the mountain to climbing to Cloudy Cliff Monastery. Representations of the artist’s mature style, Shen Zhou included views in subtle colors in the suite of monochrome scenes.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Distant View of Tiger Hill from the Canal Mooring, from Twelve Views of Tiger Hill",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/140441",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Shen Chou’s mature craft — let us say of the eighties — could be wonderfully true. He could and did catch the essence of a scene.",
+        "lead": "Richard Edwards, on Shen Zhou’s albums of real places:",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The hill has been a tourist destination for over a thousand years, as is evident from the poetry and calligraphy carved into rocks on the hill.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tiger Hill, Suzhou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tiger_Hill,_Suzhou",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The setting, and we see this in Shen Chou’s landscapes, is not so much wild as cultivated. This is a reflection of centuries of a civilization living with nature.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The hill's name is said to come from the fact it looks like a crouching tiger. Another legend states that a white tiger appeared on the hill to guard it following the burial of King Helü.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tiger Hill, Suzhou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tiger_Hill,_Suzhou",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

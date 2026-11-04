@@ -1,0 +1,34 @@
+{
+  "id": "wu-school",
+  "kind": "movement",
+  "name": "Wu School",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Wu or Wumen School … is a group of painters of the Southern School during the Ming period of Chinese history. It was not an academy or educational institution, but rather a group united largely by the artistic theories of its members.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Wu School",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Wu_School",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "A Wu School painting is characterized by inscriptions describing the painting, the date, method, or reason for the work, which is usually seen as a vehicle for personal expression.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Wu School",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Wu_School",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Wu school"
+}

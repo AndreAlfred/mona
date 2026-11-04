@@ -1,0 +1,150 @@
+{
+  "id": "shen-zhou-flowering-crab-apple",
+  "artist": "shen-zhou",
+  "title": "Flowering Crab Apple",
+  "date": "1500",
+  "year": 1500,
+  "medium": "hanging scroll; ink on paper",
+  "dimensions": "Painting: 87 x 28.5 cm (34 1/4 x 11 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1997.101"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.101/1997.101_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1997.101/1997.101_print.jpg",
+    "width": 301,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Mrs. A. Dean Perry"
+  },
+  "archive": {
+    "cma": 159726
+  },
+  "phase": {
+    "label": "Late years: a painting for a friend, 1500",
+    "source": {
+      "label": "Edwards, The Field of Stones: the Hai-t’ang Branch of 1500 among “surely late paintings”",
+      "url": "https://archive.org/details/fieldofstonesstu00edwa"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: a broken branch (zhezhi) of crab apple",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159726"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Shen Zhou painted a broken branch (zhezhi 折枝) of crab apple, a fragment of nature rather than the full plant in its natural context. Shen uses calligraphic outlines in pure ink to depict the flower petals. The swift yet precise brushstrokes together with the slight S-shaped branch convey vitality.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Flowering Crab Apple",
+            "publisher": "Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159726",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art: hanging scroll; ink on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159726"
+      }
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Cleveland Museum of Art: the inscription is a poem written by the artist",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159726"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "From the reproduction the Hai-t’ang Branch seems to be rendered in a rather firm, almost dry manner, and suggests, as did the stalactite cave landscape of 1499, his mature rather than late years. Actually these rather detailed qualities of execution may be laid at the door of the traditional character of the subject, for the broken branch was a common theme.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Lu Ju-ch‘i’s strategic maneuvers are at least partial testimony to the fact of Shen Chou’s fame which by now in these closing years of a long life must have been considerable.",
+        "lead": "On the collector who asked for this painting:",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Shen Zhou is the founder of the Wu School, a group of scholars and officials active around Suzhou in eastern China, known for practicing painting and calligraphy in a refined and elegant style.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowering Crab Apple",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159726",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "White powder and rouge make a perfect morning appearance. [The flowers] are rich in color but restrained in fragrance. The east wind is reluctant to aid its full growth. Compared to the plum blossoms, each carries its own sad tune.",
+        "lead": "Shen Zhou’s poem on the scroll:",
+        "source": {
+          "author": "Shen Zhou",
+          "title": "Inscription on Flowering Crab Apple, 1500",
+          "publisher": "translation published by the Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159726",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On a spring day in the gengshen year of the Hongzhi era [1500], I was at Shuang’e [twin-moth] monks' residence where crab apples are blooming abundantly. Mr. Lu Ruqi was also visiting then, and asked for a painting of mine, so I painted this to express my feelings.",
+        "source": {
+          "author": "Shen Zhou",
+          "title": "Inscription on Flowering Crab Apple, 1500",
+          "publisher": "translation published by the Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159726",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

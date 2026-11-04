@@ -1,0 +1,150 @@
+{
+  "id": "shen-zhou-clouds-over-the-river",
+  "artist": "shen-zhou",
+  "title": "Clouds over the River before Rain",
+  "date": "1504",
+  "year": 1504,
+  "museum": {
+    "name": "Art Institute of Chicago (1961.224)",
+    "url": "https://www.artic.edu/artworks/13455"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Shen_Zhou_-_Clouds_over_the_River_before_Rain_-_1961.224_-_Art_Institute_of_Chicago.jpg/1280px-Shen_Zhou_-_Clouds_over_the_River_before_Rain_-_1961.224_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Shen_Zhou_-_Clouds_over_the_River_before_Rain_-_1961.224_-_Art_Institute_of_Chicago.jpg/2560px-Shen_Zhou_-_Clouds_over_the_River_before_Rain_-_1961.224_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 729,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Shen Zhou - Clouds over the River before Rain - 1961.224 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "wd": "Q20268227",
+    "aic": 13455
+  },
+  "phase": {
+    "label": "Last years, 1504",
+    "source": {
+      "label": "Edwards, The Field of Stones, ch. VII “Late Years”: Clouds over the River before Rain, dated 1504",
+      "url": "https://archive.org/details/fieldofstonesstu00edwa"
+    }
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Edwards, The Field of Stones, catalogue no. LV: “Handscroll. Paper, ink, colors added.”",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Edwards, The Field of Stones: patterns of wet ink and the softest washes",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Edwards, The Field of Stones: a scroll of river, mountain and mist",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Painting of Clouds over the River before Rain. 1504, the fourth day of mid-summer (i.e., fifth month). Painting by Shen Chou of Suchou.",
+        "lead": "Shen Zhou’s inscription at the end of the scroll:",
+        "source": {
+          "author": "Shen Zhou (Shen Chou)",
+          "title": "Inscription on Clouds over the River before Rain, 1504",
+          "publisher": "translated by Richard Edwards in The Field of Stones (Freer Gallery of Art, 1962; Internet Archive scan)",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In middle life he devoted himself to the works of Huang Kung-wang; but later on his soul became drunk with the art of Wu Chen, the Priest of the Plum-blossom, succeeding so well that when pictures by these two artists were mixed up, it was impossible to say which was which.",
+        "lead": "Herbert Giles, translating a Chinese account of Shen Zhou:",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Bernard Quaritch, London (Internet Archive scan)",
+          "year": "1918",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The scroll opens quietly … a calm is conveyed both by the delicacy of the washes, as on the far disappearing hills, and by the unmoving horizontal lines that define the spits of land bordering the river.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His paintings depict soaring mountains and towering trees, while human works are reduced to specks in this immensity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shen Zhou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shen_Zhou",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He is usually contrasted with Wu Wei, a painter that places humankind as the center of attention in his paintings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shen Zhou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shen_Zhou",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "For man there is a sorrow, the sorrow that comes in every farewell. And yet, because man, too, may become an integral part of the strength that lies in the cosmos, there is to the inevitable end a kind of triumph. … The trees are waiting, waiting for the rain, and beyond that, waiting for the end. But there is no obvious fading into complete oblivion.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "medium": "Handscroll; ink and light color on paper",
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}
