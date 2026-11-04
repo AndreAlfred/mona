@@ -1,0 +1,113 @@
+{
+  "id": "cassatt-little-girl-blue-armchair",
+  "artist": "mary-cassatt",
+  "title": "Little Girl in a Blue Armchair",
+  "date": "1878",
+  "year": 1878,
+  "medium": "oil paint on canvas",
+  "dimensions": "89.5 × 129.8 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/artworks/61368-little-girl-blue-armchair"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cassat_-_Blue_Armchair_NGA.jpg/1280px-Cassat_-_Blue_Armchair_NGA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cassat_-_Blue_Armchair_NGA.jpg/2560px-Cassat_-_Blue_Armchair_NGA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 804,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cassat - Blue Armchair NGA.jpg)"
+  },
+  "archive": {
+    "wd": "Q3640080"
+  },
+  "phase": {
+    "label": "Early Impressionist years, late 1870s–early 1880s",
+    "source": {
+      "label": "H. Barbara Weinberg, Mary Stevenson Cassatt",
+      "url": "https://www.metmuseum.org/essays/mary-stevenson-cassatt-1844-1926"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Little Girl in a Blue Armchair",
+        "url": "https://www.nga.gov/artworks/61368-little-girl-blue-armchair"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "H. Barbara Weinberg, Mary Stevenson Cassatt",
+        "url": "https://www.metmuseum.org/essays/mary-stevenson-cassatt-1844-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the cropping of the image",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Little Girl in a Blue Armchair",
+            "readAt": "https://en.wikipedia.org/wiki/Little_Girl_in_a_Blue_Armchair",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          },
+          "lead": "Among the aspects attributed to Degas’s influence:"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "an example of Degas' influence",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Girl in a Blue Armchair",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Girl_in_a_Blue_Armchair",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The painting is often cited as:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "at the Spring 1879 Impressionist exhibition",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Girl in a Blue Armchair",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Girl_in_a_Blue_Armchair",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Cassatt exhibited a dozen oils and pastels:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I was furious, all the more so",
+        "source": {
+          "author": "Mary Cassatt",
+          "title": "Letter to Ambroise Vollard, 1903, quoted in Little Girl in a Blue Armchair",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Girl_in_a_Blue_Armchair",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On the painting’s rejection by the 1878 American exhibition jury:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
