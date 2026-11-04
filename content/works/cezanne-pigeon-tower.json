@@ -1,0 +1,126 @@
+{
+  "id": "cezanne-pigeon-tower",
+  "artist": "paul-cezanne",
+  "title": "The Pigeon Tower at Bellevue",
+  "date": "1890",
+  "year": 1890,
+  "medium": "oil on fabric",
+  "dimensions": "Framed: 95.5 x 113 x 7 cm (37 5/8 x 44 1/2 x 2 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1936.19"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1936.19/1936.19_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1936.19/1936.19_print.jpg",
+    "width": 900,
+    "height": 723,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The James W. Corrigan Memorial"
+  },
+  "archive": {
+    "cma": 115405
+  },
+  "phase": {
+    "label": "Mature Provence landscapes, 1890",
+    "source": {
+      "label": "The Pigeon Tower at Bellevue",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/115405"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "oil on fabric",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/115405"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The composition is pared down to its essentials, devoid of extraneous detail;",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "The Pigeon Tower at Bellevue",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/115405",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Voorhies on Cézanne’s painting",
+        "url": "https://www.metmuseum.org/essays/paul-cezanne-1839-1906"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Paul Cezanne painted this composition in three horizontal planes: the azure blue of the sky; the luminous white of the tower and the farmyard buildings; and the burnt-orange shade of the foreground earth, whose color is indicative of the iron-rich soil of Provence.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Pigeon Tower at Bellevue",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/115405",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Cézanne’s method of compressing space and simplifying forms into flattened, geometric shapes provided the foundation for both Fauvism and Cubism.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Pigeon Tower at Bellevue",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/115405",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The shimmering greens of Cezanne’s favorite cypress and olive trees are interspersed across the middle ground.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Pigeon Tower at Bellevue",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/115405",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "to make something solid and enduring, like the art in museums.",
+        "lead": "Cézanne’s ambition, quoted by the museum:",
+        "source": {
+          "author": "Paul Cézanne",
+          "title": "Statement quoted in The Pigeon Tower at Bellevue",
+          "publisher": "The Cleveland Museum of Art",
+          "tier": 1,
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/115405",
+          "accessed": "2026-11-03"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

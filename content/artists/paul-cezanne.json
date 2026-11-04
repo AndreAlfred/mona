@@ -1,0 +1,54 @@
+{
+  "id": "paul-cezanne",
+  "name": "Paul Cézanne",
+  "born": 1839,
+  "died": 1906,
+  "active": "1860–1906",
+  "nationality": "French",
+  "period": "modern-life",
+  "movements": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "James Voorhies on Cézanne",
+        "url": "https://www.metmuseum.org/essays/paul-cezanne-1839-1906"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "camille-pissarro",
+      "name": "Camille Pissarro",
+      "source": {
+        "label": "Pissarro encouraged Cézanne to paint outdoors",
+        "url": "https://www.metmuseum.org/essays/paul-cezanne-1839-1906"
+      }
+    }
+  ],
+  "wikidata": "Q35548",
+  "archive": {
+    "aic": 40482,
+    "cma": [
+      1754
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "He continued to study the underlying structure of nature, at times approaching abstraction by denying traditional perspective and using multiple viewpoints.",
+      "source": {
+        "author": "The Cleveland Museum of Art",
+        "publisher": "The Cleveland Museum of Art",
+        "title": "Paul Cezanne: biography",
+        "tier": 4,
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/115405",
+        "accessed": "2026-11-03",
+        "license": "CC0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

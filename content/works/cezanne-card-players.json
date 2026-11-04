@@ -1,0 +1,107 @@
+{
+  "id": "cezanne-card-players",
+  "artist": "paul-cezanne",
+  "title": "The Card Players",
+  "date": "1893",
+  "year": 1893,
+  "dimensions": "47.5 × 57 cm",
+  "museum": {
+    "name": "Courtauld Institute of Art",
+    "url": "https://www.wikidata.org/wiki/Q17277950"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Paul_C%C3%A9zanne%2C_Les_joueurs_de_carte_%281892-95%29.jpg/1280px-Paul_C%C3%A9zanne%2C_Les_joueurs_de_carte_%281892-95%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 988,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Paul Cézanne, Les joueurs de carte (1892-95).jpg)"
+  },
+  "archive": {
+    "wd": "Q17277950"
+  },
+  "phase": {
+    "label": "The card-player series, 1890s",
+    "source": {
+      "label": "The Card Players",
+      "url": "https://courtauld.ac.uk/highlights/the-card-players/"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata medium",
+        "url": "https://www.wikidata.org/wiki/Q17277950"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, the composition is refined down to two men seated across a table in undefined surroundings. The players face each other but are immersed in the ritual of the game.",
+          "source": {
+            "author": "The Courtauld",
+            "title": "The Card Players",
+            "publisher": "The Courtauld",
+            "readAt": "https://courtauld.ac.uk/highlights/the-card-players/",
+            "accessed": "2026-11-03",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Cézanne and Impressionism",
+        "url": "https://www.metmuseum.org/essays/paul-cezanne-1839-1906"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Cézanne became interested in depicting labourers playing cards in the autumn of 1890. During the 1890s he completed five paintings of this subject.",
+        "source": {
+          "author": "The Courtauld",
+          "title": "The Card Players",
+          "publisher": "The Courtauld",
+          "readAt": "https://courtauld.ac.uk/highlights/the-card-players/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Before Cézanne, artists and illustrators often represented card playing as a rowdy activity in taverns with wine and beer flowing. This painting offers a different vision: Cézanne’s labourers are monumental and dignified, like timeworn statues.",
+        "source": {
+          "author": "The Courtauld",
+          "title": "The Card Players",
+          "publisher": "The Courtauld",
+          "readAt": "https://virtualtour.courtauld.ac.uk/gal-hotspot/the-card-players/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Farm workers from the estate of Cézanne’s father posed for the two figures.",
+        "source": {
+          "author": "The Courtauld",
+          "title": "The Card Players",
+          "publisher": "The Courtauld",
+          "readAt": "https://courtauld.ac.uk/highlights/the-card-players/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
