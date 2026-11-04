@@ -1,0 +1,114 @@
+{
+  "id": "durer-rhinoceros",
+  "artist": "albrecht-durer",
+  "title": "The Rhinoceros",
+  "date": "1515",
+  "year": 1515,
+  "medium": "woodcut and letterpress on laid paper",
+  "dimensions": "sheet (trimmed to image): 23.5 × 29.8 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/artworks/47903-rhinoceros",
+    "accession": "1964.8.697"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Albrecht_D%C3%BCrer%2C_The_Rhinoceros%2C_1515%2C_NGA_47903.jpg/1280px-Albrecht_D%C3%BCrer%2C_The_Rhinoceros%2C_1515%2C_NGA_47903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Albrecht_D%C3%BCrer%2C_The_Rhinoceros%2C_1515%2C_NGA_47903.jpg/2560px-Albrecht_D%C3%BCrer%2C_The_Rhinoceros%2C_1515%2C_NGA_47903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 942,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Dürer, The Rhinoceros, 1515, NGA 47903.jpg)"
+  },
+  "archive": {
+    "wd": "Q748518"
+  },
+  "phase": {
+    "label": "Nuremberg woodcuts, 1515",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/Dürer%27s_Rhinoceros"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Dürer%27s_Rhinoceros"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Dürer may have anticipated this and deliberately chosen to create a woodcut, rather than a more refined and detailed engraving, as this was cheaper to produce and more copies could be printed.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Dürer%27s Rhinoceros",
+            "readAt": "https://en.wikipedia.org/wiki/Dürer%27s_Rhinoceros",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Dürer%27s_Rhinoceros"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Dürer's woodcut became very popular in Europe and was copied many times in the following three centuries.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Dürer%27s Rhinoceros",
+          "readAt": "https://en.wikipedia.org/wiki/Dürer%27s_Rhinoceros",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Instead the image is based on an anonymous written description and brief sketch of an Indian rhinoceros brought to Lisbon in 1515.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Dürer%27s Rhinoceros",
+          "readAt": "https://en.wikipedia.org/wiki/Dürer%27s_Rhinoceros",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Later that year, the King of Portugal, Manuel I, sent the animal as a gift for Pope Leo X, but it died in a shipwreck off the coast of Italy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Dürer%27s Rhinoceros",
+          "readAt": "https://en.wikipedia.org/wiki/Dürer%27s_Rhinoceros",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

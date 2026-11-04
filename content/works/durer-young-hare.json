@@ -1,0 +1,113 @@
+{
+  "id": "durer-young-hare",
+  "artist": "albrecht-durer",
+  "title": "Young Hare (Feldhase)",
+  "date": "1502",
+  "year": 1502,
+  "medium": "top color, watercolor paint on paper",
+  "dimensions": "25 × 22.5 cm",
+  "museum": {
+    "name": "Albertina (3073)",
+    "url": "http://onlinekunst.de/ostern/hase"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/1280px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/2560px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1326,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Dürer - Hare, 1502 - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q699388"
+  },
+  "phase": {
+    "label": "Nuremberg nature studies, 1502",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/Young_Hare"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Young_Hare"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Dürer used an underpainting of brown washes and then went over it with both light and dark brushstrokes.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Young Hare",
+            "readAt": "https://en.wikipedia.org/wiki/Young_Hare",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "naturalism",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Young_Hare"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The prominent date and Dürer monogram on the Young Hare indicate that he considered it a work in its own right rather than merely a preparatory sketch.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Young Hare",
+          "readAt": "https://en.wikipedia.org/wiki/Young_Hare",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Dürer created the Young Hare during his time studying nature from 1500 to 1505.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Young Hare",
+          "readAt": "https://en.wikipedia.org/wiki/Young_Hare",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "There is some debate over how Dürer accurately depicted the animal. He may have sketched the hare in the wild and filled in the individual details from a dead animal, or captured one and held it alive in his studio while he worked on the painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Young Hare",
+          "readAt": "https://en.wikipedia.org/wiki/Young_Hare",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

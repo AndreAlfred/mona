@@ -1,0 +1,113 @@
+{
+  "id": "durer-self-portrait-fur",
+  "artist": "albrecht-durer",
+  "title": "Self-Portrait with Fur-Trimmed Robe (Selbstbildnis im Pelzrock)",
+  "date": "1500",
+  "year": 1500,
+  "medium": "oil paint, lime panel",
+  "dimensions": "67.1 × 48.9 cm",
+  "museum": {
+    "name": "Bavarian State Painting Collections (537)",
+    "url": "https://www.sammlung.pinakothek.de/en/artwork/Qlx2QpQ4Xq/albrecht-duerer/selbstbildnis-im-pelzrock"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/1280px-D%C3%BCrer_Alte_Pinakothek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1692,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Dürer Alte Pinakothek.jpg)"
+  },
+  "archive": {
+    "wd": "Q2546309"
+  },
+  "phase": {
+    "label": "Painted self-portraits, 1500",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/Self-Portrait_(Dürer,_Munich)"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_(Dürer,_Munich)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The direct gaze and the hand in the picture address seeing and the act of creating.",
+          "source": {
+            "author": "Bayerische Staatsgemäldesammlungen",
+            "title": "Self-Portrait with Fur-Trimmed Robe",
+            "readAt": "https://www.sammlung.pinakothek.de/en/artwork/Qlx2QpQ4Xq/albrecht-duerer/selbstbildnis-im-pelzrock",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "publisher": "Bayerische Staatsgemäldesammlungen",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_(Dürer,_Munich)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Completed early in 1500, just before his 29th birthday, it is the last of his three painted self-portraits.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Self-Portrait (Dürer, Munich)",
+          "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_(Dürer,_Munich)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1500, a frontal pose was exceptional for a secular portrait.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Self-Portrait (Dürer, Munich)",
+          "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_(Dürer,_Munich)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I, Albrecht Dürer of Nuremberg portrayed myself in appropriate colours aged twenty-eight years",
+        "source": {
+          "author": "Albrecht Dürer",
+          "title": "Self-portrait inscription, translated by the Alte Pinakothek",
+          "readAt": "https://www.sammlung.pinakothek.de/en/artwork/Qlx2QpQ4Xq/albrecht-duerer/selbstbildnis-im-pelzrock",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "publisher": "Bayerische Staatsgemäldesammlungen",
+          "license": "Public-domain artist text"
+        },
+        "lead": "The inscription on the painting:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

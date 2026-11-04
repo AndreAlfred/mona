@@ -1,0 +1,113 @@
+{
+  "id": "durer-four-apostles",
+  "artist": "albrecht-durer",
+  "title": "The Four Apostles (Vier Apostel: Hll. Johannes Ev. und Petrus)",
+  "date": "1526",
+  "year": 1526,
+  "medium": "oil paint on panel",
+  "dimensions": "212.8 × 76.2 cm",
+  "museum": {
+    "name": "Bavarian State Painting Collections (540)",
+    "url": "https://www.sammlung.pinakothek.de/en/artwork/apG9BRn4Zn/albrecht-duerer/vier-apostel-hll-johannes-ev-und-petrus"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Albrecht_D%C3%BCrer_-_The_Four_Apostles%2C_Saints_John%2C_Peter%2C_Mark_and_Paul.jpg/1280px-Albrecht_D%C3%BCrer_-_The_Four_Apostles%2C_Saints_John%2C_Peter%2C_Mark_and_Paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Albrecht_D%C3%BCrer_-_The_Four_Apostles%2C_Saints_John%2C_Peter%2C_Mark_and_Paul.jpg/2560px-Albrecht_D%C3%BCrer_-_The_Four_Apostles%2C_Saints_John%2C_Peter%2C_Mark_and_Paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1689,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Dürer - The Four Apostles, Saints John, Peter, Mark and Paul.jpg)"
+  },
+  "archive": {
+    "wd": "Q829270"
+  },
+  "phase": {
+    "label": "Late religious painting, 1526",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/The_Four_Apostles"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/The_Four_Apostles"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Their physiognomies are modelled on the four human temperaments and exude both vigilance and concentration.",
+          "source": {
+            "author": "Bayerische Staatsgemäldesammlungen",
+            "title": "The Four Apostles: St John and St Peter",
+            "readAt": "https://www.sammlung.pinakothek.de/en/artwork/apG9BRn4Zn/albrecht-duerer/vier-apostel-hll-johannes-ev-und-petrus",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "publisher": "Bayerische Staatsgemäldesammlungen",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/The_Four_Apostles"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The two paintings that make up this diptych are both done in a Northern Renaissance style and are the last of Dürer's largescale works.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Four Apostles",
+          "readAt": "https://en.wikipedia.org/wiki/The_Four_Apostles",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Four Apostles was created during the Reformation, begun in 1517 and having the largest initial impact on Germany, the work was completed in 1526.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Four Apostles",
+          "readAt": "https://en.wikipedia.org/wiki/The_Four_Apostles",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Originally gifted to the city of Nuremberg, the panels also serve as a visual statement of Dürer's Protestant sympathies, emphasizing the authority of scripture.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Four Apostles",
+          "readAt": "https://en.wikipedia.org/wiki/The_Four_Apostles",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

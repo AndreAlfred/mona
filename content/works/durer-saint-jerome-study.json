@@ -1,0 +1,127 @@
+{
+  "id": "durer-saint-jerome-study",
+  "artist": "albrecht-durer",
+  "title": "St. Jerome in His Study (Saint Jerome in His Study)",
+  "date": "1514",
+  "year": 1514,
+  "medium": "engraving on laid paper",
+  "dimensions": "sheet (trimmed to plate mark): 24.7 × 18.7 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/artworks/6642-saint-jerome-his-study",
+    "accession": "1943.3.3524"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Albrecht_D%C3%BCrer%2C_Saint_Jerome_in_His_Study%2C_1514%2C_NGA_6642.jpg/1280px-Albrecht_D%C3%BCrer%2C_Saint_Jerome_in_His_Study%2C_1514%2C_NGA_6642.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Albrecht_D%C3%BCrer%2C_Saint_Jerome_in_His_Study%2C_1514%2C_NGA_6642.jpg/2560px-Albrecht_D%C3%BCrer%2C_Saint_Jerome_in_His_Study%2C_1514%2C_NGA_6642.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1568,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Dürer, Saint Jerome in His Study, 1514, NGA 6642.jpg)"
+  },
+  "archive": {
+    "wd": "Q1198912"
+  },
+  "phase": {
+    "label": "Master engravings, 1514",
+    "source": {
+      "label": "Date and career context",
+      "url": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The composition is intimate, but the viewer has difficulty locating himself in relation to the picture's space.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Saint Jerome in His Study (Dürer)",
+            "readAt": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Medium and visual character",
+        "url": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "St. Jerome in His Study is often considered as part of a group of three Dürer engravings (his Meisterstiche), the other two being the well-known Melencolia I (1514) and Knight, Death and the Devil (1513).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Jerome in His Study (Dürer)",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The lion in the foreground is part of the traditional iconography of St. Jerome, and near it is a sleeping dog, an animal found frequently in Dürer's works, symbolizing loyalty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Jerome in His Study (Dürer)",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the intimacy is not ours, but the saint's as he is engrossed in study and meditation",
+        "source": {
+          "author": "Thomas Puttfarken",
+          "title": "The Discovery of Pictorial Composition (2000), p. 94, quoted on Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "Wikipedia",
+          "license": "Excerpt quoted in CC BY-SA 4.0 article"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The hourglass represents the finite space of time that is a man's life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Jerome in His Study (Dürer)",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Dürer)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}
