@@ -1,0 +1,38 @@
+{
+  "id": "pieter-bruegel-the-elder",
+  "name": "Pieter Bruegel the Elder",
+  "born": 1525,
+  "died": 1569,
+  "active": "1551–1569",
+  "nationality": "Netherlandish",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "KHM: Northern Renaissance",
+        "url": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q43270",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "From 1563, the year he moved to Brussels, until his death in 1569, Bruegel concentrated almost exclusively on painting.",
+      "source": {
+        "author": "Museum Boijmans Van Beuningen",
+        "title": "The Tower of Babel — artist biography",
+        "readAt": "https://artsandculture.google.com/asset/the-tower-of-babel/hQEuBFxb3ZEcLw?hl=en",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "publisher": "Museum Boijmans Van Beuningen"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

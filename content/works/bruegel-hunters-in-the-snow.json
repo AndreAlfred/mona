@@ -1,0 +1,111 @@
+{
+  "id": "bruegel-hunters-in-the-snow",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "The Hunters in the Snow",
+  "date": "1565",
+  "year": 1565,
+  "medium": "oil paint on panel",
+  "dimensions": "117 × 162 cm",
+  "museum": {
+    "name": "Kunsthistorisches Museum (GG_1838)",
+    "url": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg/1280px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg/2560px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 854,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Bruegel the Elder - Hunters in the Snow (Winter) - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q500985"
+  },
+  "phase": {
+    "label": "The Seasons cycle, 1565",
+    "source": {
+      "label": "The six seasonal paintings commissioned by Niclaes Jongelinck",
+      "url": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum: oil on wood",
+        "url": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "KHM: Northern Renaissance",
+        "url": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "seemingly endless, often minute, details of village life",
+          "source": {
+            "author": "Susan Anderson",
+            "title": "Hunters in the Snow",
+            "readAt": "https://canon.codart.nl/artwork/hunters-in-the-snow/",
+            "accessed": "2026-11-03",
+            "tier": 2,
+            "publisher": "CODART Canon"
+          },
+          "lead": "Anderson describes the painting’s enduring appeal:"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He commissioned Bruegel to create a series of six seasonal paintings",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "Masterpieces of the Picture Gallery. A Brief Guide to the Kunsthistorisches Museum (2010): Hunters in the Snow",
+          "readAt": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum Wien / Google Arts & Culture"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "would become hallmarks of Netherlandish art through the late 16th and 17th centuries.",
+        "source": {
+          "author": "Susan Anderson",
+          "title": "Hunters in the Snow",
+          "readAt": "https://canon.codart.nl/artwork/hunters-in-the-snow/",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "CODART Canon"
+        },
+        "lead": "On independent landscape, peasant life, and vernacular detail:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Their catch is poor: a single fox dangling from the spear",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "Masterpieces of the Picture Gallery. A Brief Guide to the Kunsthistorisches Museum (2010): Hunters in the Snow",
+          "readAt": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum Wien / Google Arts & Culture"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
