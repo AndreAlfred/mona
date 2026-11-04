@@ -1,0 +1,117 @@
+{
+  "id": "hokusai-basket-peonies",
+  "artist": "katsushika-hokusai",
+  "title": "Basket of Peonies",
+  "date": "1810 or 1814",
+  "year": 1810,
+  "medium": "color woodblock print; surimono",
+  "dimensions": "Sheet: 52.1 x 38.3 cm (20 1/2 x 15 1/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1943.5"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1943.5/1943.5_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1943.5/1943.5_print.jpg",
+    "width": 900,
+    "height": 674,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. Ralph King"
+  },
+  "archive": {
+    "cma": 123249
+  },
+  "phase": {
+    "label": "Surimono, 1810 or 1814",
+    "source": {
+      "label": "Cleveland Museum of Art: date, title and attribution",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/123249"
+    }
+  },
+  "tags": [
+    {
+      "id": "surimono",
+      "source": {
+        "label": "Cleveland Museum of Art: medium and collection description",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/123249"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "A surimono is a privately commissioned print used to announce or commemorate a special event.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Basket of Peonies",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123249",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0",
+            "url": "https://clevelandart.org/art/1943.5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodblock print",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/123249"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This picture celebrates an event in the life of the actor Ichikawa Danjuro VII, whose emblem was the peony.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Basket of Peonies",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123249",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1943.5"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A surimono is a privately commissioned print used to announce or commemorate a special event.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Basket of Peonies",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123249",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1943.5"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to Japanese tradition, the peony–one of the flowers of the four seasons–is the flower of summer.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Basket of Peonies",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123249",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1943.5"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

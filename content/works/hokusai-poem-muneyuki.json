@@ -1,0 +1,114 @@
+{
+  "id": "hokusai-poem-muneyuki",
+  "artist": "katsushika-hokusai",
+  "title": "Poem by Minamoto no Muneyuki from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+  "date": "1835–36",
+  "year": 1835,
+  "medium": "Color woodblock print",
+  "dimensions": "24.2 x 35.3 cm (9 1/2 x 13 7/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1985.327"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1985.327/1985.327_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1985.327/1985.327_print.jpg",
+    "width": 900,
+    "height": 626,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Kelvin Smith Collection, given by Mrs. Kelvin Smith"
+  },
+  "archive": {
+    "cma": 152506
+  },
+  "phase": {
+    "label": "One Hundred Poems Explained by the Nurse, 1835–36",
+    "source": {
+      "label": "Cleveland Museum of Art: date, title and attribution",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/152506"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium and collection description",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/152506"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This impression of Hokusai's print has a fold along its center, indicating that it may have once been placed in an album of the book format.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Poem by Minamoto no Muneyuki from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152506",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0",
+            "url": "https://clevelandart.org/art/1985.327"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "NGV: Hokusai and ukiyo-e",
+        "url": "https://www.ngv.vic.gov.au/exhibition/hokusai/"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Katsushika Hokusai designed this print series from the perspective of a confused nurse attempting to illustrate classical poetry but missing the subtle allusions. This interpretation creates what would have been considered a comical disconnect between poem and image.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Poem by Minamoto no Muneyuki from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152506",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1985.327"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The \"Hundred Poets\" is an anthology collected in A.D. 1235 by Fujiwara-no-Sudaiye, himself one of the hundred, and ranges from A.D. 670 to the year of compilation.",
+        "source": {
+          "author": "Basil Stewart",
+          "title": "A Guide to Japanese Prints, Chapter 15: Further Series by Hokusai and Pupils",
+          "readAt": "https://www.hiroshige.org.uk/Stewart/Stewart_Chapter_15.htm",
+          "accessed": "2026-11-03",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "While nobleman Minamoto no Muneyuki (died 939) wrote of dying grasses, the nurse imagines instead a lively scene of hunters warming themselves around a fire.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Poem by Minamoto no Muneyuki from the series One Hundred Poems by One Hundred Poets Explained by the Nurse",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152506",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1985.327"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

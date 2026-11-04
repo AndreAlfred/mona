@@ -1,0 +1,22 @@
+{
+  "id": "surimono",
+  "kind": "style",
+  "name": "Surimono (privately commissioned prints)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A surimono is a privately commissioned print used to announce or commemorate a special event.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Collection description: Basket of Peonies",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123249",
+        "accessed": "2026-11-03",
+        "tier": 4,
+        "publisher": "Cleveland Museum of Art",
+        "license": "CC0",
+        "url": "https://clevelandart.org/art/1943.5"
+      }
+    }
+  ],
+  "archiveTerm": "surimono"
+}

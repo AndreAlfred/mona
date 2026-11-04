@@ -1,0 +1,117 @@
+{
+  "id": "hokusai-south-wind-clear-sky",
+  "artist": "katsushika-hokusai",
+  "title": "South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji",
+  "date": "early 1830s",
+  "year": 1830,
+  "medium": "color woodblock print",
+  "dimensions": "25.6 x 37.5 cm (10 1/16 x 14 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1930.189"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.189/1930.189_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1930.189/1930.189_print.jpg",
+    "width": 900,
+    "height": 617,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Edward L. Whittemore"
+  },
+  "archive": {
+    "cma": 111654
+  },
+  "phase": {
+    "label": "Thirty-Six Views of Mount Fuji, early 1830s",
+    "source": {
+      "label": "Cleveland Museum of Art: date, title and attribution",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/111654"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: medium and collection description",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/111654"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "During the printing process, the natural grain of the cherry wood printing block was imprinted onto the paper along with the red-colored dye.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111654",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0",
+            "url": "https://clevelandart.org/art/1930.189"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "NGV: Hokusai and ukiyo-e",
+        "url": "https://www.ngv.vic.gov.au/exhibition/hokusai/"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Between 1829 and 1833, Hokusai created a print series depicting thirty-six views of the mountain, including this one, sometimes known as “Red Fuji.”",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111654",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1930.189"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Mt. Fuji, Japan’s highest mountain, appeared in most Japanese 19th-century travel literature. Maps sometimes showed its location with a Fuji-shaped icon and indicated where travelers could get the best view of it.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111654",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1930.189"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The season in this scene is a time between late summer and early autumn, when the mountain takes on a reddish hue.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111654",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1930.189"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

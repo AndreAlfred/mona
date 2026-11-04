@@ -1,0 +1,111 @@
+{
+  "id": "hokusai-poem-hitomaro",
+  "artist": "katsushika-hokusai",
+  "title": "Poem by Kakinomoto no Hitomaro, from One Hundred Poems by One Hundred Poets Explained by an Old Nurse",
+  "date": "1835–36",
+  "year": 1835,
+  "medium": "color woodblock print",
+  "dimensions": "25.8 x 37.8 cm (10 3/16 x 14 7/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1930.190"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.190/1930.190_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1930.190/1930.190_print.jpg",
+    "width": 900,
+    "height": 617,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Edward L. Whittemore"
+  },
+  "archive": {
+    "cma": 111656
+  },
+  "phase": {
+    "label": "One Hundred Poems Explained by the Nurse, 1835–36",
+    "source": {
+      "label": "Cleveland Museum of Art: date, title and attribution",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/111656"
+    }
+  },
+  "tags": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Cleveland Museum of Art: medium and collection description",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/111656"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Smoke billows across the scene, directing our attention to a figure, perhaps the nurse, in the distant house.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Poem by Kakinomoto no Hitomaro, from One Hundred Poems by One Hundred Poets Explained by an Old Nurse",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111656",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0",
+            "url": "https://clevelandart.org/art/1930.190"
+          }
+        }
+      ]
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodblock print",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/111656"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The scene portrayed generally illustrates the poem or the circumstances under which it was written, but sometimes there appears to be little or no connection between them, or else it is too subtly veiled for our understanding.",
+        "source": {
+          "author": "Basil Stewart",
+          "title": "A Guide to Japanese Prints, Chapter 15: Further Series by Hokusai and Pupils",
+          "readAt": "https://www.hiroshige.org.uk/Stewart/Stewart_Chapter_15.htm",
+          "accessed": "2026-11-03",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Visual interpretations of poems from the Ogura Hyakunin Isshu had traditionally been formalised depictions of court life, or portraits of the poets themselves dressed in classical costume.",
+        "source": {
+          "author": "National Gallery of Victoria",
+          "title": "Hokusai: exhibition themes",
+          "readAt": "https://www.ngv.vic.gov.au/exhibition/hokusai/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Hitomaro wrote of an emotionally tiring night. The nurse thought instead of the physically exhausting work of fishermen dragging a net upstream.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Poem by Kakinomoto no Hitomaro, from One Hundred Poems by One Hundred Poets Explained by an Old Nurse",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111656",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1930.190"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

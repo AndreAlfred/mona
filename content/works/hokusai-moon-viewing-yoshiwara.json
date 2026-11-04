@@ -1,0 +1,114 @@
+{
+  "id": "hokusai-moon-viewing-yoshiwara",
+  "artist": "katsushika-hokusai",
+  "title": "Tsukasa and Other Courtesans of the Ogiya Watching the Autumn Moon Rise Over Rice Fields from a Balcony in the Yoshiwara",
+  "date": "1799",
+  "year": 1799,
+  "medium": "Surimono; color woodblock print",
+  "dimensions": "Sheet: 56.6 x 21 cm (22 5/16 x 8 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1943.4"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1943.4/1943.4_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1943.4/1943.4_print.jpg",
+    "width": 900,
+    "height": 351,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. Ralph King"
+  },
+  "archive": {
+    "cma": 123177
+  },
+  "phase": {
+    "label": "Independent artist, 1799",
+    "source": {
+      "label": "NGV: early to mature works; CMA: 1799 date",
+      "url": "https://www.ngv.vic.gov.au/exhibition/hokusai/"
+    }
+  },
+  "tags": [
+    {
+      "id": "surimono",
+      "source": {
+        "label": "Cleveland Museum of Art: medium and collection description",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/123177"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The elegance of the women's flowing robes and the serenity of the evening with a full silver moon contribute to the poetic atmosphere of this surimono, a privately commissioned print usually accompanied by text—here, a poem, which reads:",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Tsukasa and Other Courtesans of the Ogiya Watching the Autumn Moon Rise Over Rice Fields from a Balcony in the Yoshiwara",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123177",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Cleveland Museum of Art",
+            "license": "CC0",
+            "url": "https://clevelandart.org/art/1943.4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodblock print",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/123177"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His prints from this time capture intimate and poignant interactions between people set in the natural environment.",
+        "source": {
+          "author": "National Gallery of Victoria",
+          "title": "Hokusai: exhibition themes",
+          "readAt": "https://www.ngv.vic.gov.au/exhibition/hokusai/",
+          "accessed": "2026-11-03",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Gomeirō is another name for the fashionable teahouse Ōgi-ya (House of Fans) in the Yoshiwara district of Edo (present-day Tokyo).",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Tsukasa and Other Courtesans of the Ogiya Watching the Autumn Moon Rise Over Rice Fields from a Balcony in the Yoshiwara",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123177",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1943.4"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Two courtesans, each attended by a geisha and a shinzō (apprentice to a courtesan) view a full autumn moon as it rises over the surrounding paddy fields.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Tsukasa and Other Courtesans of the Ogiya Watching the Autumn Moon Rise Over Rice Fields from a Balcony in the Yoshiwara",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123177",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0",
+          "url": "https://clevelandart.org/art/1943.4"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
