@@ -1,0 +1,113 @@
+{
+  "id": "giotto-kiss-of-judas",
+  "artist": "giotto",
+  "title": "Kiss of Judas",
+  "date": "1303",
+  "year": 1303,
+  "medium": "plaster, fresco",
+  "dimensions": "200 × 185 cm",
+  "museum": {
+    "name": "Scrovegni Chapel",
+    "url": "https://www.wikidata.org/wiki/Q3504778"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Giotto_di_Bondone_-_No._31_Scenes_from_the_Life_of_Christ_-_15._The_Arrest_of_Christ_%28Kiss_of_Judas%29_-_WGA09216.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1176,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giotto di Bondone - No. 31 Scenes from the Life of Christ - 15. The Arrest of Christ (Kiss of Judas) - WGA09216.jpg)"
+  },
+  "archive": {
+    "wd": "Q3504778"
+  },
+  "phase": {
+    "label": "Arena (Scrovegni) Chapel, Padua, c. 1303–05",
+    "source": {
+      "label": "Scrovegni Chapel (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Scrovegni Chapel (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He had a team of about 40 collaborators, and they calculated that 625 work days (giornate) were necessary to paint the chapel. A \"work day\" meant that portion of each fresco that could be painted before the plaster dried and was no longer \"fresh\" (fresco in Italian).",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Scrovegni Chapel",
+            "readAt": "https://en.wikipedia.org/wiki/Scrovegni_Chapel",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          },
+          "lead": "How the chapel was painted, section by section:"
+        }
+      ]
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Italian Renaissance painting (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Proto-Renaissance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is evident that he looks upon Judas mainly as a sensual dullard, and foul-brained fool; a man in no respect exalted in bad eminence of treachery above the mass of common traitors",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Giotto and his Works in Padua",
+          "readAt": "https://www.gutenberg.org/cache/epub/18371/pg18371.txt",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "year": "1854"
+        },
+        "lead": "Ruskin on Giotto's Judas:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Giotto's depiction of the human face and emotion sets his work apart from that of his contemporaries.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giotto",
+          "readAt": "https://en.wikipedia.org/wiki/Giotto",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the practical meaning of the entire fact of Judas' ministry and fall is, that out of any twelve men chosen for the forwarding of any purpose,--or, much more, out of any twelve men we meet,--one, probably, is or will be a Judas.",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Giotto and his Works in Padua",
+          "readAt": "https://www.gutenberg.org/cache/epub/18371/pg18371.txt",
+          "accessed": "2026-11-03",
+          "tier": 3,
+          "year": "1854"
+        },
+        "lead": "Ruskin on what the betrayal means:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

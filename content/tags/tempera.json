@@ -1,0 +1,21 @@
+{
+  "id": "tempera",
+  "kind": "material",
+  "name": "Tempera",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Tempera (Italian: [ˈtɛmpera]) is a permanent, fast-drying painting medium consisting of pigments mixed with a water-soluble binder medium, usually glutinous material such as egg yolk.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Tempera",
+        "readAt": "https://en.wikipedia.org/wiki/Tempera",
+        "accessed": "2026-11-03",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "tempera"
+}

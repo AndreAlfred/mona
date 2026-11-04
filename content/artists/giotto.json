@@ -1,0 +1,52 @@
+{
+  "id": "giotto",
+  "name": "Giotto di Bondone",
+  "born": 1267,
+  "died": 1337,
+  "active": "1290s–1337",
+  "nationality": "Italian",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Italian Renaissance painting (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Proto-Renaissance"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q7814",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "he alone, although born among inept craftsmen, by the gift of God revived that art, which had come to a grievous pass, and brought it to such a form as could be called good.",
+      "source": {
+        "author": "Giorgio Vasari",
+        "title": "Life of Giotto, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+        "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+        "accessed": "2026-11-03",
+        "tier": 2,
+        "year": "1550"
+      },
+      "lead": "Vasari on Giotto:"
+    },
+    {
+      "kind": "quote",
+      "text": "the innovations of Giotto consisted in the introduction, A, of gayer or lighter colours; B, of broader masses; and, C, of more careful imitation of nature than existed in the works of his predecessors.",
+      "source": {
+        "author": "John Ruskin",
+        "title": "Giotto and his Works in Padua",
+        "readAt": "https://www.gutenberg.org/cache/epub/18371/pg18371.txt",
+        "accessed": "2026-11-03",
+        "tier": 3,
+        "year": "1854"
+      },
+      "lead": "Ruskin on what Giotto changed:"
+    }
+  ],
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

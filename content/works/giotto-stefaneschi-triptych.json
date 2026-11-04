@@ -1,0 +1,119 @@
+{
+  "id": "giotto-stefaneschi-triptych",
+  "artist": "giotto",
+  "title": "Stefaneschi Triptych",
+  "date": "c. 1320",
+  "year": 1320,
+  "medium": "tempera, gold on panel, poplar panel",
+  "dimensions": "220 × 245 cm",
+  "museum": {
+    "name": "Pinacoteca Vaticana (MV.40120.10.1)",
+    "url": "https://catalogo.museivaticani.va/index.php/Detail/objects/MV.40120.10.1"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Polittico_stefaneschi%2C_retro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1069,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Polittico stefaneschi, retro.jpg)"
+  },
+  "archive": {
+    "wd": "Q3539575"
+  },
+  "phase": {
+    "label": "Late career, c. 1320",
+    "source": {
+      "label": "Stefaneschi Triptych (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Stefaneschi_Triptych"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Stefaneschi Triptych (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Stefaneschi_Triptych"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Stefaneschi Triptych (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Stefaneschi_Triptych"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Gold ground (both a noun and adjective) or gold-ground (adjective) is a term in art history for a style of images with all or most of the background in a solid gold colour.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Gold ground",
+            "readAt": "https://en.wikipedia.org/wiki/Gold_ground",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Italian Renaissance painting (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Proto-Renaissance"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is a rare example in Giotto's work of a documented commission, and includes Giotto's signature, although the date, like most dates for Giotto, is disputed, and many scholars feel the artist's workshop was responsible for its execution.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Stefaneschi Triptych",
+          "readAt": "https://en.wikipedia.org/wiki/Stefaneschi_Triptych",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was normal for double-sided altarpieces in this period to have an iconic image on the front and narrative images on the back.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Stefaneschi Triptych",
+          "readAt": "https://en.wikipedia.org/wiki/Stefaneschi_Triptych",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Giotto represents the martyrdoms of Peter and Paul as taking place in recognizable locales, frequently visited by pilgrims to Rome.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Stefaneschi Triptych",
+          "readAt": "https://en.wikipedia.org/wiki/Stefaneschi_Triptych",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

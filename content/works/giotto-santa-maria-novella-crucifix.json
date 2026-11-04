@@ -1,0 +1,126 @@
+{
+  "id": "giotto-santa-maria-novella-crucifix",
+  "artist": "giotto",
+  "title": "Santa Maria Novella Crucifix by Giotto",
+  "date": "1290",
+  "year": 1290,
+  "medium": "tempera on wood",
+  "dimensions": "578 × 406 cm",
+  "museum": {
+    "name": "Basilica of Santa Maria Novella",
+    "url": "https://www.wikidata.org/wiki/Q3005520"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg/1280px-Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg/2560px-Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1581,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giotto. the-crucifix-1290-1300 Florence, Santa Maria Novella.jpg)"
+  },
+  "archive": {
+    "wd": "Q3005520"
+  },
+  "phase": {
+    "label": "Early career, c. 1290–95",
+    "source": {
+      "label": "Giotto's Crucifix at Santa Maria Novella (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Giotto%27s_Crucifix_at_Santa_Maria_Novella"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Giotto's Crucifix at Santa Maria Novella (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Giotto%27s_Crucifix_at_Santa_Maria_Novella"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Giotto's Crucifix at Santa Maria Novella is a cross painted in tempera and gold on wood panel (578 x 406 cm) by Giotto di Bondone around 1290–1295.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Giotto's Crucifix at Santa Maria Novella",
+            "readAt": "https://en.wikipedia.org/wiki/Giotto%27s_Crucifix_at_Santa_Maria_Novella",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Giotto's Crucifix at Santa Maria Novella (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Giotto%27s_Crucifix_at_Santa_Maria_Novella"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is one of the earliest known works by the artist, then in his early twenties.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giotto's Crucifix at Santa Maria Novella",
+          "readAt": "https://en.wikipedia.org/wiki/Giotto%27s_Crucifix_at_Santa_Maria_Novella",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In contrast to the iconography now \"canonized\" by Giunta Pisano of the Christus patiens sinuously arched to the left (for the observer), Giotto paints the corpse vertically, legs bent, allowing the full weight to be released.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giotto's Crucifix at Santa Maria Novella",
+          "readAt": "https://en.wikipedia.org/wiki/Giotto%27s_Crucifix_at_Santa_Maria_Novella",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "he banished completely that rude Greek manner and revived the modern and good art of painting",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giotto, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "year": "1550"
+        },
+        "lead": "Vasari on the effect of Giotto's training:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Only the Aureola recalls his divine nature, but Giotto shows a humble man who truly suffers, with whom the observer can compare his pain.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giotto's Crucifix at Santa Maria Novella",
+          "readAt": "https://en.wikipedia.org/wiki/Giotto%27s_Crucifix_at_Santa_Maria_Novella",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}

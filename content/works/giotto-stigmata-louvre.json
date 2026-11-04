@@ -1,0 +1,133 @@
+{
+  "id": "giotto-stigmata-louvre",
+  "artist": "giotto",
+  "title": "St. Francis of Assisi Receiving the Stigmata (Saint François d'Assise recevant les stigmates)",
+  "date": "1297",
+  "year": 1297,
+  "medium": "tempera, gold on poplar panel",
+  "dimensions": "313 × 163 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 309)",
+    "url": "https://www.wikidata.org/wiki/Q23904"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Saint_Fran%C3%A7ois_d%27Assise_recevant_les_stigmates_-_Giotto_-_Mus%C3%A9e_du_Louvre_Peintures_INV_309_%3B_MR_253_-_detoure_fond_blanc.jpg/1280px-Saint_Fran%C3%A7ois_d%27Assise_recevant_les_stigmates_-_Giotto_-_Mus%C3%A9e_du_Louvre_Peintures_INV_309_%3B_MR_253_-_detoure_fond_blanc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Saint_Fran%C3%A7ois_d%27Assise_recevant_les_stigmates_-_Giotto_-_Mus%C3%A9e_du_Louvre_Peintures_INV_309_%3B_MR_253_-_detoure_fond_blanc.jpg/2560px-Saint_Fran%C3%A7ois_d%27Assise_recevant_les_stigmates_-_Giotto_-_Mus%C3%A9e_du_Louvre_Peintures_INV_309_%3B_MR_253_-_detoure_fond_blanc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2226,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Saint François d'Assise recevant les stigmates - Giotto - Musée du Louvre Peintures INV 309 ; MR 253 - detoure fond blanc.jpg)"
+  },
+  "archive": {
+    "wd": "Q23904"
+  },
+  "phase": {
+    "label": "Florence and Pisa, c. 1295–1300",
+    "source": {
+      "label": "Saint Francis Receiving the Stigmata (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Stigmata_of_Saint_Francis_(Giotto)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Saint Francis Receiving the Stigmata (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Stigmata_of_Saint_Francis_(Giotto)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Saint Francis Receiving the Stigmata (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Stigmata_of_Saint_Francis_(Giotto)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The work has a rectangular shape in the lower part, ending with a triangular cusp, and has a gold ground.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Stigmata of Saint Francis (Giotto)",
+            "readAt": "https://en.wikipedia.org/wiki/Stigmata_of_Saint_Francis_(Giotto)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Saint Francis Receiving the Stigmata (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Stigmata_of_Saint_Francis_(Giotto)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The scene was innovative as it abandoned the Italo-Byzantine tradition of inexpressive figures as the center of paintings in favor of a moment of action as the principal subject",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Stigmata of Saint Francis (Giotto)",
+          "readAt": "https://en.wikipedia.org/wiki/Stigmata_of_Saint_Francis_(Giotto)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "besides certain landscapes full of trees and cliffs, which was something new in those times, there are seen in the attitude of a S. Francis, who is kneeling and receiving the Stigmata with much readiness, a most ardent desire to receive them and infinite love towards Jesus Christ",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giotto, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "year": "1550"
+        },
+        "lead": "Vasari on the Pisa panel:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This panel, which to-day is seen in S. Francesco in Pisa on a pillar beside the high-altar, and is held in great veneration as a memorial of so great a man",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giotto, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "year": "1550"
+        },
+        "lead": "Vasari on its place in Pisa:"
+      },
+      {
+        "kind": "quote",
+        "text": "In 1813 it became property of the Louvre (inv. 309), as part of the Napoleonic looting of art in Italy",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Stigmata of Saint Francis (Giotto)",
+          "readAt": "https://en.wikipedia.org/wiki/Stigmata_of_Saint_Francis_(Giotto)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "claude-session"
+  }
+}
