@@ -16,11 +16,19 @@ async function main() {
   const tagIds = new Set(tags.map((t) => t.value.id));
   const workIds = new Set<string>();
 
-  const checkPassages = (file: string, kind: "artist" | "work" | "tag", v: any) => {
+  const artistName = new Map(artists.map((a) => [a.value.id, a.value.name]));
+  const fold = (s: string) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  const checkPassages = (file: string, kind: "artist" | "work" | "tag", v: any, artist?: string) => {
     const perSource = new Map<string, number>();
     for (const { where, p } of passagesOf(kind, v)) {
       if (p.kind === "ai" && p.text.split(/\s+/).length > 90) problems.push(`${file} ${where}: AI note over 90 words`);
       if (!isQuote(p)) continue;
+      // Tier 1 is shown as "Artist": only the artist's own words qualify.
+      if (artist && p.source.tier === 1) {
+        const words = fold(artist).split(/[\s-]+/);
+        if (!fold(p.source.author).split(/[\s-]+/).some((w: string) => w.length > 2 && words.includes(w)))
+          problems.push(`${file} ${where}: tier 1 (Artist) is for ${artist}'s own words, not ${p.source.author}; use tier 2/3`);
+      }
       const n = p.text.split(/\s+/).filter(Boolean).length;
       if (n > QUOTE_WORD_LIMIT) problems.push(`${file} ${where}: quote is ${n} words (limit ${QUOTE_WORD_LIMIT})`);
       if (p.source.tier === 2 || p.source.tier === 3) {
@@ -35,7 +43,7 @@ async function main() {
     for (const m of a.movements) if (!tagIds.has(m.id)) problems.push(`${file}: unknown movement tag ${m.id}`);
     for (const p of a.peers)
       if (!artistIds.has(p.id) && !archiveIds.has(p.id)) problems.push(`${file}: peer ${p.id} is neither curated nor in the archive index`);
-    checkPassages(file, "artist", a);
+    checkPassages(file, "artist", a, a.name);
   }
   for (const { file, value: t } of tags) checkPassages(file, "tag", t);
   for (const { file } of [...artists, ...works, ...tags]) {
@@ -53,22 +61,33 @@ async function main() {
         problems.push(`${file}: section ${name} leads with AI although a human quote exists`);
       void lead;
     }
-    checkPassages(file, "work", w);
+    checkPassages(file, "work", w, artistName.get(w.artist));
   }
 
   if (process.argv.includes("--images")) {
-    await Promise.all(
-      works.map(async ({ file, value: w }) => {
+    // A few at a time, with retries: Wikimedia drops bursts of requests.
+    const head = async (url: string) => {
+      for (let i = 0; i < 3; i++) {
+        const res = await fetch(url, { method: "HEAD", headers: { "User-Agent": UA } }).catch(() => null);
+        if (res?.ok || (res && res.status < 429)) return res;
+        await new Promise((r) => setTimeout(r, 1500 * (i + 1)));
+      }
+      return null;
+    };
+    const queue = [...works];
+    const check = async ({ file, value: w }: (typeof works)[number]) => {
         // AIC's image server doesn't serve images embedded in other sites, so
         // these cards would show blank. Use the Commons photograph instead.
         if (/artic\.edu\/iiif\//.test(w.image.url)) {
           problems.push(`${file}: AIC image URLs don't display when embedded; use the Wikimedia Commons image (npm run commons-images)`);
           return;
         }
-        const res = await fetch(w.image.url, { method: "HEAD", headers: { "User-Agent": UA } }).catch(() => null);
+        const res = await head(w.image.url);
         if (!res?.ok) problems.push(`${file}: image not reachable (${res?.status ?? "network"})`);
-      }),
-    );
+    };
+    await Promise.all(Array.from({ length: 6 }, async () => {
+      for (let job = queue.shift(); job; job = queue.shift()) await check(job);
+    }));
   }
 
   console.log(`${artists.length} artists, ${works.length} works, ${tags.length} tags, ${archive.length} archive artists`);
