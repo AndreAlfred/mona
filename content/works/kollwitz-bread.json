@@ -1,0 +1,142 @@
+{
+  "id": "kollwitz-bread",
+  "artist": "kathe-kollwitz",
+  "title": "Brot! (Bread!)",
+  "date": "1924",
+  "year": 1924,
+  "dimensions": "20.25 × 15.5 in.",
+  "museum": {
+    "name": "Vanderbilt Museum of Art (1977.011)",
+    "url": "https://www.wikidata.org/wiki/Q103297795"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Brot%21_%28Bread%21%29_-_Vanderbilt_Fine_Arts_Gallery_-_1977.011.tif/lossy-page1-1280px-Brot%21_%28Bread%21%29_-_Vanderbilt_Fine_Arts_Gallery_-_1977.011.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Brot%21_%28Bread%21%29_-_Vanderbilt_Fine_Arts_Gallery_-_1977.011.tif/lossy-page1-1280px-Brot%21_%28Bread%21%29_-_Vanderbilt_Fine_Arts_Gallery_-_1977.011.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1518,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Brot! (Bread!) - Vanderbilt Fine Arts Gallery - 1977.011.tif)"
+  },
+  "archive": {
+    "wd": "Q103297795"
+  },
+  "phase": {
+    "label": "Weimar-era posters, 1920s",
+    "source": {
+      "label": "Wikipedia: in 1924 she finished her three most famous posters",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Worcester Art Museum catalogue (1933): Bread (Lithograph)",
+        "url": "https://archive.org/details/exhibitionofprin00worc"
+      }
+    },
+    {
+      "id": "social-realism",
+      "source": {
+        "label": "Wikipedia: Kollwitz among the artists who embraced social realism",
+        "url": "https://en.wikipedia.org/wiki/Social_realism"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Social realism is work produced by painters, printmakers, photographers, writers, filmmakers and some musicians that aims to draw attention to the real socio-political conditions of the working class as a means to critique the power structures behind these conditions.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Social realism",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Social_realism",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1924 she finished her three most famous posters: Germany's Children Starving, Bread, and Never Again War (\"Nie Wieder Krieg\").",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The drawings and prints of Kathe Kollwitz are too fervent and sincere to be classed as propaganda; they … are the expression of suffering and anguish, and of the joys and desires of the German workers.",
+        "lead": "An American museum introducing her prints in 1933:",
+        "source": {
+          "author": "Worcester Art Museum",
+          "title": "Exhibition of Prints by Käthe Kollwitz: Studies from the German Revolution, 1919–21 (catalogue introduction, signed F.H.T.)",
+          "publisher": "Worcester Art Museum",
+          "year": "1933",
+          "url": "https://archive.org/details/exhibitionofprin00worc",
+          "readAt": "https://archive.org/stream/exhibitionofprin00worc/exhibitionofprin00worc_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 4,
+          "license": "Internet Archive scan"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Artists in Western Europe also embraced social realism in the early 20th century, including … German artists Käthe Kollwitz, George Grosz, Otto Dix, and Max Beckmann",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Social realism",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Social_realism",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "My work is not, of course, pure art in the sense that Schmidt-Rottluff's is, but it is art nonetheless... It is all right with me that my work serves a purpose. I want to have an effect on my time, in which human beings are so confused and in need of help.",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "Quoted in Renate Hinz, Käthe Kollwitz: Graphics, Posters, Drawings (1981), introduction, p. xxiii, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "There must be understanding between the artist and the people. In the best ages of art that has always been the case.",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "Diary entry, 21 February 1916, in The Diary and Letters of Kaethe Kollwitz, ed. Hans Kollwitz, trans. Richard and Clara Winston (1955), quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1916"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

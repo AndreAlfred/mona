@@ -1,0 +1,145 @@
+{
+  "id": "ma-yuan-water-studies",
+  "artist": "ma-yuan",
+  "title": "Water Studies (leaf: The Yellow River Breaches its Course)",
+  "date": "late 12th–early 13th century",
+  "year": 1200,
+  "medium": "Ink and light color on silk (handscroll)",
+  "dimensions": "26.8 × 41.6 cm",
+  "museum": {
+    "name": "The Palace Museum (新00146619)",
+    "url": "https://minghuaji.dpm.org.cn/paint/detail?id=df3320e6acc646118a50505d5562a132"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg/1280px-Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg",
+    "large": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg",
+    "width": 1280,
+    "height": 839,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ma Yuan - Water Album - The Yellow River Breaches its Course.jpg)"
+  },
+  "archive": {
+    "wd": "Q116402595"
+  },
+  "phase": {
+    "label": "The versatile court painter: a series of water studies",
+    "source": {
+      "label": "Wikipedia: Ma’s surviving oeuvre includes “a series of paintings of water and mountains (Palace Museum, Beijing)”",
+      "url": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikimedia Commons (Palace Museum data): ink and light color painting on silk",
+        "url": "https://commons.wikimedia.org/wiki/File:%E9%A9%AC%E8%BF%9C%E6%B0%B4%E5%9B%BE%E5%8D%B7.png"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "His colour is generally thin, consisting of a few transparent tints that just modify the prevailing warm monochrome of ink and paper.",
+          "lead": "Ernest Fenollosa on Ma Yuan’s colour:",
+          "source": {
+            "author": "Ernest F. Fenollosa",
+            "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+            "publisher": "William Heinemann (Internet Archive scan)",
+            "year": "1913",
+            "page": "40",
+            "url": "https://archive.org/details/epochsofchinesej00fenorich",
+            "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+            "accessed": "2026-11-05",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Palace Museum, Beijing: 马远水图卷 (Ma Yuan, Water, handscroll)",
+        "url": "https://commons.wikimedia.org/wiki/File:%E9%A9%AC%E8%BF%9C%E6%B0%B4%E5%9B%BE%E5%8D%B7.png"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Binyon: the Chinese term for landscape, “mountain and water picture”",
+        "url": "https://archive.org/details/histpicteastin00binyuoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Aside from landscapes, Ma's surviving oeuvre includes many different types of works. These include a number of delicate flower paintings (National Palace Museum, Taipei), a series of paintings of water and mountains (Palace Museum, Beijing) …",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ma Yuan (painter)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His touch is rather clear, hard and firm, not getting [effects] by accident, but by complete mastery over design.",
+        "lead": "Ernest Fenollosa on Ma Yuan’s brush:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "40",
+          "url": "https://archive.org/details/epochsofchinesej00fenorich",
+          "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Even the very skilful painters did no more than make the tops of the waves rising and falling; men could almost touch them with their hands and feel the heights and the hollows. They are said to be wonderful; yet, they are little better than prints from wooden blocks.",
+        "lead": "A century before Ma Yuan, the poet-painter Su Shi on how painters drew water (trans. Osvald Sirén):",
+        "source": {
+          "author": "Su Shi (Su Tung-p‘o), trans. Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "35",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Water is a thing alive; its appearance may be quiet and deep, soft and smooth; it may be like the big ocean, or it may be winding and curving. It may be unctuous and glossy, or sprinkling and bubbling, dashing like arrows. … Such are the living aspects of water.",
+        "lead": "The Northern Song landscape painter Guo Xi (Kuo Hsi), in his treatise on landscape (trans. Osvald Sirén):",
+        "source": {
+          "author": "Kuo Hsi (Guo Xi), trans. Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "19",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

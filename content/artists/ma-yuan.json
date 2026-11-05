@@ -1,0 +1,78 @@
+{
+  "id": "ma-yuan",
+  "name": "Ma Yuan",
+  "born": 1160,
+  "died": 1225,
+  "active": "1190s–1225",
+  "nationality": "Chinese",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "ma-xia-school",
+      "source": {
+        "label": "Wikipedia: his works, with Xia Gui’s, “formed the basis of the so-called Ma-Xia school of painting”",
+        "url": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)"
+      }
+    },
+    {
+      "id": "southern-song-academy",
+      "source": {
+        "label": "Sirén: Ma Yuan “became a tai chao in the Academy during the reign of the Emperor Kuang Tsung”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q433603",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Ma Yuan (Japanese Ba-yen) flourished as a Court painter between 1190 and 1224. “In landscape, human figures, flowers, and birds, he was very successful, and stood first of the [Academicians].”",
+      "lead": "Herbert Giles, quoting a Chinese biography:",
+      "source": {
+        "author": "Herbert A. Giles",
+        "title": "An Introduction to the History of Chinese Pictorial Art",
+        "publisher": "Bernard Quaritch (Internet Archive scan)",
+        "year": "1918",
+        "page": "143",
+        "url": "https://archive.org/details/introductiontohi00gileuoft",
+        "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+        "accessed": "2026-11-05",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Ma Yuan was the most perfect product of a family of painters which had been active during several generations.",
+      "lead": "Osvald Sirén, on the Ma family of court painters:",
+      "source": {
+        "author": "Osvald Sirén",
+        "title": "A History of Early Chinese Painting, vol. II",
+        "publisher": "The Medici Society (Internet Archive scan)",
+        "year": "1933",
+        "page": "76",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+        "accessed": "2026-11-05",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "His works, together with that of Xia Gui, formed the basis of the so-called Ma-Xia (馬夏) school of painting, and are considered among the finest from the period. His works has inspired both Chinese artists of the Zhe school, as well as the early Japanese painters Shūbun and Sesshū.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Ma Yuan (painter)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "ma-yuan-watching-deer",
+  "artist": "ma-yuan",
+  "title": "Watching the Deer by a Pine Shaded Stream",
+  "date": "1127–1279",
+  "year": 1127,
+  "medium": "Album leaf; ink and light color on silk",
+  "dimensions": "Overall: 33.7 x 39.3 cm (13 1/4 x 15 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1997.88"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.88/1997.88_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1997.88/1997.88_print.jpg",
+    "width": 900,
+    "height": 840,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Mrs. A. Dean Perry"
+  },
+  "archive": {
+    "cma": 160127
+  },
+  "phase": {
+    "label": "Mature court style: one-corner album leaves",
+    "source": {
+      "label": "Wikipedia: the “one-corner” composition is a characteristic feature of many of Ma Yuan’s paintings; many album leaves survive",
+      "url": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)"
+    }
+  },
+  "tags": [
+    {
+      "id": "one-corner-composition",
+      "ai": true,
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The artists of modern times who taught painting in a prescribed space, were Ma Yuan and Hsia Kuei.",
+          "lead": "A later Chinese critic, quoted by Herbert Giles:",
+          "source": {
+            "author": "Herbert A. Giles",
+            "title": "An Introduction to the History of Chinese Pictorial Art",
+            "publisher": "Bernard Quaritch (Internet Archive scan)",
+            "year": "1918",
+            "page": "145",
+            "url": "https://archive.org/details/introductiontohi00gileuoft",
+            "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+            "accessed": "2026-11-05",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: Watching the Deer by a Pine Shaded Stream",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/160127"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "“Ma Yuan made his pine-trees very tall and strong like iron. Sometimes he painted them with a stump brush; they have an old spirit and are very beautiful and elegant.”",
+        "lead": "An old Chinese chronicler, translated by Osvald Sirén:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "79",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His old pines, with branches wreathed in vines, would suffice alone to define his style, so freely do they express the force of plant life and the proud defiance of the aged tree.",
+        "lead": "Raphael Petrucci on Ma Yuan’s pines:",
+        "source": {
+          "author": "Raphael Petrucci",
+          "title": "Chinese Painters: A Critical Study (trans. Frances Seaver)",
+          "publisher": "Project Gutenberg",
+          "year": "1920",
+          "url": "https://www.gutenberg.org/ebooks/22288",
+          "readAt": "https://www.gutenberg.org/cache/epub/22288/pg22288.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The school of Ma dominated the entire subsequent period and his influence extended as far as Korea, where traces of it were still to be found as late as the fifteenth century.",
+        "source": {
+          "author": "Raphael Petrucci",
+          "title": "Chinese Painters: A Critical Study (trans. Frances Seaver)",
+          "publisher": "Project Gutenberg",
+          "year": "1920",
+          "url": "https://www.gutenberg.org/ebooks/22288",
+          "readAt": "https://www.gutenberg.org/cache/epub/22288/pg22288.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The strictures passed by a Ming commentator upon both Bayen and Kakei, that they are poor and unworthy in style, is a bit of pure Confucian misconception. … Extreme Confucians did not like them; but all Chinese artists and critics of any power have regarded them as standing at the top.",
+        "lead": "Ernest Fenollosa defends Ma Yuan (Bayen) and Xia Gui (Kakei) against later critics:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "40",
+          "url": "https://archive.org/details/epochsofchinesej00fenorich",
+          "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The artist suggests infinity not only by utilizing empty space as a most potent factor in the composition, but also as a reflection in the soul of man. The two elements of the conception — man and nature — are completely fused into a harmonious unity.",
+        "lead": "Sirén, on a moonlit scholar in another Ma Yuan picture:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "80",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

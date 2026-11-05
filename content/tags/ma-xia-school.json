@@ -1,0 +1,37 @@
+{
+  "id": "ma-xia-school",
+  "kind": "movement",
+  "name": "Ma–Xia school",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The new ideals of monochrome landscape painting, which more than any other form of painting have made the art of the Southern Sung period known and admired in the Western world and in Japan, became manifest during the last quarter of the twelfth century. Their greatest protagonists were Ma Yuan and Hsia Kuei …",
+      "lead": "Osvald Sirén, opening his chapter on “The Ma-Hsia School of Landscape Painting”:",
+      "source": {
+        "author": "Osvald Sirén",
+        "title": "A History of Early Chinese Painting, vol. II",
+        "publisher": "The Medici Society (Internet Archive scan)",
+        "year": "1933",
+        "page": "76",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+        "accessed": "2026-11-05",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Xia Gui and his contemporary, Ma Yuan, were among the most influential painters of their time; they had numerous followers who are now referred to as belonging to the Ma-Xia school.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Xia Gui",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Xia_Gui",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Southern Song"
+}

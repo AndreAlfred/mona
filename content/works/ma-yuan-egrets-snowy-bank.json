@@ -1,0 +1,145 @@
+{
+  "id": "ma-yuan-egrets-snowy-bank",
+  "artist": "ma-yuan",
+  "title": "Two Egrets on a Snowy Bank (雪灘雙鷺)",
+  "date": "c. 1190",
+  "year": 1190,
+  "medium": "silk",
+  "dimensions": "59 × 37.6 cm",
+  "museum": {
+    "name": "National Palace Museum",
+    "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/36?dep=P"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%E5%AE%8B%E9%A6%AC%E9%81%A0%E9%9B%AA%E7%81%98%E9%9B%99%E9%B7%BA_%E8%BB%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2581,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (宋馬遠雪灘雙鷺 軸.jpg)"
+  },
+  "archive": {
+    "wd": "Q139043982"
+  },
+  "phase": {
+    "label": "Mature court style: signed works, 1190s–1220s",
+    "source": {
+      "label": "Sirén: “The very effective picture is provided with Ma Yuan’s signature”",
+      "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+    }
+  },
+  "tags": [
+    {
+      "id": "one-corner-composition",
+      "source": {
+        "label": "Sirén: an overhanging cliff and tortuous tree at one side, in his discussion of Ma Yuan’s “unilateral design”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The uncovered silken end of a great masterpiece is often more replete with meaning than the painted part itself.",
+          "lead": "Okakura Kakuzō, who names Bayen (Ma Yuan) among the Song painters who understood this:",
+          "source": {
+            "author": "Kakuzo Okakura",
+            "title": "The Ideals of the East, with Special Reference to the Art of Japan",
+            "publisher": "John Murray (Internet Archive scan)",
+            "year": "1905",
+            "url": "https://archive.org/details/idealsofeastwith00okak",
+            "readAt": "https://archive.org/stream/idealsofeastwith00okak/idealsofeastwith00okak_djvu.txt",
+            "accessed": "2026-11-05",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Sirén: the picture “represents some white egrets on the shore”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "National Palace Museum record: 宋馬遠雪灘雙鷺 軸 (hanging scroll)",
+        "url": "https://www.wikidata.org/wiki/Q139043982"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The one represents some white egrets on the shore under an overhanging cliff from which a tortuous tree is growing out in horizontal curves … The contour of a steep cliff gives relief to the background, but its top is cut off. A light cover of white snow accentuates the contrast of the bold ink-lines. The very effective picture is provided with Ma Yuan’s signature.",
+        "lead": "Osvald Sirén, describing the picture when it was in the Palace Museum, Peking:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "80",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "“Ma Yuan’s trees were always slanting obliquely or crooked and tortuous; gardeners who make trees grow in such a way are still called Ma Yuan.”",
+        "lead": "An old Chinese chronicler, translated by Sirén:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "79",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Ma Yuean is classed with the Southern School by reason of his restraint in the use of color, his greatness of conception and his technical treatment of forms. But he brings to his work a virility in which the influence of the Northern School is plainly discerned.",
+        "lead": "Raphael Petrucci, on where Ma Yuan stands among the schools:",
+        "source": {
+          "author": "Raphael Petrucci",
+          "title": "Chinese Painters: A Critical Study (trans. Frances Seaver)",
+          "publisher": "Project Gutenberg",
+          "year": "1920",
+          "url": "https://www.gutenberg.org/ebooks/22288",
+          "readAt": "https://www.gutenberg.org/cache/epub/22288/pg22288.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Austere at times, with a sense of desolation in bare peak and blasted pine, yet often bathed in the mood of a serene and silent joy, the joy of the mountain-dweller gazing out on vast spaces of moon-flooded night, their art is never trivial, never pretty.",
+        "lead": "Laurence Binyon, on Ma Yuan and the Song landscape masters:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1908",
+          "page": "137",
+          "url": "https://archive.org/details/histpicteastin00binyuoft",
+          "readAt": "https://archive.org/stream/histpicteastin00binyuoft/histpicteastin00binyuoft_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

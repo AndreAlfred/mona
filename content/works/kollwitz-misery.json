@@ -1,0 +1,142 @@
+{
+  "id": "kollwitz-misery",
+  "artist": "kathe-kollwitz",
+  "title": "Misery (Not)",
+  "date": "c. 1897",
+  "year": 1897,
+  "medium": "ink on paper",
+  "dimensions": "27 × 25.2 cm",
+  "museum": {
+    "name": "Strasbourg Museum of Modern and Contemporary Art (XVIII 41)",
+    "url": "https://www.wikidata.org/wiki/Q125399053"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/K%C3%A4the_Kollwitz%2C_Not_%28Mis%C3%A8re%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1277,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Käthe Kollwitz, Not (Misère).jpg)"
+  },
+  "archive": {
+    "wd": "Q125399053"
+  },
+  "phase": {
+    "label": "Years of A Weavers’ Revolt, 1893–97",
+    "ai": true
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Wikidata: drawing by Käthe Kollwitz (ink on paper)",
+        "url": "https://www.wikidata.org/wiki/Q125399053"
+      }
+    },
+    {
+      "id": "pen-and-ink",
+      "source": {
+        "label": "Wikimedia Commons (MAMCS record): pen and black ink, ink wash on paper",
+        "url": "https://commons.wikimedia.org/wiki/File:K%C3%A4the_Kollwitz,_Not_(Mis%C3%A8re).jpg"
+      }
+    },
+    {
+      "id": "social-realism",
+      "source": {
+        "label": "Wikipedia: Kollwitz among the artists who embraced social realism",
+        "url": "https://en.wikipedia.org/wiki/Social_realism"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "They focused on the ugly realities of contemporary life and sympathized with working-class people, particularly the poor.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Social realism",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Social_realism",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "She produced a cycle of six works on the weavers theme, three lithographs (Poverty, Death, and Conspiracy) and three etchings with aquatint and sandpaper (March of the Weavers, Riot, and The End). Not a literal illustration of the drama, nor an idealization of workers, the prints expressed the workers' misery, hope, courage, and eventually, doom.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nevertheless, The Weavers became Kollwitz's most widely acclaimed work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Between the births of her sons – Hans in 1892 and Peter in 1896 – Kollwitz saw a performance of Gerhart Hauptmann's The Weavers, which dramatized the oppression of the Silesian weavers in Langenbielau and their failed revolt in 1844.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The cycle was exhibited publicly in 1898 to wide acclaim. But when Adolph Menzel nominated her work for the gold medal of the Great Berlin Art Exhibition of 1898 in Berlin, Kaiser Wilhelm II withheld his approval, saying \"I beg you gentlemen, a medal for a woman, that would really be going too far …\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It was not until much later…when I got to know the women who would come to my husband for help, and incidentally also to me, that I was powerfully moved by the fate of the proletariat and everything connected with its way of life.",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "Recollection, quoted in “Käthe Kollwitz”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription of a translation)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

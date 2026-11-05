@@ -1,0 +1,163 @@
+{
+  "id": "ma-yuan-drinking-moonlight",
+  "artist": "ma-yuan",
+  "title": "Drinking in the Moonlight",
+  "date": "late 1100s–early 1200s",
+  "year": 1189,
+  "medium": "Album leaf; ink on silk",
+  "dimensions": "Painting: 24.5 x 25 cm (9 5/8 x 9 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1997.89"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.89/1997.89_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1997.89/1997.89_print.jpg",
+    "width": 900,
+    "height": 775,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Mrs. A. Dean Perry"
+  },
+  "archive": {
+    "cma": 160128
+  },
+  "phase": {
+    "label": "The Ma family studio: Ma Yuan or his son Ma Lin",
+    "source": {
+      "label": "Cleveland Museum of Art: association with Ma Yuan is stylistic; the brushwork “accords more with the aesthetic approach of his son, Ma Lin”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/160128"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: album leaf; ink on silk",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/160128"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "His touch is rather clear, hard and firm, not getting [effects] by accident, but by complete mastery over design. He gave his trees a clear, though not thick outline in firmly penned ink.",
+          "lead": "Ernest Fenollosa on Ma Yuan’s brush:",
+          "source": {
+            "author": "Ernest F. Fenollosa",
+            "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+            "publisher": "William Heinemann (Internet Archive scan)",
+            "year": "1913",
+            "page": "40",
+            "url": "https://archive.org/details/epochsofchinesej00fenorich",
+            "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+            "accessed": "2026-11-05",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: “receding craggy rocks leading to the framed full moon”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/160128"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The association of this painting with Ma Yuan is stylistically based. However, the brushwork accords more with the aesthetic approach of his son, Ma Lin.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Drinking in the Moonlight (collection description)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/160128",
+          "accessed": "2026-11-05",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He was evidently a very able painter, and we are told that the father employed him extensively as a collaborator. But he did not possess the great creative spirit of the father …",
+        "lead": "Osvald Sirén on Ma Lin:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "83",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The fierce energy of the old master gives way to a somewhat more melancholy and gentle quality in his son.",
+        "lead": "Raphael Petrucci compares father and son:",
+        "source": {
+          "author": "Raphael Petrucci",
+          "title": "Chinese Painters: A Critical Study (trans. Frances Seaver)",
+          "publisher": "Project Gutenberg",
+          "year": "1920",
+          "url": "https://www.gutenberg.org/ebooks/22288",
+          "readAt": "https://www.gutenberg.org/cache/epub/22288/pg22288.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "For moon enthusiasts in Hangzhou, there was a site named Yue Yan, or Moon Cliff, behind the imperial precincts on Mount Fenghuang. With its geographical features of receding craggy rocks leading to the framed full moon, there is good reason to believe that the scene depicts this specific site.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Drinking in the Moonlight (collection description)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/160128",
+          "accessed": "2026-11-05",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Once the moon rises and the wine is finished, perhaps the reclined tipsy gentleman will return to the stone table, where ink, paper, and brush can be seen.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Drinking in the Moonlight (collection description)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/160128",
+          "accessed": "2026-11-05",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Ma Yuan had … a son, Ma Lin, who \"was able to carry on the family tradition, but was a long way behind his father.\"",
+        "lead": "Herbert Giles, quoting the Chinese records:",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Bernard Quaritch (Internet Archive scan)",
+          "year": "1918",
+          "page": "144",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

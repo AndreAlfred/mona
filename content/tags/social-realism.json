@@ -1,0 +1,34 @@
+{
+  "id": "social-realism",
+  "kind": "movement",
+  "name": "Social realism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Social realism is work produced by painters, printmakers, photographers, writers, filmmakers and some musicians that aims to draw attention to the real socio-political conditions of the working class as a means to critique the power structures behind these conditions.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Social realism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Social_realism",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "While the movement's characteristics vary from nation to nation, it almost always uses a form of descriptive or critical realism.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Social realism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Social_realism",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "social realism"
+}

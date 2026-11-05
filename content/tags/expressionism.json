@@ -1,0 +1,34 @@
+{
+  "id": "expressionism",
+  "kind": "movement",
+  "name": "Expressionism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Expressionism is a modernist movement, initially in poetry and painting, originating in Northern Europe around the beginning of the 20th century. Its typical trait is to present the world solely from a subjective perspective, distorting it radically for emotional effect in order to evoke moods or ideas.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Expressionism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Expressionism",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Expressionism developed as an avant-garde style before the First World War. It remained popular during the Weimar Republic, particularly in Berlin.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Expressionism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Expressionism",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Expressionism"
+}

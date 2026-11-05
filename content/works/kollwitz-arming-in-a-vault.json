@@ -1,0 +1,141 @@
+{
+  "id": "kollwitz-arming-in-a-vault",
+  "artist": "kathe-kollwitz",
+  "title": "Peasants' War: Arming in a Vault",
+  "date": "1906",
+  "year": 1906,
+  "medium": "etching and aquatint",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1992.151"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1992.151/1992.151_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1992.151/1992.151_print.jpg",
+    "width": 598,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Seventy-fifth anniversary gift of Brenda and Evan H. Turner"
+  },
+  "archive": {
+    "cma": 156320
+  },
+  "phase": {
+    "label": "Peasants’ War cycle, 1902–08",
+    "source": {
+      "label": "Wikipedia: the Peasant War series, 1902–1908",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art: etching and aquatint",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/156320"
+      }
+    },
+    {
+      "id": "aquatint",
+      "source": {
+        "label": "Cleveland Museum of Art: etching and aquatint",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/156320"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Aquatint is an intaglio printmaking technique, a variant of etching that produces areas of tone rather than lines. For this reason it has mostly been used in conjunction with etching, to give both lines and shaded tone.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Aquatint",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Aquatint",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "When completed, the Peasant War consisted of seven etchings: Plowing, Raped, Sharpening the Scythe, Arming in the Vault, Charge, The Prisoners, and After the Battle.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Kollwitz visited Paris twice while working on Peasant War and took classes at the Académie Julian in 1904 to learn to sculpt. The etching Outbreak was awarded the Villa Romana Prize. This prize provided a year's stay in 1907 in a studio in Florence.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1906 he founded the Villa Romana Prize.",
+        "lead": "Max Klinger, whose etchings had inspired her:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Max Klinger",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Max_Klinger",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "However, the initial source of Kollwitz's interest dated to her youth when she and her brother Konrad playfully imagined themselves as barricade fighters in a revolution.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I have been through a revolution, and I am convinced that I am no revolutionist. My childhood dreams of dying on the barricades will hardly be fulfilled, because I should hardly mount a barricade now that I know what they were like in reality.",
+        "lead": "In her diary in 1921, after the German revolution:",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "Diary entry, 28 June 1921, in The Diary and Letters of Kaethe Kollwitz, ed. Hans Kollwitz, trans. Richard and Clara Winston (1955), quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1921"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}
