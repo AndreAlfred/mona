@@ -1,0 +1,113 @@
+{
+  "id": "sekka-taira-no-tadanori",
+  "artist": "kamisaka-sekka",
+  "title": "Flowers of a Hundred Worlds (Momoyogusa): Taira no Tadanori (Tadanori)",
+  "date": "1909–10",
+  "year": 1909,
+  "medium": "color woodcuts with gold and silver",
+  "dimensions": "Sheet: 29.9 x 22.1 cm (11 3/4 x 8 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1988.23.1.12"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1988.23.1.12/1988.23.1.12_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1988.23.1.12/1988.23.1.12_print.jpg",
+    "width": 900,
+    "height": 618,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund"
+  },
+  "archive": {
+    "cma": 154133
+  },
+  "phase": {
+    "label": "Momoyogusa, 1909–10",
+    "source": {
+      "label": "Wikipedia: the three-volume set was commissioned between 1909 and 1910 by Unsodo of Kyoto",
+      "url": "https://en.wikipedia.org/wiki/Kamisaka_Sekka"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodcuts with gold and silver",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154133"
+      }
+    },
+    {
+      "id": "rinpa",
+      "source": {
+        "label": "Cleveland Museum of Art: Sekka's selections hew closely to Rinpa precedents",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154133"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This print from a set of three woodblock printed albums displays the graphic design prowess of Kamisaka Sekka.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa): Taira no Tadanori (Tadanori)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/154133",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rinpa was revived in 19th century Edo by Sakai Hōitsu (1761–1828), a Kanō school artist whose family had been one of Ogata Kōrin’s sponsors. Sakai published a series of 100 woodcut prints based on paintings by Kōrin",
+        "lead": "Rinpa in print, a century before Sekka:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rinpa school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rinpa_school",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to the Tale of the Heike, before fleeing the capital after a loss to the Minamoto, he visited Fujiwara no Shunzei to deliver a \"hundred or so\" poems.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Taira no Tadanori",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Taira_no_Tadanori",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He died in the Battle of Ichi-no-Tani. His body was identified by a signed poem that was fastened to his quiver. The poem read: … Evening drawing on, I'll take lodging in the shade of this tree, and make its blossoms my host for the night.",
+        "lead": "The poet-general's death:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Taira no Tadanori",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Taira_no_Tadanori",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "kamisaka-sekka",
+  "name": "Kamisaka Sekka",
+  "born": 1866,
+  "died": 1942,
+  "active": "1890s–1942",
+  "nationality": "Japanese",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "rinpa",
+      "source": {
+        "label": "Wikipedia: one later artist of note is Kamisaka Sekka",
+        "url": "https://en.wikipedia.org/wiki/Rinpa_school"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "tawaraya-sotatsu",
+      "name": "Tawaraya Sōtatsu",
+      "source": {
+        "label": "Cleveland Museum of Art: Sekka's selections hew closely to precedents from Sōtatsu",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154128"
+      }
+    }
+  ],
+  "wikidata": "Q6358490",
+  "archive": {
+    "aic": 42579,
+    "cma": [
+      1115
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Kamisaka Sekka (神坂 雪佳; 1866–1942) was an important artistic figure in early twentieth-century Japan. Born in Kyoto to a samurai family, his talents for art and design were recognized early. He eventually allied himself with the traditional Rinpa school of art. He is considered the last great proponent of this artistic tradition.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Kamisaka Sekka",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kamisaka_Sekka",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In 1901, Sekka was sent by the Japanese government to Glasgow where he was heavily influenced by Art Nouveau. … Returning to Japan, he taught at the newly opened Kyoto Municipal School of Arts and Crafts, experimented with Western tastes, styles, and methods, and incorporated them into his otherwise traditional Japanese-style works.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Kamisaka Sekka",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kamisaka_Sekka",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

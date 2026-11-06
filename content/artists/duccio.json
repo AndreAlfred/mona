@@ -1,0 +1,73 @@
+{
+  "id": "duccio",
+  "name": "Duccio di Buoninsegna",
+  "born": 1255,
+  "died": 1319,
+  "active": "1278–c. 1318",
+  "nationality": "Italian (Sienese)",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio may be considered the father of Sienese painting",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "giotto",
+      "name": "Giotto di Bondone",
+      "source": {
+        "label": "Berenson: Duccio the last of the ancients, Giotto the first of the moderns",
+        "url": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q15792",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "The first flower of this new growth, the flower from whose seed all Sienese art sprung, was Duccio di Buoninsegna.",
+      "lead": "Berenson on Duccio's place in Siena:",
+      "source": {
+        "author": "Bernard Berenson",
+        "title": "The Central Italian Painters of the Renaissance",
+        "year": "1897",
+        "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+        "accessed": "2026-11-06",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Duccio, properly regarded, is the last of the great artists of antiquity, in contrast to Giotto, who was the first of the moderns.",
+      "source": {
+        "author": "Bernard Berenson",
+        "title": "The Central Italian Painters of the Renaissance",
+        "year": "1897",
+        "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+        "accessed": "2026-11-06",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "One avenue to reconstructing Duccio's biography are the traces of him in archives that list when he ran up debts or incurred fines. Some records say he was married with seven children.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Duccio",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Duccio",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

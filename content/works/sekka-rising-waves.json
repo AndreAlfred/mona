@@ -1,0 +1,111 @@
+{
+  "id": "sekka-rising-waves",
+  "artist": "kamisaka-sekka",
+  "title": "Flowers of a Hundred Worlds (Momoyogusa): Rising Waves (Tachinami)",
+  "date": "1909–10",
+  "year": 1909,
+  "medium": "color woodcuts with gold and silver",
+  "dimensions": "Sheet: 29.9 x 22.1 cm (11 3/4 x 8 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1988.23.1.7"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1988.23.1.7/1988.23.1.7_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1988.23.1.7/1988.23.1.7_print.jpg",
+    "width": 900,
+    "height": 613,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund"
+  },
+  "archive": {
+    "cma": 154147
+  },
+  "phase": {
+    "label": "Momoyogusa, 1909–10",
+    "source": {
+      "label": "Wikipedia: the three-volume set was commissioned between 1909 and 1910 by Unsodo of Kyoto",
+      "url": "https://en.wikipedia.org/wiki/Kamisaka_Sekka"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodcuts with gold and silver",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154147"
+      }
+    },
+    {
+      "id": "rinpa",
+      "source": {
+        "label": "Cleveland Museum of Art: Sekka's selections hew closely to Rinpa precedents",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154147"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Sekka’s selections hew closely to precedents from the Rinpa style originated by painter Tawaraya Sōtatsu (c. 1570–c. 1640) and calligrapher Hon’ami Kōetsu (1558–1637).",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa): Rising Waves (Tachinami)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/154147",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This has curved rocks in copper reds and stone blues and greens arising out of a boiling sea of gold and cream. The foam is done in leaping masses of solid white.",
+        "lead": "Fenollosa on Kōrin's great wave screen, now in Boston:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese & Japanese Art, vol. 2",
+          "year": "1912",
+          "readAt": "https://archive.org/stream/epochsofchinese02feno/epochsofchinese02feno_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Sometime in the early 18th century, Kōrin painted a notable copy of Tawaraya Sōtatsu's work, Waves at Matsushima.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ogata Kōrin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ogata_K%C5%8Drin",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Many of the scenes have a long history in Japan, originating in the 900s or 1000s and having been interpreted by all manner of artists since that time.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa): Rising Waves (Tachinami)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/154147",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

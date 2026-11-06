@@ -1,0 +1,187 @@
+{
+  "id": "duccio-maesta",
+  "artist": "duccio",
+  "title": "Maestà (Maestà Altarpiece)",
+  "date": "1308–11",
+  "year": 1308,
+  "medium": "tempera on wood",
+  "dimensions": "211 × 426 cm",
+  "museum": {
+    "name": "Museo dell'Opera del Duomo, Siena",
+    "url": "https://www.wikidata.org/wiki/Q667202"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Maest_0_duccio_1308-11_siena_duomo.jpg/1280px-Maest_0_duccio_1308-11_siena_duomo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1136,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Maest 0 duccio 1308-11 siena duomo.jpg)"
+  },
+  "archive": {
+    "wd": "Q667202"
+  },
+  "phase": {
+    "label": "The Maestà for Siena Cathedral, 1308–11",
+    "source": {
+      "label": "Wikipedia: commissioned 1308, installed 9 June 1311",
+      "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Touching us as the gold of old mosaics touches us, to which time has added a tinge of bronze, Duccio's panels attune our mood",
+          "source": {
+            "author": "Bernard Berenson",
+            "title": "The Central Italian Painters of the Renaissance",
+            "year": "1897",
+            "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+            "accessed": "2026-11-06",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Duccio may be considered the \"father of Sienese painting\".",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Sienese School",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Sienese_School",
+            "accessed": "2026-11-06",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Maestà, or Maestà of Duccio, is an altarpiece composed of many separate paintings commissioned from Duccio di Buoninsegna by the city of Siena in Tuscany in 1308 and is his major work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Duccio)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is like the binding of some priceless illuminated manuscript, inlaid with ivory, adorned with gold, and set with precious stones.",
+        "lead": "Berenson on first seeing it:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I have sought to learn where this panel is to be found to-day, but, for all the diligence that I have thereunto used, I have never been able to discover it",
+        "lead": "Vasari, writing after it had left the high altar:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Duccio, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/25759/pg25759.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Though it took a generation for its effect to be truly felt, Duccio's Maestà set Italian painting on a course leading away from the hieratic representations of the Italo-Byzantine style and towards more direct presentations of reality, as developed by leading figures such as Giotto during the Trecento.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Duccio)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "there was a Coronation of Our Lady, wrought, as it were, in the Greek manner, but blended considerably with the modern.",
+        "lead": "Vasari, from Ghiberti's description:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Duccio, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/25759/pg25759.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "And on that day when it was brought into the cathedral, all workshops remained closed, and the bishop commanded a great host of devoted priests and monks to file past in solemn procession. … all honorable citizens of Siena surrounded said panel with candles held in their hands, and women and children followed humbly behind.",
+        "lead": "A witness to its installation on 9 June 1311:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Duccio)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Holy Mother of God, be thou the cause of peace for Siena and life to Duccio because he painted thee thus.",
+        "lead": "The inscription on the panel, in translation:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Duccio)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lacquerware",
+  "kind": "material",
+  "name": "Lacquerware",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Japanese Lacquerware (日本漆器, shikki) is a Japanese craft with a wide range of fine and decorative arts, as lacquer has been used in urushi-e, prints, and on a wide variety of objects from Buddha statues to bento boxes for food.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Japanese lacquerware",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Japanese_lacquerware",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "lacquer"
+}

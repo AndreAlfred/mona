@@ -1,0 +1,99 @@
+{
+  "id": "sekka-god-of-thunder-drawing",
+  "artist": "kamisaka-sekka",
+  "title": "Flowers of a Hundred Worlds (Momoyogusa): God of Thunder (Raijin)",
+  "date": "1909",
+  "year": 1909,
+  "medium": "ink and color on paper",
+  "dimensions": "Overall: 27.3 x 39.4 cm (10 3/4 x 15 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1989.85.1"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1989.85.1/1989.85.1_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1989.85.1/1989.85.1_print.jpg",
+    "width": 900,
+    "height": 631,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 155074
+  },
+  "phase": {
+    "label": "Preparatory drawings for Momoyogusa, 1909",
+    "source": {
+      "label": "Cleveland Museum of Art: preparatory drawings for his Flowers of a Hundred Worlds series",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/155074"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art: preparatory drawing, ink and color on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/155074"
+      }
+    },
+    {
+      "id": "rinpa",
+      "source": {
+        "label": "Wikipedia: Sekka, the last great proponent of the Rinpa tradition",
+        "url": "https://en.wikipedia.org/wiki/Kamisaka_Sekka"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Kamisaka Sekka made preparatory drawings for his Flowers of a Hundred Worlds series on tracing paper with ink and color. The freehand sketches are much looser than the finished, printed compositions.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa): God of Thunder (Raijin)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/155074",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Paintings of the early Rinpa artists were anthologized in small paperback booklets such as the Korin Gafu (The Korin Picture Album) by Nakamura Hochu",
+        "lead": "Rinpa had long travelled in printed books:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rinpa school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rinpa_school",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In some cases, Raijin is portrayed with three fingers which are said to represent the past, present and future.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raijin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raijin",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

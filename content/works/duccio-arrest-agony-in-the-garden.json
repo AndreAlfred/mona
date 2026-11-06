@@ -1,0 +1,94 @@
+{
+  "id": "duccio-arrest-agony-in-the-garden",
+  "artist": "duccio",
+  "title": "Arrest of Jesus (top); Agony in the Garden (bottom)",
+  "date": "1308–11",
+  "year": 1309,
+  "medium": "tempera on panel",
+  "dimensions": "99.5 × 76 cm",
+  "museum": {
+    "name": "Museo dell'Opera del Duomo, Siena",
+    "url": "https://www.wikidata.org/wiki/Q111821645"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Duccio_di_Buoninsegna_032.jpg/1280px-Duccio_di_Buoninsegna_032.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1579,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Duccio di Buoninsegna 032.jpg)"
+  },
+  "archive": {
+    "wd": "Q111821645"
+  },
+  "phase": {
+    "label": "The Maestà for Siena Cathedral, 1308–11",
+    "source": {
+      "label": "Wikipedia: commissioned 1308, installed 9 June 1311",
+      "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "What compactness and dignity are given to the mass in which we find Christ, by the two tufted trees that surmount it ! … And what a glamour of beauty is lent to the scene by the lances and torches of the soldiers — lines that are and are not parallel",
+        "lead": "Berenson on how the Betrayal is composed:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "ai",
+        "text": "Giotto had painted the same betrayal in Padua only a few years before (c. 1303–05). Set side by side, Duccio's crowded, many-figured night scene and Giotto's single locked gaze between Christ and Judas show the two founders of Italian painting at work on one story."
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Motionless, in the middle of the foreground, we see the figure of Christ. … the Pharisee elders at the sight of His face, which betrays no feeling but pity, start back",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

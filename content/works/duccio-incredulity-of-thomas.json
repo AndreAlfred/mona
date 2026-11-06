@@ -1,0 +1,102 @@
+{
+  "id": "duccio-incredulity-of-thomas",
+  "artist": "duccio",
+  "title": "The Incredulity of Thomas",
+  "date": "1308–11",
+  "year": 1309,
+  "museum": {
+    "name": "Museo dell'Opera del Duomo, Siena",
+    "url": "https://www.wikidata.org/wiki/Q111822202"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/The-Maesta-Altarpiece-The-Incredulity-of-Saint-Thomas-1461_Duccio.jpg/1280px-The-Maesta-Altarpiece-The-Incredulity-of-Saint-Thomas-1461_Duccio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1302,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The-Maesta-Altarpiece-The-Incredulity-of-Saint-Thomas-1461 Duccio.jpg)"
+  },
+  "archive": {
+    "wd": "Q111822202"
+  },
+  "phase": {
+    "label": "The Maestà for Siena Cathedral, 1308–11",
+    "source": {
+      "label": "Wikipedia: commissioned 1308, installed 9 June 1311",
+      "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Christ, with right arm uplifted, appears baring the wound in His side to the impudent touch of His doubting disciple. These two figures stand out by themselves, and to right and left, more crowded on one side, more scattered on the other, stand the remaining disciples, so arranged that we get the expression on each face.",
+        "lead": "Berenson on the Incredulity of Thomas:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The result is that we admire him profoundly as a pictorial dramatist, as a Christian Sophocles, somewhat astray in the realm of painting; we enjoy his material splendour and his exquisite composition, but rarely if ever do we find him directly life-communicating.",
+        "lead": "Berenson's verdict, which he tests on this very panel:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A doubting Thomas is a skeptic who refuses to believe without direct personal experience—a reference to the Gospel of John's depiction of the Apostle Thomas, who, in John's account, refused to believe the resurrected Jesus had appeared to the ten other apostles until he could see and feel Jesus's crucifixion wounds.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Doubting Thomas",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Doubting_Thomas",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

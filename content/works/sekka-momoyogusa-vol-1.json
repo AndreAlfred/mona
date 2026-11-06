@@ -1,0 +1,154 @@
+{
+  "id": "sekka-momoyogusa-vol-1",
+  "artist": "kamisaka-sekka",
+  "title": "Flowers of a Hundred Worlds (Momoyogusa), Vol. 1",
+  "date": "1909–10",
+  "year": 1909,
+  "medium": "one of a set of three woodblock-printed folding-books; ink, color, gold, and silver on paper",
+  "dimensions": "Sheet: 29.9 x 22.1 cm (11 3/4 x 8 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1988.23.1"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1988.23.1/1988.23.1_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1988.23.1/1988.23.1_print.jpg",
+    "width": 676,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund"
+  },
+  "archive": {
+    "cma": 154129
+  },
+  "phase": {
+    "label": "Momoyogusa, 1909–10",
+    "source": {
+      "label": "Wikipedia: the three-volume set was commissioned between 1909 and 1910 by Unsodo of Kyoto",
+      "url": "https://en.wikipedia.org/wiki/Kamisaka_Sekka"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: woodblock-printed folding-books",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154129"
+      }
+    },
+    {
+      "id": "rinpa",
+      "source": {
+        "label": "Cleveland Museum of Art: Sekka, the last major exponent of the Rinpa style",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154129"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It is in this sense that we can call the chief masters of this Korin school the greatest painters of tree and flower forms that the world has ever seen.",
+          "lead": "Fenollosa on the school Sekka revived:",
+          "source": {
+            "author": "Ernest F. Fenollosa",
+            "title": "Epochs of Chinese & Japanese Art, vol. 2",
+            "year": "1912",
+            "readAt": "https://archive.org/stream/epochsofchinese02feno/epochsofchinese02feno_djvu.txt",
+            "accessed": "2026-11-06",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Momoyogusa (A World of Things) is considered Sekka's woodblock-print masterpiece. The three-volume set was commissioned between 1909 and 1910 by the publishing firm Unsodo of Kyoto.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kamisaka Sekka",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kamisaka_Sekka",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This is the first of a set of three woodblock printed albums by Kamisaka Sekka, the artist considered the last major exponent of the Rinpa style of painting and design associated with the artists Tawaraya Sōtatsu (died about 1640) and Ogata Kōrin (1658-1716).",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa), Vol. 1",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/154129",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "As we move forward / in the spirit of the new age, / \"flowers of a hundred worlds\" / sown by seed, now blossom / in distinctive colors and scents",
+        "lead": "The volume's preface poem by Sugawa Nobuyuki, as glossed by John T. Carpenter:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa), Vol. 1",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/154129",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "As traditional Japanese styles became unfashionable (such as Rinpa style), Japan implemented policies to promote the country's unique artistic style by upgrading the status of traditional artists who infused their craft with a dose of modernism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kamisaka Sekka",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kamisaka_Sekka",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Momoyogusa, in addition to meaning \"flowers of a hundred worlds,\" is a classical name for the chrysanthemum. … In the poem, Tarukuni, who was posted in northern Kyushu as a guard at the time, asked a missed beloved in his home province to be well for a hundred nights, like the chrysanthemums growing in his parents' garden.",
+        "lead": "Where the title comes from, a poem of 755:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa), Vol. 1",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/154129",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Chrysanthemums are traditionally associated with longevity, and in some cases immortality.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Flowers of a Hundred Worlds (Momoyogusa), Vol. 1",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/154129",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

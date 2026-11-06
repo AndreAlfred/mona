@@ -1,0 +1,174 @@
+{
+  "id": "duccio-rucellai-madonna",
+  "artist": "duccio",
+  "title": "Rucellai Madonna (Maestà)",
+  "date": "c. 1285",
+  "year": 1285,
+  "medium": "tempera on panel",
+  "dimensions": "450 × 290 cm",
+  "museum": {
+    "name": "Uffizi Gallery (00284543)",
+    "url": "http://www.wga.hu/frames-e.html?/html/d/duccio/ruccelai/3ruccelx.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg/1280px-Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg/2560px-Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1961,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Duccio - Maestà - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q948745"
+  },
+  "phase": {
+    "label": "Florentine commission, 1285",
+    "source": {
+      "label": "Wikipedia: the contract is dated 15 April 1285",
+      "url": "https://en.wikipedia.org/wiki/Rucellai_Madonna"
+    }
+  },
+  "tags": [
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: the contract required ultramarine for the Virgin's robe",
+        "url": "https://en.wikipedia.org/wiki/Rucellai_Madonna"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The contract also requires the artist to pay for and use ultramarine blue for the Virgin's robe and real gold leaf for the background.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Rucellai Madonna",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Rucellai_Madonna",
+            "accessed": "2026-11-06",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "conservators restoring the panel in 1989 determined the pigment of the Virgin's robe to be the cheaper substitute, azurite.",
+          "lead": "What the restorers found:",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Rucellai Madonna",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Rucellai_Madonna",
+            "accessed": "2026-11-06",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: painted in egg tempera on a five-pieced poplar panel",
+        "url": "https://en.wikipedia.org/wiki/Rucellai_Madonna"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: tempera and gold on panel",
+        "url": "https://en.wikipedia.org/wiki/Rucellai_Madonna"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Rucellai Madonna is the earlier of the two works by Duccio for which there is written documentation (the other is the Maestà of 1308–11).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rucellai Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rucellai_Madonna",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1889, however historian Franz Wickhoff compared stylistic choices between the Rucellai Madonna and Duccio's Maestà, and soon other critics agreed that Duccio had indeed painted the Rucellai Madonna.",
+        "lead": "For three centuries it passed as a Cimabue:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rucellai Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rucellai_Madonna",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Wherefore this work caused so great marvel to the people of that age, by reason of there not having been seen up to then anything better, that it was borne in most solemn procession from the house of Cimabue to the church, with much rejoicing and with trumpets, and he was thereby much rewarded and honoured.",
+        "lead": "Vasari, who believed the panel was Cimabue's:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Cimabue, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Given the bitter political enmity of Florence and Siena, the Florentine civic group's choice of a Sienese artist is noteworthy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rucellai Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rucellai_Madonna",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The members of the Laudesi met in the chapel to sing lauds, or Latin hymns praising the Virgin; an image of Mary provided a focus for those devotions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rucellai Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rucellai_Madonna",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Rucellai Madonna is the largest surviving 13th-century panel painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rucellai Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rucellai_Madonna",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

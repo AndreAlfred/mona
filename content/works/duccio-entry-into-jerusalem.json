@@ -1,0 +1,93 @@
+{
+  "id": "duccio-entry-into-jerusalem",
+  "artist": "duccio",
+  "title": "Entry into Jerusalem",
+  "date": "1308–11",
+  "year": 1311,
+  "dimensions": "100 × 57 cm",
+  "museum": {
+    "name": "Museo dell'Opera del Duomo, Siena",
+    "url": "https://www.wikidata.org/wiki/Q111821834"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/EntryIntoJerusalem_Duccio_di_Buoninsegna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2158,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (EntryIntoJerusalem Duccio di Buoninsegna.jpg)"
+  },
+  "archive": {
+    "wd": "Q111821834"
+  },
+  "phase": {
+    "label": "The Maestà for Siena Cathedral, 1308–11",
+    "source": {
+      "label": "Wikipedia: commissioned 1308, installed 9 June 1311",
+      "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Yet another panel, in some ways Duccio's masterpiece — the \"Entry into Jerusalem.\" We are in a garden, and as we look over the low wall to the highroad, we behold Christ followed by His disciples mounting the paved way.",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Not only are we made to realise the space in which all this takes place, but … we are compelled to take a fixed position as spectators of the scene, and thus are not only brought in intimate relation to it, but are obliged to become aware of, to attend to, the space as space.",
+        "lead": "Why Berenson thought it extraordinary:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "ai",
+        "text": "Christ's entry into Jerusalem, remembered on Palm Sunday, opens the story of the Passion; on the back of the Maestà this large panel begins the long sequence of Passion scenes."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}
