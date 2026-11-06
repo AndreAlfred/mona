@@ -1,0 +1,163 @@
+{
+  "id": "shen-zhou-yellow-chrysanthemums",
+  "artist": "shen-zhou",
+  "title": "Yellow Chrysanthemums and Red Osmanthus in the Style of Wang Yuan",
+  "date": "1468",
+  "year": 1468,
+  "medium": "hanging scroll; ink on paper",
+  "dimensions": "Overall: 397.1 x 127.4 cm (156 5/16 x 50 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1997.100"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.100/1997.100_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1997.100/1997.100_print.jpg",
+    "width": 352,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Mrs. A. Dean Perry"
+  },
+  "archive": {
+    "cma": 159724
+  },
+  "phase": {
+    "label": "Early works: following the Yuan masters, 1468",
+    "source": {
+      "label": "Edwards, The Field of Stones: Flowers and Birds in the style of Wang Yüan, 1468, “painted the year after the Mount Lu effort”",
+      "url": "https://archive.org/details/fieldofstonesstu00edwa"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: brushstrokes that anticipate the flower painting style of Yun Shouping",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159724"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Chrysanthemums and red osmanthus both bloom in autumn. The deep orange osmanthus flowers emanate a characteristically sweet fragrance.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Yellow Chrysanthemums and Red Osmanthus in the Style of Wang Yuan",
+            "publisher": "Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159724",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art: hanging scroll; ink on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159724"
+      }
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Cleveland Museum of Art: artist’s inscription (poem), signature and seals",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159724"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "According to his inscription on the painting, Shen Zhou sought to imitate the style of the Yuan dynasty (1271–1368) painter Wang Yuan. … The sheer size and complex composition of this scroll are impressive.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Yellow Chrysanthemums and Red Osmanthus in the Style of Wang Yuan",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159724",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Seen in this light, these two paintings of 1467 and 1468 have much in common, and it is a foretaste of what seems to have been Shen Chou’s great contribution to the art of his time that, operating very closely according to established tradition, he should yet infuse a new and objective force that would rescue it from the delicate introspection of his immediate predecessors.",
+        "lead": "Richard Edwards, writing in 1962, on this scroll and Lofty Mount Lu:",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A comparison of Shen Chou’s bird and flower painting with the avowed model, [Wang Yuan,] shows a more general and naturally objective point of view.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His color-filled brushstrokes and washes, however, anticipate the flower painting style of Yun Shouping",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Yellow Chrysanthemums and Red Osmanthus in the Style of Wang Yuan",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159724",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Beneath the fence yellow [chrysanthemum] flowers brave the rain to blossom; / Still others lean on the red osmanthus tree and dazzle the deep green moss. / With a goblet [of wine] I face them, entirely without concern; / Who will answer the knocking at the gate where a guest has arrived?",
+        "lead": "Shen Zhou’s poem on the scroll:",
+        "source": {
+          "author": "Shen Zhou",
+          "title": "Inscription on Yellow Chrysanthemums and Red Osmanthus, 1468",
+          "publisher": "translation published by the Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159724",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Because Shen Zhou never entered government service, he had ample opportunity to cultivate the arts of painting, poetry, and calligraphy.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Yellow Chrysanthemums and Red Osmanthus in the Style of Wang Yuan",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159724",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

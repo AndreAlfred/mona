@@ -1,0 +1,154 @@
+{
+  "id": "holbein-dead-christ",
+  "artist": "hans-holbein-the-younger",
+  "title": "The Body of the Dead Christ in the Tomb",
+  "date": "1520–22",
+  "year": 1520,
+  "medium": "oil paint on panel",
+  "dimensions": "30.5 × 200 cm",
+  "museum": {
+    "name": "Kunstmuseum Basel (318)",
+    "url": "https://www.wikidata.org/wiki/Q4310527"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Holbein_%E2%80%94_Dead_Christ.jpg/1280px-Holbein_%E2%80%94_Dead_Christ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Holbein_%E2%80%94_Dead_Christ.jpg/2560px-Holbein_%E2%80%94_Dead_Christ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 179,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Holbein — Dead Christ.jpg)"
+  },
+  "archive": {
+    "wd": "Q4310527"
+  },
+  "phase": {
+    "label": "Basel years, 1519–26",
+    "source": {
+      "label": "Hans Holbein the Younger (Wikipedia), Basel years from 1519",
+      "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: \"an oil and tempera on limewood painting\"",
+        "url": "https://en.wikipedia.org/wiki/The_Body_of_the_Dead_Christ_in_the_Tomb"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In common with the religious traditions of the 1520s, the work was intended to evoke piety and follows the intentions of Grünewald, who in his altarpiece set out to instil feelings of both guilt and empathy in the viewer.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Body of the Dead Christ in the Tomb",
+            "readAt": "https://en.wikipedia.org/wiki/The_Body_of_the_Dead_Christ_in_the_Tomb",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It shows a life-size, grotesque depiction of the stretched and unnaturally thin body of Jesus Christ lying in his tomb. Holbein shows the dead Son of God after he has suffered the fate of an ordinary human.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Body of the Dead Christ in the Tomb",
+          "readAt": "https://en.wikipedia.org/wiki/The_Body_of_the_Dead_Christ_in_the_Tomb",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In common with many artists active during the early Protestant Reformation, Holbein was fascinated with the macabre.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Body of the Dead Christ in the Tomb",
+          "readAt": "https://en.wikipedia.org/wiki/The_Body_of_the_Dead_Christ_in_the_Tomb",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Holbein was prolific during this period in Basel, which coincided with the arrival of Lutheranism in the city.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Why, a man’s faith might be ruined by looking at that picture!",
+        "lead": "In Dostoevsky's novel, Prince Myshkin sees a copy of the painting:",
+        "source": {
+          "author": "Fyodor Dostoyevsky",
+          "title": "The Idiot (trans. Eva Martin)",
+          "readAt": "https://www.gutenberg.org/cache/epub/2638/pg2638.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Project Gutenberg",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nature appears to one, looking at this picture, as some huge, implacable, dumb monster; or still better—a stranger simile—some enormous mechanical engine of modern days which has seized and crushed and swallowed up a great and invaluable Being, a Being worth nature and all her laws",
+        "lead": "Hippolyte, in the same novel, on what the picture shows:",
+        "source": {
+          "author": "Fyodor Dostoyevsky",
+          "title": "The Idiot (trans. Eva Martin)",
+          "readAt": "https://www.gutenberg.org/cache/epub/2638/pg2638.txt",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Project Gutenberg",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the viewer sees Christ seeing: he might also perceive what death has in store, because he's staring at the heavens, while his soul is probably there already. No-one has taken the trouble to close his mouth and his eyes. Or else Holbein wants to tell us that, even in death, Christ still looks and speaks.",
+        "source": {
+          "author": "Michel Onfray",
+          "title": "The Body of the Dead Christ in the Tomb",
+          "readAt": "https://en.wikipedia.org/wiki/The_Body_of_the_Dead_Christ_in_the_Tomb",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

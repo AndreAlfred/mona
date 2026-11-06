@@ -4,7 +4,8 @@ import { ResearchButton } from "./ResearchButton";
 import styles from "./EndOfArtist.module.css";
 
 const MAX = 150; // px the tether can stretch, visually
-const ARM = 0.74; // fraction of MAX that arms the release
+const ARM = 0.6; // fraction of MAX that arms the release (about 210px of finger travel)
+const SLACK = 80; // px: Android's address bar changes the window height as it shows and hides
 
 /** Rubber-band easing: the further you pull, the less it gives. */
 const stretch = (raw: number) => MAX * (1 - Math.exp(-Math.max(0, raw) / 230));
@@ -23,7 +24,8 @@ export function EndOfArtist({
   seen: { thumb: string; title: string }[];
   canContinue: boolean;
   onContinue: () => void;
-  onLeave: () => void;
+  /** Resolves false if the next artist couldn't be loaded. */
+  onLeave: () => Promise<boolean>;
   /** Only the last panel on the page listens for the pull. */
   active: boolean;
 }) {
@@ -32,32 +34,54 @@ export function EndOfArtist({
   // Loading the next works takes a moment; show it, and ignore repeat taps.
   const [continuing, setContinuing] = useState(false);
   useEffect(() => setContinuing(false), [canContinue]);
+  const [leaving, setLeaving] = useState(false);
+  const [failed, setFailed] = useState(false);
   const armed = pull >= MAX * ARM;
   const ref = useRef<HTMLDivElement>(null);
   const left = useRef(false);
 
+  // One way out for the pull and the button alike. It answers at once, and if
+  // the next artist can't be reached it says so and lets you try again.
+  const leaveRef = useRef<() => void>(() => {});
+  leaveRef.current = () => {
+    if (left.current) return;
+    left.current = true;
+    setLeaving(true);
+    setFailed(false);
+    setPull(0);
+    navigator.vibrate?.(12);
+    onLeave()
+      .catch(() => false)
+      .then((ok) => {
+        if (ok) return;
+        left.current = false;
+        setLeaving(false);
+        setFailed(true);
+      });
+  };
+
   useEffect(() => {
     if (!active) return;
-    const atBottom = () => window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4;
+    // "At the end" means the panel's bottom is on screen, give or take the
+    // address bar, rather than an exact match with the page height.
+    const atBottom = () => {
+      const r = ref.current?.getBoundingClientRect();
+      const h = Math.max(window.innerHeight, window.visualViewport?.height ?? 0);
+      return !!r && r.bottom <= h + SLACK;
+    };
     let startY: number | null = null;
     let raw = 0;
     let wheelTimer: ReturnType<typeof setTimeout> | undefined;
 
-    const fire = () => {
-      if (left.current) return;
-      left.current = true;
-      navigator.vibrate?.(12);
-      onLeave();
-    };
     const onStart = (e: TouchEvent) => {
-      startY = atBottom() ? e.touches[0].clientY : null;
+      startY = atBottom() && !left.current ? e.touches[0].clientY : null;
       raw = 0;
     };
     const onMove = (e: TouchEvent) => {
       if (startY === null) return;
       raw = startY - e.touches[0].clientY;
       if (raw <= 0) return setPull(0);
-      e.preventDefault();
+      if (e.cancelable) e.preventDefault();
       setDragging(true);
       setPull(stretch(raw));
     };
@@ -65,16 +89,16 @@ export function EndOfArtist({
       if (startY === null) return;
       startY = null;
       setDragging(false);
-      if (stretch(raw) >= MAX * ARM) fire();
+      if (stretch(raw) >= MAX * ARM) leaveRef.current();
       else setPull(0);
     };
     // Trackpads and mouse wheels: keep scrolling past the end to stretch.
     const onWheel = (e: WheelEvent) => {
-      if (!atBottom() || e.deltaY <= 0) return;
+      if (left.current || !atBottom() || e.deltaY <= 0) return;
       raw += e.deltaY * 0.6;
       setPull(stretch(raw));
       clearTimeout(wheelTimer);
-      if (stretch(raw) >= MAX * 0.97) return fire();
+      if (stretch(raw) >= MAX * 0.97) return leaveRef.current();
       wheelTimer = setTimeout(() => {
         raw = 0;
         setPull(0);
@@ -94,7 +118,15 @@ export function EndOfArtist({
       window.removeEventListener("wheel", onWheel);
       clearTimeout(wheelTimer);
     };
-  }, [active, onLeave]);
+  }, [active]);
+
+  const hint = leaving
+    ? "Finding someone new…"
+    : failed
+      ? "Mona couldn’t reach the next artist."
+      : armed
+        ? "Let go for someone new"
+        : "Pull up for someone new";
 
   return (
     <section
@@ -102,7 +134,8 @@ export function EndOfArtist({
       className={styles.panel}
       style={{ "--pull": `${pull}px`, "--t": pull / MAX } as React.CSSProperties}
       data-dragging={dragging}
-      data-armed={armed}
+      data-armed={armed || leaving}
+      data-leaving={leaving}
     >
       <p className={`${styles.kicker} smallcaps`}>End of this run</p>
       <h2 className={styles.title}>
@@ -123,7 +156,7 @@ export function EndOfArtist({
             <button
               className={`${styles.stay} smallcaps`}
               data-busy={continuing}
-              disabled={continuing}
+              disabled={continuing || leaving}
               onClick={() => {
                 setContinuing(true);
                 onContinue();
@@ -144,16 +177,21 @@ export function EndOfArtist({
         </div>
       )}
 
-      <div className={styles.leave} aria-live="polite" hidden={!active}>
+      <div className={styles.leave} hidden={!active}>
         <div className={styles.tether} aria-hidden>
           <span className={styles.line} />
           <span className={styles.knot} />
         </div>
-        <p className={`${styles.hint} smallcaps`}>
-          {armed ? "Let go for someone new" : "Pull past here to leave for a new artist"}
+        <p className={`${styles.hint} smallcaps`} aria-live="polite">
+          {hint}
         </p>
-        <button className={`${styles.hold} smallcaps`} onClick={onLeave}>
-          or tap here to leave
+        <button
+          className={`${styles.next} smallcaps`}
+          data-busy={leaving}
+          disabled={leaving}
+          onClick={() => leaveRef.current()}
+        >
+          {failed ? "Try again" : "Next artist"}
         </button>
       </div>
     </section>

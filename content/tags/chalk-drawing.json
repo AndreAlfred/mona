@@ -1,0 +1,21 @@
+{
+  "id": "chalk-drawing",
+  "kind": "technique",
+  "name": "Chalk drawing",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Black chalk is similarly used by artists for drawing. It is a bituminous or carbonaceous shale, rather than calcium carbonate.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Chalk",
+        "readAt": "https://en.wikipedia.org/wiki/Chalk",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "publisher": "Wikipedia",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "chalk"
+}

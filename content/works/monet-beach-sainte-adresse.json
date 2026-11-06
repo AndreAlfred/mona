@@ -1,0 +1,113 @@
+{
+  "id": "monet-beach-sainte-adresse",
+  "artist": "claude-monet",
+  "title": "The Beach at Sainte-Adresse",
+  "date": "1867",
+  "year": 1867,
+  "medium": "Oil on canvas",
+  "dimensions": "75.8 × 102.5 cm (29 13/16 × 40 5/16 in.); Framed: 104.1 × 130.2 × 11.4 cm (41 × 51 1/2 × 4 1/2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/14598"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Claude_Monet_-_The_Beach_at_Sainte-Adresse_-_Google_Art_Project.jpg/1280px-Claude_Monet_-_The_Beach_at_Sainte-Adresse_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Claude_Monet_-_The_Beach_at_Sainte-Adresse_-_Google_Art_Project.jpg/2560px-Claude_Monet_-_The_Beach_at_Sainte-Adresse_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 887,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Claude Monet - The Beach at Sainte-Adresse - Google Art Project.jpg)"
+  },
+  "archive": {
+    "aic": 14598
+  },
+  "phase": {
+    "label": "Early Normandy coast, 1867",
+    "source": {
+      "label": "The Beach at Sainte-Adresse, Art Institute of Chicago",
+      "url": "https://api.artic.edu/api/v1/artworks/14598?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://www.artic.edu/artworks/14598"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "he initially included other tourist ﬁgures and yachts in the scene but later painted over these details, shifting his focus to the ﬁshermen, the aspect of life in Sainte-Adresse that he knew best.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "The Beach at Sainte-Adresse",
+            "readAt": "https://api.artic.edu/api/v1/artworks/14598?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Monet began this painting outdoors and revised it later in his studio.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Beach at Sainte-Adresse",
+          "readAt": "https://api.artic.edu/api/v1/artworks/14598?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It also foreshadows some of the qualities that became characteristic of the Impressionist movement, which is perhaps why Monet chose to show it at the second Impressionist exhibition in 1876, nearly ten years after he painted it.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Beach at Sainte-Adresse",
+          "readAt": "https://api.artic.edu/api/v1/artworks/14598?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The expansion of the country’s rail network turned this small, rural ﬁshing village into a seaside resort for tourists.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Beach at Sainte-Adresse",
+          "readAt": "https://api.artic.edu/api/v1/artworks/14598?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

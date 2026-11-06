@@ -1,0 +1,164 @@
+{
+  "id": "caravaggio-death-of-the-virgin",
+  "artist": "caravaggio",
+  "title": "Death of the Virgin",
+  "date": "1601–1606",
+  "year": 1601,
+  "medium": "oil paint on canvas",
+  "dimensions": "369 × 245 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 54)",
+    "url": "https://www.wikidata.org/wiki/Q597114"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Death_of_the_Virgin-Caravaggio_%281606%29.jpg/1280px-Death_of_the_Virgin-Caravaggio_%281606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Death_of_the_Virgin-Caravaggio_%281606%29.jpg/2560px-Death_of_the_Virgin-Caravaggio_%281606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1811,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Death of the Virgin-Caravaggio (1606).jpg)"
+  },
+  "archive": {
+    "wd": "Q597114"
+  },
+  "phase": {
+    "label": "Late Rome, 1601–1606",
+    "source": {
+      "label": "Death of the Virgin",
+      "url": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)"
+    }
+  },
+  "tags": [
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Caravaggio: chiaroscuro",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The painter makes use of the nuances of light and shadow to model the volumes of the objects, figures, and clothing.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Death of the Virgin (Caravaggio)",
+            "readAt": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "naturalism",
+      "source": {
+        "label": "Caravaggio: realistic observation",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Caravaggio: Baroque",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The lolling head, the hanging arm, the swollen, spread feet depict a raw and realistic view of the Virgin's mortal remains.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Death of the Virgin (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The theatrical drape of blood-red cloth looms in the upper portion of the canvas; a common motif in deposition painting, here used to heighten the scene's dramatic effect.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Death of the Virgin (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Giovanni Baglione, another contemporary, tells that it was due to Mary's bare legs—a matter of decorum in either case.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Caravaggio",
+          "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Caravaggio's painting is the last major Catholic work of art in which Mary is clearly dead.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Death of the Virgin (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Giulio Mancini thought Caravaggio modelled a prostitute, possibly his mistress, as the Virgin.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Death of the Virgin (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Upon the recommendation by Peter Paul Rubens, who praised it as one of Caravaggio's best works, the painting was bought by Vincenzo Gonzaga, Duke of Mantua.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Death of the Virgin (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "However, Caravaggio had fled Rome by then, never to publicly return.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Death of the Virgin (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "shen-zhou-magnolia",
+  "artist": "shen-zhou",
+  "title": "Magnolia",
+  "date": "1494",
+  "year": 1494,
+  "dimensions": "34.6 × 57.2 cm",
+  "museum": {
+    "name": "National Palace Museum (故畫001128N000000001)",
+    "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=3871&Dept=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnolia%2C_Shen_Zhou.jpg/1280px-Magnolia%2C_Shen_Zhou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 753,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Magnolia, Shen Zhou.jpg)"
+  },
+  "archive": {
+    "wd": "Q121503722"
+  },
+  "phase": {
+    "label": "Late years: an album of drawings from life, 1494",
+    "source": {
+      "label": "Edwards, The Field of Stones: “several other surely late paintings … an album … dated 1494”",
+      "url": "https://archive.org/details/fieldofstonesstu00edwa"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Edwards, The Field of Stones, ch. VIII “Birds and Flowers”: the 1494 album of things taken from life",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Edwards, The Field of Stones: life painting done in “boneless” or free washes",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "… the type of life painting that was done completely in “boneless” or free washes … This is exactly the sort of painting in this Shen Chou album.",
+          "source": {
+            "author": "Richard Edwards",
+            "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+            "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+            "year": "1962",
+            "url": "https://archive.org/details/fieldofstonesstu00edwa",
+            "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "There are several other surely late paintings by Shen Chou that come within the sphere of this subject matter. One is an album from the Palace collection on Formosa inscribed and dated 1494 … The album is of things taken from life. … There is an exact, brief characterization that speaks of Shen Chou’s skill",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Scholar-artists, in particular, developed a freehand-style of painting as a means to express their emotions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bird-and-flower painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bird-and-flower_painting",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Chinese culture, different types of birds and flowers hold their own symbolic meanings; with some of them even holding auspicious meanings, scholarly and human virtues, as well as principles.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bird-and-flower painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bird-and-flower_painting",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I brushed this album for fun, painting things as they looked just to go with my leisurely and well-fed delight. But if you’re looking for me in this painting, I’m somewhere else.",
+        "lead": "Shen Zhou’s inscription on the album:",
+        "source": {
+          "author": "Shen Zhou (Shen Chou)",
+          "title": "Inscription on the album of drawings from life, 1494",
+          "publisher": "translated by Richard Edwards in The Field of Stones (Freer Gallery of Art, 1962; Internet Archive scan)",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "medium": "Album leaf; ink and color on paper",
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

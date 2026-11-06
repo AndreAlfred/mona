@@ -1,0 +1,95 @@
+{
+  "id": "caravaggio",
+  "name": "Caravaggio (Michelangelo Merisi da Caravaggio)",
+  "born": 1571,
+  "died": 1610,
+  "active": "c. 1592–1610",
+  "nationality": "Italian",
+  "period": "baroque",
+  "movements": [
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Caravaggio",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "tenebrism",
+      "source": {
+        "label": "Caravaggio: tenebrism",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "caravaggisti",
+      "source": {
+        "label": "Caravaggio: the Caravaggisti",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "peter-paul-rubens",
+      "name": "Peter Paul Rubens",
+      "source": {
+        "label": "Caravaggio: influence on Rubens",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "jusepe-de-ribera",
+      "name": "Jusepe de Ribera",
+      "source": {
+        "label": "Caravaggio: influence on Ribera",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "wikidata": "Q42207",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Ribera, Vermeer, La Tour and Rembrandt could never have existed without him. And the art of Delacroix, Courbet and Manet would have been utterly different",
+      "lead": "The critic Roberto Longhi, who revived his reputation in the 1920s:",
+      "source": {
+        "author": "Roberto Longhi",
+        "title": "as quoted on Wikipedia: Caravaggio",
+        "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+        "accessed": "2026-11-04",
+        "tier": 2,
+        "year": "1920s"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He killed Ranuccio Tomassoni in a brawl, which led to a death sentence for murder and forced him to flee to Naples.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Caravaggio",
+        "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He despised every sort of idealism whether noble or emasculate, became the head of the Naturalisti (unmodified imitators of ordinary nature) in painting, and adopted a style of potent contrasts of light and shadow, laid on with a sort of fury",
+      "source": {
+        "author": "Encyclopædia Britannica",
+        "title": "Caravaggio, Michelangelo Amerighi da (1911 Encyclopædia Britannica, Vol. 5)",
+        "readAt": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Caravaggio,_Michelangelo_Amerighi_da",
+        "accessed": "2026-11-04",
+        "tier": 6,
+        "year": "1911",
+        "license": "Public domain"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

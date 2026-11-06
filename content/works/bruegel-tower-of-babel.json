@@ -1,0 +1,107 @@
+{
+  "id": "bruegel-tower-of-babel",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "The Tower of Babel (Turmbau zu Babel)",
+  "date": "1563",
+  "year": 1563,
+  "medium": "oil paint on oak panel",
+  "dimensions": "114 × 155 cm",
+  "museum": {
+    "name": "Kunsthistorisches Museum (GG_1026)",
+    "url": "https://www.wikidata.org/wiki/Q15293656"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Pieter_Bruegel_d._%C3%84.%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Turmbau_zu_Babel_-_GG_1026_-_Kunsthistorisches_Museum.jpg/1280px-Pieter_Bruegel_d._%C3%84.%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Turmbau_zu_Babel_-_GG_1026_-_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Pieter_Bruegel_d._%C3%84.%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Turmbau_zu_Babel_-_GG_1026_-_Kunsthistorisches_Museum.jpg/2560px-Pieter_Bruegel_d._%C3%84.%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Turmbau_zu_Babel_-_GG_1026_-_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 884,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Bruegel d. Ä., Kunsthistorisches Museum Wien, Gemäldegalerie - Turmbau zu Babel - GG 1026 - Kunsthistorisches Museum.jpg)"
+  },
+  "archive": {
+    "wd": "Q15293656"
+  },
+  "phase": {
+    "label": "Biblical paintings, 1563",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/the-tower-of-babel-pieter-bruegel-the-elder/bAGKOdJfvfAhYQ"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/the-tower-of-babel-pieter-bruegel-the-elder/bAGKOdJfvfAhYQ"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/the-tower-of-babel-pieter-bruegel-the-elder/bAGKOdJfvfAhYQ"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Still under construction, the tower is already integrated into the city itself.",
+          "source": {
+            "author": "Barbara A. Kaminska",
+            "title": "“Come, let us make a city and a tower”: Pieter Bruegel the Elder’s Tower of Babel and the Creation of a Harmonious Community in Antwerp",
+            "readAt": "https://jhna.org/articles/come-let-us-make-a-city-and-a-tower-pieter-bruegel-the-elder-tower-of-babel-creation-harmonious-community-antwerp/",
+            "accessed": "2026-11-03",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "his work became the most famous classic among the Tower of Babel depictions",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "The Tower of Babel (Turmbau zu Babel)",
+          "readAt": "https://artsandculture.google.com/asset/the-tower-of-babel-pieter-bruegel-the-elder/bAGKOdJfvfAhYQ",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum (GG_1026)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Bruegel mimics the circular architecture of the Coliseum",
+        "source": {
+          "author": "Barbara A. Kaminska",
+          "title": "“Come, let us make a city and a tower”: Pieter Bruegel the Elder’s Tower of Babel and the Creation of a Harmonious Community in Antwerp",
+          "readAt": "https://jhna.org/articles/come-let-us-make-a-city-and-a-tower-pieter-bruegel-the-elder-tower-of-babel-creation-harmonious-community-antwerp/",
+          "accessed": "2026-11-03",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "alluding to human hubris and the impossibility of completing the tower",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "The Tower of Babel (Turmbau zu Babel)",
+          "readAt": "https://artsandculture.google.com/asset/the-tower-of-babel-pieter-bruegel-the-elder/bAGKOdJfvfAhYQ",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum (GG_1026)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

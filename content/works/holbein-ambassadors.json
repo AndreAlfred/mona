@@ -1,0 +1,174 @@
+{
+  "id": "holbein-ambassadors",
+  "artist": "hans-holbein-the-younger",
+  "title": "The Ambassadors",
+  "date": "1533",
+  "year": 1533,
+  "medium": "oil paint on oak panel",
+  "dimensions": "207 × 209 cm",
+  "museum": {
+    "name": "National Gallery (NG1314)",
+    "url": "http://www.musgym.salzburg.at/BE/Thiel/MM_6ai_0809/thiel/holbein-die_gesandten.pdf"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/1280px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/2560px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1182,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hans Holbein the Younger - The Ambassadors - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q1212937"
+  },
+  "phase": {
+    "label": "King's Painter, second English stay, 1532–43",
+    "source": {
+      "label": "National Gallery: painted on Holbein's second trip to England in the early 1530s",
+      "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"
+    }
+  },
+  "tags": [
+    {
+      "id": "anamorphosis",
+      "source": {
+        "label": "National Gallery: the skull is revealed by anamorphosis",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Viewed from here, the shape reveals itself to be a large skull, an effect called anamorphosis which can also be seen in an unusual portrait of Henry’s son Edward VI in the National Portrait Gallery, London.",
+          "source": {
+            "author": "National Gallery, London",
+            "title": "The Ambassadors",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "publisher": "National Gallery, London"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "The skull, rendered in anamorphic perspective, another invention of the Early Renaissance, is meant to be a visual puzzle as the viewer must approach the painting from high on the right side, or low on the left side, to see the form as an accurate rendering of a human skull.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Ambassadors (Holbein)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Ambassadors_(Holbein)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "memento-mori",
+      "source": {
+        "label": "National Gallery: \"a reminder of the frailty of life, or memento mori\"",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: Holbein's skill \"in manipulating oil paint\"",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "National Gallery: double portrait",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The portrait is a supreme display of Holbein’s skill in composing images and in manipulating oil paint to recreate a variety of textures.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Ambassadors",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The artist did not usually sign his paintings and the signature here is more elaborate than other known examples, suggesting that he was particularly proud of this work.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Ambassadors",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This portrait was painted at a time of religious upheaval in Europe. Although the pope had refused to annul Henry VIII, King of England’s marriage to Catherine of Aragon which resulted in a break with the Roman Catholic Church, in 1533 he married Anne Boleyn.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Ambassadors",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Surviving correspondence reveals that Dinteville was very unhappy on his extended visit. He described himself as ‘the most melancholy, weary and wearisome ambassador that was ever seen’, but the arrival of his friend, who was in London briefly from April to June, cheered him up.",
+        "lead": "On the ambassador on the left, Jean de Dinteville:",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Ambassadors",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Renaissance portraiture was often commissioned as a reminder of the frailty of life, or memento mori. The most unusual element of the picture – a distorted, elongated object that appears to hover between the men’s feet – can only be seen properly if you look up at the painting from the bottom right corner.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The Ambassadors",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "While the skull is evidently intended as a vanitas or memento mori, it is unclear why Holbein gave it such prominence in this painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ambassadors (Holbein)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ambassadors_(Holbein)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

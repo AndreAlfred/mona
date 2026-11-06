@@ -1,0 +1,161 @@
+{
+  "id": "shen-zhou-poet-on-a-mountaintop",
+  "artist": "shen-zhou",
+  "title": "Poet on a Mountaintop",
+  "date": "undated",
+  "year": 1485,
+  "museum": {
+    "name": "Nelson-Atkins Museum of Art, Kansas City",
+    "url": "https://www.wikidata.org/wiki/Q85393416"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Poet_on_a_Mountaintop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 777,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Poet on a Mountaintop.jpg)"
+  },
+  "archive": {
+    "wd": "Q85393416"
+  },
+  "phase": {
+    "label": "Period of maturity: the Kansas City album",
+    "source": {
+      "label": "Edwards, The Field of Stones, ch. V “Album”: the Kansas City album among works of the “period of maturity”",
+      "url": "https://archive.org/details/fieldofstonesstu00edwa"
+    }
+  },
+  "tags": [
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Wikipedia, Poet on a Mountaintop: all three forms of art are incorporated into this painting",
+        "url": "https://en.wikipedia.org/wiki/Poet_on_a_Mountaintop"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Poet on a Mountaintop is in the style of the Wu School, which sought to emphasize a close relationship between poetry, calligraphy, and painting. In Poet on a Mountaintop, a poet stands at the top of a mountain, seemingly gazing at the poem written in calligraphy.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Poet on a Mountaintop",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Poet_on_a_Mountaintop",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia, Poet on a Mountaintop: its strong emphasis on landscape",
+        "url": "https://en.wikipedia.org/wiki/Poet_on_a_Mountaintop"
+      }
+    },
+    {
+      "id": "wu-school",
+      "source": {
+        "label": "Wikipedia, Poet on a Mountaintop: in the style of the Wu School",
+        "url": "https://en.wikipedia.org/wiki/Poet_on_a_Mountaintop"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "As the album has come down to us there are extant five leaves done by Shen Chou … and one by his famous follower, Wen Cheng-ming, all now mounted as a handscroll.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "All five leaves deal specifically with Shen Chou and his world. … The other three scenes, however, deal with the more distant view — the poet gazing beyond the fragile limits of the world, his spirit wandering in the realms of eternity",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Shen Zhou drew on the work of artists from the Yuan dynasty and the Song dynasty, incorporating different aspects of each into his style. Much of his landscape art was based heavily on Yuan artists, borrowing their simplicity and intricate texture strokes to make a pure and refined style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Poet on a Mountaintop",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Poet_on_a_Mountaintop",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Literati paintings are most commonly of landscapes … and feature scholars in retirement, or travellers, admiring and enjoying the scenery, or immersed in culture.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Southern School",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Southern_School",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "White clouds like a belt / encircle the mountain’s waist / A stone ledge flying in space / and the far thin road. / I lean on my bramble staff / and gazing into space / Make the note of my flute / an answer to the sounding torrent.",
+        "lead": "Shen Zhou’s poem on the leaf:",
+        "source": {
+          "author": "Shen Zhou (Shen Chou)",
+          "title": "Poem inscribed on Poet on a Mountain Top",
+          "publisher": "translated by Richard Edwards in The Field of Stones (Freer Gallery of Art, 1962; Internet Archive scan)",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The landscape paired with a small visual of one human symbolizes man's insignificance in comparison to the powerful force of nature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Poet on a Mountaintop",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Poet_on_a_Mountaintop",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "medium": "Album leaf, mounted as a handscroll; ink and color on paper",
+  "dimensions": "38.7 × 60.3 cm",
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

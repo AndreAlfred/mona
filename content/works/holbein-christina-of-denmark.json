@@ -1,0 +1,141 @@
+{
+  "id": "holbein-christina-of-denmark",
+  "artist": "hans-holbein-the-younger",
+  "title": "Christina of Denmark, Duchess of Milan",
+  "date": "1538",
+  "year": 1538,
+  "medium": "oil paint on oak panel",
+  "dimensions": "179.1 × 82.6 cm",
+  "museum": {
+    "name": "National Gallery (NG2475)",
+    "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Hans_the_Younger_Holbein_-_Christina_of_Denmark%2C_Duchess_of_Milan_-_Google_Art_Project.jpg/1280px-Hans_the_Younger_Holbein_-_Christina_of_Denmark%2C_Duchess_of_Milan_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2622,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hans the Younger Holbein - Christina of Denmark, Duchess of Milan - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q4373334"
+  },
+  "phase": {
+    "label": "King's Painter to Henry VIII, 1536–43",
+    "source": {
+      "label": "National Gallery: Holbein was official court artist in 1538",
+      "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "National Gallery",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The young woman’s calm, imposing presence is enhanced by the symmetry of her features and her body, which is constructed geometrically giving her a serene demeanour.",
+          "source": {
+            "author": "National Gallery, London",
+            "title": "Christina of Denmark, Duchess of Milan",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "publisher": "National Gallery, London"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery: oil on oak panel",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia): \"He worked in a Northern Renaissance style\"",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting is a fine example of Holbein’s ability to create the illusion of the sitter’s real presence, achieved in part by his brilliant facility at evoking texture.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "Christina of Denmark, Duchess of Milan",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The full-length format reflects the preferences of a previous monarch, Henry VI: in 1446 he specified that portraits of potential brides should be in this format, to show both their ‘countenance and their stature’.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "Christina of Denmark, Duchess of Milan",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is recorded that Holbein’s sitting with Christina only lasted from 1 to 4 p.m. on 12 March. In this time, Holbein would have made sketches – to use as the basis for the painted portrait",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "Christina of Denmark, Duchess of Milan",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Henry received an image from the artist a few days after the sitting, probably just a drawing at that stage. He was apparently so pleased with it that he was reported to be ‘in better humour than he ever was, making musicians play on their instruments all day long’. Although their marriage negotiations failed, Henry kept Christina’s portrait until his death in 1547.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "Christina of Denmark, Duchess of Milan",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-christina-of-denmark-duchess-of-milan",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the loveliest painting of a woman that he ever executed, which is to say that it is one of the finest female portraits ever painted",
+        "lead": "Biographer Derek Wilson on this portrait:",
+        "source": {
+          "author": "Derek Wilson",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "durer-self-portrait-thistle",
+  "artist": "albrecht-durer",
+  "title": "Portrait of the Artist Holding a Thistle (Portrait de l'artiste tenant un chardon)",
+  "date": "1493",
+  "year": 1493,
+  "medium": "oil paint on parchment, canvas",
+  "dimensions": "56.5 × 44.5 cm",
+  "museum": {
+    "name": "Musée du Louvre",
+    "url": "https://collections.louvre.fr/ark:/53355/cl010065609",
+    "accession": "RF 2382"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Portrait_de_l%27artiste_tenant_un_chardon_-_Albrecht_D%C3%BCrer_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2382.jpg/1280px-Portrait_de_l%27artiste_tenant_un_chardon_-_Albrecht_D%C3%BCrer_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Portrait_de_l%27artiste_tenant_un_chardon_-_Albrecht_D%C3%BCrer_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2382.jpg/2560px-Portrait_de_l%27artiste_tenant_un_chardon_-_Albrecht_D%C3%BCrer_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1596,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Portrait de l'artiste tenant un chardon - Albrecht Dürer - Musée du Louvre Peintures RF 2382.jpg)"
+  },
+  "archive": {
+    "wd": "Q2428778"
+  },
+  "phase": {
+    "label": "Journeyman years in Strasbourg, 1493",
+    "source": {
+      "label": "Strasbourg and apprenticeship context",
+      "url": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Early self-portrait",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the touch is freer and color more iridescent than in any other picture one remembers",
+          "source": {
+            "author": "Lawrence Gowing",
+            "title": "Paintings in the Louvre (1987), p. 164, quoted on Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle",
+            "accessed": "2026-11-04",
+            "tier": 2,
+            "publisher": "Wikipedia",
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Oil painting on parchment",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Painted in 1493, it is the earliest of Dürer's painted self-portraits and has been identified as one of the first self-portraits painted by a Northern artist.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of the Artist Holding a Thistle",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "During the 15th century, thistles were symbols of male conjugal fidelity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of the Artist Holding a Thistle",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1493, Dürer was 22 years old and working in Strasbourg. He had completed his apprenticeship with Michael Wolgemut and his tour as a journeyman, and would marry Agnes Frey on 7 July 1494.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of the Artist Holding a Thistle",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "codex-worker"
+  }
+}

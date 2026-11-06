@@ -1,0 +1,110 @@
+{
+  "id": "bruegel-netherlandish-proverbs",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "Netherlandish Proverbs",
+  "date": "1551",
+  "year": 1551,
+  "medium": "oil paint on oak panel",
+  "dimensions": "117 × 163 cm",
+  "museum": {
+    "name": "Gemäldegalerie Berlin (1720)",
+    "url": "https://www.wikidata.org/wiki/Q533619"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg/1280px-Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg/2560px-Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 850,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Brueghel the Elder - The Dutch Proverbs - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q533619"
+  },
+  "phase": {
+    "label": "Early Antwerp paintings, 1559",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/die-niederl%C3%A4ndischen-sprichw%C3%B6rter/CwGkTFwDGMmq9w?avm=2&hl=en-GB"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/die-niederl%C3%A4ndischen-sprichw%C3%B6rter/CwGkTFwDGMmq9w?avm=2&hl=en-GB"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/die-niederl%C3%A4ndischen-sprichw%C3%B6rter/CwGkTFwDGMmq9w?avm=2&hl=en-GB"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "both artists have shown a \"world turned upside down\".",
+          "lead": "Comparing Bruegel with Frans Hogenberg:",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Netherlandish Proverbs",
+            "readAt": "https://en.wikipedia.org/wiki/Netherlandish_Proverbs",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "this picture brings together more than 100 proverbs and sayings",
+        "source": {
+          "author": "Rainald Grosshans",
+          "title": "Netherlandish Proverbs",
+          "readAt": "https://artsandculture.google.com/asset/die-niederl%C3%A4ndischen-sprichw%C3%B6rter/CwGkTFwDGMmq9w?avm=2&hl=en-GB",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Gemäldegalerie Berlin (1720)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Proverbs were very popular in Bruegel's time and before",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Netherlandish Proverbs",
+          "readAt": "https://en.wikipedia.org/wiki/Netherlandish_Proverbs",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Deception, lying, and hypocrisy are among the negative human traits",
+        "source": {
+          "author": "Rainald Grosshans",
+          "title": "Netherlandish Proverbs",
+          "readAt": "https://artsandculture.google.com/asset/die-niederl%C3%A4ndischen-sprichw%C3%B6rter/CwGkTFwDGMmq9w?avm=2&hl=en-GB",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Gemäldegalerie Berlin (1720)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

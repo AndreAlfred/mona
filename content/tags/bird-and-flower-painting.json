@@ -1,0 +1,34 @@
+{
+  "id": "bird-and-flower-painting",
+  "kind": "subject",
+  "name": "Bird-and-flower painting (huaniaohua)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Bird-and-flower painting, called Huaniaohua … in Chinese, is a kind of Chinese painting with a long tradition in China and is considered one of the treasures of Chinese culture.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Bird-and-flower painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Bird-and-flower_painting",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The intended purpose of the huaniaohua was not simply to imitate nature, but to use different painting styles to convey the personality and ideas of the artist.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Bird-and-flower painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Bird-and-flower_painting",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "flowers"
+}

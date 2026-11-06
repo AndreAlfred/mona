@@ -1,0 +1,82 @@
+{
+  "id": "jean-simeon-chardin",
+  "name": "Jean Siméon Chardin",
+  "born": 1699,
+  "died": 1779,
+  "active": "1720s–1779",
+  "nationality": "French",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Jean Siméon Chardin, Wikipedia (infobox lists Baroque and Rococo)",
+        "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "jean-antoine-watteau",
+      "name": "Jean-Antoine Watteau",
+      "source": {
+        "label": "Saying Grace, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saying_Grace_(Chardin)"
+      }
+    },
+    {
+      "id": "francois-boucher",
+      "name": "François Boucher",
+      "source": {
+        "label": "Lady Dilke, French Painters of the XVIIIth Century",
+        "url": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q207447",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Who said one paints with colors? One employs colors, but one paints with feeling",
+      "source": {
+        "author": "Jean Siméon Chardin",
+        "title": "Remark on painting, as reported in Wikipedia's article on Chardin",
+        "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+        "accessed": "2026-11-04",
+        "tier": 1,
+        "license": "CC BY-SA 4.0"
+      },
+      "lead": "Chardin's remark on his art, as reported:"
+    },
+    {
+      "kind": "quote",
+      "text": "is also noted for his genre paintings which depict kitchen maids, children, and domestic activities",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Jean Siméon Chardin",
+        "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "his spirit is drawn to the humilities of daily service, to the gentle cares of daily life",
+      "source": {
+        "author": "Lady Dilke",
+        "title": "French Painters of the XVIIIth Century",
+        "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+        "accessed": "2026-11-04",
+        "tier": 2,
+        "publisher": "George Bell and Sons",
+        "year": "1899",
+        "license": "Public domain"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

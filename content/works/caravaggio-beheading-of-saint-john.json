@@ -1,0 +1,153 @@
+{
+  "id": "caravaggio-beheading-of-saint-john",
+  "artist": "caravaggio",
+  "title": "The Beheading of Saint John the Baptist",
+  "date": "1608",
+  "year": 1608,
+  "medium": "oil paint on canvas",
+  "dimensions": "361 × 520 cm",
+  "museum": {
+    "name": "St. John's Co-Cathedral, Valletta",
+    "url": "https://www.stjohnscocathedral.com/caravaggio/the-beheading-of-saint-john-the-baptist.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg/1280px-La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 830,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (La decapitación de San Juan Bautista, por Caravaggio.jpg)"
+  },
+  "archive": {
+    "wd": "Q2727560"
+  },
+  "phase": {
+    "label": "Malta, 1607–1608",
+    "source": {
+      "label": "Caravaggio: Malta",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio"
+    }
+  },
+  "tags": [
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Caravaggio: chiaroscuro",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The painting, in oil on canvas, is 12 ft (3.7 m)  by  17 ft (5.2 m) and prominent are the vivid red and warm yellow colours, common to the Baroque period with the use of chiaroscuro.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Beheading of Saint John the Baptist (Caravaggio)",
+            "readAt": "https://en.wikipedia.org/wiki/The_Beheading_of_Saint_John_the_Baptist_(Caravaggio)",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenebrism",
+      "source": {
+        "label": "Caravaggio: tenebrism",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Caravaggio: Baroque",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is the only work by Caravaggio to bear the artist's signature, which he placed in red blood spilling from the Baptist's cut throat.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Beheading of Saint John the Baptist (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Beheading_of_Saint_John_the_Baptist_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Caravaggio likely drew the background for his work from his memories of time in prison in Rome or research into the prison of the Knights of Malta where he would—coincidentally—be detained after he completed this work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Beheading of Saint John the Baptist (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Beheading_of_Saint_John_the_Baptist_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The scene, popular with Italian artists in general and with Caravaggio himself, is not directly inspired by the Bible, but rather by the tale as related in the Golden Legend.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Beheading of Saint John the Baptist (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Beheading_of_Saint_John_the_Baptist_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Death and human cruelty are laid bare by this masterpiece, as its scale and shadow daunt and possess the mind.",
+        "lead": "The critic Jonathan Jones ranks it among the ten greatest works of art:",
+        "source": {
+          "author": "Jonathan Jones",
+          "title": "as quoted on Wikipedia: The Beheading of Saint John the Baptist (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Beheading_of_Saint_John_the_Baptist_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "year": "",
+          "publisher": "The Guardian"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "When Caravaggio was defrocked in absentia as a \"foul and rotten member\" by the Order about six months after his induction, the ceremony took place in the Oratory, before this very painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Beheading of Saint John the Baptist (Caravaggio)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Beheading_of_Saint_John_the_Baptist_(Caravaggio)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Caravaggio was sentenced to beheading for murder, and an open bounty was decreed, enabling anyone who recognized him to carry out the sentence legally. Caravaggio's paintings began, obsessively, to depict severed heads, often his own, at this time.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Caravaggio",
+          "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "hogarth-painter-and-his-pug",
+  "artist": "william-hogarth",
+  "title": "The Painter and his Pug (Self-portrait)",
+  "date": "1745",
+  "year": 1745,
+  "medium": "oil paint on canvas",
+  "dimensions": "90 × 69.9 cm",
+  "museum": {
+    "name": "Tate (N00112)",
+    "url": "http://www.tate.org.uk/art/artworks/hogarth-the-painter-and-his-pug-n00112"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_Painter_and_His_Pug_by_William_Hogarth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1566,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Painter and His Pug by William Hogarth.jpg)"
+  },
+  "archive": {
+    "wd": "Q5712840"
+  },
+  "phase": {
+    "label": "Mid-career self-portrait, 1745",
+    "source": {
+      "label": "The Painter and his Pug, Wikipedia: a 1745 self-portrait begun a decade earlier",
+      "url": "https://en.wikipedia.org/wiki/The_Painter_and_his_Pug"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "The Painter and his Pug, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Painter_and_his_Pug"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: The Painter and his Pug (oil paint on canvas)",
+        "url": "https://www.wikidata.org/wiki/Q5712840"
+      }
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "William Hogarth, Wikipedia: “a real child of Rococo” and the Line of Beauty",
+        "url": "https://en.wikipedia.org/wiki/William_Hogarth"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In it, he professes to define the principles of beauty and grace which he, a real child of Rococo, saw realized in serpentine lines (the Line of Beauty).",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "William Hogarth",
+            "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          },
+          "lead": "On The Analysis of Beauty (1753):"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1745, Hogarth painted a self-portrait with his pug dog, Trump (now also in Tate Britain), which shows him as a learned artist supported by volumes of Shakespeare, Milton and Swift.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The portrait was originally created with the intention of Hogarth wearing formal attire, but was changed to the informal attire sometime during the painting process.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Painter and his Pug",
+          "readAt": "https://en.wikipedia.org/wiki/The_Painter_and_his_Pug",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "there is drawn a waving line, with the words, \" Line of Beauty \" — a hieroglyphic of which no one could at first divine the meaning. The mystery was afterwards solved in his \" Analysis of Beauty,\"",
+        "source": {
+          "author": "Allan Cunningham",
+          "title": "Lives of the Most Eminent British Painters, quoted in Anecdotes of William Hogarth",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "On the palette in the picture:"
+      },
+      {
+        "kind": "quote",
+        "text": "By some of Hogarth's adherents, the book was praised as a fine deliverance upon aesthetics; by his enemies and rivals, its obscurities and minor errors were made the subject of endless ridicule and caricature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "William Hogarth",
+          "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He treated his own physiognomy as he treated his friends', — seized the character strongly, and left grace and elegance to those who were unable to cope with mind and spirit.",
+        "source": {
+          "author": "Allan Cunningham",
+          "title": "Lives of the Most Eminent British Painters, quoted in Anecdotes of William Hogarth",
+          "publisher": "J. B. Nichols and Son",
+          "year": "1833",
+          "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The dog is indifferent to the painting, to the books and to the painting palette (which shows Hogarth's Line of Beauty).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Painter and his Pug",
+          "readAt": "https://en.wikipedia.org/wiki/The_Painter_and_his_Pug",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

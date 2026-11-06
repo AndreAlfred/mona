@@ -1,0 +1,33 @@
+{
+  "id": "modern-moral-subject",
+  "kind": "subject",
+  "name": "Modern moral subject",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "I therefore turned my thoughts to a still more novel mode, viz. painting and [engraving] modern moral subjects, a field not broken up in any country or any age.",
+      "source": {
+        "author": "William Hogarth",
+        "title": "Autobiographical notes, in Anecdotes of William Hogarth, Written by Himself",
+        "publisher": "J. B. Nichols and Son",
+        "year": "1833",
+        "readAt": "https://archive.org/stream/anecdotesofwilli00hoga/anecdotesofwilli00hoga_djvu.txt",
+        "accessed": "2026-11-04",
+        "tier": 1,
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Hogarth lived in an age when artwork became increasingly commercialized, being viewed in shop windows, taverns, and public buildings, and sold in printshops. Old hierarchies broke down, and new forms began to flourish",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "William Hogarth",
+        "readAt": "https://en.wikipedia.org/wiki/William_Hogarth",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

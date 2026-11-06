@@ -1,0 +1,149 @@
+{
+  "id": "chardin-buffet",
+  "artist": "jean-simeon-chardin",
+  "title": "Le Buffet (Le Buffet.)",
+  "date": "1728",
+  "year": 1728,
+  "medium": "oil paint on canvas",
+  "dimensions": "194 × 129 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 3198)",
+    "url": "http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=11533"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Le_Buffet_-_Jean_Baptiste_Sim%C3%A9on_Chardin_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3198.jpg/1280px-Le_Buffet_-_Jean_Baptiste_Sim%C3%A9on_Chardin_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3198.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1826,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Le Buffet - Jean Baptiste Siméon Chardin - Musée du Louvre Peintures INV 3198.jpg)"
+  },
+  "archive": {
+    "wd": "Q3220656"
+  },
+  "phase": {
+    "label": "Early career: Académie reception pieces, 1728",
+    "source": {
+      "label": "The Buffet, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Buffet_(Chardin)"
+    }
+  },
+  "tags": [
+    {
+      "id": "still-life",
+      "source": {
+        "label": "The Buffet, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Buffet_(Chardin)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He favored simple yet beautifully textured still lifes, and sensitively handled domestic interiors and genre paintings.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Jean Siméon Chardin",
+            "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Buffet, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Buffet_(Chardin)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It and The Ray were Chardin's reception pieces to the Académie royale de peinture et de sculpture; both are now in the Louvre.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Buffet (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Buffet_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Academy selected both still life works from a larger group of submitted paintings, choosing to pair The Ray with the more structurally conservative Buffet.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ray (Chardin)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ray_(Chardin)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "these works were placed in an anteroom through which the members passed to their place of meeting",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        },
+        "lead": "On the paintings Chardin submitted to the Royal Academy:"
+      },
+      {
+        "kind": "quote",
+        "text": "but the Dutch school influenced Chardin most",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Largely self-taught, Chardin was greatly influenced by the realism and subject matter of the 17th-century Low Country masters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Chardin worked very slowly and painted only slightly more than 200 pictures (about four a year) in total.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

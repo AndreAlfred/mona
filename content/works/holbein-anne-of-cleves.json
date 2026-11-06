@@ -1,0 +1,119 @@
+{
+  "id": "holbein-anne-of-cleves",
+  "artist": "hans-holbein-the-younger",
+  "title": "Anne of Cleves",
+  "date": "1539",
+  "year": 1539,
+  "medium": "oil paint on vellum, canvas",
+  "dimensions": "65 × 48 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 1348)",
+    "url": "https://www.wikidata.org/wiki/Q6106746"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Anne_de_Cl%C3%A8ves_-_Hans_Holbein_le_Jeune_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1348_%3B_MR_756_-_version_2.jpg/1280px-Anne_de_Cl%C3%A8ves_-_Hans_Holbein_le_Jeune_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1348_%3B_MR_756_-_version_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Anne_de_Cl%C3%A8ves_-_Hans_Holbein_le_Jeune_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1348_%3B_MR_756_-_version_2.jpg/2560px-Anne_de_Cl%C3%A8ves_-_Hans_Holbein_le_Jeune_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1348_%3B_MR_756_-_version_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1653,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Anne de Clèves - Hans Holbein le Jeune - Musée du Louvre Peintures INV 1348 ; MR 756 - version 2.jpg)"
+  },
+  "archive": {
+    "wd": "Q6106746"
+  },
+  "phase": {
+    "label": "King's Painter to Henry VIII, 1536–43",
+    "source": {
+      "label": "Hans Holbein the Younger (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Anne of Cleves (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Anne_of_Cleves"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Louvre record via Wikidata: oil on vellum, mounted on canvas",
+        "url": "https://www.wikidata.org/wiki/Q6106746"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Hans Holbein the Younger (Wikipedia): \"He worked in a Northern Renaissance style\"",
+        "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Holbein painted Anne of Cleves at Burgau Castle, posing her square-on and in elaborate finery.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Hans Holbein hath taken the effigies of my Lady Anne and the lady Amelia [Anne's sister] and hath expressed their images very lively",
+        "lead": "English envoy Nicholas Wotton reported:",
+        "source": {
+          "author": "Nicholas Wotton",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Henry was disillusioned with Anne in the flesh, however, and he divorced her after a brief, unconsummated marriage.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was, ironically, Holbein's portrait of Anne of Cleves which largely led to Cromwell's downfall: furious at being saddled with a wife he found entirely unattractive, the King directed all his anger at Cromwell.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hans Holbein the Younger",
+          "readAt": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

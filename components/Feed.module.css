@@ -5,6 +5,33 @@
   border-top: 1px solid var(--rule);
   padding-top: 1rem;
 }
+/* A new artist arrives with a short fade rather than a long scroll. */
+.run {
+  animation: arrive 480ms var(--ease-out) both;
+}
+@keyframes arrive {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .run {
+    animation: none;
+  }
+}
+/* "After Vermeer · History": where you just were, one line. */
+.before {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0.9rem var(--gutter) 0;
+  text-align: center;
+  color: var(--ink-3);
+  font-size: 0.85rem;
+}
+.before a {
+  color: var(--ink-2);
+}
 .sentinel {
   min-height: 40svh;
 }

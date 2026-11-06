@@ -1,0 +1,34 @@
+{
+  "id": "hanging-scroll",
+  "kind": "material",
+  "name": "Hanging scroll",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A hanging scroll is one of the many traditional ways to display and exhibit East Asian painting and calligraphy.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Hanging scroll",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Hanging_scroll",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Hanging scrolls are generally intended to be displayed for short periods of time, after which they are rolled up and tied for storage. They are traditionally rotated according to season or occasion, rather than be on permanent display.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Hanging scroll",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Hanging_scroll",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "hanging scroll"
+}

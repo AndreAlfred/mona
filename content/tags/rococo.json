@@ -1,20 +1,19 @@
 {
   "id": "rococo",
-  "kind": "style",
+  "kind": "movement",
   "name": "Rococo",
   "summary": [
     {
       "kind": "quote",
-      "text": "It is characterized by extensive ornamentation, fluid curves, asymmetry, and a smaller scale designed to foster intimacy.",
+      "text": "a Western style of architecture, art, and decoration that emerged in France in the 1730s as a reaction against the Louis XIV style",
       "source": {
         "author": "Wikipedia contributors",
         "title": "Rococo",
         "readAt": "https://en.wikipedia.org/wiki/Rococo",
-        "accessed": "2026-11-03",
+        "accessed": "2026-11-04",
         "tier": 5,
         "license": "CC BY-SA 4.0"
       }
     }
-  ],
-  "archiveTerm": "rococo"
+  ]
 }

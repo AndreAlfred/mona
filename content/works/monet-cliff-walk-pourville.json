@@ -1,0 +1,113 @@
+{
+  "id": "monet-cliff-walk-pourville",
+  "artist": "claude-monet",
+  "title": "Cliff Walk at Pourville",
+  "date": "1882",
+  "year": 1882,
+  "medium": "Oil on canvas",
+  "dimensions": "66.5 × 82.3 cm (26 1/8 × 32 7/16 in.); Framed: 88.9 × 104.8 × 10.8 cm (35 × 41 1/4 × 4 1/4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/14620"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_-_Cliff_Walk_at_Pourville_-_Google_Art_Project.jpg/1280px-Claude_Monet_-_Cliff_Walk_at_Pourville_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_-_Cliff_Walk_at_Pourville_-_Google_Art_Project.jpg/2560px-Claude_Monet_-_Cliff_Walk_at_Pourville_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 962,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Claude Monet - Cliff Walk at Pourville - Google Art Project.jpg)"
+  },
+  "archive": {
+    "aic": 14620
+  },
+  "phase": {
+    "label": "Normandy painting expeditions, 1882",
+    "source": {
+      "label": "Cliff Walk at Pourville, Art Institute of Chicago",
+      "url": "https://api.artic.edu/api/v1/artworks/14620?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://www.artic.edu/artworks/14620"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He integrated these elements with one another through texture and color.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Cliff Walk at Pourville",
+            "readAt": "https://api.artic.edu/api/v1/artworks/14620?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In this work, Monet addressed the problem of inserting figures into a landscape without disrupting the unity of its painterly surface.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Cliff Walk at Pourville",
+          "readAt": "https://api.artic.edu/api/v1/artworks/14620?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In addition, the artist was unenthusiastic about the upcoming seventh Impressionist exhibition—divisions within the group had become pronounced by this time—and he delegated the responsibility for his contribution to his dealer, Paul Durand-Ruel.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Cliff Walk at Pourville",
+          "readAt": "https://api.artic.edu/api/v1/artworks/14620?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "How beautiful the countryside is becoming, and what joy it would be for me to show you all its delightful nooks and crannies!",
+        "source": {
+          "author": "Claude Monet",
+          "title": "Cliff Walk at Pourville",
+          "readAt": "https://api.artic.edu/api/v1/artworks/14620?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 1,
+          "publisher": "Art Institute of Chicago"
+        },
+        "lead": "Writing to Alice Hoschedé and her children, as quoted by the Art Institute:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

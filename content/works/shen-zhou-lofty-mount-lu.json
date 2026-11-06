@@ -1,0 +1,175 @@
+{
+  "id": "shen-zhou-lofty-mount-lu",
+  "artist": "shen-zhou",
+  "title": "Lofty Mount Lu",
+  "date": "1467",
+  "year": 1467,
+  "dimensions": "193.8 × 98.1 cm",
+  "museum": {
+    "name": "National Palace Museum (故畫000884N000000000)",
+    "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=3593&Dept=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Lofty_Mt.Lu_by_Shen_Zhou.jpg/1280px-Lofty_Mt.Lu_by_Shen_Zhou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2367,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Lofty Mt.Lu by Shen Zhou.jpg)"
+  },
+  "archive": {
+    "wd": "Q121366791"
+  },
+  "phase": {
+    "label": "The first large scrolls, 1467",
+    "source": {
+      "label": "Edwards, The Field of Stones: Towering Mount Lu (1467), a large picture marking the move beyond small early works",
+      "url": "https://archive.org/details/fieldofstonesstu00edwa"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia, Shen Zhou: “Lofty Mt. Lu … 1467, Hanging scroll”",
+        "url": "https://en.wikipedia.org/wiki/Shen_Zhou"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia, Shan shui: illustrated with Shen Zhou’s painting of 1467",
+        "url": "https://en.wikipedia.org/wiki/Shan_shui"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Mountains had long been seen as sacred places in China, which were viewed as the homes of immortals and thus, close to the heavens.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Shan shui",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Shan_shui",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Edwards, The Field of Stones: the long, learned poem packed into the upper right-hand corner",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "[Shen Zhou imitated Wang Meng] because he wished to convey ideas of enduring life and to transmit them to an old and respected teacher that he, like the mountains, might live forever.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In contrast to the relatively spare style of his compatriots, his ropy brushstrokes piled one on the other to produce masses of texture combined in dense and involved patterns.",
+        "lead": "On Wang Meng, the Yuan master whose manner Shen Zhou borrowed here:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Wang Meng (painter)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Wang_Meng_(painter)",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Mount Lu contains important sites and temples for Daoism, (Mahayana) Buddhism, Confucianism, and even Christianity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mount Lu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Mount_Lu",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Song dynasty poet Su Shi famously described the difficulty of conveying the mountain's beauty in his expression, \"Why can't I tell the true shape of Lushan? Because I myself am in the mountain.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mount Lu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Mount_Lu",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "On the fifth day of the fifth month, 1467, the pupil, Shen Chou of Suchou, respectfully composed poem and painting, wishing long life for (Ch‘en) Hsing-an",
+        "lead": "Shen Zhou’s dedication to his old teacher Chen Kuan:",
+        "source": {
+          "author": "Shen Zhou (Shen Chou)",
+          "title": "Inscription on Towering Mount Lu, 1467",
+          "publisher": "translated by Richard Edwards in The Field of Stones (Freer Gallery of Art, 1962; Internet Archive scan)",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I was one who loitered about his door; / Looking up at his lofty eminence / Mount Lu is no longer high. … Fame and wealth to him are like the passing cloud",
+        "source": {
+          "author": "Shen Zhou (Shen Chou)",
+          "title": "Poem inscribed on Towering Mount Lu, 1467",
+          "publisher": "translated by Richard Edwards in The Field of Stones (Freer Gallery of Art, 1962; Internet Archive scan)",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "As a result, we should look on the mountain as a kind of portrait of Ch‘en K‘uan.",
+        "source": {
+          "author": "Richard Edwards",
+          "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1962",
+          "url": "https://archive.org/details/fieldofstonesstu00edwa",
+          "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "medium": "Hanging scroll; ink and color on paper",
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

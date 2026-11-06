@@ -1,0 +1,107 @@
+{
+  "id": "bruegel-peasant-wedding",
+  "artist": "pieter-bruegel-the-elder",
+  "title": "The Peasant Wedding",
+  "date": "1567",
+  "year": 1567,
+  "medium": "oil paint on oak panel",
+  "dimensions": "113 × 164 cm",
+  "museum": {
+    "name": "Kunsthistorisches Museum (GG_1027)",
+    "url": "https://contentdm.lib.byu.edu/digital/collection/Civilization/id/846/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg/1280px-Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg/2560px-Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 830,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pieter Bruegel the Elder - Peasant Wedding - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q603751"
+  },
+  "phase": {
+    "label": "Late peasant scenes, 1566–1569",
+    "source": {
+      "label": "Dated collection record",
+      "url": "https://artsandculture.google.com/asset/peasant-wedding/hgGvote2WI8P3w?hl=en-GB"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Collection medium",
+        "url": "https://artsandculture.google.com/asset/peasant-wedding/hgGvote2WI8P3w?hl=en-GB"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Collection classification",
+        "url": "https://artsandculture.google.com/asset/peasant-wedding/hgGvote2WI8P3w?hl=en-GB"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Bruegel carefully articulates the grooved indentations and variegated colors",
+          "source": {
+            "author": "Stephanie Porras",
+            "title": "Producing the Vernacular: Antwerp, Cultural Archaeology and the Bruegelian Peasant",
+            "readAt": "https://jhna.org/articles/producing-vernacular-antwerp-cultural-archaeology-bruegelian-peasant/",
+            "accessed": "2026-11-03",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Unfortunately nothing is known about the commissioning of this work",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "The Peasant Wedding",
+          "readAt": "https://artsandculture.google.com/asset/peasant-wedding/hgGvote2WI8P3w?hl=en-GB",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum (GG_1027)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Antwerp’s art market saw a boom in the production of peasant scenes",
+        "source": {
+          "author": "Stephanie Porras",
+          "title": "Producing the Vernacular: Antwerp, Cultural Archaeology and the Bruegelian Peasant",
+          "readAt": "https://jhna.org/articles/producing-vernacular-antwerp-cultural-archaeology-bruegelian-peasant/",
+          "accessed": "2026-11-03",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the bride was not permitted either to eat or to speak beforehand",
+        "source": {
+          "author": "Cäcilia Bischoff",
+          "title": "The Peasant Wedding",
+          "readAt": "https://artsandculture.google.com/asset/peasant-wedding/hgGvote2WI8P3w?hl=en-GB",
+          "accessed": "2026-11-03",
+          "tier": 2,
+          "publisher": "Kunsthistorisches Museum (GG_1027)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

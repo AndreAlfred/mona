@@ -1,0 +1,128 @@
+{
+  "id": "chardin-wild-strawberries",
+  "artist": "jean-simeon-chardin",
+  "title": "Basket of Wild Strawberries",
+  "date": "1761",
+  "year": 1761,
+  "medium": "oil paint on canvas",
+  "dimensions": "38 × 46 cm",
+  "museum": {
+    "name": "Musée du Louvre (RFML.PE.2024.7.1)",
+    "url": "https://fr.wikipedia.org/wiki/Le_Panier_de_fraises_des_bois"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Jean_Sim%C3%A9on_Chardin_-_Le_Panier_de_fraises_des_bois_%281761%29.jpg/1280px-Jean_Sim%C3%A9on_Chardin_-_Le_Panier_de_fraises_des_bois_%281761%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Jean_Sim%C3%A9on_Chardin_-_Le_Panier_de_fraises_des_bois_%281761%29.jpg/2560px-Jean_Sim%C3%A9on_Chardin_-_Le_Panier_de_fraises_des_bois_%281761%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 974,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jean Siméon Chardin - Le Panier de fraises des bois (1761).jpg)"
+  },
+  "archive": {
+    "wd": "Q111578201"
+  },
+  "phase": {
+    "label": "Late still lifes, 1756–1770s",
+    "source": {
+      "label": "Jean Siméon Chardin, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+    }
+  },
+  "tags": [
+    {
+      "id": "still-life",
+      "source": {
+        "label": "Le Panier de fraises des bois, Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Le_Panier_de_fraises_des_bois"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "his spirit is drawn to the humilities of daily service, to the gentle cares of daily life",
+          "source": {
+            "author": "Lady Dilke",
+            "title": "French Painters of the XVIIIth Century",
+            "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+            "accessed": "2026-11-04",
+            "tier": 2,
+            "publisher": "George Bell and Sons",
+            "year": "1899",
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Jean Siméon Chardin, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Who said one paints with colors? One employs colors, but one paints with feeling",
+        "source": {
+          "author": "Jean Siméon Chardin",
+          "title": "Remark on painting, as reported in Wikipedia's article on Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 1,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Chardin's remark on his art, as reported:"
+      },
+      {
+        "kind": "quote",
+        "text": "l'extrême simplicité de la composition qui élimine tout détail et atteint le parfait équilibre, l'audace de l'exécution",
+        "source": {
+          "author": "Pierre Rosenberg",
+          "title": "Quoted in Wikipédia, Le Panier de fraises des bois",
+          "readAt": "https://fr.wikipedia.org/wiki/Le_Panier_de_fraises_des_bois",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Pierre Rosenberg, former director of the Louvre, in French:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He is not so much an eighteenth century French artist, as a French artist of pure race and type.",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "le musée fait savoir que le tableau entre dans les collections du Louvre grâce à la contribution financière du musée lui-même (6 millions d’euros), de grandes entreprises mécènes (17 millions) et de 10 000 donateurs individuels (1,6 million)",
+        "source": {
+          "author": "Wikipédia",
+          "title": "Le Panier de fraises des bois",
+          "readAt": "https://fr.wikipedia.org/wiki/Le_Panier_de_fraises_des_bois",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On the Louvre's 2024 acquisition, in French:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tenebrism",
+  "kind": "technique",
+  "name": "Tenebrism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Caravaggio's tenebrism (a heightened chiaroscuro) brought high drama to his subjects, while his acutely observed realism brought a new level of emotional intensity.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Caravaggio",
+        "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Caravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Caravaggio",
+        "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

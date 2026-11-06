@@ -1,0 +1,113 @@
+{
+  "id": "monet-stacks-wheat-end-summer",
+  "artist": "claude-monet",
+  "title": "Stacks of Wheat (End of Summer)",
+  "date": "1890–91",
+  "year": 1890,
+  "medium": "Oil on canvas",
+  "dimensions": "60 × 100.5 cm (23 5/8 × 39 9/16 in.); Framed: 75.6 × 116.6 × 7.4 cm (29 3/4 × 45 7/8 × 2 7/8 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/64818"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Claude_Monet_-_Stacks_of_Wheat_%28End_of_Summer%29_-_1985.1103_-_Art_Institute_of_Chicago.jpg/1280px-Claude_Monet_-_Stacks_of_Wheat_%28End_of_Summer%29_-_1985.1103_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Claude_Monet_-_Stacks_of_Wheat_%28End_of_Summer%29_-_1985.1103_-_Art_Institute_of_Chicago.jpg/2560px-Claude_Monet_-_Stacks_of_Wheat_%28End_of_Summer%29_-_1985.1103_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 711,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Claude Monet - Stacks of Wheat (End of Summer) - 1985.1103 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 64818
+  },
+  "phase": {
+    "label": "Giverny wheat-stack series, 1890–91",
+    "source": {
+      "label": "Stacks of Wheat (End of Summer), Art Institute of Chicago",
+      "url": "https://api.artic.edu/api/v1/artworks/64818?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://www.artic.edu/artworks/64818"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In this view, and in nearly all of the autumn views in the series, the conical tops of the stacks break the horizon and push into the sky.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Stacks of Wheat (End of Summer)",
+            "readAt": "https://api.artic.edu/api/v1/artworks/64818?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Through 1890 and 1891, he worked on this series both in the field, painting simultaneously at several easels, and in the studio, refining pictorial harmonies.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Stacks of Wheat (End of Summer)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/64818?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In May 1891, Monet hung fifteen of these canvases next to each other in one small room in the Galerie Durand-Ruel in Paris. An unprecedented critical and financial success, the exhibition marked a breakthrough in Monet’s career, as well as in the history of French art.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Stacks of Wheat (End of Summer)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/64818?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "For Monet, the stack was a resonant symbol of sustenance and survival.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Stacks of Wheat (End of Summer)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/64818?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

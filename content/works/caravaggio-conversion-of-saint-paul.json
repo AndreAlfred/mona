@@ -1,0 +1,159 @@
+{
+  "id": "caravaggio-conversion-of-saint-paul",
+  "artist": "caravaggio",
+  "title": "Conversion on the Way to Damascus",
+  "date": "1601",
+  "year": 1601,
+  "medium": "oil paint on canvas",
+  "dimensions": "230 × 175 cm",
+  "museum": {
+    "name": "Cerasi Chapel, Santa Maria del Popolo, Rome",
+    "url": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg/1280px-Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg/2560px-Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1577,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Conversion on the Way to Damascus-Caravaggio (c.1600-1).jpg)"
+  },
+  "archive": {
+    "wd": "Q2273517"
+  },
+  "phase": {
+    "label": "Most famous painter in Rome, 1600–1606",
+    "source": {
+      "label": "Caravaggio: Rome years",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio"
+    }
+  },
+  "tags": [
+    {
+      "id": "tenebrism",
+      "source": {
+        "label": "Caravaggio: tenebrism",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Caravaggio's style of tenebrism, where forms in paintings emerge from a dark background with usually one source of stark light, created dramatic effects with its strong contrasts.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Conversion on the Way to Damascus",
+            "readAt": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Caravaggio: chiaroscuro",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Caravaggio: Baroque",
+        "url": "https://en.wikipedia.org/wiki/Caravaggio"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The scene is lit by a strong light but the three figures are engulfed by an almost impenetrable darkness.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Conversion on the Way to Damascus",
+          "readAt": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "\"Why have you put a horse in the middle, and Saint Paul on the ground?\" \"Because!\" \"Is the horse God?\" \"No, but he stands in God's light!\"",
+        "lead": "The story goes that an official of the church asked:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Caravaggio",
+          "readAt": "https://en.wikipedia.org/wiki/Caravaggio",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The panels at first had been painted in a different style, but because they did not please the patron, Cardinal Sannesio took them; in their place he painted the two oil paintings that can be seen there today",
+        "lead": "Baglione, Caravaggio's rival and first biographer, on a first version that was set aside:",
+        "source": {
+          "author": "Giovanni Baglione",
+          "title": "Le vite de' pittori, scultori et architetti",
+          "readAt": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "year": "1642",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Caravaggio executed the two lateral paintings, the Crucifixion of Saint Peter and the Conversion of Saint Paul; whose history is completely bereft of action.",
+        "lead": "Bellori, the classicist critic, in 1672:",
+        "source": {
+          "author": "Giovanni Pietro Bellori",
+          "title": "Le vite de' pittori, scultori et architetti moderni",
+          "readAt": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus",
+          "accessed": "2026-11-04",
+          "tier": 3,
+          "year": "1672",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "what is perhaps the most revolutionary painting in the history of religious art.",
+        "lead": "The art historian Roberto Longhi, in 1952:",
+        "source": {
+          "author": "Roberto Longhi",
+          "title": "Remarks on the Cerasi Chapel (1952), as quoted on Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "year": "1952"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "are not remote spectacles, far separated from the spectator. They speak directly to him, on his own level. He can understand and share their experiences: the awakening of faith, and the martyrdom of faith.",
+        "lead": "On the two Cerasi Chapel paintings, Walter Friedlaender wrote that the scenes",
+        "source": {
+          "author": "Walter Friedlaender",
+          "title": "Caravaggio Studies, as quoted on Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "year": "1955"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

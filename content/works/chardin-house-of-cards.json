@@ -1,0 +1,130 @@
+{
+  "id": "chardin-house-of-cards",
+  "artist": "jean-simeon-chardin",
+  "title": "The House of Cards",
+  "date": "ca. 1740–41",
+  "year": 1740,
+  "medium": "oil paint on canvas",
+  "dimensions": "60.3 × 72 cm",
+  "museum": {
+    "name": "National Gallery (NG4078)",
+    "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Jean-Baptiste-Sim%C3%A9on_Chardin%2C_The_House_of_Cards%2C_1736-37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1005,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jean-Baptiste-Siméon Chardin, The House of Cards, 1736-37.jpg)"
+  },
+  "archive": {
+    "wd": "Q26708343"
+  },
+  "phase": {
+    "label": "Genre scenes of the late 1730s and 1740s",
+    "source": {
+      "label": "The House of Cards, National Gallery",
+      "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The House of Cards, National Gallery",
+        "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "The House of Cards, National Gallery",
+        "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The boy’s card building is perhaps not just a game but may also be an exercise in methods of construction.",
+          "source": {
+            "author": "National Gallery, London",
+            "title": "The House of Cards",
+            "readAt": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards",
+            "accessed": "2026-11-04",
+            "tier": 4,
+            "publisher": "National Gallery, London"
+          }
+        }
+      ]
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "The House of Cards, National Gallery",
+        "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This picture is one of four identified versions of The House of Cards painted by Chardin.",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The House of Cards",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In each, we get the same uncompromising mosaic, so to say, of colour.",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        },
+        "lead": "On Soap Bubbles and The House of Cards together:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Scenes such as these derived from 17th-century Netherlandish vanitas works, which bore messages about the transitory nature of human life and the worthlessness of material ambitions",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A close friend of Chardin, who had witnessed the artist’s marriage in 1744, Jean-Jacques Le Noir had commissioned several paintings from him",
+        "source": {
+          "author": "National Gallery, London",
+          "title": "The House of Cards",
+          "readAt": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards",
+          "accessed": "2026-11-04",
+          "tier": 4,
+          "publisher": "National Gallery, London"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}

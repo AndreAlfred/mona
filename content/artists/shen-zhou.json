@@ -1,0 +1,105 @@
+{
+  "id": "shen-zhou",
+  "name": "Shen Zhou",
+  "born": 1427,
+  "died": 1509,
+  "active": "1460s–1509",
+  "nationality": "Chinese",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "wu-school",
+      "source": {
+        "label": "Wikipedia: Shen Zhou is usually cited as the founder of the Wu School",
+        "url": "https://en.wikipedia.org/wiki/Wu_School"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: the Southern (literati) School, “as we know it from the Ming painter Shen Chou onwards”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "wen-zhengming",
+      "name": "Wen Zhengming",
+      "source": {
+        "label": "Wikipedia: in 1489 Wen Zhengming began studying under Shen Zhou",
+        "url": "https://en.wikipedia.org/wiki/Wen_Zhengming"
+      }
+    },
+    {
+      "id": "tang-yin",
+      "name": "Tang Yin",
+      "source": {
+        "label": "Wikipedia: Tang Yin’s friends in the Suzhou scholarly circles included Shen Zhou",
+        "url": "https://en.wikipedia.org/wiki/Tang_Yin"
+      }
+    },
+    {
+      "id": "qiu-ying",
+      "name": "Qiu Ying",
+      "source": {
+        "label": "Wikipedia: Shen Zhou, Wen Zhengming, Tang Yin and Qiu Ying, the Four Masters of the Ming dynasty",
+        "url": "https://en.wikipedia.org/wiki/Four_Masters_of_the_Ming_dynasty"
+      }
+    }
+  ],
+  "wikidata": "Q558863",
+  "archive": {
+    "aic": 36633,
+    "cma": [
+      23557
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "A Suzhou native, Shen Zhou was supported by family wealth and rejected an official career in favor of life as a retired scholar. Turning to painting in midlife, he is regarded as the founder of the Wu School of painting, with its center in Suzhou.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Twelve Views of Tiger Hill (collection description)",
+        "publisher": "Cleveland Museum of Art",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/140441",
+        "accessed": "2026-11-04",
+        "tier": 4,
+        "license": "CC0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "For Shen Chou this idea represents the summit, the peak of the good life. He was brought up in a tradition that constantly reiterated this fact. His father and grandfather lived that way. So did his uncle and his teacher. He himself was to live that life to its highest attainment, the most famous type of his generation, a model for generations to come.",
+      "lead": "Richard Edwards, on the ideal of the scholar’s retreat:",
+      "source": {
+        "author": "Richard Edwards",
+        "title": "The Field of Stones: A Study of the Art of Shen Chou (1427–1509)",
+        "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+        "year": "1962",
+        "url": "https://archive.org/details/fieldofstonesstu00edwa",
+        "readAt": "https://archive.org/stream/fieldofstonesstu00edwa/fieldofstonesstu00edwa_djvu.txt",
+        "accessed": "2026-11-04",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Shen Zhou lived at a pivotal point in the history of Chinese painting, and contributed greatly to the artistic tradition of China, founding the new Wu School in Suzhou.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Shen Zhou",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Shen_Zhou",
+        "accessed": "2026-11-04",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "monet-seine-giverny-mist",
+  "artist": "claude-monet",
+  "title": "Branch of the Seine near Giverny (Mist)",
+  "date": "1897",
+  "year": 1897,
+  "medium": "Oil on canvas",
+  "dimensions": "89.9 × 92.7 cm (35 3/8 × 36 1/2 in.); Framed: 112.4 × 115.6 × 11.5 cm (44 1/4 × 45 1/2 × 4 1/2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/16564"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monet_-_Branch_of_the_Seine_near_Giverny_%28Mist%29%2C_from_the_series_%E2%80%9CMornings_on_the_Seine%E2%80%9D%2C_1897.jpg/1280px-Monet_-_Branch_of_the_Seine_near_Giverny_%28Mist%29%2C_from_the_series_%E2%80%9CMornings_on_the_Seine%E2%80%9D%2C_1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monet_-_Branch_of_the_Seine_near_Giverny_%28Mist%29%2C_from_the_series_%E2%80%9CMornings_on_the_Seine%E2%80%9D%2C_1897.jpg/2560px-Monet_-_Branch_of_the_Seine_near_Giverny_%28Mist%29%2C_from_the_series_%E2%80%9CMornings_on_the_Seine%E2%80%9D%2C_1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1162,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Monet - Branch of the Seine near Giverny (Mist), from the series “Mornings on the Seine”, 1897.jpg)"
+  },
+  "archive": {
+    "aic": 16564
+  },
+  "phase": {
+    "label": "Seine series near Giverny, 1897",
+    "source": {
+      "label": "Branch of the Seine near Giverny (Mist), Art Institute of Chicago",
+      "url": "https://api.artic.edu/api/v1/artworks/16564?fields=id,title,description"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum medium",
+        "url": "https://www.artic.edu/artworks/16564"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Laura Auricchio on Monet and Impressionism",
+        "url": "https://www.metmuseum.org/essays/claude-monet-1840-1926"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Although this painting appears hazy and vague, Monet made deliberate technical decisions—for instance, blurring a once-distinct horizon line with vigorously blended brushstrokes that grow looser as they radiate outward.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Branch of the Seine near Giverny (Mist)",
+            "readAt": "https://api.artic.edu/api/v1/artworks/16564?fields=id,title,description",
+            "accessed": "2026-11-03",
+            "tier": 4,
+            "publisher": "Art Institute of Chicago",
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Monet custom-ordered the nearly square canvas, an unusual shape that contributes to the disorienting nature of the scene, half of which represents a reflection on the water.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Branch of the Seine near Giverny (Mist)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16564?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "By diffusing the landscape through these techniques, Monet attempted to capture the transience of light and mist, a theme he pursued throughout his career.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Branch of the Seine near Giverny (Mist)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16564?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "For months Claude Monet rose before dawn to travel by rowboat to the same location on the river Seine, where he painted 14 canvases simultaneously, reworking them as the light shifted.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Branch of the Seine near Giverny (Mist)",
+          "readAt": "https://api.artic.edu/api/v1/artworks/16564?fields=id,title,description",
+          "accessed": "2026-11-03",
+          "tier": 4,
+          "publisher": "Art Institute of Chicago",
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

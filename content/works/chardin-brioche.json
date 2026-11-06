@@ -1,0 +1,148 @@
+{
+  "id": "chardin-brioche",
+  "artist": "jean-simeon-chardin",
+  "title": "La Brioche",
+  "date": "1763",
+  "year": 1763,
+  "medium": "oil paint on canvas",
+  "dimensions": "47 × 56 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (MI 1038)",
+    "url": "http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=11690"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jean_Sim%C3%A9on_Chardin_-_%27La_Brioche%27_%28Cake%29_-_WGA04779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 987,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jean Siméon Chardin - 'La Brioche' (Cake) - WGA04779.jpg)"
+  },
+  "archive": {
+    "wd": "Q19117273"
+  },
+  "phase": {
+    "label": "Late still lifes, 1756–1770s",
+    "source": {
+      "label": "Jean Siméon Chardin, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+    }
+  },
+  "tags": [
+    {
+      "id": "still-life",
+      "source": {
+        "label": "Jean Siméon Chardin, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He favored simple yet beautifully textured still lifes, and sensitively handled domestic interiors and genre paintings.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Jean Siméon Chardin",
+            "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+            "accessed": "2026-11-04",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Jean Siméon Chardin, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Out of the most simple materials the great magician could evoke all the mystery and beauty of life.",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "But perhaps Chardin's browns are as wonderful as his whites.",
+        "source": {
+          "author": "Lady Dilke",
+          "title": "French Painters of the XVIIIth Century",
+          "readAt": "https://archive.org/stream/frenchpaintersof00dilkrich/frenchpaintersof00dilkrich_djvu.txt",
+          "accessed": "2026-11-04",
+          "tier": 2,
+          "publisher": "George Bell and Sons",
+          "year": "1899",
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1756 Chardin returned to the subject of the still life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Chardin's work had little in common with the Rococo painting that dominated French art in the 18th century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Chardin worked very slowly and painted only slightly more than 200 pictures (about four a year) in total.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "resulted in a diminution of productivity in painting",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jean Siméon Chardin",
+          "readAt": "https://en.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+          "accessed": "2026-11-04",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-04",
+    "by": "claude-session"
+  }
+}
