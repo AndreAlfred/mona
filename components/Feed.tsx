@@ -344,17 +344,31 @@ function RunView({
   );
 }
 
-/** Records a card in history once it has been on screen for a moment. */
+/**
+ * Records a card in history once it has been on screen for a moment.
+ *
+ * "On screen" means it fills half the screen, or shows 35% of itself if it's
+ * shorter than that. A plain 35%-of-the-card rule never fired for long
+ * cards: on a Pixel 7 cards run 2.4-2.9 screens tall, so 35% of The
+ * Ambassadors is more than a whole screen and it could never be recorded.
+ */
+const SEEN_STEPS = Array.from({ length: 21 }, (_, i) => i / 20);
 export function Seen({ card, children }: { card: CardModel; children: React.ReactNode }) {
   const ref = useRef<HTMLDivElement>(null);
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
     let timer: ReturnType<typeof setTimeout> | undefined;
+    let visible = false;
     const io = new IntersectionObserver(
       ([e]) => {
+        const vh = e.rootBounds?.height ?? window.innerHeight;
+        const enough = e.isIntersecting && e.intersectionRect.height >= Math.min(e.boundingClientRect.height * 0.35, vh * 0.5);
+        // Fires at every 5% step; only (re)start the clock when it first becomes enough.
+        if (enough === visible) return;
+        visible = enough;
         clearTimeout(timer);
-        if (e.isIntersecting)
+        if (enough)
           timer = setTimeout(() => {
             const already = getState().history.some((h) => h.key === card.key);
             recordSeen(entryFor(card));
@@ -365,7 +379,7 @@ export function Seen({ card, children }: { card: CardModel; children: React.Reac
             io.disconnect();
           }, 900);
       },
-      { threshold: 0.35 },
+      { threshold: SEEN_STEPS },
     );
     io.observe(el);
     return () => {

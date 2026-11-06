@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Instrument_Serif, Newsreader } from "next/font/google";
 import "./globals.css";
 import { Masthead } from "@/components/Masthead";
+import { KeepHistory } from "@/components/KeepHistory";
 
 const display = Instrument_Serif({
   variable: "--font-display",
@@ -36,6 +37,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html lang="en" className={`${display.variable} ${text.variable}`}>
       <body>
         <Masthead />
+        <KeepHistory />
         {children}
       </body>
     </html>

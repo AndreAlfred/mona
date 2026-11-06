@@ -13,7 +13,7 @@ import {
 } from "@/lib/client-data";
 import { normName } from "@/lib/util";
 import { WorkCard } from "./WorkCard";
-import { Loading } from "./Feed";
+import { Loading, Seen } from "./Feed";
 import styles from "./Pages.module.css";
 
 /** One card on its own: the target of shared links, collection and history. */
@@ -52,7 +52,10 @@ export function SingleCard({ kind, id }: { kind: "w" | "a"; id: string }) {
   if (!card) return <Loading />;
   return (
     <>
-      <WorkCard card={card} eager onLanded={() => setReload((r) => r + 1)} />
+      {/* Shared links count as seen too, so they land in History. */}
+      <Seen card={card}>
+        <WorkCard card={card} eager onLanded={() => setReload((r) => r + 1)} />
+      </Seen>
       <p className={styles.onward}>
         <Link href="/" className="smallcaps">
           Back to your feed
