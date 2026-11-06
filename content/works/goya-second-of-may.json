@@ -1,0 +1,106 @@
+{
+  "id": "goya-second-of-may",
+  "artist": "francisco-de-goya",
+  "title": "The Second of May 1808 (El dos de mayo de 1808 en Madrid)",
+  "date": "1814",
+  "year": 1814,
+  "medium": "oil paint on canvas",
+  "dimensions": "268.5 × 347.5 cm",
+  "museum": {
+    "name": "Museo del Prado (P000748)",
+    "url": "https://www.wikidata.org/wiki/Q2983399"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/El_dos_de_mayo_de_1808_en_Madrid.jpg/1280px-El_dos_de_mayo_de_1808_en_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/El_dos_de_mayo_de_1808_en_Madrid.jpg/2560px-El_dos_de_mayo_de_1808_en_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 928,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (El dos de mayo de 1808 en Madrid.jpg)"
+  },
+  "archive": {
+    "wd": "Q2983399"
+  },
+  "phase": {
+    "label": "War commemorations, 1814",
+    "source": {
+      "label": "The Second of May 1808",
+      "url": "https://en.wikipedia.org/wiki/The_Second_of_May_1808"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Second of May 1808",
+        "url": "https://en.wikipedia.org/wiki/The_Second_of_May_1808"
+      }
+    },
+    {
+      "id": "romanticism",
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Goya chose not to paint any single action or to have any single focal point in order to emphasize the chaos of the drama.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Second of May 1808",
+            "readAt": "https://en.wikipedia.org/wiki/The_Second_of_May_1808",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ],
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is a companion to the painting The Third of May 1808 and is set in the Calle de Alcalá near Puerta del Sol, Madrid, during the Dos de Mayo Uprising.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Second of May 1808",
+          "readAt": "https://en.wikipedia.org/wiki/The_Second_of_May_1808",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It depicts one of the many people's rebellions against the French occupation of Spain that sparked the Peninsular War.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Second of May 1808",
+          "readAt": "https://en.wikipedia.org/wiki/The_Second_of_May_1808",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He chose to portray the citizens of Madrid as unknown heroes using the crudest of weapons, such as knives, to attack a professional, occupying army.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Second of May 1808",
+          "readAt": "https://en.wikipedia.org/wiki/The_Second_of_May_1808",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

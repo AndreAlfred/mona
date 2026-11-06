@@ -1,0 +1,108 @@
+{
+  "id": "goya-blind-mans-bluff",
+  "artist": "francisco-de-goya",
+  "title": "Blind Man's Bluff (La gallina ciega)",
+  "date": "1788",
+  "year": 1788,
+  "medium": "oil paint on canvas",
+  "dimensions": "269 × 350 cm",
+  "museum": {
+    "name": "Museo del Prado (P000804)",
+    "url": "https://www.wikidata.org/wiki/Q3825327"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/La_gallina_ciega_%28cart%C3%B3n_restaurado%29_por_Francisco_de_Goya.jpg/1280px-La_gallina_ciega_%28cart%C3%B3n_restaurado%29_por_Francisco_de_Goya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 958,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (La gallina ciega (cartón restaurado) por Francisco de Goya.jpg)"
+  },
+  "archive": {
+    "wd": "Q3825327"
+  },
+  "phase": {
+    "label": "Royal tapestry cartoons, 1789",
+    "source": {
+      "label": "Blind Man%27s Bluff (Goya)",
+      "url": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff_(Goya)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Blind Man%27s Bluff (Goya)",
+        "url": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff_(Goya)"
+      }
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Blind Man%27s Bluff (Goya)",
+        "url": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff_(Goya)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The painting is an example of the Rococo style, with characteristic stylistic features: vivacity, immediacy, curiosity, chromaticism of soft roses, gauze textures in the women's skirts, a luminous landscape background, the depiction of a flirtatious moment.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Blind Man%27s Bluff (Goya)",
+            "readAt": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff_(Goya)",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Blind Man's Bluff (Spanish: La gallina ciega) is one of the Rococo oil-on-linen cartoons produced by the Spanish artist Francisco de Goya for tapestries for the Royal Palace of El Pardo.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Blind Man%27s Bluff (Goya)",
+          "readAt": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff_(Goya)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The youngsters are dressed as majos and majas, the attire of the humble classes of Spanish society that the aristocrats, like those in this painting, liked to wear.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Blind Man%27s Bluff (Goya)",
+          "readAt": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff_(Goya)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The work shows boys and girls playing the popular pastime \"blind man's bluff\", with one figure in the middle blindfolded and holding a large spoon while trying to entice others dancing around him in a circle.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Blind Man%27s Bluff (Goya)",
+          "readAt": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff_(Goya)",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}

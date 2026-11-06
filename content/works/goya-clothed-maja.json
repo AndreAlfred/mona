@@ -1,0 +1,109 @@
+{
+  "id": "goya-clothed-maja",
+  "artist": "francisco-de-goya",
+  "title": "The Clothed Maja (La maja vestida)",
+  "date": "1800",
+  "year": 1800,
+  "medium": "oil paint on canvas",
+  "dimensions": "95 × 190 cm",
+  "museum": {
+    "name": "Museo del Prado (P000741)",
+    "url": "https://www.wikidata.org/wiki/Q2735507"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Goya_Maja_ubrana2.jpg/1280px-Goya_Maja_ubrana2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Goya_Maja_ubrana2.jpg/2560px-Goya_Maja_ubrana2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 603,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Goya Maja ubrana2.jpg)"
+  },
+  "archive": {
+    "wd": "Q2735507"
+  },
+  "phase": {
+    "label": "Private commissions, 1800–1807",
+    "source": {
+      "label": "The Clothed Maja",
+      "url": "https://en.wikipedia.org/wiki/The_Clothed_Maja"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "The Clothed Maja",
+        "url": "https://en.wikipedia.org/wiki/The_Clothed_Maja"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "The Clothed Maja",
+        "url": "https://en.wikipedia.org/wiki/The_Clothed_Maja"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The identity of the model and that of the commissioner have not been confirmed.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Clothed Maja",
+            "readAt": "https://en.wikipedia.org/wiki/The_Clothed_Maja",
+            "accessed": "2026-11-03",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is a clothed version of the earlier La maja desnuda, which was created between 1795 and 1800.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Clothed Maja",
+          "readAt": "https://en.wikipedia.org/wiki/The_Clothed_Maja",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The maja vestida and maja desnuda were both first cited in an 1808 inventory, when Godoy's assets were seized by King Ferdinand VII.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Clothed Maja",
+          "readAt": "https://en.wikipedia.org/wiki/The_Clothed_Maja",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The paintings were never publicly exhibited during Goya's lifetime, so it is also unknown if they were created as pendant paintings, to be displayed as a pair.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Clothed Maja",
+          "readAt": "https://en.wikipedia.org/wiki/The_Clothed_Maja",
+          "accessed": "2026-11-03",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-03",
+    "by": "codex-worker"
+  }
+}
