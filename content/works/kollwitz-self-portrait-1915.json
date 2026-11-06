@@ -1,0 +1,149 @@
+{
+  "id": "kollwitz-self-portrait-1915",
+  "artist": "kathe-kollwitz",
+  "title": "Self-Portrait",
+  "date": "1915",
+  "year": 1915,
+  "medium": "lithograph",
+  "dimensions": "Overall: 27.2 x 23.4 cm (10 11/16 x 9 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1941.493"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.493/1941.493_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1941.493/1941.493_print.jpg",
+    "width": 755,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. Lewis B. Williams Collection"
+  },
+  "archive": {
+    "cma": 120761
+  },
+  "phase": {
+    "label": "The war years, after Peter’s death, 1914–18",
+    "source": {
+      "label": "Wikipedia: Kollwitz lost her son Peter in October 1914",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art: lithograph",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/120761"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: at least fifty self-portraits",
+        "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+      }
+    },
+    {
+      "id": "expressionism",
+      "source": {
+        "label": "Wikipedia: Expressionists inspired Kollwitz to simplify her means of expression",
+        "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Expressionist artists have sought to express the meaning of emotional experience rather than physical reality.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Expressionism",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Expressionism",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Virtually the only portraits she made during her life were images of herself, of which there are at least fifty. These self-portraits constitute a lifelong honest self-appraisal; \"they are psychological milestones\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "After her return to Germany, Kollwitz continued to exhibit her work but was impressed by younger compatriots. Expressionists and (after the First World War) Bauhaus artists inspired Kollwitz to simplify her means of expression.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nevertheless I am no longer satisfied. There are too many good things that seem fresher than mine… I should like to do the new etchings so that all the essentials are strongly stressed and the inessentials almost omitted.",
+        "lead": "From her diary:",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "The Diary and Letters of Kaethe Kollwitz, ed. Hans Kollwitz, trans. Richard and Clara Winston (1955), p. 52, quoted in “Käthe Kollwitz”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription of a translation)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The loss of her child began a stage of prolonged depression in her life. By the end of 1914 she had made drawings for a monument to Peter and his fallen comrades.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For work, one must be hard and thrust outside of oneself what one has lived through.",
+        "lead": "In her journal, August 1916:",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "Journal, 22 August 1916, in Voices of German Expressionism, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1916"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

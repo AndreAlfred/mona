@@ -1,0 +1,165 @@
+{
+  "id": "kollwitz-woman-with-dead-child",
+  "artist": "kathe-kollwitz",
+  "title": "Woman with Dead Child",
+  "date": "1903",
+  "year": 1903,
+  "medium": "etching on wove paper",
+  "dimensions": "41.7 × 47.2 cm",
+  "museum": {
+    "name": "British Museum (1949,0411.3928)",
+    "url": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=684802&partId=1"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kaethe_Kollwitz_-_Frau_mit_totem_Kind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1046,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kaethe Kollwitz - Frau mit totem Kind.jpg)"
+  },
+  "archive": {
+    "wd": "Q22049133"
+  },
+  "phase": {
+    "label": "Berlin etchings, early 1900s",
+    "source": {
+      "label": "Wikipedia: Woman with Dead Child, a 1903 etching",
+      "url": "https://en.wikipedia.org/wiki/Woman_with_Dead_Child"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Wikipedia: a 1903 etching",
+        "url": "https://en.wikipedia.org/wiki/Woman_with_Dead_Child"
+      }
+    },
+    {
+      "id": "soft-ground-etching",
+      "source": {
+        "label": "Wikimedia Commons: line etching, drypoint, emery and vernis mou (soft ground)",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaethe_Kollwitz_-_Frau_mit_totem_Kind.jpg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Soft-ground etching uses a special softer ground. The artist places a piece of paper (or cloth etc. in modern uses) over the ground and draws on it. The print resembles a drawing.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Etching",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Etching",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Wikimedia Commons: line etching, drypoint, emery and vernis mou",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaethe_Kollwitz_-_Frau_mit_totem_Kind.jpg"
+      }
+    },
+    {
+      "id": "expressionism",
+      "source": {
+        "label": "Wikipedia: movement, Expressionism",
+        "url": "https://en.wikipedia.org/wiki/Woman_with_Dead_Child"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Woman With Dead Child is a 1903 etching by Käthe Kollwitz. Its subject was influenced by her experiences in an underserved sector of Berlin as a physician's wife where disease and infant mortality rate were high.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Woman with Dead Child",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Woman_with_Dead_Child",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The picture depicts a mother holding her child between the thighs. Her mouth is fixed on its chest in an effort to suck her child back inside her.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Woman with Dead Child",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Woman_with_Dead_Child",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The etchings of Klinger, their technique and social concerns, were an inspiration to Kollwitz.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The historian Holger Jacob-Friesen illustrates and discusses in detail the influence of Klinger's prints on artist such as Franz von Stuck, Käthe Kollwitz, Edvard Munch, Lovis Corinth",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Max Klinger",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Max_Klinger",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The artist used herself and her seven-year-old son Peter as models for this composition.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Woman with Dead Child",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Woman_with_Dead_Child",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Kollwitz lost her younger son, Peter, on the battlefield in World War I in October 1914.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

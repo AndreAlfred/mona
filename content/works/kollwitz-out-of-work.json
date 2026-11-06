@@ -1,0 +1,136 @@
+{
+  "id": "kollwitz-out-of-work",
+  "artist": "kathe-kollwitz",
+  "title": "Proletariat: No. 1, Out of Work",
+  "date": "1925",
+  "year": 1925,
+  "medium": "woodcut",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1950.206"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1950.206/1950.206_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1950.206/1950.206_print.jpg",
+    "width": 739,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 127527
+  },
+  "phase": {
+    "label": "The woodcuts of the 1920s",
+    "source": {
+      "label": "Wikipedia: she made about 30 woodcuts by 1926",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: woodcut",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/127527"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Artists, notably Edvard Munch and Franz Masereel, continued to use the medium, which in Modernism came to appeal because it was relatively easy to complete the whole process, including printing, in a studio with little special equipment. The German Expressionists used woodcut a good deal.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Woodcut",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Woodcut",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "expressionism",
+      "source": {
+        "label": "Wikipedia: Expressionists inspired Kollwitz to simplify her means of expression",
+        "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+      }
+    },
+    {
+      "id": "social-realism",
+      "source": {
+        "label": "Wikipedia: Kollwitz among the artists who embraced social realism",
+        "url": "https://en.wikipedia.org/wiki/Social_realism"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "While working on the sheet for Karl Liebknecht, she found etching insufficient for expressing monumental ideas. After viewing woodcuts by Ernst Barlach at the Secession exhibitions, she completed the Liebknecht sheet in the new medium and made about 30 woodcuts by 1926.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1922–23 she produced the cycle War in woodcut form, including the works The Sacrifice, The Volunteers, The Parents, The Widow I, The Widow II, The Mothers, and The People.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The aim of realism to capture the particular and accidental with minute exactness was abandoned for a more abstract and universal conception and a more summary execution",
+        "lead": "The curator Carl Zigrosser on her later style:",
+        "source": {
+          "author": "Carl Zigrosser",
+          "title": "Prints and Drawings of Käthe Kollwitz (Dover, 1969), p. xiii, quoted in “Käthe Kollwitz”",
+          "publisher": "Wikipedia",
+          "year": "1969",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 2,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I felt that I have no right to withdraw from the responsibility of being an advocate. It is my duty to voice the sufferings of people, the sufferings that never end and are as big as mountains.",
+        "lead": "In her diary, 1920:",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "Diary entry, 1 April 1920, in The Diary and Letters of Kaethe Kollwitz, ed. Hans Kollwitz, trans. Richard and Clara Winston (1955), quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1920"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

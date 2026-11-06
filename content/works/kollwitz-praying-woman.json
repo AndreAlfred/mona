@@ -1,0 +1,161 @@
+{
+  "id": "kollwitz-praying-woman",
+  "artist": "kathe-kollwitz",
+  "title": "Praying Woman (Betende Frau)",
+  "date": "1892",
+  "year": 1892,
+  "medium": "pencil, India ink on paper",
+  "dimensions": "14.5 × 15.8 cm",
+  "museum": {
+    "name": "Strasbourg Museum of Modern and Contemporary Art (XVIII 40)",
+    "url": "https://www.wikidata.org/wiki/Q125399043"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/K%C3%A4the_Kollwitz%2C_Betende_Frau_%28Femme_en_pri%C3%A8re%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1480,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Käthe Kollwitz, Betende Frau (Femme en prière).jpg)"
+  },
+  "archive": {
+    "wd": "Q125399043"
+  },
+  "phase": {
+    "label": "Early years, Königsberg and Berlin, 1890s",
+    "source": {
+      "label": "Wikipedia: Kollwitz, early life and move to Berlin in 1891",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Wikidata: drawing by Käthe Kollwitz (pencil, India ink)",
+        "url": "https://www.wikidata.org/wiki/Q125399043"
+      }
+    },
+    {
+      "id": "pen-and-ink",
+      "source": {
+        "label": "Wikidata: India ink on paper",
+        "url": "https://www.wikidata.org/wiki/Q125399043"
+      }
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: subjects associated with the Realism movement",
+        "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "At sixteen she began working with subjects associated with the Realism movement, making drawings of working people, sailors and peasants she saw in her father's offices.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Käthe Kollwitz",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1888/89, she studied painting with Ludwig Herterich in Munich, where she realized her strength was not as a painter, but a draughtsman.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1890, she returned to Königsberg, rented her first studio, and continued to depict the harsh labors of the working class. These subjects were an inspiration in her work for years.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Going to Berlin at the age of eighteen to study art, Kathe Kollwitz fell under the influence of [Hogarth's] prints and through her own interest in socialism, fostered at home, she became absorbed in the passions, the trials, and tribulations of the masses.",
+        "source": {
+          "author": "Worcester Art Museum",
+          "title": "Exhibition of Prints by Käthe Kollwitz: Studies from the German Revolution, 1919–21 (catalogue introduction, signed F.H.T.)",
+          "publisher": "Worcester Art Museum",
+          "year": "1933",
+          "url": "https://archive.org/details/exhibitionofprin00worc",
+          "readAt": "https://archive.org/stream/exhibitionofprin00worc/exhibitionofprin00worc_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 4,
+          "license": "Internet Archive scan"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1885-6 she began her formal study of art under the direction of Karl Stauffer-Bern, a friend of the artist Max Klinger, at the School for Women Artists in Berlin.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1891, Kollwitz married Karl, who by this time was a doctor tending to the poor in Berlin.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The motifs I was able to select from this milieu (the workers' lives) offered me, in a simple and forthright way, what I discovered to be beautiful.… People from the bourgeois sphere were altogether without appeal or interest. All middle-class life seemed pedantic to me. On the other hand, I felt the proletariat had guts.",
+        "lead": "Kollwitz on the people she found near her husband’s practice:",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "Recollection, quoted in “Käthe Kollwitz”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription of a translation)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

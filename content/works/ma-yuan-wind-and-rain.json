@@ -1,0 +1,148 @@
+{
+  "id": "ma-yuan-wind-and-rain",
+  "artist": "ma-yuan",
+  "title": "Landscape in Wind and Rain",
+  "date": "late 12th–early 13th century",
+  "year": 1200,
+  "museum": {
+    "name": "Seikadō Bunko Library",
+    "url": "https://www.wikidata.org/wiki/Q107045014"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Wind_and_Rain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2400,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Wind and Rain.jpg)"
+  },
+  "archive": {
+    "wd": "Q107045014"
+  },
+  "phase": {
+    "label": "Undated mature landscape (attributed)",
+    "source": {
+      "label": "Sirén: as none of Ma Yuan’s works “is dated, it is hardly possible to reach a definite idea about the stylistic evolution”",
+      "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikidata: genre shan shui",
+        "url": "https://www.wikidata.org/wiki/Q107045014"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "… the Chinese term for landscape, \"mountain and water picture,\" indicates the elements of which it was habitually composed.",
+          "lead": "Laurence Binyon, on the Song landscape masters:",
+          "source": {
+            "author": "Laurence Binyon",
+            "title": "Painting in the Far East",
+            "publisher": "Edward Arnold (Internet Archive scan)",
+            "year": "1908",
+            "page": "137",
+            "url": "https://archive.org/details/histpicteastin00binyuoft",
+            "readAt": "https://archive.org/stream/histpicteastin00binyuoft/histpicteastin00binyuoft_djvu.txt",
+            "accessed": "2026-11-05",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "ma-xia-school",
+      "source": {
+        "label": "Sirén discusses the picture in his chapter “The Ma-Hsia School of Landscape Painting”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "… the large picture in Baron Iwasaki’s collection, where … the steep towering mountains fill the middle part of the background … The wind is shaking the trees which bend over the promontory where a boat is moored; a man with a large paper-umbrella is hastening along the mountain path towards houses, which lie half-hidden in the mist at the foot of a precipice.",
+        "lead": "Osvald Sirén, on a large landscape by Ma Yuan then in Baron Iwasaki’s collection, the core of today’s Seikadō Bunko:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "80–81",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He has a broad stroke and a masterful manner which place his works in the front rank of all Chinese painting. His mountainous backgrounds rear themselves with fierce energy.",
+        "lead": "Raphael Petrucci on Ma Yuan:",
+        "source": {
+          "author": "Raphael Petrucci",
+          "title": "Chinese Painters: A Critical Study (trans. Frances Seaver)",
+          "publisher": "Project Gutenberg",
+          "year": "1920",
+          "url": "https://www.gutenberg.org/ebooks/22288",
+          "readAt": "https://www.gutenberg.org/cache/epub/22288/pg22288.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "… it became easy for Japanese artists and collectors, who at that time had recognized the greatness of [Ma Yuan’s] and Hsia Kuei’s art, to obtain many of their best works. It thus happens that to-day we find more paintings attributed to [Ma Yuan], Hsia Kuei, and their closest followers, in Japanese and American collections than in China …",
+        "lead": "Sirén explains why so many Ma Yuan pictures are in Japan:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "77",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Seikado Foundation was founded by Baron Yanosuke Iwasaki (1851-1908), the younger brother of Yataro Iwasaki, who was the second president of Mitsubishi, and expanded by Yanosuke's son, Koyata Iwasaki (1879-1945), who became the fourth president of Mitsubishi.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Seikadō Bunko Art Museum",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Seikad%C5%8D_Bunko_Art_Museum",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He loved the mountain solitudes to which he gave a new imagery, so authoritative and so perfect that it served to create a school.",
+        "source": {
+          "author": "Raphael Petrucci",
+          "title": "Chinese Painters: A Critical Study (trans. Frances Seaver)",
+          "publisher": "Project Gutenberg",
+          "year": "1920",
+          "url": "https://www.gutenberg.org/ebooks/22288",
+          "readAt": "https://www.gutenberg.org/cache/epub/22288/pg22288.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

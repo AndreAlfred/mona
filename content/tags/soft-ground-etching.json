@@ -1,0 +1,34 @@
+{
+  "id": "soft-ground-etching",
+  "kind": "technique",
+  "name": "Soft-ground etching",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Soft-ground etching uses a special softer ground. The artist places a piece of paper (or cloth etc. in modern uses) over the ground and draws on it. The print resembles a drawing.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Etching",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Etching",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Soft ground can also be used to capture the texture or pattern of fabrics or furs pressed into the soft surface.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Etching",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Etching",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "soft-ground etching"
+}

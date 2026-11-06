@@ -1,0 +1,129 @@
+{
+  "id": "kollwitz-sharpening-the-scythe",
+  "artist": "kathe-kollwitz",
+  "title": "Sharpening the Scythe",
+  "date": "1905",
+  "year": 1905,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1950.205"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1950.205/1950.205_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1950.205/1950.205_print.jpg",
+    "width": 933,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 127526
+  },
+  "phase": {
+    "label": "Peasants’ War cycle, 1902–08",
+    "source": {
+      "label": "Wikipedia: the Peasant War series, 1902–1908",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art: etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/127526"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In all, the works were technically more impressive than those of The Weavers, owing to their greater size and dramatic command of light and shadow. They are Kollwitz's highest achievements as an etcher.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Käthe Kollwitz",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "social-realism",
+      "source": {
+        "label": "Wikipedia: Kollwitz among the artists who embraced social realism",
+        "url": "https://en.wikipedia.org/wiki/Social_realism"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Kollwitz's second major cycle of works was the Peasant War. The production of this series lasted from 1902 to 1908 due to many preliminary drawings and discarded ideas in lithography. It was inspired by the German Peasants' War of 1524–1525, when oppressed peasants in southern Germany took up arms against the nobility and the Church.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Two other etchers deserve especial notice: Kathe Kollwitz for her powerful studies of the life of the people, of astounding virility of conception and treatment",
+        "lead": "Written in 1908, the year the cycle was completed:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "She was an advocate for those without a voice and liked to portray the working class in a way no one else saw. The artist identified with the character of Black Anna, a woman cited as a protagonist in the uprising.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Käthe Kollwitz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For me the Koenigsberg longshoremen had beauty; the Polish jimkes on their grain ships had beauty; the broad freedom of movement in the gestures of the common people had beauty.",
+        "source": {
+          "author": "Käthe Kollwitz",
+          "title": "“In Retrospect” (1941), quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/K%C3%A4the_Kollwitz",
+          "accessed": "2026-11-05",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1941"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

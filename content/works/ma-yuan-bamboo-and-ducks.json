@@ -1,0 +1,138 @@
+{
+  "id": "ma-yuan-bamboo-and-ducks",
+  "artist": "ma-yuan",
+  "title": "Bamboo and Ducks by a Rushing Stream",
+  "date": "1127–1279",
+  "year": 1127,
+  "medium": "hanging scroll; ink and light color on silk",
+  "dimensions": "Overall: 61 x 37 cm (24 x 14 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1967.145"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1967.145/1967.145_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1967.145/1967.145_print.jpg",
+    "width": 658,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 143166
+  },
+  "phase": {
+    "label": "Bird painting in the Ma family tradition",
+    "source": {
+      "label": "Sirén: Ma Fen’s son Ma Xingzu “followed in the footsteps of the father, specializing likewise in birds and animals”",
+      "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: Bamboo and Ducks by a Rushing Stream",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/143166"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Ma Yuan had an elder brother, Ma K'uei, … who excelled him in painting birds …",
+          "lead": "Herbert Giles, on the Ma brothers:",
+          "source": {
+            "author": "Herbert A. Giles",
+            "title": "An Introduction to the History of Chinese Pictorial Art",
+            "publisher": "Bernard Quaritch (Internet Archive scan)",
+            "year": "1918",
+            "page": "144",
+            "url": "https://archive.org/details/introductiontohi00gileuoft",
+            "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+            "accessed": "2026-11-05",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art: hanging scroll; ink and light color on silk",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/143166"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Although a very versatile painter, Ma is known today primarily for his landscape scrolls.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ma Yuan (painter)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "… he was probably the first of the Ma who excelled in monochrome ink-painting and sought his motives in nature. His son was Ma Hsing-tzu, who followed in the footsteps of the father, specializing likewise in birds and animals.",
+        "lead": "Osvald Sirén on Ma Fen, Ma Yuan’s great-grandfather, and his son:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "77",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "From these it seems clear that Bayen's style goes back to Kiso Kotei, and so remotely to Ririomin. Or rather we may say that he relates more to Ririomin in figures, but more to Kiso in landscape.",
+        "lead": "Ernest Fenollosa, using Japanese readings: Bayen is Ma Yuan, Kiso Kotei the painter-emperor Huizong, Ririomin the painter Li Gonglin:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "40",
+          "url": "https://archive.org/details/epochsofchinesej00fenorich",
+          "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The bamboo, like a great lady, has a gentler character that will be found stronger when it comes to emergencies.",
+        "lead": "Fenollosa, reading the bamboo in another of Ma Yuan’s paintings:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "41",
+          "url": "https://archive.org/details/epochsofchinesej00fenorich",
+          "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ma-yuan-banquet-lantern-light",
+  "artist": "ma-yuan",
+  "title": "Attending an Imperial Banquet",
+  "date": "c. 1200",
+  "year": 1200,
+  "dimensions": "111.9 × 53.5 cm",
+  "museum": {
+    "name": "National Palace Museum (故畫000174N000000000)",
+    "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=1445&Dept=P"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ma_Yuan-Banquet_by_Lantern_Light_%28large%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 3677,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ma Yuan-Banquet by Lantern Light (large).jpg)"
+  },
+  "archive": {
+    "wd": "Q121361625"
+  },
+  "phase": {
+    "label": "Court painter under Emperor Ningzong (r. 1194–1224)",
+    "source": {
+      "label": "Wikipedia: Ma Yuan “was a favorite of Emperor Ningzong”",
+      "url": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)"
+    }
+  },
+  "tags": [
+    {
+      "id": "southern-song-academy",
+      "source": {
+        "label": "Fenollosa: Ma Yuan among “the great court artists of Hangchow”",
+        "url": "https://archive.org/details/epochsofchinesej00fenorich"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "At some point after 1189, Ma Yuan received the same position under Emperor Guangzong. He evidently enjoyed a high reputation at the court and was a favorite of Emperor Ningzong (who wrote several poems inspired by Ma Yuan's paintings); but nothing more is known about his life.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Ma Yuan (painter)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Ma_Yuan_(painter)",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "National Palace Museum record: 宋馬遠華燈侍宴圖 軸 (hanging scroll)",
+        "url": "https://www.wikidata.org/wiki/Q121361625"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In addition to the landscapes with figures there are also among [Ma Yuan’s] works examples of real boundary-painting representing terraces and pavilions mostly seen from above and carefully delineated in every detail, so that they almost might serve as models for architects. A Feast of Lanterns in the Palace Museum in Peking should be remembered in this connection …",
+        "lead": "Osvald Sirén, writing when this scroll was still in the Palace Museum, Peking:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "82",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "“Ma Yuan painted his figures dignified and reposeful. For buildings he used a foot-measure, painting them with colour very fine and clear.”",
+        "lead": "An old Chinese chronicler, translated by Sirén:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "79",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The later Chinese have never forgiven the great court artists of Hangchow, such as Bayen (Ma Yuan) and Kakei (Hsia Kwi), for being … \"at the beck of monarchs,\" etc., etc.",
+        "lead": "Ernest Fenollosa, on how later scholar-critics judged the court painters:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "32",
+          "url": "https://archive.org/details/epochsofchinesej00fenorich",
+          "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is also most interesting to be informed that whenever Bayen painted for the Emperor (Neiso) his picture was commented upon by the Emperor's youngest sister, Yokei, who was most celebrated for her literary skill and handwriting. This shows both Bayen's familiarity with the palace inmates, and the advanced place of women in education …",
+        "lead": "Fenollosa (who uses the Japanese readings Bayen for Ma Yuan and Neiso for Ningzong) on Ma Yuan’s place at court:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "40",
+          "url": "https://archive.org/details/epochsofchinesej00fenorich",
+          "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

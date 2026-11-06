@@ -1,0 +1,38 @@
+{
+  "id": "southern-song-academy",
+  "kind": "movement",
+  "name": "Southern Song Painting Academy",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Imperial Art Institute became now an organic part of the Court Service, with examinations and court rank of almost equal importance with the institutes of literature.",
+      "lead": "Ernest Fenollosa, on the court at Hangzhou after 1127:",
+      "source": {
+        "author": "Ernest F. Fenollosa",
+        "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+        "publisher": "William Heinemann (Internet Archive scan)",
+        "year": "1913",
+        "page": "32",
+        "url": "https://archive.org/details/epochsofchinesej00fenorich",
+        "readAt": "https://archive.org/stream/epochsofchinesej00fenorich/epochsofchinesej00fenorich_djvu.txt",
+        "accessed": "2026-11-05",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "During the reign of Emperor Ningzong Xia served in the Imperial Painting Academy (Yuhuayuan 廷畫院) in the same city, the way most major artists did at the time.",
+      "lead": "On Xia Gui, Ma Yuan’s fellow academician in Hangzhou:",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Xia Gui",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Xia_Gui",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Southern Song"
+}

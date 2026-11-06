@@ -1,0 +1,133 @@
+{
+  "id": "ma-yuan-angler-wintry-river",
+  "artist": "ma-yuan",
+  "title": "Solitary Angler on a Wintry River",
+  "date": "c. 1195",
+  "year": 1195,
+  "dimensions": "26.7 × 50.6 cm",
+  "museum": {
+    "name": "Tokyo National Museum (TA-140)",
+    "url": "https://www.wikidata.org/wiki/Q121361686"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Angler_on_a_Wintry_Lake%2C_by_Ma_Yuan%2C_1195.jpg/1280px-Angler_on_a_Wintry_Lake%2C_by_Ma_Yuan%2C_1195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Angler_on_a_Wintry_Lake%2C_by_Ma_Yuan%2C_1195.jpg/2560px-Angler_on_a_Wintry_Lake%2C_by_Ma_Yuan%2C_1195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 642,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Angler on a Wintry Lake, by Ma Yuan, 1195.jpg)"
+  },
+  "archive": {
+    "wd": "Q121361686"
+  },
+  "phase": {
+    "label": "Court painter at Hangzhou, 1190s",
+    "source": {
+      "label": "Wikipedia (citing Joseph Needham): painted by Ma Yuan in 1195",
+      "url": "https://en.wikipedia.org/wiki/Fishing_reel"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Sirén: “Some faint wavy lines … indicate the water … The rest of the picture is emptiness”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "During the Southern Song period (1127–1279), court painters such as Ma Yuan and Xia Gui used strong black brushstrokes to sketch trees and rocks and pale washes to suggest misty space.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Chinese painting",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Chinese_painting",
+            "accessed": "2026-11-05",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ma-xia-school",
+      "source": {
+        "label": "Sirén discusses the Angler in his chapter “The Ma-Hsia School of Landscape Painting”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "But the last word of aesthetic economy, atmosphere, and silence was given by Ma Yuan in the famous picture representing An Angler on a Wintry Lake … The flat-bottomed sampan is just large enough to carry the man who sits in its stern, bent over the angling rod. Some faint wavy lines along its side indicate the water. That is all.",
+        "lead": "Osvald Sirén, writing when the painting was in Baron Mitsui’s collection:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "82",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The earliest known graphical depiction of a fishing reel, according to Joseph Needham, comes from a Southern Song (1127 – 1279) painting done in 1195 by Ma Yuan (c. 1160 – 1225) called \"Angler on a Wintry Lake\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Fishing reel",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fishing_reel",
+          "accessed": "2026-11-05",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Loftiness and simplicity, a deep feeling for solitary places, give their character to the art of these masters …",
+        "lead": "Laurence Binyon, on Ma Yuan, Xia Gui and the Song landscape masters:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1908",
+          "page": "137",
+          "url": "https://archive.org/details/histpicteastin00binyuoft",
+          "readAt": "https://archive.org/stream/histpicteastin00binyuoft/histpicteastin00binyuoft_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The rest of the picture is emptiness — a silent grey tone as of the evening mist. Motives like this may still be observed on the West Lake in Hang-chou; but seldom, if ever, did an artist grasp so much of their significance in so few strokes of the brush. Never was emptiness made more eloquent, or silence more palpable in a picture.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "82",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-05",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "kathe-kollwitz",
+  "name": "Käthe Kollwitz",
+  "born": 1867,
+  "died": 1945,
+  "active": "1880s–1945",
+  "nationality": "German",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: began working with subjects associated with the Realism movement",
+        "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+      }
+    },
+    {
+      "id": "social-realism",
+      "source": {
+        "label": "Wikipedia: Kollwitz among the German artists who embraced social realism",
+        "url": "https://en.wikipedia.org/wiki/Social_realism"
+      }
+    },
+    {
+      "id": "expressionism",
+      "source": {
+        "label": "Wikipedia: Kollwitz listed among German Expressionist artists",
+        "url": "https://en.wikipedia.org/wiki/Expressionism"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "max-klinger",
+      "name": "Max Klinger",
+      "source": {
+        "label": "Wikipedia: the etchings of Klinger were an inspiration to Kollwitz",
+        "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+      }
+    },
+    {
+      "id": "adolph-von-menzel",
+      "name": "Adolph von Menzel",
+      "source": {
+        "label": "Wikipedia: Menzel nominated her Weavers cycle for a gold medal in 1898",
+        "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz"
+      }
+    },
+    {
+      "id": "william-hogarth",
+      "name": "William Hogarth",
+      "source": {
+        "label": "Worcester Art Museum (1933): she fell under the influence of [Hogarth's] prints",
+        "url": "https://archive.org/details/exhibitionofprin00worc"
+      }
+    }
+  ],
+  "wikidata": "Q142472",
+  "archive": {
+    "cma": [
+      29141
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "My formative years coincided with that period, and I was totally caught up in the socialist movement. … The simple fact of the matter was that I found the proletariat beautiful.",
+      "lead": "Looking back on why she drew working people:",
+      "source": {
+        "author": "Käthe Kollwitz",
+        "title": "Reply to a questionnaire sent to artists (1942/43), quoted in Otto Nagel, Käthe Kollwitz (1971), trans. Stella Humphries, quoted on Wikiquote",
+        "publisher": "Wikiquote",
+        "readAt": "https://en.wikiquote.org/wiki/K%C3%A4the_Kollwitz",
+        "accessed": "2026-11-05",
+        "tier": 1,
+        "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Her most famous art cycles, including The Weavers and The Peasant War, depict the effects of poverty, hunger and war on the working class. Her early work was realistic, but became freer in later years. Kollwitz was the first woman not only to be elected to the Prussian Academy of Arts but also to receive honorary professor status.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Käthe Kollwitz",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+        "accessed": "2026-11-05",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Her silent lines penetrate the marrow like a cry of pain; such a cry was never heard among the Greeks and Romans.",
+      "lead": "The playwright Gerhart Hauptmann, whose play inspired her first cycle:",
+      "source": {
+        "author": "Gerhart Hauptmann",
+        "title": "Quoted by Carl Zigrosser, Prints and Drawings of Käthe Kollwitz (1969), via “Käthe Kollwitz”",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+        "accessed": "2026-11-05",
+        "tier": 3,
+        "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-05",
+    "by": "claude-routine"
+  }
+}
