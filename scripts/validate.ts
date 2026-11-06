@@ -64,31 +64,51 @@ async function main() {
     checkPassages(file, "work", w, artistName.get(w.artist));
   }
 
+  const warnings: string[] = [];
   if (process.argv.includes("--images")) {
-    // A few at a time, with retries: Wikimedia drops bursts of requests.
-    const head = async (url: string) => {
-      for (let i = 0; i < 3; i++) {
+    // GATE_CHANGED (set by scripts/gate.ts) lists the content files this PR
+    // adds or changes. Their images must load, full stop. Every other image
+    // already passed when it was added; for those, a definite failure (404,
+    // 403...) still fails, but Wikimedia rate-limiting the shared CI machines
+    // (429, 5xx, timeouts) is only a warning, so it can't block good content.
+    // Run standalone without GATE_CHANGED, every image is checked strictly.
+    const changed = process.env.GATE_CHANGED?.split("\n").filter(Boolean);
+    const strict = (file: string) => !changed || changed.some((c) => file.endsWith(c));
+    const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+    const head = async (url: string, tries: number) => {
+      let status: number | undefined;
+      for (let i = 0; i < tries; i++) {
         const res = await fetch(url, { method: "HEAD", headers: { "User-Agent": UA } }).catch(() => null);
-        if (res?.ok || (res && res.status < 429)) return res;
-        await new Promise((r) => setTimeout(r, 1500 * (i + 1)));
+        if (res && (res.ok || (res.status < 429 && res.status !== 408))) return { ok: res.ok, status: res.status, transient: false };
+        status = res?.status;
+        // Wait as long as the server asks (Retry-After), else back off: 2s, 4s, 8s...
+        const after = Number(res?.headers.get("retry-after"));
+        if (i < tries - 1) await sleep(Math.min(30_000, after > 0 ? after * 1000 : 2000 * 2 ** i));
       }
-      return null;
+      return { ok: false, status, transient: true };
     };
     const queue = [...works];
     const check = async ({ file, value: w }: (typeof works)[number]) => {
-        // AIC's image server doesn't serve images embedded in other sites, so
-        // these cards would show blank. Use the Commons photograph instead.
-        if (/artic\.edu\/iiif\//.test(w.image.url)) {
-          problems.push(`${file}: AIC image URLs don't display when embedded; use the Wikimedia Commons image (npm run commons-images)`);
-          return;
-        }
-        const res = await head(w.image.url);
-        if (!res?.ok) problems.push(`${file}: image not reachable (${res?.status ?? "network"})`);
+      // AIC's image server doesn't serve images embedded in other sites, so
+      // these cards would show blank. Use the Commons photograph instead.
+      if (/artic\.edu\/iiif\//.test(w.image.url)) {
+        problems.push(`${file}: AIC image URLs don't display when embedded; use the Wikimedia Commons image (npm run commons-images)`);
+        return;
+      }
+      const isStrict = strict(file);
+      const res = await head(w.image.url, isStrict ? 5 : 2);
+      if (res.ok) return;
+      const why = res.status ? `HTTP ${res.status}` : "no response";
+      if (isStrict || !res.transient) problems.push(`${file}: image not reachable (${why})`);
+      else warnings.push(`${file}: image check inconclusive (${why}, likely rate-limited); it passed when it was added`);
     };
-    await Promise.all(Array.from({ length: 6 }, async () => {
+    // Three at a time: Wikimedia rate-limits bursts from shared CI addresses.
+    await Promise.all(Array.from({ length: 3 }, async () => {
       for (let job = queue.shift(); job; job = queue.shift()) await check(job);
     }));
   }
+
+  if (warnings.length) console.warn(warnings.map((w) => `⚠ ${w}`).join("\n"));
 
   console.log(`${artists.length} artists, ${works.length} works, ${tags.length} tags, ${archive.length} archive artists`);
   if (problems.length) {
