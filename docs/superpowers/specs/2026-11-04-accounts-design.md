@@ -37,11 +37,11 @@ it, then explains the architecture and the stack choices to him.
 - Social features, sharing between accounts, public profiles.
 - Moving the research passphrase or research requests into accounts. They
   stay as they are.
-- Asking the browser for persistent storage, or warnings when it won't
-  persist (considered and set aside by Andrew).
 - Open sign-up for the public.
-- Recording history from single-work share pages (`/w/<id>`). Andrew judged
-  it a minor contributor; it can follow separately.
+- Already shipped separately on 2026-11-06, so out of scope here: asking
+  the browser for persistent storage, the "inside another app" / "Add to
+  Home screen" notice, recording shared links in History, and the fix for
+  long cards never counting as seen.
 
 ## Anti-goals: failures even if it "works"
 
@@ -52,7 +52,9 @@ it, then explains the architecture and the stack choices to him.
   token) ends up in the browser, the repo, or a Vercel `NEXT_PUBLIC_` variable.
 - A second device's sign-in silently overwrites the first device's history
   or collection.
-- Mona starts sending email, or depends on an email service.
+- The friend has to do any setup beyond typing his email and a code.
+- Mona's own code sends email or holds an email password. (Supabase sends
+  the codes; Mona never sees the Gmail app password.)
 
 ## Constraints
 
@@ -61,9 +63,10 @@ it, then explains the architecture and the stack choices to him.
   Data is kept; the project has to be restored from the dashboard. Mona
   must degrade gracefully when that happens (see Sync).
 - Supabase's built-in email only delivers to members of the project's own
-  team and is limited to 2 messages an hour (since 2024-09-26). Email
-  codes or magic links for the friend would need custom SMTP, which this
-  design avoids.
+  team and is limited to 2 messages an hour (since 2024-09-26), so codes
+  go out through custom SMTP: Andrew's Gmail with an app password
+  (about 500 messages a day). Moving to Resend later, with a domain, is a
+  Supabase settings change only.
 - The repo is public. Anything in the browser bundle is public.
 - Next.js 16 App Router, client-side state in `lib/store.ts`
   (`DeviceState`, `useDevice`, `update`). The app has no server-side
@@ -75,16 +78,23 @@ it, then explains the architecture and the stack choices to him.
 - Accounts are worth it, at a small scale, partly for the learning.
 - Claude builds it and explains the architecture afterwards (Postgres and
   the rest are new to Andrew).
+- **Sign-in is by 6-digit email code.** It has to be low effort for the
+  friend: he types his email address, then the code, with no password and
+  no setup. Andrew does all the setup.
+- Codes are sent through Andrew's Gmail (custom SMTP with an app
+  password), free and with no domain. Resend plus a domain stays an option
+  for later.
 
 ## Claude's calls (Andrew can override)
 
-1. **Sign-in is email + password, with no emails sent.** "Confirm email"
-   is off. Public sign-up is **closed**: Andrew creates each account in the
-   Supabase dashboard (Authentication → Add user, auto-confirm) and gives
-   the person their password. A forgotten password is reset by Andrew in
-   the dashboard. Why: it works in any browser, including in-app ones, with
-   no email service. Android's password manager can refill it if the
-   browser forgets the login.
+1. **Public sign-up is closed.** Andrew adds each person's email address
+   in the Supabase dashboard (Authentication → Users → Add user,
+   auto-confirmed). Mona calls `signInWithOtp` with `shouldCreateUser:
+   false`, then `verifyOtp` with `type: "email"`. A stranger can't create
+   an account or use up the email allowance. A code (rather than a magic
+   link) works even in another app's built-in browser, because the reader
+   copies it from the email instead of opening a link in a different
+   browser.
 2. **The browser talks to Supabase directly** with the public
    "publishable" (anon) key, and Postgres **row-level security (RLS)**
    restricts every row to its owner. There are no new Next.js API routes
@@ -189,8 +199,11 @@ devices can ask for "what changed since I last looked" in one query.
   lines of "Saved on this phone only. Sign in to keep it on any device",
   linking to `/account`.
 - **`/account`:**
-  - Signed out: an email and password form that works with password
-    managers (`autocomplete` attributes).
+  - Signed out: an email field, then a 6-digit code field, with a short
+    wait before the code can be re-sent (Supabase allows one every 60
+    seconds). Use `autocomplete="email"` and `autocomplete="one-time-code"`,
+    so Android and iOS can offer the code from the email. If the email
+    isn't one Andrew has added, say so kindly: "Ask Andrew to add you." 
   - Signed in: the email, when it last synced, **Sign out**, and **Delete
     my saved data**. That last one deletes the person's rows (RLS allows
     it) and leaves the account for Andrew to remove.
@@ -205,8 +218,9 @@ devices can ask for "what changed since I last looked" in one query.
   `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`. These are public by design; RLS
   is what protects the data. If they're unset, accounts are hidden and
   Mona behaves exactly as today.
-- Supabase settings: email provider on, sign-ups disabled, "Confirm email"
-  off.
+- Supabase settings: email provider on, sign-ups disabled, custom SMTP set
+  to Gmail, and the Magic Link email template showing `{{ .Token }}` (the
+  code) instead of a link.
 - Andrew creates the Supabase project and the two user accounts.
   Migrations are applied with the Supabase CLI, using an access token
   collected through the secure secret prompt, never pasted in chat.
