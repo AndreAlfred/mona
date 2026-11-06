@@ -1,0 +1,34 @@
+{
+  "id": "stained-glass",
+  "kind": "material",
+  "name": "Stained glass",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "As a material, stained glass is glass that has been coloured by adding metallic salts during its manufacture. It may then be further decorated in various ways.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Stained glass",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Stained_glass",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "For this reason stained-glass windows have been described as \"illuminated wall decorations\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Stained glass",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Stained_glass",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "stained glass"
+}

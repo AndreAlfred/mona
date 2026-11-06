@@ -1,0 +1,127 @@
+{
+  "id": "duccio-met-madonna",
+  "artist": "duccio",
+  "title": "Madonna and Child",
+  "date": "c. 1300",
+  "year": 1300,
+  "dimensions": "23.8 × 16.5 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (2004.442)",
+    "url": "https://www.metmuseum.org/art/collection/search/438754"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duccio_Di_Buoninsegna_-_Madonna_col_Bambino.jpg/1280px-Duccio_Di_Buoninsegna_-_Madonna_col_Bambino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duccio_Di_Buoninsegna_-_Madonna_col_Bambino.jpg/2560px-Duccio_Di_Buoninsegna_-_Madonna_col_Bambino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1591,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Duccio Di Buoninsegna - Madonna col Bambino.jpg)"
+  },
+  "archive": {
+    "wd": "Q6728394"
+  },
+  "phase": {
+    "label": "Small devotional panels, c. 1300",
+    "source": {
+      "label": "Wikipedia: a compact devotional image, dated around 1300",
+      "url": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: medium tempera",
+        "url": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: tooled details in the gold ground",
+        "url": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Despite the terse simplicity of the image, the painting reflects some of the changes Duccio was applying to the depiction of religious figures during the early 14th century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna and Child (Duccio, Metropolitan)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "What everyone else sees as a sign of quality and innovation, Beck sees as weakness. There is no reason to doubt the period and authenticity of the picture.",
+        "lead": "The Met's curator, answering a scholar who called it a forgery:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "Quoted in “Madonna and Child (Duccio, Metropolitan)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)",
+          "accessed": "2026-11-06",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Guided by innovative Italian artists of the time such as Giotto, Duccio moved beyond the purely iconic Byzantine and Italo-Byzantine canon.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna and Child (Duccio, Metropolitan)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Commentators have likened the parapet to a barrier between the vernacular world and the sacred.",
+        "lead": "On the painted ledge at the bottom:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna and Child (Duccio, Metropolitan)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Intimations of this reading appear in the burnt edges at the bottom of the original engaged frame, likely caused by lit candles positioned directly underneath.",
+        "lead": "A picture for private prayer:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna and Child (Duccio, Metropolitan)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_and_Child_(Duccio,_Metropolitan)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  },
+  "medium": "tempera and gold on wood"
+}

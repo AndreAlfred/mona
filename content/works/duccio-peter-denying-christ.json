@@ -1,0 +1,115 @@
+{
+  "id": "duccio-peter-denying-christ",
+  "artist": "duccio",
+  "title": "Christ Before Annas (top); Peter Denying Jesus (bottom)",
+  "date": "1308–11",
+  "year": 1309,
+  "museum": {
+    "name": "Museo dell'Opera del Duomo, Siena",
+    "url": "https://www.wikidata.org/wiki/Q111821732"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Duccio_di_Buoninsegna_026.jpg/1280px-Duccio_di_Buoninsegna_026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2207,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Duccio di Buoninsegna 026.jpg)"
+  },
+  "archive": {
+    "wd": "Q111821732"
+  },
+  "phase": {
+    "label": "The Maestà for Siena Cathedral, 1308–11",
+    "source": {
+      "label": "Wikipedia: commissioned 1308, installed 9 June 1311",
+      "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Center of the altarpiece consisting of 14 panels with 26 episodes from Christ's Passion",
+        "lead": "On the back of the Maestà:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Duccio)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "we cannot ask for clearer localisation than is here given ; the inner court and chambers, the staircase running up [the side of the house], the space where the men are sitting — all are perfectly detached from one another, and each has ample depth.",
+        "lead": "Berenson on the space of the courtyard:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Duccio was also one of the first painters to put figures in architectural settings, as he began to explore and investigate depth and space.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Duccio",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Duccio",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "We see a group of men in the open air huddling about a fire, and bending over with hands outstretched to catch its glow. Peter in the midst is denying Christ, as the serving-maid passes by.",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

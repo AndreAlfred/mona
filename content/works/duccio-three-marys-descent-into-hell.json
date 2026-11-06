@@ -1,0 +1,114 @@
+{
+  "id": "duccio-three-marys-descent-into-hell",
+  "artist": "duccio",
+  "title": "Three Marys at the Tomb (top); Descent into Hell (bottom)",
+  "date": "1308–11",
+  "year": 1309,
+  "museum": {
+    "name": "Museo dell'Opera del Duomo, Siena",
+    "url": "https://www.wikidata.org/wiki/Q111822211"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Duccio_di_Buoninsegna_028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2300,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Duccio di Buoninsegna 028.jpg)"
+  },
+  "archive": {
+    "wd": "Q111822211"
+  },
+  "phase": {
+    "label": "The Maestà for Siena Cathedral, 1308–11",
+    "source": {
+      "label": "Wikipedia: commissioned 1308, installed 9 June 1311",
+      "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the Maestà is tempera and gold on wood",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "I know no more impressive rendering of this most marvellous of all subjects. To the drama of expression and gesture, Duccio adds the drama of light, with all its transfiguring magic.",
+        "lead": "Berenson on the Three Marys:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Duccio's Maestà was the first altarpiece to have both a front and back side.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Duccio)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The reverse showed, in forty-three small panels, scenes from the Life of the Virgin and the Life of Christ",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Duccio)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Duccio)",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Then, on earth, it is Easter Day, and as the light is breaking over the jagged rocks, the three Marys approach the tomb, and start back as they behold its lid swung open and upon it a white-stoled angel, radiant and glorious.",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

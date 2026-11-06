@@ -1,0 +1,134 @@
+{
+  "id": "duccio-crevole-madonna",
+  "artist": "duccio",
+  "title": "Crevole Madonna",
+  "date": "c. 1283–84",
+  "year": 1283,
+  "medium": "tempera on panel",
+  "dimensions": "89 × 60 cm",
+  "museum": {
+    "name": "Museo dell'Opera Metropolitana del Duomo",
+    "url": "https://www.wikidata.org/wiki/Q3842715"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Duccio_%E2%80%94_Crevole_Madonna.jpg/1280px-Duccio_%E2%80%94_Crevole_Madonna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Duccio_%E2%80%94_Crevole_Madonna.jpg/2560px-Duccio_%E2%80%94_Crevole_Madonna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1816,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Duccio — Crevole Madonna.jpg)"
+  },
+  "archive": {
+    "wd": "Q3842715"
+  },
+  "phase": {
+    "label": "Early works, c. 1280–85",
+    "source": {
+      "label": "Wikipedia: it was one of the artist's first works",
+      "url": "https://en.wikipedia.org/wiki/Crevole_Madonna"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: tempera and gold on wood panel",
+        "url": "https://en.wikipedia.org/wiki/Crevole_Madonna"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Duccio's known works are on wood panel, painted in egg tempera and embellished with gold leaf. Differently from his contemporaries and artists before him, Duccio was a master of tempera and managed to conquer the medium with delicacy and precision.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Duccio",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Duccio",
+            "accessed": "2026-11-06",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: tempera and gold on wood panel",
+        "url": "https://en.wikipedia.org/wiki/Crevole_Madonna"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "These perceptible differences show the progressive detachment of Duccio's style from that of Cimabue, a detachment that appeared almost imperceptible in the previous Gualino Madonna (1280–1283) of a decidedly Cimabuesque influence",
+        "lead": "Set beside an earlier Madonna:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crevole Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crevole_Madonna",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Duccio's style was similar to Byzantine art in some ways, with its gold backgrounds and familiar religious scenes; however, it was also different and more experimental. Duccio began to break down the sharp lines of Byzantine art, and soften the figures.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Duccio",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Duccio",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The setting is that of the Madonna Odigitria of the Byzantine tradition, with the variant of the tender gesture of the son caressing his mother, whose sad expression is due to the premonition of the destiny of sacrifice and death of Jesus, symbolized by the apparition of angels.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crevole Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crevole_Madonna",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The characters interact tenderly with each other; it is no longer Christ and the Virgin, it is mother and child.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Duccio",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Duccio",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

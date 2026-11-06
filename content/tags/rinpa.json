@@ -1,0 +1,34 @@
+{
+  "id": "rinpa",
+  "kind": "movement",
+  "name": "Rinpa",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Rinpa is one of the major historical schools of Japanese painting. It was created in 17th century Kyoto by Hon'ami Kōetsu (1558–1637) and Tawaraya Sōtatsu (d. c.1643). Roughly fifty years later, the style was consolidated by brothers Ogata Kōrin (1658–1716) and Ogata Kenzan (1663–1743).",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Rinpa school",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Rinpa_school",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Yes, we may call this Korin school the Japanese school of impression.",
+      "lead": "Fenollosa, 1912:",
+      "source": {
+        "author": "Ernest F. Fenollosa",
+        "title": "Epochs of Chinese & Japanese Art, vol. 2",
+        "year": "1912",
+        "readAt": "https://archive.org/stream/epochsofchinese02feno/epochsofchinese02feno_djvu.txt",
+        "accessed": "2026-11-06",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "Rinpa"
+}

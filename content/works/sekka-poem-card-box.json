@@ -1,0 +1,140 @@
+{
+  "id": "sekka-poem-card-box",
+  "artist": "kamisaka-sekka",
+  "title": "Poem Card Box with Lid",
+  "date": "1868–1912",
+  "year": 1868,
+  "medium": "wood with lacquer",
+  "dimensions": "Overall: 37.5 x 7.1 cm (14 3/4 x 2 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1991.120"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1991.120/1991.120_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1991.120/1991.120_print.jpg",
+    "width": 900,
+    "height": 385,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Seventy-fifth anniversary gift of Leighton R. Longhi"
+  },
+  "archive": {
+    "cma": 155795
+  },
+  "phase": {
+    "label": "Designs for craftsmen, Meiji period",
+    "source": {
+      "label": "Cleveland Museum of Art: a collaboration with the lacquer artist Iwamura Sadazō, Meiji period",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/155795"
+    }
+  },
+  "tags": [
+    {
+      "id": "lacquerware",
+      "source": {
+        "label": "Cleveland Museum of Art: wood with lacquer",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/155795"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The characteristic of Japanese lacquerware is the diversity of lacquerware using a decoration technique called maki-e (蒔絵) in which metal powder is sprinkled to attach to lacquer.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Japanese lacquerware",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Japanese_lacquerware",
+            "accessed": "2026-11-06",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rinpa",
+      "source": {
+        "label": "Wikipedia: Rinpa artists worked in lacquerware; Sekka also worked in lacquer",
+        "url": "https://en.wikipedia.org/wiki/Rinpa_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Long, decorated cards for the calligraphic presentation of poems are called tanzaku in Japanese. This box is a collaboration between the designer Kamisaka Sekka and the lacquer artist Iwamura Sadazō. Together, they crafted this box with a golden bamboo lid, and filled it with cards decorated with gold leaf designs.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Poem Card Box with Lid",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/155795",
+          "accessed": "2026-11-06",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rinpa artists worked in various formats, notably screens, fans and hanging scrolls, woodblock printed books, lacquerware, ceramics, and kimono textiles.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Rinpa school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Rinpa_school",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Of Korin as a lacquerer, pieces are to be found in all the world's notable collections.",
+        "lead": "Fenollosa on Sekka's great predecessor:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese & Japanese Art, vol. 2",
+          "year": "1912",
+          "readAt": "https://archive.org/stream/epochsofchinese02feno/epochsofchinese02feno_djvu.txt",
+          "accessed": "2026-11-06",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "[Tanzaku] is a long, narrow strip of paper that can be used to write text or draw a simple illustration on it. It has a long history and started being called \"tanzaku\" during the Kamakura period.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tanzaku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tanzaku",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it should be written in two lines, with the upper phrase on the first line and the lower phrase on the second line.",
+        "lead": "How a waka poem is set out on a card:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tanzaku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tanzaku",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}

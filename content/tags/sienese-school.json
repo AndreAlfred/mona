@@ -1,0 +1,34 @@
+{
+  "id": "sienese-school",
+  "kind": "movement",
+  "name": "Sienese school",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Sienese school of painting flourished in Siena, Italy, between the 13th and 15th centuries. Its most important artists include Duccio, whose work shows Byzantine influence, his pupil Simone Martini, the brothers Pietro and Ambrogio Lorenzetti and Domenico and Taddeo di Bartolo, Sassetta, and Matteo di Giovanni.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Sienese School",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Sienese_School",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Unlike Florentine art, Sienese art opted for a more decorative style and rich colors, with \"thinner, elegant, and courtly figures\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Sienese School",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Sienese_School",
+        "accessed": "2026-11-06",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Sienese"
+}

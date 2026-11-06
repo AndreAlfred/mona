@@ -1,0 +1,141 @@
+{
+  "id": "duccio-rose-window",
+  "artist": "duccio",
+  "title": "Rose window of Siena Cathedral",
+  "date": "1287–88",
+  "year": 1287,
+  "dimensions": "560 × 560 cm",
+  "museum": {
+    "name": "Museo dell'Opera Metropolitana del Duomo",
+    "url": "https://www.wikidata.org/wiki/Q4010476"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Original_rose_window_of_the_Duomo_by_Duccio_-_Museo_dell%27Opera_del_Duomo_-_Siena_2016_%282%29.jpg/1280px-Original_rose_window_of_the_Duomo_by_Duccio_-_Museo_dell%27Opera_del_Duomo_-_Siena_2016_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Original_rose_window_of_the_Duomo_by_Duccio_-_Museo_dell%27Opera_del_Duomo_-_Siena_2016_%282%29.jpg/2560px-Original_rose_window_of_the_Duomo_by_Duccio_-_Museo_dell%27Opera_del_Duomo_-_Siena_2016_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1200,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Original rose window of the Duomo by Duccio - Museo dell'Opera del Duomo - Siena 2016 (2).jpg)"
+  },
+  "archive": {
+    "wd": "Q4010476"
+  },
+  "phase": {
+    "label": "Siena Cathedral, 1287–88",
+    "source": {
+      "label": "Wikipedia: stained glass ordered in 1287, made in 1288 to Duccio's designs",
+      "url": "https://en.wikipedia.org/wiki/Siena_Cathedral"
+    }
+  },
+  "tags": [
+    {
+      "id": "stained-glass",
+      "source": {
+        "label": "Wikipedia: the stained-glass round window was made to the designs of Duccio",
+        "url": "https://en.wikipedia.org/wiki/Siena_Cathedral"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In this context, the purpose of a stained glass window is not to allow those within a building to see the world outside or even primarily to admit light but rather to control it.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Stained glass",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Stained_glass",
+            "accessed": "2026-11-06",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Duccio is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The stained-glass round window in the choir was made in 1288 to the designs of Duccio. Divided into registers, the window depicts the Assumption of Mary. It is one of the earliest remaining examples of Italian stained glass.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Siena Cathedral",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Siena_Cathedral",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Opera di Santa Maria ordered stained glass for a large, round window in 1287.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Siena Cathedral",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Siena_Cathedral",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Western Europe, together with illuminated manuscripts, they constitute a major form of medieval visual art to have survived to the present day.",
+        "lead": "On stained glass in general:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Stained glass",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Stained_glass",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Situated directly beneath the Assumption of Mary stained glass, these two works presented a unified visual theme that emphasized the Virgin Mary, to whom the Cathedral is dedicated.",
+        "lead": "Twenty years later the Maestà was placed below it:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Siena Cathedral",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Siena_Cathedral",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Duccio's large stained glass window, original to the building, was removed out of precaution during WWII for fear of shattering from bombs or fire. A replica has been installed in the Duomo ever since.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Siena Cathedral",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Siena_Cathedral",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  },
+  "medium": "stained glass"
+}

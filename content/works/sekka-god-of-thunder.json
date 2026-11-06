@@ -1,0 +1,141 @@
+{
+  "id": "sekka-god-of-thunder",
+  "artist": "kamisaka-sekka",
+  "title": "Flowers of a Hundred Worlds (Momoyogusa): God of Thunder (Raijin) (Kaminari)",
+  "date": "1909–10",
+  "year": 1909,
+  "medium": "color woodcuts with gold and silver",
+  "dimensions": "Sheet: 29.9 x 22.1 cm (11 3/4 x 8 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1988.23.2.19"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1988.23.2.19/1988.23.2.19_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1988.23.2.19/1988.23.2.19_print.jpg",
+    "width": 900,
+    "height": 613,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund"
+  },
+  "archive": {
+    "cma": 154161
+  },
+  "phase": {
+    "label": "Momoyogusa, 1909–10",
+    "source": {
+      "label": "Wikipedia: the three-volume set was commissioned between 1909 and 1910 by Unsodo of Kyoto",
+      "url": "https://en.wikipedia.org/wiki/Kamisaka_Sekka"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: color woodcuts with gold and silver",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154161"
+      }
+    },
+    {
+      "id": "rinpa",
+      "source": {
+        "label": "Cleveland Museum of Art: Sekka's selections hew closely to Rinpa precedents",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/154161"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Sōtatsu also pursued the classical Yamato-e genre as Kōetsu, but pioneered a new technique with bold outlines and striking color schemes. One of his most famous works are the folding screens Wind and Thunder Gods",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Rinpa school",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Rinpa_school",
+            "accessed": "2026-11-06",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He uses bright colors in large swaths, his images seeming on the verge of being patterns rather than proper pictures of a subject; the colors and patterns seem almost to \"pop\", giving the paintings an almost three-dimensional quality.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kamisaka Sekka",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kamisaka_Sekka",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Wind God and Thunder God is a pair of two-folded screens made using ink and color on gold-foiled paper. It depicts Raijin, the god of lightning, thunder and storms in the Shinto religion and in Japanese mythology, and Fūjin, the god of wind.",
+        "lead": "The model behind it, by Tawaraya Sōtatsu:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tawaraya Sōtatsu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tawaraya_S%C5%8Dtatsu",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Later, Sakai Hōitsu, another prominent member of the Rinpa school, painted his own version of the work.",
+        "lead": "After Kōrin copied Sōtatsu's screens:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ogata Kōrin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ogata_K%C5%8Drin",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He is typically depicted with fierce and aggressive facial expressions, standing atop a cloud, beating on den-den daiko drums with tomoe symbols drawn on them.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raijin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raijin",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He is often seen fighting with Fujin, mending his drums, or causing mischief.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raijin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raijin",
+          "accessed": "2026-11-06",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-06",
+    "by": "claude-routine"
+  }
+}
