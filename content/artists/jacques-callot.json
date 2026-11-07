@@ -1,0 +1,115 @@
+{
+  "id": "jacques-callot",
+  "name": "Jacques Callot",
+  "born": 1592,
+  "died": 1635,
+  "active": "c. 1612–1635",
+  "nationality": "Lorrainer (French)",
+  "period": "baroque",
+  "movements": [
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Callot “was a baroque printmaker and draftsman from the Duchy of Lorraine”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "stefano-della-bella",
+      "name": "Stefano della Bella",
+      "source": {
+        "label": "Hind: “the most individual artist among the imitators of Callot was Stefano della Bella”",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+      }
+    },
+    {
+      "id": "abraham-bosse",
+      "name": "Abraham Bosse",
+      "source": {
+        "label": "Mayor: “his pupil Abraham Bosse inherited the master’s French relish”",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures"
+      }
+    },
+    {
+      "id": "claude-lorrain",
+      "name": "Claude Lorrain",
+      "source": {
+        "label": "Mayor: in Nancy, “Callot started him etching”",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures"
+      }
+    },
+    {
+      "id": "rembrandt-van-rijn",
+      "name": "Rembrandt van Rijn",
+      "source": {
+        "label": "Wikipedia: “Rembrandt was a keen collector” of Callot’s prints",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    },
+    {
+      "id": "francisco-de-goya",
+      "name": "Francisco de Goya",
+      "source": {
+        "label": "Wikipedia: Goya’s Disasters of War “was influenced by Callot”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    }
+  ],
+  "wikidata": "Q460124",
+  "archive": {
+    "cma": [
+      4704
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Jacques Callot, the first inventive international printmaker, culled [something] from everywhere and imparted something to all subsequent etching and [engraving].",
+      "source": {
+        "author": "A. Hyatt Mayor",
+        "title": "Prints & People: A Social History of Printed Pictures",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1971",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+        "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Jacques Callot, of Nancy (b. 1592), happily knew his mind better and earlier than his parents, who had intended him for the Church.",
+      "source": {
+        "author": "Arthur M. Hind",
+        "title": "A Short History of Engraving and Etching",
+        "publisher": "Archibald Constable (Internet Archive scan)",
+        "year": "1908",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+        "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2,
+        "page": "158"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "From a life of some 43 years, more than 2000 drawings survive, studying every stroke of over 1400 prints. Such strict application never tired a vivacity so inexhaustible that he could copy his most complex etchings on second coppers with no loss of freshness.",
+      "source": {
+        "author": "A. Hyatt Mayor",
+        "title": "Prints & People: A Social History of Printed Pictures",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1971",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+        "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

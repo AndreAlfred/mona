@@ -1,0 +1,126 @@
+{
+  "id": "zhao-mengfu-red-cliff-odes",
+  "artist": "zhao-mengfu",
+  "title": "Former and Latter Odes on Red Cliff",
+  "date": "Yuan dynasty (1271–1368)",
+  "year": 1300,
+  "museum": {
+    "name": "National Palace Museum (故書000081N000000000)",
+    "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/373?dep=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%85%83%E8%B6%99%E5%AD%9F%E9%A0%AB%E6%9B%B8%E5%89%8D%E5%BE%8C%E8%B5%A4%E5%A3%81%E8%B3%A6_%E5%8D%B7.jpg/1280px-%E5%85%83%E8%B6%99%E5%AD%9F%E9%A0%AB%E6%9B%B8%E5%89%8D%E5%BE%8C%E8%B5%A4%E5%A3%81%E8%B3%A6_%E5%8D%B7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 898,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (元趙孟頫書前後赤壁賦 卷.jpg)"
+  },
+  "archive": {
+    "wd": "Q141180313"
+  },
+  "phase": {
+    "label": "Calligraphy (undated)",
+    "ai": true
+  },
+  "tags": [
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "National Palace Museum record (via Wikidata): 元趙孟頫書前後赤壁賦, “Zhao Mengfu writes the Former and Latter Red Cliff Odes”",
+        "url": "https://www.wikidata.org/wiki/Q141180313"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He is said to have been equally skilled in every kind of calligraphy, be it “seal characters”, “model style”, or “running hand”, but his small model style ( hsiao k‘ai) aroused the greatest admiration among connoisseurs.",
+          "source": {
+            "author": "Osvald Sirén",
+            "title": "A History of Early Chinese Painting, vol. II",
+            "publisher": "The Medici Society (Internet Archive scan)",
+            "year": "1933",
+            "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+            "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+            "accessed": "2026-11-07",
+            "tier": 2,
+            "page": "128"
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Wikipedia: the Red Cliff odes are among Su Shi’s notable works; Zhao wrote them out",
+        "url": "https://en.wikipedia.org/wiki/Su_Shi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Chao Meng-fu’s position in the foremost rank of Chinese artists after the Sung period depends furthermore on his prominence as a calligraphist as much as on his merits as a painter. No writer of later times has surpassed him, according to traditional Chinese estimate, and specimens of his handwriting are still treasured as highly as his paintings",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "128"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Tzu-ang’s style of writing was very gentle, elegant, and harmonious. He was a follower of the real Wang Hsi-chih school. It was, indeed, too beautiful, too gentle and seductive, because it lacked the spirit of men who cannot be forced to desert their principles",
+        "lead": "The Ming critic Zhang Chou:",
+        "source": {
+          "author": "Zhang Chou (Chang Ch‘ou)",
+          "title": "Qinghe shuhua fang (Ch‘ing-ho Shu Hua Fang)",
+          "publisher": "translated in Osvald Sirén, A History of Early Chinese Painting, vol. II (The Medici Society, 1933; Internet Archive scan)",
+          "page": "128",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The \"Former Ode on the Red Cliffs\" (Chinese: 前赤壁赋; pinyin: qián chìbì fù) is a piece of writing written by the Chinese poet Su Shi in 1082, describing a trip that Su Shi took with his friends on the Yangtze River, which took them past the purported site of the Battle of Red Cliffs.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Former Ode on the Red Cliffs",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Former_Ode_on_the_Red_Cliffs",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This made him realize the insignificance of human beings in comparison to the river and universe.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Former Ode on the Red Cliffs",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Former_Ode_on_the_Red_Cliffs",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

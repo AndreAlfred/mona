@@ -1,0 +1,172 @@
+{
+  "id": "zhao-mengfu-autumn-colors",
+  "artist": "zhao-mengfu",
+  "title": "Autumn Colors on the Qiao and Hua Mountains",
+  "date": "1295",
+  "year": 1295,
+  "medium": "ink and color on paper",
+  "dimensions": "28.4 × 93.2 cm",
+  "museum": {
+    "name": "National Palace Museum (故畫001011N000000000)",
+    "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=909&Dept=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Autumn_Colors_on_the_Qiao_and_Hua_Mountains_%28cropped%29.jpg/1280px-Autumn_Colors_on_the_Qiao_and_Hua_Mountains_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Autumn_Colors_on_the_Qiao_and_Hua_Mountains_%28cropped%29.jpg/2560px-Autumn_Colors_on_the_Qiao_and_Hua_Mountains_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 365,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Autumn Colors on the Qiao and Hua Mountains (cropped).jpg)"
+  },
+  "archive": {
+    "wd": "Q59168132"
+  },
+  "phase": {
+    "label": "Return from the North, 1295",
+    "source": {
+      "label": "Wikipedia: vice-governor of the Jinan Circuit 1292–95, then home to Wuxing",
+      "url": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains"
+    }
+  },
+  "tags": [
+    {
+      "id": "blue-and-green-landscape",
+      "source": {
+        "label": "Sirén: Autumn Colors was “executed in colour” after the Tang master Wang Wei",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “a landscape painted in ink and colors on a paper handscroll”",
+        "url": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains"
+      }
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Wikipedia: “a landscape painted in ink and colors on a paper handscroll”",
+        "url": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The main portion of the painting measures 28.4 cm × 93.2 cm (11.2 in × 36.7 in), while the rest of the scroll includes a 99.6 cm (39.2 in) introductory segment and 320.2 cm (126.1 in) of trailing material.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Autumn Colors on the Que and Hua Mountains",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains",
+            "accessed": "2026-11-07",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Wikipedia: Zhao’s own inscription is one of five blocks of text in the sky",
+        "url": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Five blocks of Chinese text are written in the sky above the scene. One of these is by Zhao himself and includes his signature. The remainder are notes added much later by the 18th-century Qianlong Emperor of the Qing dynasty.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Autumn Colors on the Que and Hua Mountains",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains",
+            "accessed": "2026-11-07",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Reinforcing the idyllic nature of the piece, Zhao painted it in a deliberately archaic style. His use of texture patterns is similar to that of the 10th century artists Dong Yuan and Juran, while the twisted tree trunks recall those of Li Cheng. However, unlike the dramatic and monumental landscape paintings of that period, it depicts a relatively simple and quiet scene.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Autumn Colors on the Que and Hua Mountains",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Hua Shan is a cone-shaped hill on the east, and Ch’iao Shan a flat-topped hill on the west of the northern shore of the lake. … The whole impression of the picture is one of quiet beauty.",
+        "lead": "John C. Ferguson, who often saw the scroll in Peking:",
+        "source": {
+          "author": "John C. Ferguson",
+          "title": "Chinese Painting",
+          "publisher": "University of Chicago Press (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/chinesepainting0000john",
+          "readAt": "https://archive.org/stream/chinesepainting0000john/chinesepainting0000john_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Emperor Ch’ien Lung has covered the blank portions of the scroll with his seals and annotations which are more conspicuous than the artist’s own statement written in his beautiful handwriting.",
+        "source": {
+          "author": "John C. Ferguson",
+          "title": "Chinese Painting",
+          "publisher": "University of Chicago Press (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/chinesepainting0000john",
+          "readAt": "https://archive.org/stream/chinesepainting0000john/chinesepainting0000john_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting attracted widespread acclaim from later Chinese artists and scholars. Many imitation pieces have been made after Zhao's original over the following seven centuries.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Autumn Colors on the Que and Hua Mountains",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "After his return, Zhao painted a landscape painting for Zhou Mi, a scholar-official who had ancestry from Shandong but had never been able to visit the region himself.",
+        "lead": "A gift for a friend who had never seen his ancestral homeland:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Autumn Colors on the Que and Hua Mountains",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

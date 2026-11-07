@@ -1,0 +1,134 @@
+{
+  "id": "callot-fair-at-impruneta",
+  "artist": "jacques-callot",
+  "title": "The Fair at Impruneta",
+  "date": "1620",
+  "year": 1620,
+  "medium": "etching on two sheets of paper joined",
+  "dimensions": "Sheet: 43.2 x 67.6 cm (17 x 26 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1962.20"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.20/1962.20_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1962.20/1962.20_print.jpg",
+    "width": 900,
+    "height": 578,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, L. E. Holden Fund"
+  },
+  "archive": {
+    "cma": 137260
+  },
+  "phase": {
+    "label": "Florence, at the Medici court, 1612–21",
+    "source": {
+      "label": "Hind: in 1612 he moved to Florence … Callot worked in this sphere until 1621",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/137260"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: his etchings “chronicled the life of his period”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Callot “was a baroque printmaker”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Imagine his despair if foul biting had ruined his months of labor on the Fair at Impruneta, [into which he had packed] 1138 people, 45 horses, 67 donkeys, and 137 dogs, marshaling this [multitude] between diagonal lanes of bare ground that avoid the older presentation of a crowd as a bumper crop of pumpkins.",
+        "lead": "A. Hyatt Mayor, on Callot’s new, tougher etching ground:",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "No one before had ever wagered so much work on the attack of the acid.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Callot dedicated this print to the Grand Duke of Tuscany, for whom the fair signified a healthy Florentine economy.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Fair at Impruneta",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137260",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The annual fair held in Impruneta, a commune in Florence, Italy, was an opportunity for rural and urban communities to comingle and partake in commerce, socializing, and festivity.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Fair at Impruneta",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137260",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Pick-pocketing, fighting, snake-charming, and the punishment of a criminal by torture also occur.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Fair at Impruneta",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137260",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

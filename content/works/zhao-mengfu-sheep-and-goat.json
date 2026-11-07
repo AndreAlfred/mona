@@ -1,0 +1,104 @@
+{
+  "id": "zhao-mengfu-sheep-and-goat",
+  "artist": "zhao-mengfu",
+  "title": "Sheep and Goat",
+  "date": "c. 1300",
+  "year": 1300,
+  "medium": "ink on paper",
+  "dimensions": "25.2 × 48.7 cm",
+  "museum": {
+    "name": "Freer Gallery of Art (F1931.4)",
+    "url": "http://www.asia.si.edu/collections/edan/object.php?q=fsg_F1931.4"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sheep_and_Goat_-_Google_Art_Project.jpg/1280px-Sheep_and_Goat_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sheep_and_Goat_-_Google_Art_Project.jpg/2560px-Sheep_and_Goat_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 554,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sheep and Goat - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18683192"
+  },
+  "phase": {
+    "label": "Mature years, c. 1300",
+    "source": {
+      "label": "Freer Gallery of Art record (via Wikidata): c. 1300",
+      "url": "https://www.wikidata.org/wiki/Q18683192"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Freer Gallery of Art record (via Wikidata): ink on paper",
+        "url": "https://www.wikidata.org/wiki/Q18683192"
+      }
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Sirén: “the short scroll in the Freer Gallery, which represents A Goat and a Sheep”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "I often paint horses and very seldom sheep. When Chung-hsin asked me to paint, I amused myself in making a picture from life, and though I could not equal the men of old, it contains real spirit-harmony [ch‘i-yün].",
+        "lead": "Zhao Mengfu’s own inscription on the scroll:",
+        "source": {
+          "author": "Zhao Mengfu (Chao Meng-fu)",
+          "title": "Inscription on Sheep and Goat",
+          "publisher": "translated in Osvald Sirén, A History of Early Chinese Painting, vol. II (The Medici Society, 1933; Internet Archive scan)",
+          "page": "126–127",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It has also passed through the collections of Hsiang Mo-lin and [the Qianlong emperor], and the latter has provided it not only with seals but also with a poetic inscription.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "126"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The artist’s claim is particularly true in regard to the grazing goat, which is a very intimate study from life; the sheep is a more extraordinary creature, but such fat woolly sheep were cultivated and admired as perfections of their kind, and Chao Meng-fu represented it, no doubt, true to life.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "127"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

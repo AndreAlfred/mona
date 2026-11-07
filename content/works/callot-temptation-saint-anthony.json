@@ -1,0 +1,115 @@
+{
+  "id": "callot-temptation-saint-anthony",
+  "artist": "jacques-callot",
+  "title": "The Temptation of Saint Anthony (second version)",
+  "date": "1635",
+  "year": 1635,
+  "medium": "etching",
+  "dimensions": "Sheet: 35.6 x 46.3 cm (14 x 18 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2005.179"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2005.179/2005.179_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2005.179/2005.179_print.jpg",
+    "width": 1157,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 163757
+  },
+  "phase": {
+    "label": "Last years in Nancy, 1630s",
+    "source": {
+      "label": "Wikipedia: during 1633 Lorraine was invaded by the French; Callot died in Nancy in 1635",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/163757"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Callot “was a baroque printmaker”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Numerous Renaissance images provided Jacques Callot with a litany of fantastic creatures for his widely influential Temptation of Saint Anthony, depicting the steadfast saint as he endures the mental and spiritual tortures of hell.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Temptation of Saint Anthony (second version)",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163757",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Larger and differently composed; on the right side are a number of devils [drinking].",
+        "lead": "J. H. Green (1804), distinguishing this second version from the first:",
+        "source": {
+          "author": "J. H. Green",
+          "title": "A Catalogue and Description of the Whole of the Works of the Celebrated Jacques Callot",
+          "publisher": "J. Barfield for J. H. Green (Internet Archive scan)",
+          "year": "1804",
+          "url": "https://archive.org/details/cataloguedescrip00unse",
+          "readAt": "https://archive.org/stream/cataloguedescrip00unse/cataloguedescrip00unse_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Witches' Sabbath was said to be the meeting of sinister forces for devil worship through dancing, feasting, or sacrifices. In depicting this orgy of bodies and monsters, artists often borrowed from religious imagery.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Temptation of Saint Anthony (second version)",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163757",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "one would be at a loss to declare the subject … but the trouble of a careful examination is well repaid by the richness, the beauty, the taste, and the judgment we discover in the disposition of the figures",
+        "lead": "Joseph Strutt (1785), on the Fair, the Punishments and this Temptation:",
+        "source": {
+          "author": "Joseph Strutt",
+          "title": "A Biographical Dictionary of Engravers, quoted in J. H. Green, A Catalogue and Description of the Works of Jacques Callot",
+          "publisher": "J. Barfield for J. H. Green (Internet Archive scan)",
+          "year": "1804",
+          "url": "https://archive.org/details/cataloguedescrip00unse",
+          "readAt": "https://archive.org/stream/cataloguedescrip00unse/cataloguedescrip00unse_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "zhao-mengfu-elegant-rocks",
+  "artist": "zhao-mengfu",
+  "title": "Elegant Rocks and Sparse Trees",
+  "date": "undated",
+  "year": 1310,
+  "medium": "ink on paper",
+  "dimensions": "27.5 × 62.8 cm",
+  "museum": {
+    "name": "The Palace Museum (新00147132)",
+    "url": "https://minghuaji.dpm.org.cn/paint/detail?id=tqr72jhbh5t5f0b7awsi6sghvajc18z3"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Zhao_Meng_Fu_Elegant_Rocks_and_Sparse_Trees.jpg/1280px-Zhao_Meng_Fu_Elegant_Rocks_and_Sparse_Trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Zhao_Meng_Fu_Elegant_Rocks_and_Sparse_Trees.jpg/2560px-Zhao_Meng_Fu_Elegant_Rocks_and_Sparse_Trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 531,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Zhao Meng Fu Elegant Rocks and Sparse Trees.jpg)"
+  },
+  "archive": {
+    "wd": "Q116459612"
+  },
+  "phase": {
+    "label": "Ink studies of bamboo, rock and tree (undated)",
+    "ai": true
+  },
+  "tags": [
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Cleveland Museum of Art: Zhao’s rocks “delineated in chalky, dry strokes showing the effect of flying white”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/139746"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "While the rocks are delineated in chalky, dry strokes showing the effect of flying white (feibai), the bamboo and orchids are drawn with a swift brush demonstrating the virtuosity of the artist.",
+          "lead": "The Cleveland Museum of Art, on the same brushwork in another Zhao scroll:",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Bamboo, Rocks, and Lonely Orchids",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/139746",
+            "accessed": "2026-11-07",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Palace Museum record (via Wikidata): paper; Sirén on Zhao’s ink bamboo",
+        "url": "https://www.wikidata.org/wiki/Q116459612"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Sirén: bamboo painting was “cultivated … by a great number of scholarly dilettanti”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Chao Meng-fu was a good bamboo painter, as witnessed by a work of his in the Palace Museum",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "146"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "And since bamboo painting, to a certain extent, became a criterion of artistic competence, it was more or less cultivated by the majority of painters and by a great number of scholarly dilettanti.",
+        "lead": "Sirén, on bamboo painting under the Mongols:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "146"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Chinese calligraphy and ink and wash painting are closely related: they are accomplished using similar tools and techniques, and have a long history of shared artistry.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Chinese calligraphy",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Bamboo and orchids are motifs associated with the virtues of the scholar-official. Bamboo that bends but does not break stands for moral integrity, endurance, and loyalty. … Rocks are often considered to be miniature versions of mountains that form the universe.",
+        "lead": "The Cleveland Museum of Art, on these motifs:",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Bamboo, Rocks, and Lonely Orchids",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/139746",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

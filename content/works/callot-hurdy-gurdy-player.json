@@ -1,0 +1,101 @@
+{
+  "id": "callot-hurdy-gurdy-player",
+  "artist": "jacques-callot",
+  "title": "The Beggars: The Hurdy-Gurdy Player",
+  "date": "c. 1623",
+  "year": 1623,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2008.34.2"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2008.34.2/2008.34.2_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2008.34.2/2008.34.2_print.jpg",
+    "width": 603,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust"
+  },
+  "archive": {
+    "cma": 166604
+  },
+  "phase": {
+    "label": "Back in Nancy, 1620s",
+    "source": {
+      "label": "Hind: in 1621 he returned to Nancy and was settled there until his death in 1635",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/166604"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Mayor: Callot composed “a natural history of mendicants”",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He treats the widest range of subject, but he is most himself when depicting small figures in all sorts of garbs and poses … in his studies of Italian Vagabonds",
+        "lead": "Arthur M. Hind, naming this set of beggars among Callot’s best:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "159"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He also studied beggars and cripples more methodically than [Dürer, Brueghel], or Villamena, composing a natural history of mendicants … that was consulted by Rembrandt and all the Dutch.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He made more than 1,400 etchings that chronicled the life of his period, featuring soldiers, clowns, drunkards, Romani, beggars, as well as court life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jacques Callot",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Jacques_Callot",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

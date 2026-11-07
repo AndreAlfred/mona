@@ -1,0 +1,137 @@
+{
+  "id": "callot-siege-of-la-rochelle",
+  "artist": "jacques-callot",
+  "title": "The Siege of La Rochelle",
+  "date": "1628–1630",
+  "year": 1628,
+  "medium": "etching and engraving",
+  "dimensions": "Sheet: 22.1 x 63 cm (8 11/16 x 24 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2009.4"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2009.4/2009.4_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2009.4/2009.4_print.jpg",
+    "width": 900,
+    "height": 825,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund"
+  },
+  "archive": {
+    "cma": 167743
+  },
+  "phase": {
+    "label": "Paris and the royal sieges, 1628–30",
+    "source": {
+      "label": "Hind: Callot’s visit to Paris (1629–30); Mayor on his etched “overflights of three vast campaigns”",
+      "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/167743"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/167743"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Callot “was a baroque printmaker”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "From a loftier view of war, he etched overflights of three vast campaigns— helicopter hoverings that incorporate the reality of a panorama in the expanse of a map.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His topographical prints with military staffage are among the most important of their type, and of real artistic value.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "159"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He was commissioned by the courts of Lorraine, France and Spain, and by publishers, mostly in Paris.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jacques Callot",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Jacques_Callot",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Callot discovered new subjects for art with new [techniques] for presenting them.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "After he had been amply recompensed by that Monarch, and refused very advantageous offers for his further services, he returned to Nancy",
+        "lead": "J. H. Green’s 1804 life of Callot, on the La Rochelle commission for Louis XIII:",
+        "source": {
+          "author": "J. H. Green",
+          "title": "A Catalogue and Description of the Whole of the Works of the Celebrated Jacques Callot",
+          "publisher": "J. Barfield for J. H. Green (Internet Archive scan)",
+          "year": "1804",
+          "url": "https://archive.org/details/cataloguedescrip00unse",
+          "readAt": "https://archive.org/stream/cataloguedescrip00unse/cataloguedescrip00unse_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

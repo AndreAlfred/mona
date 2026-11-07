@@ -1,0 +1,153 @@
+{
+  "id": "callot-miseries-hanging",
+  "artist": "jacques-callot",
+  "title": "The Large Miseries of War:  The Hanging",
+  "date": "1633",
+  "year": 1633,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1923.277.10"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1923.277.10/1923.277.10_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1923.277.10/1923.277.10_print.jpg",
+    "width": 1263,
+    "height": 555,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Charles W. Harkness Endowment Fund"
+  },
+  "archive": {
+    "cma": 105057
+  },
+  "phase": {
+    "label": "Last years in Nancy, 1630s",
+    "source": {
+      "label": "Wikipedia: during 1633 Lorraine was invaded by the French; Callot died in Nancy in 1635",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Wikipedia: the multiple bitings “perfected by Callot”",
+        "url": "https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The technique of using multiple bitings of acid on the plate, with different areas \"stopped-out\", was perfected by Callot. This method allows gradations in the strength of the line, with distant parts of the scene usually lighter.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Les Grandes Misères de la guerre",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre",
+            "accessed": "2026-11-07",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Callot “was a baroque printmaker”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In sequence, the images recount the story of soldiers as they enroll in an army, fight in a battle, and rampage through the civilian community, only to then be arrested and executed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Les Grandes Misères de la guerre",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Published in 1633, the series is Callot's best-known work and has been called the first \"anti-war statement\" in European art.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Les Grandes Misères de la guerre",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[Back in Lorraine he met] the impersonal suffering of the Wars of Religion that seesawed back and forth across Lorraine, inflicting everyday lootings, beheadings, and [hangings].",
+        "lead": "A. Hyatt Mayor, on Callot’s return home from Florence:",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Francisco Goya probably owned a set of Callot's etchings, and they are believed to have influenced his similar series, Los Desastres de la guerra (The Disasters of War), almost two centuries later.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Les Grandes Misères de la guerre",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "no specific campaign is depicted, but the set inevitably recalls the actions of the army that Cardinal Richelieu sent in 1633 to occupy Callot's native Lorraine before annexing it to France.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Les Grandes Misères de la guerre",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Each print has a six-line verse caption below the image, written by the famous print-collector Michel de Marolles.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Les Grandes Misères de la guerre",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

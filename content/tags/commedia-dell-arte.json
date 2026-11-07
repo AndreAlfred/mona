@@ -1,0 +1,34 @@
+{
+  "id": "commedia-dell-arte",
+  "kind": "subject",
+  "name": "Commedia dell’arte",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Commedia dell'arte was an early form of professional theatre, originating from Italian theatre, that was popular throughout Europe between the 16th and 18th centuries.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Commedia dell'arte",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Commedia_dell%27arte",
+        "accessed": "2026-11-07",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Commedia is characterized by masked \"types\" which are standardised archetypical characters shared across all productions and identified via their names, costumes, and functions in the comedy.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Commedia dell'arte",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Commedia_dell%27arte",
+        "accessed": "2026-11-07",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "commedia dell'arte"
+}

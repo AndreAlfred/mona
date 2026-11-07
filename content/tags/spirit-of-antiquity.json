@@ -1,0 +1,37 @@
+{
+  "id": "spirit-of-antiquity",
+  "kind": "style",
+  "name": "Spirit of antiquity (guyi)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In a colophon on another picture, Chao Meng-fu gives still stronger expression to his admiration for the classic models and his adherence to the “spirit of the ancients” (ku-i).",
+      "source": {
+        "author": "Osvald Sirén",
+        "title": "A History of Early Chinese Painting, vol. II",
+        "publisher": "The Medici Society (Internet Archive scan)",
+        "year": "1933",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2,
+        "page": "125"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The most important quality in a painting is the spirit of antiquity. If this is not present, the work is not worth much, even though it is skilfully executed.",
+      "lead": "Zhao Mengfu, in a colophon of 1299:",
+      "source": {
+        "author": "Zhao Mengfu (Chao Meng-fu)",
+        "title": "Colophon, 1299",
+        "publisher": "translated in Osvald Sirén, A History of Early Chinese Painting, vol. II (The Medici Society, 1933; Internet Archive scan)",
+        "page": "125",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 1
+      }
+    }
+  ]
+}
