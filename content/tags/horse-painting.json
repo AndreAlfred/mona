@@ -1,0 +1,36 @@
+{
+  "id": "horse-painting",
+  "kind": "subject",
+  "name": "Horse painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Chinese, particularly the northern Chinese, had enough of the Tartar in them to make horses and horsemanship of immense importance in their lives.",
+      "source": {
+        "author": "Arthur Waley",
+        "title": "An Introduction to the Study of Chinese Painting",
+        "publisher": "Ernest Benn, London (Internet Archive scan)",
+        "year": "1923",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The horse dominates secular Chinese sculpture and to such an extent pervades European collections of Chinese paintings that one might well be led by them to suppose that all Chinese pictures represent horses, and that there was in all history but one painter ; his name, Chao Meng-fu.",
+      "source": {
+        "author": "Arthur Waley",
+        "title": "An Introduction to the Study of Chinese Painting",
+        "publisher": "Ernest Benn, London (Internet Archive scan)",
+        "year": "1923",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "horse"
+}

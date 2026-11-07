@@ -21,17 +21,104 @@
     "wd": "Q58755570"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Late career at the Yuan court, c. 1310",
+    "source": {
+      "label": "Sirén: “later on (1316) he was honoured with a high post in the Han-lin college”",
+      "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "ai": true
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Metropolitan Museum record (via Wikidata): landscape painting",
+        "url": "https://www.wikidata.org/wiki/Q58755570"
+      }
+    },
+    {
+      "id": "spirit-of-antiquity",
+      "source": {
+        "label": "Zhao: “true connoisseurs will realize that they are very close to the old models”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "My pictures seem to be quite simple and carelessly done, but true connoisseurs will realize that they are very close to the old models and may therefore be considered good.",
+          "lead": "Zhao Mengfu, in a colophon of 1299:",
+          "source": {
+            "author": "Zhao Mengfu (Chao Meng-fu)",
+            "title": "Colophon, 1299",
+            "publisher": "translated in Osvald Sirén, A History of Early Chinese Painting, vol. II (The Medici Society, 1933; Internet Archive scan)",
+            "page": "125",
+            "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+            "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+            "accessed": "2026-11-07",
+            "tier": 1
+          }
+        }
+      ]
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It was not through originality of invention or new ideas that Chao Meng-fu acquired his great fame as a painter, but rather through his faithful insistence on classical traditions and great technical proficiency.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "128"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Among the four great painters of the Yiian dynasty Chao Meng-fu ranked first, then came Huang Kung-wang, Wang Meng, and Wu Chen.",
+        "lead": "The Ming critic Zhang Chou, ranking the Yuan masters:",
+        "source": {
+          "author": "Zhang Chou (Chang Ch‘ou)",
+          "title": "Qinghe shuhua fang (Ch‘ing-ho Shu Hua Fang)",
+          "publisher": "translated in Osvald Sirén, A History of Early Chinese Painting, vol. II (The Medici Society, 1933; Internet Archive scan)",
+          "page": "140",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the suave and competent Chao Meng-fu the conquerors found an ideal link between their own crude barbarism and the age-long civilization of their victims.",
+        "lead": "Arthur Waley, on Zhao’s place at the Mongol court:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn, London (Internet Archive scan)",
+          "year": "1923",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-07",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

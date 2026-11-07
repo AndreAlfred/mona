@@ -1,0 +1,34 @@
+{
+  "id": "calligraphy",
+  "kind": "technique",
+  "name": "Calligraphy",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Chinese calligraphy is the writing of Chinese characters as an art form, combining visual art and interpretation of their literary meaning.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Chinese calligraphy",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+        "accessed": "2026-11-07",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Chinese calligraphy and ink and wash painting are closely related: they are accomplished using similar tools and techniques, and have a long history of shared artistry.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Chinese calligraphy",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+        "accessed": "2026-11-07",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "calligraphy"
+}

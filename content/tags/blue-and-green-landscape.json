@@ -1,0 +1,37 @@
+{
+  "id": "blue-and-green-landscape",
+  "kind": "style",
+  "name": "Blue-and-green landscape (qinglü shanshui)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "He used brightly coloured mineral pigments, especially azurite blue and malachite green. His technique was meticulous and detailed, so that large works such as murals might take months to complete. He is also said to be the one who initially formulated qinglü shanshui.",
+      "lead": "Wikipedia, on the Tang painter Li Sixun (651–716):",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Li Sixun",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Li_Sixun",
+        "accessed": "2026-11-07",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The genuine picture is described as \"A blue-green, no-bone, landscape,\" and is said to be a copy of Wang Wei's picture of his house and garden, with the colours washed in before the outline had been sketched in ink.",
+      "lead": "Herbert Giles, on a Zhao Mengfu shown at the Panama Exhibition:",
+      "source": {
+        "author": "Herbert A. Giles",
+        "title": "An Introduction to the History of Chinese Pictorial Art",
+        "publisher": "Bernard Quaritch (Internet Archive scan)",
+        "year": "1918",
+        "url": "https://archive.org/details/introductiontohi00gileuoft",
+        "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "blue-and-green"
+}

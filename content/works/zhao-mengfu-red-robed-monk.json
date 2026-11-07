@@ -1,9 +1,10 @@
 {
   "id": "zhao-mengfu-red-robed-monk",
   "artist": "zhao-mengfu",
-  "title": "Untitled",
-  "date": "",
-  "year": 0,
+  "title": "Monk in a Red Robe",
+  "date": "1304",
+  "year": 1304,
+  "dimensions": "26 × 52 cm",
   "museum": {
     "name": "Liaoning Provincial Museum",
     "url": "https://www.wikidata.org/wiki/Q134754519"
@@ -20,17 +21,84 @@
     "wd": "Q134754519"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Mature years, 1304",
+    "source": {
+      "label": "Commons photograph of the Liaoning scroll, “dated 1304”",
+      "url": "https://commons.wikimedia.org/wiki/File:5_Zhao_Mengfu_Monk_in_a_Red_Robe,_dated_1304_(26_x_52_cm)Liaoning_Provincial_Museum.jpg"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "spirit-of-antiquity",
+      "source": {
+        "label": "Sirén: “Chao Meng-fu painted Lohans with foreign types in adherence to models of the T‘ang period”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Liaoning Provincial Museum record (via Wikidata): 元赵孟頫红衣西域僧图卷",
+        "url": "https://www.wikidata.org/wiki/Q134754519"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Chao Meng-fu painted Lohans with foreign types in adherence to models of the T‘ang period. His scroll representing the Sixteen Lohans is no longer preserved, but according to his own inscription, … he followed Wu Tao-tzu’s pupil Lu Leng-ch‘ieh and represented the Lohans not as Chinese monks, but as people of Western countries, whom he had seen and befriended while he was serving as an official in the capital.",
+        "lead": "Sirén, on Zhao’s foreign-looking Buddhist saints:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "122"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A reaction against this tradition became, however, manifest at the beginning of the Yuan period in the works of artists who were not connected with the Ning-po centres.",
+        "lead": "Sirén, on the Song-style Lohans still painted at Ningbo’s monasteries:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "122"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1286 Kublai Khan sent an envoy to the south of China to seek out prominent survivors of the late dynasty. Chao was persuaded to present himself at Court, and Kublai at once perceived his unusual force of character.",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn, London (Internet Archive scan)",
+          "year": "1923",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-07",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

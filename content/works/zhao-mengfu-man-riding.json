@@ -11,28 +11,123 @@
     "url": "https://minghuaji.dpm.org.cn/paint/detail?id=fxgybnrw4euvv8urdnijcfmzcddyopfz"
   },
   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png/1280px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png/2560px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1a_Zhao_Mengfu_Man_Riding_a_Horse%2C_dated_1296_%2831.5_x_620_cm%29_Palace_Museum%2C_Beijing.jpg/1280px-1a_Zhao_Mengfu_Man_Riding_a_Horse%2C_dated_1296_%2831.5_x_620_cm%29_Palace_Museum%2C_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "width": 1200,
-    "height": 64,
+    "height": 597,
     "license": "Public domain",
-    "credit": "Photograph via Wikimedia Commons (赵孟頫人骑图卷.png)"
+    "credit": "Photograph via Wikimedia Commons (1a Zhao Mengfu Man Riding a Horse, dated 1296 (31.5 x 620 cm) Palace Museum, Beijing.jpg)"
   },
   "archive": {
     "wd": "Q59208406"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Back home in Wuxing, 1296",
+    "source": {
+      "label": "Wikipedia: after resigning in 1295 and a year in Dadu, “he returned to his home of Wuxing”",
+      "url": "https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "horse-painting",
+      "source": {
+        "label": "Sirén: “he was also a specialist in horse-painting”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "But he was also a specialist in horse-painting and followed in this respect very closely Han Kan and Li Lung-mien. In fact, he considered himself fully equal to the latter",
+          "source": {
+            "author": "Osvald Sirén",
+            "title": "A History of Early Chinese Painting, vol. II",
+            "publisher": "The Medici Society (Internet Archive scan)",
+            "year": "1933",
+            "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+            "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+            "accessed": "2026-11-07",
+            "tier": 2,
+            "page": "125"
+          }
+        }
+      ]
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Palace Museum record (via Wikidata): 人骑图卷, a handscroll 620 cm long with its colophons",
+        "url": "https://www.wikidata.org/wiki/Q59208406"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "From my early days I liked to paint horses, and I thought that I knew completely their character. … as to the comparison with Li Lung-mien, I have no objection and may well be equal to him.",
+        "lead": "Zhao Mengfu, on his horses:",
+        "source": {
+          "author": "Zhao Mengfu (Chao Meng-fu)",
+          "title": "Inscription on a horse painting",
+          "publisher": "translated in Osvald Sirén, A History of Early Chinese Painting, vol. II (The Medici Society, 1933; Internet Archive scan)",
+          "page": "125",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He was known for his paintings of horses.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Zhao Mengfu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Zhao_Mengfu",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Chao Meng-fu found in the work of a T’ang dynasty artist a theme concerning horses, which was especially fitted to his own time when the Mongol passion for horses had been imitated throughout China.",
+        "lead": "John C. Ferguson:",
+        "source": {
+          "author": "John C. Ferguson",
+          "title": "Chinese Painting",
+          "publisher": "University of Chicago Press (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/chinesepainting0000john",
+          "readAt": "https://archive.org/stream/chinesepainting0000john/chinesepainting0000john_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It seems furthermore that Chao Meng-fu did not paint horses simply as motives of animal life, but represented them also in a symbolic sense.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "125"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-07",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

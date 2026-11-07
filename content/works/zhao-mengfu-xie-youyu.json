@@ -1,7 +1,7 @@
 {
   "id": "zhao-mengfu-xie-youyu",
   "artist": "zhao-mengfu",
-  "title": "The Mind Landscape of Xie Youyu (Youyu qiu he 幼輿丘壑 )",
+  "title": "The Mind Landscape of Xie Youyu (Youyu qiu he 幼輿丘壑)",
   "date": "c. 1287",
   "year": 1287,
   "museum": {
@@ -20,17 +20,114 @@
     "wd": "Q106769332"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Early landscapes, c. 1287",
+    "source": {
+      "label": "Princeton University Art Museum record (via Wikidata): c. 1287",
+      "url": "https://www.wikidata.org/wiki/Q106769332"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “One of his most celebrated landscape paintings”",
+        "url": "https://en.wikipedia.org/wiki/Zhao_Mengfu"
+      }
+    },
+    {
+      "id": "spirit-of-antiquity",
+      "source": {
+        "label": "Zhao on an early painting: “it has something of the spirit of antiquity”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The present picture was made in my early years; it does not reveal great strength of the brush; yet, it has something of the spirit of antiquity.",
+          "lead": "Zhao, inscribing one of his early paintings years later:",
+          "source": {
+            "author": "Zhao Mengfu (Chao Meng-fu)",
+            "title": "Colophon on one of his early paintings",
+            "publisher": "translated in Osvald Sirén, A History of Early Chinese Painting, vol. II (The Medici Society, 1933; Internet Archive scan)",
+            "page": "125",
+            "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+            "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+            "accessed": "2026-11-07",
+            "tier": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "handscroll",
+      "ai": true
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "One of his most celebrated landscape paintings is exhibited at the Princeton University Art Museum with the title “The Mind Landscape of Xie Youyu” (幼輿丘壑), an allusion to the nature-loving scholar-official Xie Youyu (280–322).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Zhao Mengfu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Zhao_Mengfu",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In early life we are told that “he did not give much attention to painting; but when with friends, he would take a sheet of paper and amuse himself by producing trees or rocks as called for.”",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Bernard Quaritch (Internet Archive scan)",
+          "year": "1918",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In painting he swept away the formal conventions of the Southern Sung Academy of Painting and restored freedom to artists.",
+        "lead": "John C. Ferguson:",
+        "source": {
+          "author": "John C. Ferguson",
+          "title": "Chinese Painting",
+          "publisher": "University of Chicago Press (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/chinesepainting0000john",
+          "readAt": "https://archive.org/stream/chinesepainting0000john/chinesepainting0000john_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "However, in 2019 Dutch scholar Lennert Gesterkamp argued that the colophon attached to the painting and mentioning Xie Youyu is a forgery, and that in fact Zhao Mengfu's intention was to honor his own spiritual master, Daoist scholar Du Daojian (1237–1318), who also celebrated nature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Zhao Mengfu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Zhao_Mengfu",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-07",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

@@ -2,37 +2,106 @@
   "id": "zhao-mengfu-water-village",
   "artist": "zhao-mengfu",
   "title": "Water Village",
-  "date": "",
-  "year": 0,
-  "medium": "paper",
+  "date": "1302",
+  "year": 1302,
+  "medium": "ink on paper",
   "dimensions": "24.9 × 120.5 cm",
   "museum": {
     "name": "The Palace Museum (新00109759)",
     "url": "https://minghuaji.dpm.org.cn/paint/detail?id=5smofke1r2qxhsolfpvrzadlyhsvpr7s"
   },
   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E6%B0%B4%E6%9D%91%E5%9B%BE%E5%8D%B7.png/1280px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E6%B0%B4%E6%9D%91%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E6%B0%B4%E6%9D%91%E5%9B%BE%E5%8D%B7.png/2560px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E6%B0%B4%E6%9D%91%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/6_Zhao_Mengfu_Water_Village%2C_dated_1302_%2824.9_x_120.5_cm%29%3B_Palace_Museum.jpg/1280px-6_Zhao_Mengfu_Water_Village%2C_dated_1302_%2824.9_x_120.5_cm%29%3B_Palace_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/6_Zhao_Mengfu_Water_Village%2C_dated_1302_%2824.9_x_120.5_cm%29%3B_Palace_Museum.jpg/2560px-6_Zhao_Mengfu_Water_Village%2C_dated_1302_%2824.9_x_120.5_cm%29%3B_Palace_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "width": 1200,
-    "height": 29,
+    "height": 228,
     "license": "Public domain",
-    "credit": "Photograph via Wikimedia Commons (赵孟頫水村图卷.png)"
+    "credit": "Photograph via Wikimedia Commons (6 Zhao Mengfu Water Village, dated 1302 (24.9 x 120.5 cm); Palace Museum.jpg)"
   },
   "archive": {
     "wd": "Q116459593"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Mature landscapes, 1302",
+    "source": {
+      "label": "Wikipedia: “Water Village, ink on paper, handscroll, dated 1302”",
+      "url": "https://en.wikipedia.org/wiki/Zhao_Mengfu"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Water Village, ink on paper, handscroll, dated 1302”",
+        "url": "https://en.wikipedia.org/wiki/Zhao_Mengfu"
+      }
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Wikipedia: “Water Village, ink on paper, handscroll, dated 1302”",
+        "url": "https://en.wikipedia.org/wiki/Zhao_Mengfu"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Sirén discusses the Village by the Water among Zhao’s landscapes after Wang Wei",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Chao Meng-fu ’s principal model among the old masters seems to have been Wang Wei and his ideal among the calligraphists Wang Hsi-chih. In fact, he copied several of Wang Wei’s pictures, and such compositions of his as the Chiao and Hua Mountains in Autumn and the Village by the Water, which were executed in colour, are said to have been based directly on the T‘ang master.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "125"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His rejection of the refined, gentle brushwork of his era in favour of the cruder style of the eighth century is considered to have brought about a revolution that created the modern Chinese landscape painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Zhao Mengfu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Zhao_Mengfu",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Rather than organizing them in a foreground, middle ground, and background pattern he layers middle grounds at various heights to create a sense of depth. This pattern of organization makes his paintings appear very simple and approachable. It was this characteristic that so many people valued about his style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Zhao Mengfu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Zhao_Mengfu",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-07",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

@@ -1,9 +1,9 @@
 {
   "id": "zhao-mengfu-river-village",
   "artist": "zhao-mengfu",
-  "title": "River Village:  Fisherman's Joy",
+  "title": "River Village: Fisherman's Joy",
   "date": "c. 1302–3",
-  "year": 1298,
+  "year": 1302,
   "medium": "Fan painting mounted as album leaf; ink and color on silk",
   "dimensions": "Overall: 28.6 x 30 cm (11 1/4 x 11 13/16 in.)",
   "museum": {
@@ -22,18 +22,94 @@
     "cma": 149413
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Mature landscapes, c. 1302–3",
+    "source": {
+      "label": "Cleveland Museum of Art record: c. 1302–3",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/149413"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "blue-and-green-landscape",
+      "source": {
+        "label": "Cleveland Museum of Art: “this blue-green–style landscape”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/149413"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The artist of this blue-green–style landscape, Zhao Mengfu, was a southerner, versed in all fields of literati pursuits, such as calligraphy and connoisseurship.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "River Village: Fisherman's Joy",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149413",
+            "accessed": "2026-11-07",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: “a distinctively southern flat watery landscape”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/149413"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This painting combines a distinctively southern flat watery landscape combined with features of the northern landscape tradition, notably the spiky trees, branches, and rough-surfaced rocks.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "River Village: Fisherman's Joy",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149413",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A princeling of the defeated Southern Song dynasty, he was nevertheless successfully recruited by Khubilai Khan to the Mongol court in the new capital, Dadu (modern Beijing), in 1286.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "River Village: Fisherman's Joy",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149413",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Chao Meng-fu may have been ever so skilful as a painter and a calligraphist, and a most able and upright official; yet, he could never become the ideal of the true scholars, … because he had submitted to foreign conquerors and chosen the easier path, which led to fame and success, but not to the shining glory of unyielding patriots.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "128–129"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-07",
-    "by": "TODO agent name"
-  },
-  "_museumText": "The artist of this blue-green–style landscape, Zhao Mengfu, was a southerner, versed in all fields of literati pursuits, such as calligraphy and connoisseurship. A princeling of the defeated Southern Song dynasty, he was nevertheless successfully recruited by Khubilai Khan to the Mongol court in the new capital, Dadu (modern Beijing), in 1286. This painting combines a distinctively southern flat watery landscape combined with features of the northern landscape tradition, notably the spiky trees, branches, and rough-surfaced rocks."
+    "by": "claude-routine"
+  }
 }
