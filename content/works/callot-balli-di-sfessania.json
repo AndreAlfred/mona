@@ -1,0 +1,141 @@
+{
+  "id": "callot-balli-di-sfessania",
+  "artist": "jacques-callot",
+  "title": "Frontispiece",
+  "date": "1621",
+  "year": 1621,
+  "medium": "etching",
+  "dimensions": "Sheet: 7.9 x 10.2 cm (3 1/8 x 4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1991.97"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1991.97/1991.97_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1991.97/1991.97_print.jpg",
+    "width": 1110,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 156180
+  },
+  "phase": {
+    "label": "Florence, at the Medici court, 1612–21",
+    "source": {
+      "label": "Hind: in 1612 he moved to Florence … Callot worked in this sphere until 1621",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/156180"
+      }
+    },
+    {
+      "id": "commedia-dell-arte",
+      "source": {
+        "label": "Cleveland Museum of Art: a series of 24 etchings connected with the commedia dell'arte",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/156180"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In the public squares he looked up at comedians who pranced on platforms of loose boards and improvised ribaldries … His pixilated vignettes of the commedia dell'arte— the only pictures that ever captured its wit— advertised it abroad and made it one of Italy's most applauded [exportations].",
+          "source": {
+            "author": "A. Hyatt Mayor",
+            "title": "Prints & People: A Social History of Printed Pictures",
+            "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+            "year": "1971",
+            "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+            "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+            "accessed": "2026-11-07",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is the title page from a series of 24 etchings connected with the commedia dell'arte, a form of comic theater developed in Italy during the 1500s.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Frontispiece",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/156180",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A large series depicting commedia dell'arte figures called Balli di Sfessania, in a simple, caricature-like style, from his years in Florence.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jacques Callot",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Jacques_Callot",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Callot etchings of the Balli di Sfessania (1611) are most widely considered capricci rather than actual depictions of a commedia dance form, or typical masks. While these are often reproduced in large formats, the actual prints measured about 2×3 inches.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Commedia dell'arte",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Commedia_dell%27arte",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The actual title and inscriptions are related to a carnival song and dance from Naples.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Frontispiece",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/156180",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When young Callot arrived in Florence, his tourist's eye was struck by aspects of life that natives took for granted.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

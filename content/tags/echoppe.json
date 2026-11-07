@@ -1,0 +1,34 @@
+{
+  "id": "echoppe",
+  "kind": "technique",
+  "name": "Échoppe",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The échoppe, a tool with a slanted oval section, is also used for \"swelling\" lines.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Etching",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Etching",
+        "accessed": "2026-11-07",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Callot's second innovation was the echoppe, a steel cylinder honed to a slant at the end … By twisting this slanted oval while drawing on the grounded copper, he started a line slim and then swelled it the way an engraved line swells.",
+      "source": {
+        "author": "A. Hyatt Mayor",
+        "title": "Prints & People: A Social History of Printed Pictures",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1971",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+        "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+        "accessed": "2026-11-07",
+        "tier": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "callot-drinker-seen-from-behind",
+  "artist": "jacques-callot",
+  "title": "Drinker Seen From Behind",
+  "date": "c. 1621–25",
+  "year": 1621,
+  "medium": "etching",
+  "dimensions": "Platemark: 6.3 x 8.5 cm (2 1/2 x 3 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1970.22"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1970.22/1970.22_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1970.22/1970.22_print.jpg",
+    "width": 1190,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. S. Fred Rosenthal for the fiftieth anniversary of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 145033
+  },
+  "phase": {
+    "label": "Florence, at the Medici court, 1612–21",
+    "source": {
+      "label": "Hind: in 1612 he moved to Florence … Callot worked in this sphere until 1621",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/145033"
+      }
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "Cleveland Museum of Art: the comedy “was predicated on the assumption that the viewer occupied a different social class”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/145033"
+      }
+    },
+    {
+      "id": "commedia-dell-arte",
+      "source": {
+        "label": "Cleveland Museum of Art: the figures recall character tropes of the commedia dell’arte",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/145033"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This image was published by Callot in 1621 as part of a series of 21 prints depicting gobbi (people with curved backs).",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Drinker Seen From Behind",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/145033",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His early adventures with the gipsies … may have sharpened the genius for caricature and grotesque, which always characterised his mode of expression.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "159"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The figures in the series are reminiscent of character tropes that were popular in the theatrical genre known as the commedia dell’arte (comedy of the profession).",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Drinker Seen From Behind",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/145033",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Callot's series of \"Grotesque Dwarves\" were to inspire Derby porcelain and other companies to create pottery figures known as \"Mansion House Dwarves\" or \"Grotesque Dwarves\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jacques Callot",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Jacques_Callot",
+          "accessed": "2026-11-07",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As the name suggests, the comedy of this genre was predicated on the assumption that the viewer occupied a different social class than the characters depicted. This figure's distorted physique and drunken dance would have suggested to contemporary audiences that he is inherently flawed in both body and mind.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Drinker Seen From Behind",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/145033",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

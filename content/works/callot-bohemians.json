@@ -1,0 +1,136 @@
+{
+  "id": "callot-bohemians",
+  "artist": "jacques-callot",
+  "title": "The Bohemians",
+  "date": "c. 1621–25",
+  "year": 1621,
+  "medium": "etching and engraving",
+  "dimensions": "Sheet: 12.4 x 23.8 cm (4 7/8 x 9 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2004.42"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2004.42/2004.42_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2004.42/2004.42_print.jpg",
+    "width": 900,
+    "height": 475,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 163466
+  },
+  "phase": {
+    "label": "Back in Nancy, 1620s",
+    "source": {
+      "label": "Hind: in 1621 he returned to Nancy and was settled there until his death in 1635",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/163466"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/163466"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “scenes reflecting many aspects of daily life”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/163466"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He conceived of these four prints as a long frieze; the lines in each of the sheets extend into the sheet that follows. The first two scenes depict a procession of scrawny horses and disheveled families in tattered, exotic clothing. The last two show these vagrants pillaging a farm and then enjoying a feast.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Bohemians",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163466",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "When returning to France from Italy, Callot probably saw bands of rootless men, women, and children-a common sight-which became the subject of The Bohemians.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Bohemians",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163466",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The inscriptions, from left to right, comment on the action: The only things these poor fortune-telling beggars carry with them are things yet to come.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Bohemians",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163466",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The first time he cast in his lot with a band of gipsies, and so contrived to reach Florence (1604).",
+        "lead": "Arthur M. Hind, on the boy Callot running away to Italy:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "158"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "But having no money, he joined himself to a travelling company of Bohemians, and being arrived at Florence, he was taken under the [protection] of an officer of the Great Duke",
+        "lead": "J. H. Green’s 1804 life of Callot tells the same story:",
+        "source": {
+          "author": "J. H. Green",
+          "title": "A Catalogue and Description of the Whole of the Works of the Celebrated Jacques Callot",
+          "publisher": "J. Barfield for J. H. Green (Internet Archive scan)",
+          "year": "1804",
+          "url": "https://archive.org/details/cataloguedescrip00unse",
+          "readAt": "https://archive.org/stream/cataloguedescrip00unse/cataloguedescrip00unse_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}

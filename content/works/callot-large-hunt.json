@@ -1,0 +1,136 @@
+{
+  "id": "callot-large-hunt",
+  "artist": "jacques-callot",
+  "title": "The Large Hunt",
+  "date": "1619",
+  "year": 1619,
+  "medium": "etching",
+  "dimensions": "Sheet: 20.7 x 47.1 cm (8 1/8 x 18 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1970.342"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1970.342/1970.342_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1970.342/1970.342_print.jpg",
+    "width": 1263,
+    "height": 554,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Margaret Crile Garretson in memory of Hiram Garretson"
+  },
+  "archive": {
+    "cma": 145173
+  },
+  "phase": {
+    "label": "Florence, at the Medici court, 1612–21",
+    "source": {
+      "label": "Hind: in 1612 he moved to Florence … Callot worked in this sphere until 1621",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/145173"
+      }
+    },
+    {
+      "id": "echoppe",
+      "source": {
+        "label": "Cleveland Museum of Art, on The Large Hunt: Callot designed the échoppe",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/145173"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He designed a slanted, oval-shaped, steel-tipped etching tool called an échoppe which is used to imitate the tapering and swelling lines of an engraving.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "The Large Hunt",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/145173",
+            "accessed": "2026-11-07",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Callot “was a baroque printmaker”",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Callot"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Callot's work was significantly influenced by theater design. His organization of space, usually into three distinct areas (although there are five in this case)-foreground, middleground, and background-resembles stage sets of the time.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Large Hunt",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/145173",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In fact, this work was probably inspired by a theater screen painted by Federico Zuccaro in 1565.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Large Hunt",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/145173",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Both Parigi and Cantagallina were etchers, and the centre of a group of artists who were at once purveyors to the pleasures of the court, and the illustrators of all sorts of ducal and popular festivities and pageants.",
+        "lead": "Arthur M. Hind, on Callot’s Florentine circle:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-07",
+          "tier": 2,
+          "page": "159"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was one of the most prolific professional printmakers of the 1600s. Trained as an engraver, he worked in Nancy, France, the Low Countries, and in Florence for Grand Duke Cosimo II de' Medici.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Large Hunt",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/145173",
+          "accessed": "2026-11-07",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "claude-routine"
+  }
+}
