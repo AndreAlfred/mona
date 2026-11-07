@@ -1,0 +1,35 @@
+{
+  "id": "zhao-mengfu-red-cliff-odes",
+  "artist": "zhao-mengfu",
+  "title": "Former and Latter Odes on Red Cliff",
+  "date": "",
+  "year": 0,
+  "museum": {
+    "name": "National Palace Museum (故書000081N000000000)",
+    "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/373?dep=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%85%83%E8%B6%99%E5%AD%9F%E9%A0%AB%E6%9B%B8%E5%89%8D%E5%BE%8C%E8%B5%A4%E5%A3%81%E8%B3%A6_%E5%8D%B7.jpg/1280px-%E5%85%83%E8%B6%99%E5%AD%9F%E9%A0%AB%E6%9B%B8%E5%89%8D%E5%BE%8C%E8%B5%A4%E5%A3%81%E8%B3%A6_%E5%8D%B7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 898,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (元趙孟頫書前後赤壁賦 卷.jpg)"
+  },
+  "archive": {
+    "wd": "Q141180313"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "TODO agent name"
+  }
+}

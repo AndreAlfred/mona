@@ -1,0 +1,38 @@
+{
+  "id": "zhao-mengfu-sheep-and-goat",
+  "artist": "zhao-mengfu",
+  "title": "Sheep and Goat",
+  "date": "c. 1300",
+  "year": 1300,
+  "medium": "ink on paper",
+  "dimensions": "25.2 × 48.7 cm",
+  "museum": {
+    "name": "Freer Gallery of Art (F1931.4)",
+    "url": "http://www.asia.si.edu/collections/edan/object.php?q=fsg_F1931.4"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sheep_and_Goat_-_Google_Art_Project.jpg/1280px-Sheep_and_Goat_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sheep_and_Goat_-_Google_Art_Project.jpg/2560px-Sheep_and_Goat_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 554,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sheep and Goat - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18683192"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "TODO agent name"
+  }
+}

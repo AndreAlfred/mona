@@ -1,0 +1,36 @@
+{
+  "id": "zhao-mengfu-red-robed-monk",
+  "artist": "zhao-mengfu",
+  "title": "Untitled",
+  "date": "",
+  "year": 0,
+  "museum": {
+    "name": "Liaoning Provincial Museum",
+    "url": "https://www.wikidata.org/wiki/Q134754519"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/5_Zhao_Mengfu_Monk_in_a_Red_Robe%2C_dated_1304_%2826_x_52_cm%29Liaoning_Provincial_Museum.jpg/1280px-5_Zhao_Mengfu_Monk_in_a_Red_Robe%2C_dated_1304_%2826_x_52_cm%29Liaoning_Provincial_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/5_Zhao_Mengfu_Monk_in_a_Red_Robe%2C_dated_1304_%2826_x_52_cm%29Liaoning_Provincial_Museum.jpg/2560px-5_Zhao_Mengfu_Monk_in_a_Red_Robe%2C_dated_1304_%2826_x_52_cm%29Liaoning_Provincial_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 596,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (5 Zhao Mengfu Monk in a Red Robe, dated 1304 (26 x 52 cm)Liaoning Provincial Museum.jpg)"
+  },
+  "archive": {
+    "wd": "Q134754519"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "TODO agent name"
+  }
+}

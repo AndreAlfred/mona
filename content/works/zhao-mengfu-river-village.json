@@ -1,0 +1,39 @@
+{
+  "id": "zhao-mengfu-river-village",
+  "artist": "zhao-mengfu",
+  "title": "River Village:  Fisherman's Joy",
+  "date": "c. 1302–3",
+  "year": 1298,
+  "medium": "Fan painting mounted as album leaf; ink and color on silk",
+  "dimensions": "Overall: 28.6 x 30 cm (11 1/4 x 11 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1978.66"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1978.66/1978.66_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1978.66/1978.66_print.jpg",
+    "width": 932,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 149413
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "TODO agent name"
+  },
+  "_museumText": "The artist of this blue-green–style landscape, Zhao Mengfu, was a southerner, versed in all fields of literati pursuits, such as calligraphy and connoisseurship. A princeling of the defeated Southern Song dynasty, he was nevertheless successfully recruited by Khubilai Khan to the Mongol court in the new capital, Dadu (modern Beijing), in 1286. This painting combines a distinctively southern flat watery landscape combined with features of the northern landscape tradition, notably the spiky trees, branches, and rough-surfaced rocks."
+}

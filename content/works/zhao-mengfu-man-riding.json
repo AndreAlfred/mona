@@ -1,0 +1,38 @@
+{
+  "id": "zhao-mengfu-man-riding",
+  "artist": "zhao-mengfu",
+  "title": "Man Riding",
+  "date": "1296",
+  "year": 1296,
+  "medium": "paper",
+  "dimensions": "31.5 × 620 cm",
+  "museum": {
+    "name": "The Palace Museum (新00119107)",
+    "url": "https://minghuaji.dpm.org.cn/paint/detail?id=fxgybnrw4euvv8urdnijcfmzcddyopfz"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png/1280px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png/2560px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 64,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (赵孟頫人骑图卷.png)"
+  },
+  "archive": {
+    "wd": "Q59208406"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "TODO agent name"
+  }
+}

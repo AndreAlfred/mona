@@ -1,0 +1,37 @@
+{
+  "id": "zhao-mengfu-twin-pines",
+  "artist": "zhao-mengfu",
+  "title": "Twin Pines, Level Distance",
+  "date": "c. 1310",
+  "year": 1310,
+  "dimensions": "26.8 × 107.5 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1973.120.5)",
+    "url": "https://www.metmuseum.org/art/collection/search/40508"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E5%85%83_%E8%B6%99%E5%AD%9F%E9%A0%AB_%E9%9B%99%E6%9D%BE%E5%B9%B3%E9%81%A0%E5%9C%96_%E5%8D%B7-Twin_Pines%2C_Level_Distance_MET_DP153682.jpg/1280px-%E5%85%83_%E8%B6%99%E5%AD%9F%E9%A0%AB_%E9%9B%99%E6%9D%BE%E5%B9%B3%E9%81%A0%E5%9C%96_%E5%8D%B7-Twin_Pines%2C_Level_Distance_MET_DP153682.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E5%85%83_%E8%B6%99%E5%AD%9F%E9%A0%AB_%E9%9B%99%E6%9D%BE%E5%B9%B3%E9%81%A0%E5%9C%96_%E5%8D%B7-Twin_Pines%2C_Level_Distance_MET_DP153682.jpg/2560px-%E5%85%83_%E8%B6%99%E5%AD%9F%E9%A0%AB_%E9%9B%99%E6%9D%BE%E5%B9%B3%E9%81%A0%E5%9C%96_%E5%8D%B7-Twin_Pines%2C_Level_Distance_MET_DP153682.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 291,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (元 趙孟頫 雙松平遠圖 卷-Twin Pines, Level Distance MET DP153682.jpg)"
+  },
+  "archive": {
+    "wd": "Q58755570"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "TODO agent name"
+  }
+}

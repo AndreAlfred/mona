@@ -1,0 +1,38 @@
+{
+  "id": "zhao-mengfu-elegant-rocks",
+  "artist": "zhao-mengfu",
+  "title": "Elegant Rocks and Sparse Trees",
+  "date": "",
+  "year": 0,
+  "medium": "paper",
+  "dimensions": "27.5 × 62.8 cm",
+  "museum": {
+    "name": "The Palace Museum (新00147132)",
+    "url": "https://minghuaji.dpm.org.cn/paint/detail?id=tqr72jhbh5t5f0b7awsi6sghvajc18z3"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E7%A7%80%E7%9F%B3%E7%96%8F%E6%9E%97%E5%9B%BE%E5%8D%B7.png/1280px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E7%A7%80%E7%9F%B3%E7%96%8F%E6%9E%97%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E7%A7%80%E7%9F%B3%E7%96%8F%E6%9E%97%E5%9B%BE%E5%8D%B7.png/2560px-%E8%B5%B5%E5%AD%9F%E9%A0%AB%E7%A7%80%E7%9F%B3%E7%96%8F%E6%9E%97%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 103,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (赵孟頫秀石疏林图卷.png)"
+  },
+  "archive": {
+    "wd": "Q116459612"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-07",
+    "by": "TODO agent name"
+  }
+}
