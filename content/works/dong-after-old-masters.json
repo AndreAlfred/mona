@@ -1,0 +1,156 @@
+{
+  "id": "dong-after-old-masters",
+  "artist": "dong-qichang",
+  "title": "Landscapes after old masters",
+  "date": "1630",
+  "year": 1630,
+  "dimensions": "24.4 × 16 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1986.266.5a–k)",
+    "url": "https://www.metmuseum.org/art/collection/search/48950"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Dong_Qichang_-_Landscapes_after_old_masters_-_1986.266.5a%E2%80%93k_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1815,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Dong Qichang - Landscapes after old masters - 1986.266.5a–k - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78833581"
+  },
+  "phase": {
+    "label": "Last years, President of the Board of Rites (1630s)",
+    "source": {
+      "label": "Sirén (citing the Wusheng shi shi): in the Chongzhen reign (1628–44) he was made president of the Board of Rites",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "spirit-of-antiquity",
+      "source": {
+        "label": "Sirén: Dong sought “the spirit of the old masters”",
+        "url": "https://archive.org/details/in.gov.ignca.17931"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "…however easy it may be to make a close copy, it is [difficult to] transmit the spirit.",
+          "lead": "Mo Shilong, in words Dong also copied into his own writings:",
+          "source": {
+            "author": "Mo Shilong (Mo Shih-lung)",
+            "title": "Writings on painting",
+            "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+            "page": "16",
+            "url": "https://archive.org/details/in.gov.ignca.17931",
+            "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+            "accessed": "2026-11-08",
+            "tier": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Title: “Landscapes after old masters”",
+        "url": "https://www.wikidata.org/wiki/Q78833581"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "…one can hardly do better than pay some [attention] to one or several of the albums in which Tung united sets of ten or more studies after various old masters. … it is not [the] characteristics of the old masters which prevail, but those of their interpreter.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "6–7",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The [brushwork] of Ching and Kuan … is full of life. [I] follow them without necessarily imitating them",
+        "lead": "Dong, inscribing a leaf of another album after tenth-century masters:",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "9",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The prime essential is that the painter should imitate the Old Masters. After that he may go on to the imitation of natural objects.",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Arthur Waley, An Introduction to the Study of Chinese Painting (Ernest Benn, 1923; Internet Archive scan)",
+          "page": "249",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He could look upon new religions with a friendly and interested eye, but as regards painting his formalism and conservatism knew no bounds",
+        "lead": "Waley's sharper view:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "page": "248",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He has not copied them [but] absorbed them in, his own creative [consciousness], giving fresh life to their thoughts through this faculty [of absorption] and exceptional command of the [brush].",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "9",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

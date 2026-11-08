@@ -1,0 +1,109 @@
+{
+  "id": "dong-shaded-dwellings",
+  "artist": "dong-qichang",
+  "title": "Shaded Dwellings among Streams and Mountains",
+  "date": "1623",
+  "year": 1623,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1979.75.2)",
+    "url": "https://www.metmuseum.org/art/collection/search/48949"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%E6%98%8E_%E8%91%A3%E5%85%B6%E6%98%8C_%E6%BA%AA%E5%B1%B1%E6%A8%BE%E9%A4%A8%E5%9C%96_%E8%BB%B8_%E7%B4%99%E6%9C%AC-Shaded_Dwellings_among_Streams_and_Mountains_MET_DP-13850-002.jpg/1280px-%E6%98%8E_%E8%91%A3%E5%85%B6%E6%98%8C_%E6%BA%AA%E5%B1%B1%E6%A8%BE%E9%A4%A8%E5%9C%96_%E8%BB%B8_%E7%B4%99%E6%9C%AC-Shaded_Dwellings_among_Streams_and_Mountains_MET_DP-13850-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%E6%98%8E_%E8%91%A3%E5%85%B6%E6%98%8C_%E6%BA%AA%E5%B1%B1%E6%A8%BE%E9%A4%A8%E5%9C%96_%E8%BB%B8_%E7%B4%99%E6%9C%AC-Shaded_Dwellings_among_Streams_and_Mountains_MET_DP-13850-002.jpg/2560px-%E6%98%8E_%E8%91%A3%E5%85%B6%E6%98%8C_%E6%BA%AA%E5%B1%B1%E6%A8%BE%E9%A4%A8%E5%9C%96_%E8%BB%B8_%E7%B4%99%E6%9C%AC-Shaded_Dwellings_among_Streams_and_Mountains_MET_DP-13850-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1599,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (明 董其昌 溪山樾館圖 軸 紙本-Shaded Dwellings among Streams and Mountains MET DP-13850-002.jpg)"
+  },
+  "archive": {
+    "wd": "Q78833642"
+  },
+  "phase": {
+    "label": "Years of richest production, 1620s",
+    "source": {
+      "label": "Sirén: pictures of 1623–24 show “Tung's manner at the time of his richest production”",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikimedia Commons file title: “溪山樾館圖 軸 紙本” (hanging scroll, paper)",
+        "url": "https://commons.wikimedia.org/wiki/File:%E6%98%8E_%E8%91%A3%E5%85%B6%E6%98%8C_%E6%BA%AA%E5%B1%B1%E6%A8%BE%E9%A4%A8%E5%9C%96_%E8%BB%B8_%E7%B4%99%E6%9C%AC-Shaded_Dwellings_among_Streams_and_Mountains_MET_DP-13850-002.jpg"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Title: “Streams and Mountains” (xishan), a landscape",
+        "url": "https://www.wikidata.org/wiki/Q78833642"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Several other pictures dated in the same or the previous year give a better idea of Tung's manner at the time of his richest [production]. … The usual motif of a [stream] winding between rocky mountains is beautifully developed in these pictures",
+        "lead": "Sirén on Dong's landscapes of the early 1620s:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "8",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Men of former times Said: 'One must have brush and ink.' Many people do not understand the significance of these two words, brush and ink. But how could there be pictures without brush and ink?",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "17",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The art of painting, which has been called ‘holding the Universe in the hand,' keeps constantly before the eyes the Works of Nature. … But where a laborious and minute technique is practised the painter becomes a slave of Nature, and she soon wears him out.",
+        "lead": "Dong on why scholar-painters live long:",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Arthur Waley, An Introduction to the Study of Chinese Painting (Ernest Benn, 1923; Internet Archive scan)",
+          "page": "249",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

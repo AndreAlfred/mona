@@ -1,0 +1,130 @@
+{
+  "id": "dong-reclusion-at-jingxi",
+  "artist": "dong-qichang",
+  "title": "Invitation to Reclusion at Jingxi",
+  "date": "1611",
+  "year": 1611,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1990.318)",
+    "url": "https://www.metmuseum.org/art/collection/search/41479"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Dong_Qichang_-_Invitation_to_Reclusion_at_Jingxi_-_1990.318_-_Metropolitan_Museum_of_Art.jpg/1280px-Dong_Qichang_-_Invitation_to_Reclusion_at_Jingxi_-_1990.318_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 547,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Dong Qichang - Invitation to Reclusion at Jingxi - 1990.318 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78854151"
+  },
+  "phase": {
+    "label": "Years of retirement at Songjiang, 1600s–1610s",
+    "source": {
+      "label": "Sirén (citing the Wusheng shi shi): Dong retired to his home province, “where he lived for eighteen years”",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikidata: genre landscape art",
+        "url": "https://www.wikidata.org/wiki/Q78854151"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In most of the pictures which have dated [inscriptions] from the two first decades of the seventeenth century the [decisive] influence is derived from Huang Kung-wang",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "7",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When I was young I imitated Huang Kung-wang’s landscapes; but in middle life I left off and copied Sung masters. Now I occasionally copy Huang again and manage a tolerable imitation.",
+        "lead": "Dong on his own models:",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Arthur Waley, An Introduction to the Study of Chinese Painting (Ernest Benn, 1923; Internet Archive scan)",
+          "page": "250",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "…fortunately Tung Ch'i-ch'ang arose in [Yunjian] … and his talents and eminence in Tao and art again spread glory over the peaks and gave fresh impetus to the spirit. He was indeed a man [who] opened up new paths.",
+        "lead": "The Ming critic Gu Ningyuan, on painting's decline late in the Wanli reign:",
+        "source": {
+          "author": "Gu Ningyuan (Ku Ning-yuan)",
+          "title": "Hua yin (on Ming painters)",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "3",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He looked down on personal fame, official positions and literary accomplishments as the heron looks down on worms in the soil.",
+        "lead": "A seventeenth-century biography of Dong:",
+        "source": {
+          "author": "Jiang Shaoshu (Chiang Shao-shu)",
+          "title": "Wusheng shi shi (biography of Dong Qichang)",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "4",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "…after some [time] he retired from this office and settled in his home province, where he lived for eighteen years. His fame increased",
+        "source": {
+          "author": "Jiang Shaoshu (Chiang Shao-shu)",
+          "title": "Wusheng shi shi (biography of Dong Qichang)",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "4",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

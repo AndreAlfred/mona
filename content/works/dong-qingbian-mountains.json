@@ -1,0 +1,183 @@
+{
+  "id": "dong-qingbian-mountains",
+  "artist": "dong-qichang",
+  "title": "Mt. Qingbian",
+  "date": "1617",
+  "year": 1617,
+  "medium": "hanging scroll; ink on paper",
+  "dimensions": "Painting: 225 x 67.6 cm (88 9/16 x 26 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1980.10"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1980.10/1980.10_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1980.10/1980.10_print.jpg",
+    "width": 305,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 149791
+  },
+  "phase": {
+    "label": "Years of retirement at Songjiang, 1600s–1610s",
+    "source": {
+      "label": "Sirén (citing the Wusheng shi shi): Dong retired to his home province, “where he lived for eighteen years”",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art: “hanging scroll; ink on paper”",
+        "url": "https://clevelandart.org/art/1980.10"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “hanging scroll; ink on paper”",
+        "url": "https://clevelandart.org/art/1980.10"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In his art, brush and ink assume life independent of the depicted forms, so that the painting can be appreciated for “the sheer marvels of brush and ink.”",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection record",
+            "publisher": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1980.10",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149791",
+            "accessed": "2026-11-08",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Cleveland Museum of Art: the artist's inscription, poem and seals on the painting",
+        "url": "https://clevelandart.org/art/1980.10"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: a landscape of the Qingbian Mountains",
+        "url": "https://clevelandart.org/art/1980.10"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A painting of the Qingbian Mountains in the manner of Beiyuan [Dong Yuan].",
+        "lead": "Dong's first inscription on the scroll:",
+        "source": {
+          "author": "Dong Qichang",
+          "title": "Inscription on the painting",
+          "publisher": "translation in the Cleveland Museum of Art collection record",
+          "url": "https://clevelandart.org/art/1980.10",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149791",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[The] design, which consists of curving sharply cut mountains rising from a tranquil river, is grand, dominated by this sweeping rhythm in which all the minor details [are] absorbed. The painter used a relatively dry brush and by this the [structural] beauty has been more definitely expressed than in most of Tung's [paintings]",
+        "lead": "Sirén saw the scroll in the collection of Wan-go Weng, who later sold it to Cleveland:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "7",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Dong Qichang radically transforms the landscape composition into a purely abstract design. He organizes the mountain forms to achieve an overall sense of structure, activating the flow of energy (qi) and the momentum of force (shi) throughout the pictorial design.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection record",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1980.10",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149791",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[Pictures] of this quality and kind may be said to foretell Wang [Yuanqi]'s masterly landscapes",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "8",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the summer of the dingsi year [1617], on the last day of the fifth month, [I] send this to my senior, Zhang Shenqi.",
+        "lead": "A gift, as the inscription says:",
+        "source": {
+          "author": "Dong Qichang",
+          "title": "Inscription on the painting",
+          "publisher": "translation in the Cleveland Museum of Art collection record",
+          "url": "https://clevelandart.org/art/1980.10",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149791",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the splendor of autumn, where is the most worthy spot to spend the day? Amid the rustling sounds of mountain streams, with a volume in hand, meditating on the Way [Dao].",
+        "lead": "From Dong's poem on the painting:",
+        "source": {
+          "author": "Dong Qichang",
+          "title": "Inscription on the painting",
+          "publisher": "translation in the Cleveland Museum of Art collection record",
+          "url": "https://clevelandart.org/art/1980.10",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149791",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

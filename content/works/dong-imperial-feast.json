@@ -1,0 +1,123 @@
+{
+  "id": "dong-imperial-feast",
+  "artist": "dong-qichang",
+  "title": "Poem Commemorating an Imperially Bestowed Feast",
+  "date": "1632",
+  "year": 1632,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1979.500.2)",
+    "url": "https://www.metmuseum.org/art/collection/search/48952"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dong_Qichang_-_Poem_Commemorating_an_Imperially_Bestowed_Feast_-_1979.500.2_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 3300,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Dong Qichang - Poem Commemorating an Imperially Bestowed Feast - 1979.500.2 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78833513"
+  },
+  "phase": {
+    "label": "Last years, President of the Board of Rites (1630s)",
+    "source": {
+      "label": "Sirén (citing the Wusheng shi shi): in the Chongzhen reign (1628–44) he was made president of the Board of Rites",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Metropolitan Museum of Art: a poem written out by Dong Qichang",
+        "url": "https://www.metmuseum.org/art/collection/search/48952"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Painting and calligraphy both [have] their special characteristics. Calligraphy should be fresh …, but painting should be ripe",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "5",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This rank is given to Tung out of respect for his wonderful talents as a [calligraphist] in which he stands among the great masters. He could write in any of the three styles—regular, running, or draft.",
+        "lead": "Ferguson on why Dong ranks among the great Ming masters:",
+        "source": {
+          "author": "John C. Ferguson",
+          "title": "Chinese Painting",
+          "publisher": "University of Chicago Press (Internet Archive scan)",
+          "year": "1927",
+          "page": "161",
+          "url": "https://archive.org/details/chinesepainting0000john",
+          "readAt": "https://archive.org/stream/chinesepainting0000john/chinesepainting0000john_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In calligraphy it is possible to create new styles; but in painting the familiar is essential.",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Arthur Waley, An Introduction to the Study of Chinese Painting (Ernest Benn, 1923; Internet Archive scan)",
+          "page": "248",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Even emperors, high officials, district magistrates, and provincial [governors] applied to him for help in writing letters and farewell messages, which he could do better than anybody else.",
+        "lead": "A seventeenth-century biography:",
+        "source": {
+          "author": "Jiang Shaoshu (Chiang Shao-shu)",
+          "title": "Wusheng shi shi (biography of Dong Qichang)",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "4",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Still, when approaching the age of [80], he could read by lamplight books with characters no larger than a fly's head, and write equally small characters.",
+        "lead": "The same biography, on Dong in old age:",
+        "source": {
+          "author": "Jiang Shaoshu (Chiang Shao-shu)",
+          "title": "Wusheng shi shi (biography of Dong Qichang)",
+          "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+          "page": "5",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}
