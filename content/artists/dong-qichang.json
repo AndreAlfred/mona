@@ -1,0 +1,108 @@
+{
+  "id": "dong-qichang",
+  "name": "Dong Qichang",
+  "born": 1555,
+  "died": 1636,
+  "active": "1590s–1636",
+  "nationality": "Chinese",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "shen-zhou",
+      "name": "Shen Zhou",
+      "source": {
+        "label": "Dong (tr. Waley): Wen Zhengming and Shen Zhou “received in trust the sacred relics of the School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "wen-zhengming",
+      "name": "Wen Zhengming",
+      "source": {
+        "label": "Dong (tr. Waley): Wen Zhengming and Shen Zhou “received in trust the sacred relics of the School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "zhao-mengfu",
+      "name": "Zhao Mengfu",
+      "source": {
+        "label": "Wikipedia: Dong's calligraphy drew inspiration from Wen Zhengming and Zhao Mengfu",
+        "url": "https://en.wikipedia.org/wiki/Dong_Qichang"
+      }
+    },
+    {
+      "id": "wang-yuanqi",
+      "name": "Wang Yuanqi",
+      "source": {
+        "label": "Sirén: Dong's Qingbian Mountains may be said “to foretell Wang Yüan-ch‘i's masterly landscapes”",
+        "url": "https://archive.org/details/in.gov.ignca.17931"
+      }
+    }
+  ],
+  "wikidata": "Q537211",
+  "archive": {
+    "aic": 26678,
+    "cma": [
+      22133
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Those who study the old masters and do not introduce some changes [are] as if [closed] in by a fence. If one imitates the models too closely one is often farther removed from them.",
+      "lead": "Dong Qichang on copying the old masters:",
+      "source": {
+        "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+        "title": "Writings on painting",
+        "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+        "page": "11",
+        "url": "https://archive.org/details/in.gov.ignca.17931",
+        "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+        "accessed": "2026-11-08",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "As a statesman, as a painter, as a calligrapher, as an [archaeologist], and as a writer on art, Tung Ch‘i-ch‘ang enjoyed for fifty years the highest reputation. No ancient picture was genuine till Tung's seal had made it so.",
+      "source": {
+        "author": "Arthur Waley",
+        "title": "An Introduction to the Study of Chinese Painting",
+        "publisher": "Ernest Benn (Internet Archive scan)",
+        "year": "1923",
+        "page": "247",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+        "accessed": "2026-11-08",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In his art theoretical writings, Dong developed the theory that Chinese painting could be divided into two schools: the \"Northern\" school, characterized by fine lines and colors, and the \"Southern\", school noted for its quick calligraphic strokes, as first suggested to him by his friend and older contemporary Mo Shilong.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Dong Qichang",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Dong_Qichang",
+        "accessed": "2026-11-08",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

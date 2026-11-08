@@ -1,0 +1,157 @@
+{
+  "id": "dong-clear-autumn-day",
+  "artist": "dong-qichang",
+  "title": "River and Mountains on a Clear Autumn Day",
+  "date": "c. 1624–27",
+  "year": 1624,
+  "medium": "Handscroll; ink on Korean paper",
+  "dimensions": "Painting only: 38 x 136.8 cm (14 15/16 x 53 7/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1959.46"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1959.46/1959.46_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1959.46/1959.46_print.jpg",
+    "width": 900,
+    "height": 125,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 135964
+  },
+  "phase": {
+    "label": "Years of richest production, 1620s",
+    "source": {
+      "label": "Sirén: pictures of 1623–24 show “Tung's manner at the time of his richest production”",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Cleveland Museum of Art: “Handscroll; ink on Korean paper”",
+        "url": "https://clevelandart.org/art/1959.46"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “Handscroll; ink on Korean paper”",
+        "url": "https://clevelandart.org/art/1959.46"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: “an abstract landscape composition”",
+        "url": "https://clevelandart.org/art/1959.46"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Huang Zijiu’s [Huang Gongwang’s] River and Mountains on a Clear Autumn Day looks like this. I truly regret that this ancient master has not seen my work.",
+        "lead": "Dong's inscription on the scroll:",
+        "source": {
+          "author": "Dong Qichang",
+          "title": "Inscription on the painting",
+          "publisher": "translation in the Cleveland Museum of Art collection record",
+          "url": "https://clevelandart.org/art/1959.46",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135964",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Here, Dong places an abstract landscape composition diagonally across the picture plane, configured to recall earlier masters and simultaneously express his own personal style.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection record",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1959.46",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135964",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Dong Qichang had a tremendous impact on the artistic practices and historiography of later generations; his works and writings shaped literati aesthetics.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection record",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1959.46",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135964",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In fact, Dong Qichang may have had Dong Yuan’s Xiao and Xiang Rivers in mind, a work he owned and considered a key work in Chinese art history.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection record",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1959.46",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135964",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Each time Dong Qichang encountered the mirror-smooth Korean paper, his calligraphy and painting became even more inspired. Here in this scroll he made use of a paper that formerly was meant for tributary presentation. One can still discern faint traces of written characters.",
+        "lead": "The collector Gao Shiqi, remounting the scroll in 1690:",
+        "source": {
+          "author": "Gao Shiqi",
+          "title": "Colophons on River and Mountains on a Clear Autumn Day (1690, 1694)",
+          "publisher": "translation in the Cleveland Museum of Art collection record",
+          "url": "https://clevelandart.org/art/1959.46",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135964",
+          "accessed": "2026-11-08",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Since Mr. Mantang does not own any handscrolls by Wenmin [Dong Qichang], I leave this one for him in commemoration of our parting; thus the painting will have a worthy owner and our meeting will become a beautiful story in the future.",
+        "lead": "Gao gives the scroll away in 1694:",
+        "source": {
+          "author": "Gao Shiqi",
+          "title": "Colophons on River and Mountains on a Clear Autumn Day (1690, 1694)",
+          "publisher": "translation in the Cleveland Museum of Art collection record",
+          "url": "https://clevelandart.org/art/1959.46",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135964",
+          "accessed": "2026-11-08",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

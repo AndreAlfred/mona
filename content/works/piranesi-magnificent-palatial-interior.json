@@ -1,0 +1,155 @@
+{
+  "id": "piranesi-magnificent-palatial-interior",
+  "artist": "giovanni-battista-piranesi",
+  "title": "A Magnificent Palatial Interior",
+  "date": "1748/1752",
+  "year": 1748,
+  "medium": "pen and brown ink with brown wash with graphite over red chalk, touches of black chalk on laid paper, incised",
+  "dimensions": "overall: 37.6 × 51.5 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/collection/art-object-page.80710.html",
+    "accession": "2000.9.20"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Giovanni_Battista_Piranesi%2C_A_Magnificent_Palatial_Interior%2C_1748-1752%2C_NGA_80710.jpg/1280px-Giovanni_Battista_Piranesi%2C_A_Magnificent_Palatial_Interior%2C_1748-1752%2C_NGA_80710.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Giovanni_Battista_Piranesi%2C_A_Magnificent_Palatial_Interior%2C_1748-1752%2C_NGA_80710.jpg/2560px-Giovanni_Battista_Piranesi%2C_A_Magnificent_Palatial_Interior%2C_1748-1752%2C_NGA_80710.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 878,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giovanni Battista Piranesi, A Magnificent Palatial Interior, 1748-1752, NGA 80710.jpg)"
+  },
+  "archive": {
+    "wd": "Q64572351"
+  },
+  "phase": {
+    "label": "Rome, the years of the Opere Varie, c. 1748–52",
+    "source": {
+      "label": "Hind: most early drawings are “more or less closely related to subjects in the Opere Varie and Carceri”",
+      "url": "https://archive.org/details/giovannibattist00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): pen and brown ink with brown wash over red chalk",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_A_Magnificent_Palatial_Interior,_1748-1752,_NGA_80710.jpg"
+      }
+    },
+    {
+      "id": "pen-and-ink",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): pen and brown ink with brown wash over red chalk",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_A_Magnificent_Palatial_Interior,_1748-1752,_NGA_80710.jpg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Most of the series are of the early period, and many more or less closely related to subjects in the Opere Varie and Carceri. They are all in pen and sepia, sometimes over red chalk, and with sepia or Indian ink wash. The majority are extraordinarily brilliant and rapid in manner",
+          "lead": "Hind on Piranesi's early drawings in the British Museum:",
+          "source": {
+            "author": "Arthur M. Hind",
+            "title": "Giovanni Battista Piranesi: A Critical Study",
+            "publisher": "The Cotswold Gallery (Internet Archive scan)",
+            "year": "1922",
+            "url": "https://archive.org/details/giovannibattist00hinduoft",
+            "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+            "accessed": "2026-11-08",
+            "tier": 2,
+            "page": "22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "capriccio",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The extraordinary dash and vitality of touch seen in Piranesi's best drawings, and equally, if not in heightened intensity, in such etchings as the Carceri, give him every title to be called the Rembrandt of Architecture.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "23"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This volume shows the influence of Pannini's style : there are the broken altars, fractured columns, shattered pediments",
+        "lead": "Samuel on the Opere Varie of 1750:",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "39"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Sometimes bound up in this volume is a series of imaginative designs for palaces, temples, and national buildings, perhaps intended as examples to be shown to possible clients, private or public.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "40"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Offering no pedantic rules, he makes a direct appeal to the imagination of his students. He reveals to them not only the power but the intimate spirit of the Roman world.",
+        "source": {
+          "author": "C. H. Reilly",
+          "title": "Introduction, Selected Etchings by Piranesi",
+          "publisher": "Technical Journals (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/selectedetchings01pirauoft",
+          "readAt": "https://archive.org/stream/selectedetchings01pirauoft/selectedetchings01pirauoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His free relationship to the past may be summarized in a phrase of his that become a mantra: \"col sporcar si trova\"; \"by messing about, one discovers\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

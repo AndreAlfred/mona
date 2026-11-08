@@ -1,0 +1,155 @@
+{
+  "id": "piranesi-appian-way",
+  "artist": "giovanni-battista-piranesi",
+  "title": "Antiquities of Rome:  The Appian Way",
+  "date": "c. 1756–57",
+  "year": 1756,
+  "medium": "etching and engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1967.187"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1967.187/1967.187_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1967.187/1967.187_print.jpg",
+    "width": 900,
+    "height": 560,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of John T. Saile"
+  },
+  "archive": {
+    "cma": 143231
+  },
+  "phase": {
+    "label": "Le Antichità Romane, 1756",
+    "source": {
+      "label": "Cleveland Museum of Art record: Focillon 306, within Le Antichità Romane (F. 144–395 in Hind's list)",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/143231"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/143231"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/143231"
+      }
+    },
+    {
+      "id": "neoclassicism",
+      "source": {
+        "label": "Wikipedia: “Piranesi's reproductions of real and recreated Roman ruins were a strong influence on Neoclassicism”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Unlike Carstens' unrealized schemes, the etchings of Giovanni Battista Piranesi were numerous and profitable, and taken back by those making the Grand Tour to all parts of Europe. His main subject matter was the buildings and ruins of Rome, and he was more stimulated by the ancient than the modern.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Neoclassicism",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Neoclassicism",
+            "accessed": "2026-11-08",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Perhaps Piranesi's greatest work, in both size and importance, is Le Antichita Romane, in four volumes, containing a varying number of plates from 216-224.",
+        "source": {
+          "author": "C. H. Reilly",
+          "title": "Introduction, Selected Etchings by Piranesi",
+          "publisher": "Technical Journals (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/selectedetchings01pirauoft",
+          "readAt": "https://archive.org/stream/selectedetchings01pirauoft/selectedetchings01pirauoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it is indelibly stamped upon his earliest as on his latest work that his aim was not so much to imitate as to describe, to explain, to compel others to become conscious of, and to value, the noble beauty which was visible to himself.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "18"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His position in Rome and in Europe after 1760 was a prominent one. He must have been a well-known figure to the wealthy English visitors in Rome, and was elected a Fellow of the Society of Antiquaries in 1757",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "2"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "and Piranesi thenceforward regarded the public and posterity as the patrons of his labours.",
+        "lead": "After the quarrel over the dedication to Lord Charlemont:",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "83"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "When I first saw the remains of the ancient buildings of Rome lying as they do in cultivated fields or in gardens and wasting away under the ravages of time, or being destroyed by greedy owners who sell them as materials for modern buildings, I determined to preserve them for ever by means of my engravings",
+        "lead": "Piranesi, in the preface to the Antichità Romane:",
+        "source": {
+          "author": "Giovanni Battista Piranesi",
+          "title": "Preface to Le Antichità Romane (1756)",
+          "publisher": "translated in Arthur M. Samuel, Piranesi (B. T. Batsford, 1910; Internet Archive scan)",
+          "page": "20",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

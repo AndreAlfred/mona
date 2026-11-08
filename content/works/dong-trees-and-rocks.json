@@ -1,0 +1,130 @@
+{
+  "id": "dong-trees-and-rocks",
+  "artist": "dong-qichang",
+  "title": "Studies of Traditional Trees and Rocks",
+  "date": "c. 1610",
+  "year": 1610,
+  "museum": {
+    "name": "Minneapolis Institute of Art (2005.9.3)",
+    "url": "https://www.wikidata.org/wiki/Q112195075"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dong_Qichang_-_Studies_of_Traditional_Trees_and_Rocks_-_2005.9.3_-_Minneapolis_Institute_of_Art.jpg/1280px-Dong_Qichang_-_Studies_of_Traditional_Trees_and_Rocks_-_2005.9.3_-_Minneapolis_Institute_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dong_Qichang_-_Studies_of_Traditional_Trees_and_Rocks_-_2005.9.3_-_Minneapolis_Institute_of_Art.jpg/2560px-Dong_Qichang_-_Studies_of_Traditional_Trees_and_Rocks_-_2005.9.3_-_Minneapolis_Institute_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 582,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Dong Qichang - Studies of Traditional Trees and Rocks - 2005.9.3 - Minneapolis Institute of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q112195075"
+  },
+  "phase": {
+    "label": "Years of retirement at Songjiang, 1600s–1610s",
+    "source": {
+      "label": "Sirén (citing the Wusheng shi shi): Dong retired to his home province, “where he lived for eighteen years”",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It has been said that in tree-painting one is free to make one's own style. Nothing could be more untrue! For willow-trees Chao [Po-chü] is the standard; for pines Ma Ho-chih; for withered trees Li Ch'eng.",
+        "lead": "Dong Qichang on painting trees:",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Arthur Waley, An Introduction to the Study of Chinese Painting (Ernest Benn, 1923; Internet Archive scan)",
+          "page": "248",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is most important that a landscape should include some withered trees. They should appear occasionally in among healthy trees, as a foil",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Arthur Waley, An Introduction to the Study of Chinese Painting (Ernest Benn, 1923; Internet Archive scan)",
+          "page": "249",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In other words, painters should combine real scholarship with extensive studies of nature, and in spite of their attachment to a certain tradition and their close studies of old masters, these scholarly painters were by no means indifferent to [observations of nature].",
+        "lead": "Sirén on Dong and his friend Mo Shilong:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "15",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Owing their position to assiduous study, they believed that knowledge was also the key to art.",
+        "lead": "Waley on the scholar-officials who practised “the Learned Man’s Painting”:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "page": "246",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I am over fifty; any trees, rocks, peaks or hillocks that I come across I can sketch quite successfully; but I still cannot do human figures, boats, carriages, or architecture; and this vexes me. I am glad, however, to recall that Ni Tsan suffered from the same defect.",
+        "lead": "Dong, writing in his fifties:",
+        "source": {
+          "author": "Dong Qichang (Tung Ch‘i-ch‘ang)",
+          "title": "Writings on painting",
+          "publisher": "translated in Arthur Waley, An Introduction to the Study of Chinese Painting (Ernest Benn, 1923; Internet Archive scan)",
+          "page": "250",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

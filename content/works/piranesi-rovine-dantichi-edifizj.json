@@ -1,0 +1,150 @@
+{
+  "id": "piranesi-rovine-dantichi-edifizj",
+  "artist": "giovanni-battista-piranesi",
+  "title": "Rovine d' antichi Edifizj",
+  "date": "published 1743/1744",
+  "year": 1743,
+  "dimensions": "plate: 36.1 x 23.6 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/collection/art-object-page.56867.html",
+    "accession": "1978.97.10"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Giovanni_Battista_Piranesi%2C_Rovine_d%27_antichi_Edifizj%2C_published_1743-1744%2C_NGA_56867.jpg/1280px-Giovanni_Battista_Piranesi%2C_Rovine_d%27_antichi_Edifizj%2C_published_1743-1744%2C_NGA_56867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Giovanni_Battista_Piranesi%2C_Rovine_d%27_antichi_Edifizj%2C_published_1743-1744%2C_NGA_56867.jpg/2560px-Giovanni_Battista_Piranesi%2C_Rovine_d%27_antichi_Edifizj%2C_published_1743-1744%2C_NGA_56867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1766,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giovanni Battista Piranesi, Rovine d' antichi Edifizj, published 1743-1744, NGA 56867.jpg)"
+  },
+  "archive": {
+    "wd": "Q65568962"
+  },
+  "phase": {
+    "label": "First years in Rome, 1740–44",
+    "source": {
+      "label": "Hind: in 1740 Piranesi left Venice for Rome … and returned to Venice in 1744",
+      "url": "https://archive.org/details/giovannibattist00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): etching, engraving, drypoint",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Rovine_d%27_antichi_Edifizj,_published_1743-1744,_NGA_56867.jpg"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): etching, engraving, drypoint",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Rovine_d%27_antichi_Edifizj,_published_1743-1744,_NGA_56867.jpg"
+      }
+    },
+    {
+      "id": "capriccio",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "After his studies with Vasi, he collaborated with pupils of the French Academy in Rome to produce a series of vedute (views) of the city; his first work was Prima parte di Architettura e Prospettive (1743), followed in 1745 by Varie Vedute di Roma Antica e Moderna.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In his more purely architectural designs of the early period, contained in the Prima Parte di Architetture, 1743, and the Opere Varie 1750, Piranesi was less original both in theme and treatment than in the ' Prisons '. Here he shows very clearly the influence of the architect and scene-painter Ferdinando Bibiena",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "14"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He is also said to have worked in the shops of the scene-painters Giuseppe and Domenico Valeriani, and to have studied under another famous scene-painter Ferdinando Bibiena, who died in Bologna in 1742.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "1"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A well known proponent of capriccio was the artist Giovanni Paolo Pannini (1691–1765). This style was extended in the 1740s by Canaletto in his etched vedute ideali, and works by Piranesi and his imitators.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Capriccio (art)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Capriccio_(art)",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Fascinated even from the first moment of his arrival by the silent stones and shattered monuments of Rome, Piranesi worked with the utmost diligence.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "18"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Quite without means, he set poverty at defiance. He worked day and night, denying himself the proper sleep which a straw mattress — his sole worldly possession — might have afforded him.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  },
+  "medium": "etching, engraving, drypoint, scratching"
+}

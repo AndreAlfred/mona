@@ -1,0 +1,102 @@
+{
+  "id": "dong-autumn-moods",
+  "artist": "dong-qichang",
+  "title": "Eight Views of Autumn Moods",
+  "date": "1620",
+  "year": 1620,
+  "medium": "album of eight leaves, on paper",
+  "dimensions": "53.8 × 31.7 cm",
+  "museum": {
+    "name": "Shanghai Museum",
+    "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00000911"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E8%91%A3%E5%85%B6%E6%98%8C_%E7%A7%8B%E5%85%B4%E5%85%AB%E6%99%AF%E5%9B%BE%E5%86%8C_1.jpg/1280px-%E8%91%A3%E5%85%B6%E6%98%8C_%E7%A7%8B%E5%85%B4%E5%85%AB%E6%99%AF%E5%9B%BE%E5%86%8C_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1942,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (董其昌 秋兴八景图册 1.jpg)"
+  },
+  "archive": {
+    "wd": "Q132599171"
+  },
+  "phase": {
+    "label": "Years of richest production, 1620s",
+    "source": {
+      "label": "Sirén: pictures of 1623–24 show “Tung's manner at the time of his richest production”",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Waley: Dong “completely identifies the Learned Man's Painting with the Southern School”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “Eight Views of Autumn Moods, dated 1620. Album of eight leaves”",
+        "url": "https://en.wikipedia.org/wiki/Dong_Qichang"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "For [this] purpose sketchy records on album-leaves or other paintings of small size were quite satisfactory, and consequently it is not surprising to find that a large portion of Tung Ch'i-ch'ang's painted work [consists] of such minor pictures, executed mainly in ink, [sometimes] with the addition of light colours.",
+        "lead": "Sirén on Dong's albums:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "6",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His work favored expression over formal likeness. He also avoided anything he deemed to be slick or sentimental. This led him to create landscapes with intentionally distorted spatial features.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Dong Qichang",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Dong_Qichang",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Whatever he wrote or painted reflected [the] rhythm of his own [mind] and hand, and he was a true master of [the] brush.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V (The Later Ming and Leading Ch‘ing Masters)",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "page": "5",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

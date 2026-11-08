@@ -1,0 +1,168 @@
+{
+  "id": "piranesi-pantheon",
+  "artist": "giovanni-battista-piranesi",
+  "title": "Views of Rome:  The Pantheon",
+  "date": "1761",
+  "year": 1761,
+  "medium": "etching and engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.5"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.5/1922.5_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.5/1922.5_print.jpg",
+    "width": 900,
+    "height": 626,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of the family of Mr. and Mrs. Peter M. Hitchcock"
+  },
+  "archive": {
+    "cma": 104365
+  },
+  "phase": {
+    "label": "Vedute di Roma, c. 1748–78",
+    "source": {
+      "label": "Hind, catalogue of the Views of Rome: no. 60, The Pantheon exterior, 1761",
+      "url": "https://archive.org/details/giovannibattist00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/104365"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/104365"
+      }
+    },
+    {
+      "id": "veduta",
+      "source": {
+        "label": "Cleveland Museum of Art record: Views of Rome (Vedute di Roma)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/104365"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Giambattista Piranesi was the foremost master of vedute ideate etchings. His topographical series, Vedute di Roma, went through many printings.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Veduta",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Veduta",
+            "accessed": "2026-11-08",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Piranesi's development as an etcher may be studied most comprehensively in the ' Views of Rome ', extending as they do throughout his whole life.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "14"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is well to have the Piranesi view of the Pantheon, now that the belfries have been taken away and the abortive secondary [pediment] has also disappeared, and the building is put, as nearly as modern archaeologists can do it, back into its original form.",
+        "source": {
+          "author": "Russell Sturgis",
+          "title": "The Etchings of Piranesi",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "year": "1900",
+          "url": "https://archive.org/details/etchingsofpirane00stur",
+          "readAt": "https://archive.org/stream/etchingsofpirane00stur/etchingsofpirane00stur_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Throughout his lifetime, Piranesi created numerous prints depicting the Eternal City; these were widely collected by gentlemen on the Grand Tour.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the ' Views of Rome ', the inevitable purchase of successive tourists in Rome, are for the most part mere wrecks of their former selves.",
+        "lead": "Hind on later impressions pulled from the worn plates:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "5"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Among the other favourites of the etcher was the Pantheon. He etched in detail several plates of the Pantheon with the utmost care",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "132"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Piranesi throws great masses of buildings straight into the eye of the spectator.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "25"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}
