@@ -1,0 +1,34 @@
+{
+  "id": "veduta",
+  "kind": "style",
+  "name": "Veduta (view)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A veduta (Italian for 'view' …) is a highly detailed, usually large-scale painting or, more often, print of a cityscape or some other vista.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Veduta",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Veduta",
+        "accessed": "2026-11-08",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In later developments of the vedute, Pannini's veduta morphed into the scenes partly or completely imaginary elements, known as capricci and veduta ideate or veduta di fantasia.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Veduta",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Veduta",
+        "accessed": "2026-11-08",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "veduta"
+}

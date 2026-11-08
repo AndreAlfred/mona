@@ -1,0 +1,192 @@
+{
+  "id": "piranesi-prisoners-on-a-projecting-platform",
+  "artist": "giovanni-battista-piranesi",
+  "title": "Prisoners on a Projecting Platform, Plate 10",
+  "date": "1749–50",
+  "year": 1749,
+  "medium": "etching, engraving, sulphur tint or open bite, burnishing",
+  "dimensions": "Plate: 41.2 x 54.2 cm (16 1/4 x 21 5/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1941.26.8"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.26.8/1941.26.8_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1941.26.8/1941.26.8_print.jpg",
+    "width": 900,
+    "height": 701,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 120435
+  },
+  "phase": {
+    "label": "The Carceri, first edition, c. 1745–50",
+    "source": {
+      "label": "Wikipedia: 14 etchings “produced from c. 1745 to 1750, when the first edition of the set was published”",
+      "url": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching, engraving, sulphur tint or open bite, burnishing",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/120435"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching, engraving, sulphur tint or open bite, burnishing",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/120435"
+      }
+    },
+    {
+      "id": "capriccio",
+      "source": {
+        "label": "Wikipedia: the Carceri are “rather extreme versions of the capriccio”",
+        "url": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "All depict enormous subterranean vaults with stairs and mighty machines, in rather extreme versions of the capriccio, a favourite Italian genre of architectural fantasies; the first title page uses the term.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Carceri d'invenzione",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione",
+            "accessed": "2026-11-08",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In his series of imaginary prisons, Giovanni Battista Piranesi experimented with scale, perspective, and etching to create disorienting and disturbing images of incarceration.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Prisoners on a Projecting Platform, Plate 10",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/120435",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "But the series of the ' Prisons ', produced as it was without ulterior considerations and with all the glow of his youthful fire, remains in my opinion his most wonderful artistic legacy.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "11"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Bouchard's edition the plates are more lightly etched throughout with none of the strong contrasts of light and shade seen in the later edition.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "12"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Based on his training as a stage designer rather than on observations of real prisons, Piranesi used a low vantage point and distant staircases to disrupt traditional perspective and to emphasize both the monumentality of the space and the futility of trying to escape.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Prisoners on a Projecting Platform, Plate 10",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/120435",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The images influenced Romanticism and Surrealism. While the Vedutisti (or \"view makers\"), such as Canaletto and Bellotto, more often reveled in the beauty of the sunlit place, in Piranesi this vision takes on what from a modern perspective could be called a Kafkaesque distortion, seemingly erecting fantastic labyrinthine structures, epic in volume.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Carceri d'invenzione",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Set against a strange cloud of white smoke, the densely drawn and deeply etched lines of the prisoners at left produce a confusing jumble of bodies that, while imprecise, evoke their pain and punishment.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Prisoners on a Projecting Platform, Plate 10",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/120435",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Many years ago, when I was looking over Piranesi’s Antiquities of Rome, Mr. Coleridge, who was standing by, described to me a set of plates by that artist, called his Dreams, and which record the scenery of his own visions during the delirium of a fever.",
+        "lead": "Thomas De Quincey, remembering Coleridge on the Prisons:",
+        "source": {
+          "author": "Thomas De Quincey",
+          "title": "Confessions of an English Opium-Eater",
+          "publisher": "Project Gutenberg",
+          "year": "1821",
+          "url": "https://www.gutenberg.org/ebooks/2040",
+          "readAt": "https://www.gutenberg.org/cache/epub/2040/pg2040.txt",
+          "accessed": "2026-11-08",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Creeping along the sides of the walls you perceived a staircase; and upon it, groping his way upwards, was Piranesi himself: follow the stairs a little further and you perceive it come to a sudden and abrupt termination without any balustrade",
+        "source": {
+          "author": "Thomas De Quincey",
+          "title": "Confessions of an English Opium-Eater",
+          "publisher": "Project Gutenberg",
+          "year": "1821",
+          "url": "https://www.gutenberg.org/ebooks/2040",
+          "readAt": "https://www.gutenberg.org/cache/epub/2040/pg2040.txt",
+          "accessed": "2026-11-08",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

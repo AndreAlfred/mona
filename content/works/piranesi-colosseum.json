@@ -1,0 +1,146 @@
+{
+  "id": "piranesi-colosseum",
+  "artist": "giovanni-battista-piranesi",
+  "title": "Views of Rome:  The Colosseum",
+  "date": "1776",
+  "year": 1776,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.225"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.225/1922.225_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.225/1922.225_print.jpg",
+    "width": 900,
+    "height": 637,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. Pierson D. Briggs"
+  },
+  "archive": {
+    "cma": 104057
+  },
+  "phase": {
+    "label": "Vedute di Roma, the late plates, 1770s",
+    "source": {
+      "label": "Hind, catalogue of the Views of Rome: no. 126, The Colosseum, bird's-eye view, 1776",
+      "url": "https://archive.org/details/giovannibattist00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/104057"
+      }
+    },
+    {
+      "id": "veduta",
+      "source": {
+        "label": "Cleveland Museum of Art record: Views of Rome (Vedute di Roma)",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/104057"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "There is an increasing tendency in the later views to stronger contrasts of light and shade, obtained either by second biting or by the use of the graver in broadening and deepening the etched lines.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "15"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Indeed, he dreamed and drew Rome more splendid than she had been, even at the zenith of her magnificence.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "116"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "No more than a third of the Colosseum remained ; it had been in turn a fortress, a stone quarry, a woollen mill, and a saltpetre factory.",
+        "lead": "Samuel on the Rome Piranesi drew:",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "27"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Scholars and students of Roman archaeology, such as Jordan, Lanciani, and Dr. Thomas Ashby, all recognize the value of his plates as topographical documents. And he seldom failed to combine this documentary truth with a noble dignity of composition.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A number of the Views are notable for depicting human figures whose poverty, lameness, apparent drunkenness, and other visible flaws appear to echo the decay of the ruins. This is consistent with a familiar trope of Renaissance literature, in which the ruins of Rome are lamented as a metaphor for the imperfection and transience of human existence.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it must never be forgotten that he gave us the aspect of many a fine old building in its much more perfect condition, before the havoc … wrought by one more century of popes and princes or of ignorant peasants",
+        "source": {
+          "author": "Russell Sturgis",
+          "title": "The Etchings of Piranesi",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "year": "1900",
+          "url": "https://archive.org/details/etchingsofpirane00stur",
+          "readAt": "https://archive.org/stream/etchingsofpirane00stur/etchingsofpirane00stur_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

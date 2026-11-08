@@ -1,0 +1,153 @@
+{
+  "id": "piranesi-canopus-villa-adriana",
+  "artist": "giovanni-battista-piranesi",
+  "title": "The \"Canopus\" of the Villa Adriana at Tivoli",
+  "date": "1776",
+  "year": 1776,
+  "medium": "red chalk over black chalk on heavy laid paper",
+  "dimensions": "overall: 38.9 × 53.8 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/collection/art-object-page.84647.html",
+    "accession": "1994.69.1"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Giovanni_Battista_Piranesi%2C_The_%22Canopus%22_of_the_Villa_Adriana_at_Tivoli%2C_1776%2C_NGA_84647.jpg/1280px-Giovanni_Battista_Piranesi%2C_The_%22Canopus%22_of_the_Villa_Adriana_at_Tivoli%2C_1776%2C_NGA_84647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Giovanni_Battista_Piranesi%2C_The_%22Canopus%22_of_the_Villa_Adriana_at_Tivoli%2C_1776%2C_NGA_84647.jpg/2560px-Giovanni_Battista_Piranesi%2C_The_%22Canopus%22_of_the_Villa_Adriana_at_Tivoli%2C_1776%2C_NGA_84647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 865,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giovanni Battista Piranesi, The \"Canopus\" of the Villa Adriana at Tivoli, 1776, NGA 84647.jpg)"
+  },
+  "archive": {
+    "wd": "Q64572352"
+  },
+  "phase": {
+    "label": "Late years: Hadrian's Villa, 1768–78",
+    "source": {
+      "label": "Hind: “the period of the Hadrian's Villa plates (1768-70)”",
+      "url": "https://archive.org/details/giovannibattist00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "red-chalk",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): red chalk over black chalk",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_The_%22Canopus%22_of_the_Villa_Adriana_at_Tivoli,_1776,_NGA_84647.jpg"
+      }
+    },
+    {
+      "id": "chalk-drawing",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): red chalk over black chalk",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_The_%22Canopus%22_of_the_Villa_Adriana_at_Tivoli,_1776,_NGA_84647.jpg"
+      }
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): red chalk over black chalk",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_The_%22Canopus%22_of_the_Villa_Adriana_at_Tivoli,_1776,_NGA_84647.jpg"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Then there are five large red chalk drawings of Hadrian's Villa (probably intended as finished drawings for the etchings) in the collection of Mr. Percy B. Tubbs",
+        "lead": "Hind, in 1922, on a group of red-chalk drawings of Hadrian's Villa:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "21"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "They lack the fire of G. B. Piranesi's early work … but if not by his hand, they are so immediately inspired by him, that they must either be reproductions of lost drawings, or the work of Francesco Piranesi … But on the whole I think their style fits in with one's estimate of the development of G. B. Piranesi's work.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "21"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1776, he created his best known work as a 'restorer' of ancient sculpture, the Piranesi Vase, and in 1777–78 he published Avanzi degli Edifici di Pesto (Remains of the Edifices of Paestum).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "among his more attentive scholars being Robert Adam, Chambers, Dance, and many other architects of the late eighteenth century, and through these he influenced the decorative designers from Chippendale to Pergolesi.",
+        "source": {
+          "author": "C. H. Reilly",
+          "title": "Introduction, Selected Etchings by Piranesi",
+          "publisher": "Technical Journals (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/selectedetchings01pirauoft",
+          "readAt": "https://archive.org/stream/selectedetchings01pirauoft/selectedetchings01pirauoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It was Piranesi's custom to shut himself up in his own room and to work straight … on, without intermission, if an idea had struck him, or if he had a subject in hand : he had no patience. Engrossed in his labours, he could not endure to lay down his tools to take food or rest.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "40–41"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He died in Rome in 1778 after a long illness, and was buried in the church he had helped restore, Santa Maria del Priorato.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

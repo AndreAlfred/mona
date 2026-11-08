@@ -1,0 +1,164 @@
+{
+  "id": "piranesi-lion-bas-reliefs",
+  "artist": "giovanni-battista-piranesi",
+  "title": "The Lion Bas-Reliefs",
+  "date": "published 1761",
+  "year": 1761,
+  "medium": "etching and engraving on laid paper",
+  "dimensions": "sheet: 76.7 x 53.6 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/collection/art-object-page.62915.html",
+    "accession": "1983.118.6"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Giovanni_Battista_Piranesi%2C_The_Lion_Bas-Reliefs%2C_published_1761%2C_NGA_62915.jpg/1280px-Giovanni_Battista_Piranesi%2C_The_Lion_Bas-Reliefs%2C_published_1761%2C_NGA_62915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Giovanni_Battista_Piranesi%2C_The_Lion_Bas-Reliefs%2C_published_1761%2C_NGA_62915.jpg/2560px-Giovanni_Battista_Piranesi%2C_The_Lion_Bas-Reliefs%2C_published_1761%2C_NGA_62915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1633,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giovanni Battista Piranesi, The Lion Bas-Reliefs, published 1761, NGA 62915.jpg)"
+  },
+  "archive": {
+    "wd": "Q74045913"
+  },
+  "phase": {
+    "label": "The Carceri reworked, second edition, 1761",
+    "source": {
+      "label": "Wikipedia: “For the second edition in 1761, all the etchings were reworked … with numbers II and V new etchings”",
+      "url": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): etching and engraving",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_The_Lion_Bas-Reliefs,_published_1761,_NGA_62915.jpg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The reworking all the plates underwent before the second edition around 1761, as well as perhaps effacing signs of wear on the plates, saw \"heightened tonal contrasts and the introduction of more explicit details... the final traces of Rococo linear atmospheric subtleties were to be replaced by strongly bitten lines and broad areas of tonal contrast\".",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Carceri d'invenzione",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione",
+            "accessed": "2026-11-08",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "National Gallery of Art record (via Wikimedia Commons): etching and engraving",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_The_Lion_Bas-Reliefs,_published_1761,_NGA_62915.jpg"
+      }
+    },
+    {
+      "id": "capriccio",
+      "source": {
+        "label": "Wikipedia, Capriccio (art): illustrated with “Le Carceri d'Invenzione, 2nd edition, 1761, #5 The Lion Bas-Reliefs”",
+        "url": "https://en.wikipedia.org/wiki/Capriccio_(art)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "For the second edition in 1761, all the etchings were reworked and numbered I–XVI (1–16), with numbers II and V new etchings in the series.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Carceri d'invenzione",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is noteworthy that the two new plates of the later set (nos. 2 and 5) are quite the most confused in detail of the whole series, as if Piranesi suffered from the lack of an earlier simple sketch to give him the beautiful features that he needed to emphasize in his elaboration.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "13"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The second edition in particular reflects Piranesi's idiosyncratic views on Italian history. In earlier works he had already deplored Greek influence on ancient Rome, and emphasized Rome's Etruscan heritage.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Carceri d'invenzione",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Piranesi was especially interested in the Graeco-Roman debate in the 1760s, between followers of Winckelmann who thought Greek culture and architecture superior to their Roman counterparts, and those who (like Piranesi) believed that the Romans had improved upon their Greek models.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Plate V includes \"a giant relief in a late Imperial style\" of a prisoner in chains being \"led to punishment\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Carceri d'invenzione",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Carceri_d%27invenzione",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In spite of the intrinsic horror of these dreams of prisons and torture chambers, there is a grandeur in the architectural setting which outweighs the mere gruesome details",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "11"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

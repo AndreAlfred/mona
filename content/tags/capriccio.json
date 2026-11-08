@@ -1,0 +1,34 @@
+{
+  "id": "capriccio",
+  "kind": "style",
+  "name": "Capriccio",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In painting, a capriccio … is an architectural fantasy, placing together buildings, archaeological ruins and other architectural elements in fictional and often fantastical combinations.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Capriccio (art)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Capriccio_(art)",
+        "accessed": "2026-11-08",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In the 17th century, Filippo Baldinucci defined the capriccio as a dreamlike interpretation of the subject of a work that comes from a free imagination.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Capriccio (art)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Capriccio_(art)",
+        "accessed": "2026-11-08",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "capriccio"
+}

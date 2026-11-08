@@ -1,0 +1,152 @@
+{
+  "id": "piranesi-foro-di-augusto",
+  "artist": "giovanni-battista-piranesi",
+  "title": "Foro di Augusto",
+  "date": "c. 1748",
+  "year": 1748,
+  "medium": "etching and engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1921.1158"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1921.1158/1921.1158_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1921.1158/1921.1158_print.jpg",
+    "width": 1263,
+    "height": 676,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Willard M. Clapp"
+  },
+  "archive": {
+    "cma": 102524
+  },
+  "phase": {
+    "label": "Antichità Romane de' Tempi della Repubblica, 1748",
+    "source": {
+      "label": "Cleveland Museum of Art record: Focillon 56, within the 1748 series (F. 41–71 in Hind's list)",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/102524"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/102524"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching and engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/102524"
+      }
+    },
+    {
+      "id": "veduta",
+      "source": {
+        "label": "Hind: the 1748 plates are “a series of small oblong views”",
+        "url": "https://archive.org/details/giovannibattist00hinduoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The latter plates, a series of small oblong views, are among his purest etchings in their early states before rework.",
+        "lead": "Hind on the small views of 1748:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "10"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "From the purely artistic side there is scarcely anything more attractive in Piranesi's work than this early series, and they are entirely worthy to be ranked beside Meryon's best architectural etchings.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "10"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "They include 30 plates of views of several Roman buildings in the provinces, such as the Amphitheatre of Verona, and the Triumphal Arches of Pola in Istria, of Ancona, and of Rimini. He dedicated them to the literary antiquary Bottari, private chaplain to the etcher's patron, Pope Benedict xiv.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "17–18"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "As the itinerary of the Grand Tour became somewhat standardized, veduta of familiar scenes like the Roman Forum or the Grand Canal recalled early ventures to the Continent for aristocratic Englishmen.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Veduta",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Veduta",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Piranesi's etchings found ready buyers, but the largeness of the output rendered the pecuniary return to the artist extremely small.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "35"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Most ancient monuments in Rome were abandoned in fields and gardens. Piranesi tried to preserve them with his engravings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Piranesi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+          "accessed": "2026-11-08",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "giovanni-battista-piranesi",
+  "name": "Giovanni Battista Piranesi",
+  "born": 1720,
+  "died": 1778,
+  "active": "c. 1740–1778",
+  "nationality": "Italian (Venetian)",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "neoclassicism",
+      "source": {
+        "label": "Wikipedia: “Piranesi's reproductions of real and recreated Roman ruins were a strong influence on Neoclassicism”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "giovanni-battista-tiepolo",
+      "name": "Giovanni Battista Tiepolo",
+      "source": {
+        "label": "Hind: of the Grotteschi, “Their technical inspirer is Tiepolo”",
+        "url": "https://archive.org/details/giovannibattist00hinduoft"
+      }
+    },
+    {
+      "id": "antonio-canaletto",
+      "name": "Antonio Canaletto",
+      "source": {
+        "label": "Hind: “Piranesi has still not entirely broken with the style of the Venetian etchers, Canaletto and Tiepolo”",
+        "url": "https://archive.org/details/giovannibattist00hinduoft"
+      }
+    },
+    {
+      "id": "hubert-robert",
+      "name": "Hubert Robert",
+      "source": {
+        "label": "Hind: “Hubert Robert (1733-1808) also carried on Piranesi's principles”",
+        "url": "https://archive.org/details/giovannibattist00hinduoft"
+      }
+    },
+    {
+      "id": "jacques-callot",
+      "name": "Jacques Callot",
+      "source": {
+        "label": "Hind: Piranesi as “the natural successor of Callot and Salvator Rosa”",
+        "url": "https://archive.org/details/giovannibattist00hinduoft"
+      }
+    },
+    {
+      "id": "salvator-rosa",
+      "name": "Salvator Rosa",
+      "source": {
+        "label": "Walpole: “Savage as Salvator Rosa, fierce as Michael Angelo, and exuberant as Rubens”",
+        "url": "https://archive.org/details/anecdotesofpaint01walp_5"
+      }
+    },
+    {
+      "id": "charles-meryon",
+      "name": "Charles Meryon",
+      "source": {
+        "label": "Hind: Piranesi as “the forerunner of Meryon and his haunted Paris”",
+        "url": "https://archive.org/details/giovannibattist00hinduoft"
+      }
+    }
+  ],
+  "wikidata": "Q316307",
+  "archive": {
+    "cma": [
+      11946
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "I do dare to believe … that, like Horace … I have executed a work which will go down to posterity, and which will endure for as long as there are men desirous of knowing all that has survived until our day, of the ruins of the most famous city of the universe.",
+      "lead": "Piranesi on his own etchings:",
+      "source": {
+        "author": "Giovanni Battista Piranesi",
+        "title": "On his etchings of Rome",
+        "publisher": "translated in Arthur M. Samuel, Piranesi (B. T. Batsford, 1910; Internet Archive scan)",
+        "page": "18–19",
+        "url": "https://archive.org/details/piranesi00samu",
+        "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+        "accessed": "2026-11-08",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In 1740 Piranesi left Venice for Rome in the suite of the ambassador to the Papal Court, and was lodged for a time at the Venetian Embassy. He studied etching under Giuseppe Vasi, the engraver of one of the largest views of Rome",
+      "source": {
+        "author": "Arthur M. Hind",
+        "title": "Giovanni Battista Piranesi: A Critical Study",
+        "publisher": "The Cotswold Gallery (Internet Archive scan)",
+        "year": "1922",
+        "url": "https://archive.org/details/giovannibattist00hinduoft",
+        "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+        "accessed": "2026-11-08",
+        "tier": 2,
+        "page": "1"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "the sublime dreams of Piranesi, who seems to have conceived visions of Rome beyond what it boasted even in the meridian of its splendour. Savage as Salvator Rosa, fierce as Michael Angelo, and exuberant as Rubens, he has imagined scenes that would startle geometry, and exhaust the Indies to realize.",
+      "lead": "Horace Walpole, urging English architects to study him:",
+      "source": {
+        "author": "Horace Walpole",
+        "title": "Anecdotes of Painting in England, vol. I (Advertisement to vol. IV)",
+        "publisher": "ed. Dallaway and Wornum, 1888 (Internet Archive scan)",
+        "year": "1780",
+        "page": "xvi–xvii",
+        "url": "https://archive.org/details/anecdotesofpaint01walp_5",
+        "readAt": "https://archive.org/stream/anecdotesofpaint01walp_5/anecdotesofpaint01walp_5_djvu.txt",
+        "accessed": "2026-11-08",
+        "tier": 3
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}

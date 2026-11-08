@@ -1,0 +1,165 @@
+{
+  "id": "piranesi-tomb-of-nero",
+  "artist": "giovanni-battista-piranesi",
+  "title": "The Tomb of Nero",
+  "date": "1747–48",
+  "year": 1747,
+  "medium": "etching with engraving and drypoint",
+  "dimensions": "Image and Plate: 39.1 x 55.3 cm (15 3/8 x 21 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1974.255"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1974.255/1974.255_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1974.255/1974.255_print.jpg",
+    "width": 900,
+    "height": 652,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. Charles G. Prasse Collection"
+  },
+  "archive": {
+    "cma": 147901
+  },
+  "phase": {
+    "label": "The Grotteschi, c. 1747–48",
+    "source": {
+      "label": "Cleveland Museum of Art record: series Grotteschi, 1747–48",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/147901"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching with engraving and drypoint",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/147901"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: etching with engraving and drypoint",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/147901"
+      }
+    },
+    {
+      "id": "capriccio",
+      "source": {
+        "label": "Hind: “the architectural medleys (Groteschi) which were published in 1750 in the volume entitled Opere Varie”",
+        "url": "https://archive.org/details/giovannibattist00hinduoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "An ancient tomb, teeming with slithering snakes and overgrown vegetation, conjures the ruins of a strange and distant past in this print. The more lightly etched background appears faint against the jumble of darker lines in the foreground, as if the whole scene is slowly fading into the mist of time.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Tomb of Nero",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147901",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Popularly associated with the Emperor Nero in the 1700s, the monument the artist depicted has since been identified as the tomb of P. Vibius Maranus.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Tomb of Nero",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147901",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Another set of original designs which appeared in the Opere Varie, the four large oblong plates, architectural medleys, called Groteschi on the title-page, are more influenced by Tiepolo than anything else in Piranesi's work. Their technical inspirer is Tiepolo, and in their romantic flavour there is much of the spirit of Salvator Rosa.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "14"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Throughout his architectural and topographical work Piranesi never loses sight of humanity, and it is a humanity that moves with a fantastic energy, showing him as the natural successor of Callot and Salvator Rosa, and the forerunner of Meryon and his haunted Paris.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "Giovanni Battista Piranesi: A Critical Study",
+          "publisher": "The Cotswold Gallery (Internet Archive scan)",
+          "year": "1922",
+          "url": "https://archive.org/details/giovannibattist00hinduoft",
+          "readAt": "https://archive.org/stream/giovannibattist00hinduoft/giovannibattist00hinduoft_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "14"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Although the composition might seem to be one of pure imagination, the tomb it depicts was based on a real monument the artist had observed near Rome. Fascinated by classical antiquity, Giovanni Battista Piranesi evoked his own experience of seeing ruins, which he felt could not be conveyed by a more realistic portrayal.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Tomb of Nero",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147901",
+          "accessed": "2026-11-08",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Under such mental distress were imagined the Carceri designs, and those sketches of ruins wherein grotesque impossibility was blended with reality.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "114"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The very shattered columns he drew, bound and twisted around with creepers, writhe almost in human agony.",
+        "source": {
+          "author": "Arthur M. Samuel",
+          "title": "Piranesi",
+          "publisher": "B. T. Batsford (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/piranesi00samu",
+          "readAt": "https://archive.org/stream/piranesi00samu/piranesi00samu_djvu.txt",
+          "accessed": "2026-11-08",
+          "tier": 2,
+          "page": "114"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-08",
+    "by": "claude-routine"
+  }
+}
