@@ -1,0 +1,36 @@
+{
+  "id": "relief-etching",
+  "kind": "technique",
+  "name": "Relief etching",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In 1788, aged 31, Blake invented the method of relief etching, a method he used to produce most of his subsequent books, paintings, pamphlets and poems. Relief etching, or illuminated printing, reverse engineers the medieval division of labor into scribes and illustrators.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "William Blake",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/William_Blake",
+        "accessed": "2026-11-09",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It consisted in a species of engraving in relief both words and designs. The verse was written and the designs and marginal embellishments outlined on the copper with an impervious liquid, probably the ordinary stopping-out varnish of engravers.",
+      "source": {
+        "author": "Alexander Gilchrist",
+        "title": "Life of William Blake",
+        "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+        "year": "1863; ed. 1907",
+        "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+        "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+        "accessed": "2026-11-09",
+        "tier": 2,
+        "license": "Public domain"
+      }
+    }
+  ],
+  "archiveTerm": "relief etching"
+}

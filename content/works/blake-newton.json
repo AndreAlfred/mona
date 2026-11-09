@@ -1,0 +1,151 @@
+{
+  "id": "blake-newton",
+  "artist": "william-blake",
+  "title": "Newton",
+  "date": "1795",
+  "year": 1795,
+  "dimensions": "460 × 600 mm",
+  "museum": {
+    "name": "Tate (N05058)",
+    "url": "https://www.wikidata.org/wiki/Q1996494"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Newton-WilliamBlake.jpg/1280px-Newton-WilliamBlake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Newton-WilliamBlake.jpg/2560px-Newton-WilliamBlake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 923,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Newton-WilliamBlake.jpg)"
+  },
+  "archive": {
+    "wd": "Q1996494"
+  },
+  "phase": {
+    "label": "The Large Colour Prints, 1795–c. 1805",
+    "source": {
+      "label": "Wikipedia: one of the 12 “Large Colour Prints” created between 1795 and 1805",
+      "url": "https://en.wikipedia.org/wiki/Newton_(Blake)"
+    }
+  },
+  "tags": [
+    {
+      "id": "monotype",
+      "source": {
+        "label": "Wikipedia: “Newton is a monotype”",
+        "url": "https://en.wikipedia.org/wiki/Newton_(Blake)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "By the accidental reticulations of the colour on the oily surface of the paper (often leaving tracery like the patterns of frost upon a window pane) strange and beautiful effects were produced of which Blake took full advantage, shaping them into the mysterious rock-flowers of “Newton” or the mosses of “Pity,”",
+          "source": {
+            "author": "W. Graham Robertson",
+            "title": "The Colour Prints, in Gilchrist’s Life of William Blake (1907 edition)",
+            "publisher": "John Lane, London (Internet Archive scan)",
+            "year": "1907",
+            "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+            "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+            "accessed": "2026-11-09",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Robertson: each colour print “worked over and finished by hand in water-colour”",
+        "url": "https://archive.org/details/lifeofwilliambla00gilcuoft"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: Blake’s opposition to the Enlightenment, embodied in Newton",
+        "url": "https://en.wikipedia.org/wiki/Newton_(Blake)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Newton is a monotype by the English poet, painter and printmaker William Blake first completed in 1795, but reworked and reprinted in 1805. It is one of the 12 \"Large Colour Prints\" or \"Large Colour Printed Drawings\" created between 1795 and 1805",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Newton (Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Newton_(Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Delicate fibrous growths of moss and lichen, strange many-petalled flowers, stains of metal and damp upon grey rock surfaces are wrought with a minuteness beyond the reach of the most ardent Pre-Raphaelite",
+        "lead": "W. Graham Robertson, Blake’s 1907 editor, looking closely:",
+        "source": {
+          "author": "W. Graham Robertson",
+          "title": "The Colour Prints, in Gilchrist’s Life of William Blake (1907 edition)",
+          "publisher": "John Lane, London (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Newton's theory of optics was especially offensive to Blake, who made a clear distinction between the vision of the \"vegetative eye\" and spiritual vision.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Newton (Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Newton_(Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Newton was incorporated into Blake's infernal trinity along with the philosophers Francis Bacon and John Locke.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Newton (Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Newton_(Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "'Tis fourfold in my supreme delight, / And threefold in soft Beulah's night, / And twofold Always. May God us keep / From Single vision, & Newton's sleep!",
+        "lead": "Blake, in verse sent to his patron Thomas Butts:",
+        "source": {
+          "author": "William Blake",
+          "title": "Letter to Thomas Butts, 22 November 1802",
+          "publisher": "The Letters of William Blake, ed. Archibald G. B. Russell (Methuen, 1906; Internet Archive scan)",
+          "year": "1906",
+          "url": "https://archive.org/details/letterswilliamb00tathgoog",
+          "readAt": "https://archive.org/stream/letterswilliamb00tathgoog/letterswilliamb00tathgoog_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

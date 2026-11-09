@@ -1,0 +1,147 @@
+{
+  "id": "blake-nebuchadnezzar",
+  "artist": "william-blake",
+  "title": "Nebuchadnezzar",
+  "date": "1795",
+  "year": 1795,
+  "museum": {
+    "name": "Tate (N05059)",
+    "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Nebuchadnezzar_(Tate_Britain).jpg"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/William_Blake_-_Nebuchadnezzar_%28Tate_Britain%29.jpg/1280px-William_Blake_-_Nebuchadnezzar_%28Tate_Britain%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 859,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (William Blake - Nebuchadnezzar (Tate Britain).jpg)"
+  },
+  "archive": {
+    "wd": "Q16998596"
+  },
+  "phase": {
+    "label": "The Large Colour Prints, 1795–c. 1805",
+    "source": {
+      "label": "Wikipedia: one of the 12 “Large Colour Prints” created between 1795 and 1805",
+      "url": "https://en.wikipedia.org/wiki/Newton_(Blake)"
+    }
+  },
+  "tags": [
+    {
+      "id": "monotype",
+      "source": {
+        "label": "Wikipedia: “a colour monotype print with additions in ink and watercolour”",
+        "url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_(Blake)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "These were painted on millboard, after which the board was put through Blake's printing-press with a sheet of dampened paper to make the prints. After they were printed, Blake and his wife Catherine added ink and watercolour to the impressions.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Nebuchadnezzar (Blake)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Nebuchadnezzar_(Blake)",
+            "accessed": "2026-11-09",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Wikipedia: ink and watercolour added to each impression",
+        "url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_(Blake)"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: Blake, a seminal figure of the Romantic Age",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In “Nebuchadnezzar” we see the mad king crawling like a hunted beast into a den among the rocks … The powerful frame is losing semblance of humanity, and is bestial in its rough growth of hair, reptile in the toad-like markings and spottings of the skin, which takes on unnatural hues of green, blue, and russet.",
+        "source": {
+          "author": "W. Graham Robertson",
+          "title": "The Colour Prints, in Gilchrist’s Life of William Blake (1907 edition)",
+          "publisher": "John Lane, London (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nebuchadnezzar was adapted from an earlier print in Blake's The Marriage of Heaven and Hell.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nebuchadnezzar (Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nebuchadnezzar_(Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Kenneth Clark identified the earlier image as a book illustration of a werewolf by Lucas Cranach the Elder, although a closer similarity is the small figure of the saint in Albrecht Dürer's 1496 engraving The Penance of St. John Chrysostom.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nebuchadnezzar (Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nebuchadnezzar_(Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Taken from the Book of Daniel, the legend of Nebuchadnezzar tells of a ruler who through hubris lost his mind and was reduced to animalistic madness and eating \"grass as oxen\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nebuchadnezzar (Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nebuchadnezzar_(Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One law for the lion and ox is Oppression.",
+        "lead": "From The Marriage of Heaven and Hell, the book in which Blake first drew the crawling king:",
+        "source": {
+          "author": "William Blake",
+          "title": "The Marriage of Heaven and Hell",
+          "publisher": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/45315",
+          "readAt": "https://www.gutenberg.org/cache/epub/45315/pg45315.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain",
+          "year": "c. 1790–93"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}
