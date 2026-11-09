@@ -1,0 +1,136 @@
+{
+  "id": "sesshu-landscape-ohara",
+  "artist": "sesshu-toyo",
+  "title": "Landscape by Sesshū",
+  "date": "1506",
+  "year": 1506,
+  "museum": {
+    "name": "Ken'ichirō Ōhara",
+    "url": "https://www.wikidata.org/wiki/Q20982997"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Landscape_by_Sesshu_%28Ohara%29.jpg/1280px-Landscape_by_Sesshu_%28Ohara%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 4128,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Landscape by Sesshu (Ohara).jpg)"
+  },
+  "archive": {
+    "wd": "Q20982997"
+  },
+  "phase": {
+    "label": "Final works, c. 1506",
+    "source": {
+      "label": "Wikipedia: “the landscape is thought to be one of the artist's final works”",
+      "url": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: an ink wash landscape (山水図)",
+        "url": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: “The hanging scroll has been designated a National Treasure”",
+        "url": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: ink and light colour on paper",
+        "url": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB"
+      }
+    },
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Wikipedia: painting with two poetic inscriptions (gasan) by friends of the painter",
+        "url": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Landscape by Sesshū is one of the most securely authenticated works of the Japanese Muromachi period artist Sesshū (1420–1506).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Landscape by Sesshū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The vertical accent of two pine trees takes the place of a central mountain peak, while the distant shore has a \"modern\" horizon line unusual for the period.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Landscape by Sesshū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Journeying along the path are an old wanderer accompanied by a young attendant, recurrent figures in Sesshū's landscapes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Landscape by Sesshū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "To the left are Sesshū's signature and seal, while above are two poetic inscriptions or gasan (画賛), by friends of the painter.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Landscape by Sesshū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Poetry and painting inspire pleasant feelings, but where do men live for long? … Bokushō has left his poem, Sesshū too has passed away, their loss disturbs the landscape and my dreams.",
+        "lead": "Ryōan Keigo’s inscription, written in 1507, the year after Sesshū died:",
+        "source": {
+          "author": "Ryōan Keigo",
+          "title": "Inscription on Landscape by Sesshū, 1507",
+          "publisher": "translated in Wikipedia, “Landscape by Sesshū”",
+          "readAt": "https://en.wikipedia.org/wiki/Landscape_by_Sessh%C5%AB",
+          "accessed": "2026-11-09",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "sesshu-splashed-ink-landscape-cleveland",
+  "artist": "sesshu-toyo",
+  "title": "Haboku, Splashed Ink Landscape",
+  "date": "1400s–early 1500s",
+  "year": 1440,
+  "medium": "hanging scroll; ink on paper",
+  "dimensions": "Painting only: 71.9 x 26.7 cm (28 5/16 x 10 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1955.43"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sessh%C5%AB_T%C5%8Dy%C5%8D_-_Haboku%2C_Splashed_Ink_Landscape_-_1955.43_-_Cleveland_Museum_of_Art.tiff/lossy-page1-1280px-Sessh%C5%AB_T%C5%8Dy%C5%8D_-_Haboku%2C_Splashed_Ink_Landscape_-_1955.43_-_Cleveland_Museum_of_Art.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 3190,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sesshū Tōyō - Haboku, Splashed Ink Landscape - 1955.43 - Cleveland Museum of Art.tiff)"
+  },
+  "archive": {
+    "cma": 133000,
+    "wd": "Q60516926"
+  },
+  "phase": {
+    "label": "Undated; the splashed-ink manner of his later years",
+    "ai": true
+  },
+  "tags": [
+    {
+      "id": "haboku",
+      "source": {
+        "label": "Cleveland Museum of Art record: “Haboku, Splashed Ink Landscape”",
+        "url": "https://clevelandart.org/art/1955.43"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art record: hanging scroll; ink on paper",
+        "url": "https://clevelandart.org/art/1955.43"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: hanging scroll; ink on paper",
+        "url": "https://clevelandart.org/art/1955.43"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Some of his roughest works are executed in hardly more than two strokes.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. 2",
+          "publisher": "William Heinemann, London (Internet Archive scan)",
+          "year": "1912 (1921 reprint)",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Japan, these styles of painting were spread by the Japanese painter Sesshū Tōyō. Later, the Kano school of painting also made many paintings in this style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Haboku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Haboku",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "During the Song dynasty, some landscapes of Mu Qi's paintings on the Xiao and Xiang rivers exhibit many of its characteristics, and were highly praised in Japan.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Haboku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Haboku",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Thus a great work by Sesshu or Sesson is not a [depictment] of nature, but an essay on nature ; to them there is neither high nor low, neither noble nor refined.",
+        "source": {
+          "author": "Kakuzō Okakura",
+          "title": "The Ideals of the East, with Special Reference to the Art of Japan",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1903 (1920 edition)",
+          "url": "https://archive.org/details/idealsofeastwith1920okak",
+          "readAt": "https://archive.org/stream/idealsofeastwith1920okak/idealsofeastwith1920okak_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Each stroke has its moment of life and death ; all together assist to interpret an idea, which is life within life.",
+        "source": {
+          "author": "Kakuzō Okakura",
+          "title": "The Ideals of the East, with Special Reference to the Art of Japan",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1903 (1920 edition)",
+          "url": "https://archive.org/details/idealsofeastwith1920okak",
+          "readAt": "https://archive.org/stream/idealsofeastwith1920okak/idealsofeastwith1920okak_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}
