@@ -1,0 +1,163 @@
+{
+  "id": "sesshu-winter-landscape",
+  "artist": "sesshu-toyo",
+  "title": "Winter Landscape",
+  "date": "c. 1470",
+  "year": 1470,
+  "museum": {
+    "name": "Tokyo National Museum",
+    "url": "https://www.wikidata.org/wiki/Q102832336"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/SesshuShuutouTou.jpg/1280px-SesshuShuutouTou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/SesshuShuutouTou.jpg/2560px-SesshuShuutouTou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1861,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (SesshuShuutouTou.jpg)"
+  },
+  "archive": {
+    "wd": "Q102832336"
+  },
+  "phase": {
+    "label": "After the return from China, c. 1470s",
+    "source": {
+      "label": "Wikipedia: “Following his sojourn in China, Sesshū painted Winter Landscape (c. 1470s)”",
+      "url": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Sesshū solely used black sumi ink diluted to shades of grey”",
+        "url": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Throughout the composition, Sesshū uses the shumpo technique, varying the firmness and thickness of outlines to depict three-dimensionality and textures.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Sesshū Tōyō",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D",
+            "accessed": "2026-11-09",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia, National Treasures list: Landscapes of autumn and winter, two hanging scrolls, ink on paper",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: flat, overlapping mountains depict the snowy landscape",
+        "url": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Overall, Winter Landscape represents Sesshū's stylistic choices and implementation of Zen Buddhist concepts, notably drawing on Chinese landscapes that symbolised a virtuous man’s dedication to remaining honourable during strenuous moments.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sesshū Tōyō",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Sesshu is the greatest master of straight line and angle in the whole range of the world's art. There is no landscape so soft that he cannot, if he wills, translate it into terms of oaken wedges split with an axe !",
+        "lead": "Ernest Fenollosa, on Sesshū’s line:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. 2",
+          "publisher": "William Heinemann, London (Internet Archive scan)",
+          "year": "1912 (1921 reprint)",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This exchange led to the creation of Muromachi ink painting which often included Chinese themes, Chinese ink-washing techniques, fluid descriptive lines, dry brushes, and almost invisible facial features.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Muromachi period",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Muromachi_period",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Face to face with his paintings, we learn the security and calm which no other artist ever gives.",
+        "lead": "Okakura Kakuzō, on Sesshū and the Zen mind:",
+        "source": {
+          "author": "Kakuzō Okakura",
+          "title": "The Ideals of the East, with Special Reference to the Art of Japan",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1903 (1920 edition)",
+          "url": "https://archive.org/details/idealsofeastwith1920okak",
+          "readAt": "https://archive.org/stream/idealsofeastwith1920okak/idealsofeastwith1920okak_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Through short, expressive brushstrokes, Sesshū depicts a male figure trekking up a steeped pathway to a barren temple complex, suggesting the arduousness of his journey during the peak of winter.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sesshū Tōyō",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The background features a single, strong, lightning-like brushstroke that outlines the central cliffs as the tip vanishes into the mist, suggesting transitory moments in time, as believed in Zen Buddhism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sesshū Tōyō",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

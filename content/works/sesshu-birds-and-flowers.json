@@ -1,0 +1,143 @@
+{
+  "id": "sesshu-birds-and-flowers",
+  "artist": "sesshu-toyo",
+  "title": "Birds and Flowers",
+  "date": "mid-1400s-early 1500s",
+  "year": 1440,
+  "medium": "Two hanging scrolls from a triptych; ink and color on silk",
+  "dimensions": "Overall: 117 x 58 cm (46 1/16 x 22 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1964.157"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Sessh%C5%AB_T%C5%8Dy%C5%8D_-_Birds_and_Flowers_-_1964.157_-_Cleveland_Museum_of_Art.tif/lossy-page1-1280px-Sessh%C5%AB_T%C5%8Dy%C5%8D_-_Birds_and_Flowers_-_1964.157_-_Cleveland_Museum_of_Art.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Sessh%C5%AB_T%C5%8Dy%C5%8D_-_Birds_and_Flowers_-_1964.157_-_Cleveland_Museum_of_Art.tif/lossy-page1-1280px-Sessh%C5%AB_T%C5%8Dy%C5%8D_-_Birds_and_Flowers_-_1964.157_-_Cleveland_Museum_of_Art.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 928,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sesshū Tōyō - Birds and Flowers - 1964.157 - Cleveland Museum of Art.tif)"
+  },
+  "archive": {
+    "cma": 140156,
+    "wd": "Q60469143"
+  },
+  "phase": {
+    "label": "Attributed; date uncertain (mid-1400s–early 1500s)",
+    "source": {
+      "label": "Cleveland Museum of Art record: attributed to Sesshū Tōyō, mid-1400s–early 1500s",
+      "url": "https://clevelandart.org/art/1964.157"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: Birds and Flowers",
+        "url": "https://clevelandart.org/art/1964.157"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This genre had heretofore been relegated to hanging scroll compositions … when in all likelihood Sesshū introduced it into the Japanese painting repertoire.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Follower of Sesshū, Birds and Flowers in a Landscape of the Four Seasons (collection description)",
+            "publisher": "Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136666",
+            "accessed": "2026-11-09",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art record: two hanging scrolls from a triptych; ink and color on silk",
+        "url": "https://clevelandart.org/art/1964.157"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "These two paintings are possibly by Sesshū Tōyō. They once flanked a central scroll with an ink landscape. The unbalanced nature of the compositions, however, suggests they may be images recycled from larger paintings.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Birds and Flowers (collection description)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/140156",
+          "accessed": "2026-11-09",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Sesshū paints assertive rock contours and textures using a wet brush with splitting hairs. This brings a scratchy, rough texture to give the rocks a sense of solidity and tangibility.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sesshū Tōyō",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "the lovely mirrors of the human soul to be found in feathered and furry life, great storks stepping like lords through their gardens of wild plum, timid herons hiding under the lotus of the church from predatory hawks",
+        "lead": "Fenollosa, on the range of Sesshū’s subjects:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. 2",
+          "publisher": "William Heinemann, London (Internet Archive scan)",
+          "year": "1912 (1921 reprint)",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The influences of Sesshū's studies in China are reflected in two famous hanging scrolls of seasonal landscape paintings of birds and flowers, painted in ink and colour on silk, in the Perry Collection.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sesshū Tōyō",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The one with sweet osmanthus and hibiscus is an autumn scene, the other is a summer scene with daylilies and gardenias. Folding screens often contrast two seasons or depict all four across a single pair of screens. Sesshū’s works were sufficiently prized that repurposing them in fragmentary form to display in an alcove of a luxurious room would not be an unusual choice.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Birds and Flowers (collection description)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/140156",
+          "accessed": "2026-11-09",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "blake-ghost-of-a-flea",
+  "artist": "william-blake",
+  "title": "The Ghost of a Flea",
+  "date": "1819",
+  "year": 1819,
+  "medium": "tempera, gold on panel",
+  "dimensions": "16.2 × 21.4 cm",
+  "museum": {
+    "name": "Tate (N05889)",
+    "url": "http://www.tate.org.uk/art/artworks/blake-the-ghost-of-a-flea-n05889"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/William_Blake_-_The_Ghost_of_a_Flea_-_Google_Art_Project.jpg/1280px-William_Blake_-_The_Ghost_of_a_Flea_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1638,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (William Blake - The Ghost of a Flea - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q7736333"
+  },
+  "phase": {
+    "label": "John Varley and the Visionary Heads, 1818–20",
+    "source": {
+      "label": "Gilchrist, ch. XXVIII “John Varley and the Visionary Heads. 1818–20”",
+      "url": "https://archive.org/details/lifeofwilliambla00gilcuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “executed in a tempera mixture with gold, on a mahogany-type tropical hardwood panel”",
+        "url": "https://en.wikipedia.org/wiki/The_Ghost_of_a_Flea"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The painting was created using Blake's distinctive tempera technique, which he describes in the lower right of the panel, beneath the shell gold signature, as \"fresco\".",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Ghost of a Flea",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Ghost_of_a_Flea",
+            "accessed": "2026-11-09",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: fantastic, spiritual art popular in Britain c. 1770–1830",
+        "url": "https://en.wikipedia.org/wiki/The_Ghost_of_a_Flea"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is especially exemplified in one which is the most curious of all these Visionary Heads, and which has also been the most talked of, viz. the Ghost of a Flea",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake",
+          "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+          "year": "1863; ed. 1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although Ghost of a Flea is one of Blake's smallest works, it is monumental in its imagination. Its tiny scale achieves drama in contrasting the muscular bulk and apparent power of the creature against its incarnation in the panel as an insect.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ghost of a Flea",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ghost_of_a_Flea",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Fantastic, spiritual art was popular in Britain from around 1770 to 1830, and during this time Blake often worked on unearthly, supernatural panels to amuse and amaze his friends.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ghost of a Flea",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ghost_of_a_Flea",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The art historian Hope Werness suggested that The Flea may be inspired by a 1665 work by early microscopist Robert Hooke (1635–1703), whose Micrographia includes a drawing of a flea microscopically observed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ghost of a Flea",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ghost_of_a_Flea",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The two would often gather late at night in Varley's house, and played a game in which Varley would attempt to summon the spirit of a historical or mythological person.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ghost of a Flea",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ghost_of_a_Flea",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I asked him if he could draw for me the resemblance of what he saw. He instantly said, \"I see him now before me.\" … During the time occupied in completing the drawing, the Flea told him that all fleas were inhabited by the souls of such men as were by nature blood-thirsty to excess",
+        "lead": "John Varley, the astrologer-painter who sat with Blake:",
+        "source": {
+          "author": "John Varley",
+          "title": "A Treatise on Zodiacal Physiognomy (1828), quoted in Gilchrist’s Life of William Blake",
+          "publisher": "John Lane, 1907 (Internet Archive scan)",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

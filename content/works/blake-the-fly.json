@@ -1,0 +1,164 @@
+{
+  "id": "blake-the-fly",
+  "artist": "william-blake",
+  "title": "The Fly",
+  "date": "c. 1794",
+  "year": 1794,
+  "museum": {
+    "name": "Yale Center for British Art (B1978.43.1579), Songs of Innocence and of Experience, copy F",
+    "url": "https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience_copy_F_object_48_THE_FLY_1794.jpg"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Songs_of_Innocence_and_of_Experience_copy_F_object_48_THE_FLY_1794.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1893,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Songs of Innocence and of Experience copy F object 48 THE FLY 1794.jpg)"
+  },
+  "archive": {
+    "wd": "Q7734564"
+  },
+  "phase": {
+    "label": "Lambeth: the illuminated books, 1790s",
+    "source": {
+      "label": "Gilchrist: Blake’s 1793 prospectus from No. 13, Hercules Buildings, Lambeth, offering the Songs and prophecies “in Illuminated Printing”",
+      "url": "https://archive.org/details/lifeofwilliambla00gilcuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "relief-etching",
+      "source": {
+        "label": "Wikipedia: Blake made a relief-etched copper plate for each page of the Songs, then painted each print",
+        "url": "https://en.wikipedia.org/wiki/Songs_of_Innocence_and_of_Experience"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In a vision of the night, the form of Robert stood before him, and revealed the wished-for secret, directing him to the technical mode by which could be produced a fac-simile of song and design.",
+          "lead": "Gilchrist on how Blake said the method came to him, from his dead brother:",
+          "source": {
+            "author": "Alexander Gilchrist",
+            "title": "Life of William Blake",
+            "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+            "year": "1863; ed. 1907",
+            "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+            "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+            "accessed": "2026-11-09",
+            "tier": 2,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Wikipedia: each page painted after printing in media including watercolour",
+        "url": "https://en.wikipedia.org/wiki/Songs_of_Innocence_and_of_Experience"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: Blake’s view of childhood in the Songs “would soon become a hallmark of Romanticism”",
+        "url": "https://en.wikipedia.org/wiki/Songs_of_Innocence_and_of_Experience"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Blake printed the poem with the text set in the branches of trees, an image of a nurse and a toddler in the foreground, and a girl with a racket about to hit a shuttlecock in the background.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Fly (poem)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Fly_(poem)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Of the prevailing difference of sentiment between these poems and the Songs of Innocence, may be singled out as examples The Clod and the Pebble, and even so slight a piece as The Fly",
+        "lead": "Gilchrist on the Songs of Experience:",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake",
+          "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+          "year": "1863; ed. 1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was only in 1794 that Blake combined the two sets of poems into a volume titled Songs of Innocence and of Experience Shewing the Two Contrary States of the Human Soul.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Songs of Innocence and of Experience",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Songs_of_Innocence_and_of_Experience",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Blake was heavily inspired by children's literature and juvenile education in his creation of Songs of Innocence and of Experience, and his analysis of childhood as a state of protected innocence rather than original sin, but not immune to the fallen world and its institutions, would soon become a hallmark of Romanticism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Songs of Innocence and of Experience",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Songs_of_Innocence_and_of_Experience",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Little Fly, / Thy summer’s play / My thoughtless hand / Has brushed away. / Am not I / A fly like thee? / Or art not thou / A man like me?",
+        "source": {
+          "author": "William Blake",
+          "title": "The Fly, in Songs of Experience",
+          "publisher": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/1934",
+          "readAt": "https://www.gutenberg.org/cache/epub/1934/pg1934.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain",
+          "year": "1794"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The poem catches the narrator in an act of thoughtlessness that leads to the contemplation of the act and its implications.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Fly (poem)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Fly_(poem)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

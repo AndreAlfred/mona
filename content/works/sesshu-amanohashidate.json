@@ -1,0 +1,124 @@
+{
+  "id": "sesshu-amanohashidate",
+  "artist": "sesshu-toyo",
+  "title": "View of Amanohashidate",
+  "date": "1503",
+  "year": 1503,
+  "dimensions": "90 × 178.2 cm",
+  "museum": {
+    "name": "Kyoto National Museum (A甲228)",
+    "url": "https://www.wikidata.org/wiki/Q107046887"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sesshu_-_View_of_Ama-no-Hashidate.jpg/1280px-Sesshu_-_View_of_Ama-no-Hashidate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sesshu_-_View_of_Ama-no-Hashidate.jpg/2560px-Sesshu_-_View_of_Ama-no-Hashidate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 634,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sesshu - View of Ama-no-Hashidate.jpg)"
+  },
+  "archive": {
+    "wd": "Q107046887"
+  },
+  "phase": {
+    "label": "Last years, c. 1501–06",
+    "source": {
+      "label": "Wikipedia, National Treasures list: View of Amanohashidate, Muromachi period, 1501–1506",
+      "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia, National Treasures list: “Hanging scroll, ink and light color on paper”",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia, National Treasures list: “Hanging scroll, ink and light color on paper”",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia, National Treasures list: hanging scroll landscape",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "these qualities were enhanced by evidences of local study that are seldom perceptible in the works of his successors.",
+        "lead": "William Anderson, on Sesshū’s landscapes:",
+        "source": {
+          "author": "William Anderson",
+          "title": "The Pictorial Arts of Japan",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1886",
+          "url": "https://archive.org/details/pictorialartsofj00ande",
+          "readAt": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "A late departure: instead of an imagined Chinese mountainscape, Sesshū mapped a real Japanese place from above — the pine-covered sandbar of Amanohashidate, with its shrines, temples and villages."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Despite the initial creative restrictions, Japanese Zen ink painting soon achieved poetic and indigenous expression as elements were rearranged in a Japanese manner, and brushstrokes became gentle, fluid and more impulsive.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Muromachi period",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Muromachi_period",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Amanohashidate … is one of Japan's three scenic views. It is a sandbar located in Miyazu Bay in northern Kyoto Prefecture.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Amanohashidate",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Amanohashidate",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On the right, torii of Kono Shrine is seen. And on extreme right, Kanmurijima and Kutsujima are also painted.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Amanohashidate",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Amanohashidate",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

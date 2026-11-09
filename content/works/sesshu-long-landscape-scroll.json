@@ -1,0 +1,127 @@
+{
+  "id": "sesshu-long-landscape-scroll",
+  "artist": "sesshu-toyo",
+  "title": "Landscape of the Four Seasons",
+  "date": "1486",
+  "year": 1486,
+  "museum": {
+    "name": "Mōri Museum",
+    "url": "https://www.wikidata.org/wiki/Q42192051"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Landscapes_of_the_Four_Seasons_by_Sesshu_%28Mori_Museum%29.jpg/1280px-Landscapes_of_the_Four_Seasons_by_Sesshu_%28Mori_Museum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Landscapes_of_the_Four_Seasons_by_Sesshu_%28Mori_Museum%29.jpg/2560px-Landscapes_of_the_Four_Seasons_by_Sesshu_%28Mori_Museum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 32,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Landscapes of the Four Seasons by Sesshu (Mori Museum).jpg)"
+  },
+  "archive": {
+    "wd": "Q42192051"
+  },
+  "phase": {
+    "label": "Mature years after China, 1486",
+    "source": {
+      "label": "Wikipedia, National Treasures list: Landscapes of the Four Seasons, handscroll, 1486, Mōri Museum",
+      "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+    }
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Wikipedia, National Treasures list: “Hand scroll, ink and light color on paper”",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In landscape Sesshu's finest remains are on screens, or in the form of panoramic rolls of Chinese scenery. The finest of these latter are in the great collection of Prince Mori of Choshu, by whom I was allowed to photograph them.",
+          "source": {
+            "author": "Ernest F. Fenollosa",
+            "title": "Epochs of Chinese and Japanese Art, vol. 2",
+            "publisher": "William Heinemann, London (Internet Archive scan)",
+            "year": "1912 (1921 reprint)",
+            "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+            "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+            "accessed": "2026-11-09",
+            "tier": 2,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Fenollosa: panoramic rolls of Chinese scenery",
+        "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia, National Treasures list: ink and light color on paper",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His strokes are sudden, strong, and vehement, he seems careless of [modulating] them : and yet how magically all falls into place — the masts of the fishing-vessels beyond the rocks, the clumps of trees, the towering promontories !",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/paintinginfarea00biny",
+          "readAt": "https://archive.org/stream/paintinginfarea00biny/paintinginfarea00biny_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Despite his assertion that the scenery of nature was his final teacher, the principles of his art were identical in all essential points with those of the Chinese ; but in landscape painting the fire of his genius was too intense to be concealed by the veil of conventionality.",
+        "source": {
+          "author": "William Anderson",
+          "title": "The Pictorial Arts of Japan",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1886",
+          "url": "https://archive.org/details/pictorialartsofj00ande",
+          "readAt": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He brought back vast panoramas which record the continuity of coast scene, with inlet, island, junk, and castled town ; the jagged steps of inland ranges, which stop in their dizzy climb to gaze at themselves in silver lakes",
+        "lead": "Fenollosa, on what Sesshū carried home from China:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. 2",
+          "publisher": "William Heinemann, London (Internet Archive scan)",
+          "year": "1912 (1921 reprint)",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

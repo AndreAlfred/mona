@@ -1,0 +1,34 @@
+{
+  "id": "monotype",
+  "kind": "technique",
+  "name": "Monotype",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Monotyping is a type of printmaking made by drawing or painting on a smooth, non-absorbent surface.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Monotyping",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Monotyping",
+        "accessed": "2026-11-09",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Monotyping produces a unique print, or monotype; most of the ink is removed during the initial pressing.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Monotyping",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Monotyping",
+        "accessed": "2026-11-09",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "monotype"
+}

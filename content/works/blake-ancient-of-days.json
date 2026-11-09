@@ -1,0 +1,134 @@
+{
+  "id": "blake-ancient-of-days",
+  "artist": "william-blake",
+  "title": "The Ancient of Days",
+  "date": "1794",
+  "year": 1794,
+  "medium": "ink on paper",
+  "dimensions": "23.3 × 16.8 cm",
+  "museum": {
+    "name": "Fitzwilliam Museum, Cambridge (Europe a Prophecy, copy K, frontispiece)",
+    "url": "https://commons.wikimedia.org/wiki/File:Europe_a_Prophecy_copy_K_plate_01.jpg"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Europe_a_Prophecy_copy_K_plate_01.jpg/1280px-Europe_a_Prophecy_copy_K_plate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1626,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Europe a Prophecy copy K plate 01.jpg)"
+  },
+  "archive": {
+    "wd": "Q2324840"
+  },
+  "phase": {
+    "label": "Lambeth: the illuminated books, 1790s",
+    "source": {
+      "label": "Gilchrist: Blake’s 1793 prospectus from No. 13, Hercules Buildings, Lambeth, offering the Songs and prophecies “in Illuminated Printing”",
+      "url": "https://archive.org/details/lifeofwilliambla00gilcuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "relief-etching",
+      "source": {
+        "label": "Wikimedia Commons record: “Relief etching with hand coloring” (Europe a Prophecy, copy K)",
+        "url": "https://commons.wikimedia.org/wiki/File:Europe_a_Prophecy_copy_K_plate_01.jpg"
+      }
+    },
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Wikipedia: Blake hand-coloured each print, so each image has its own qualities",
+        "url": "https://en.wikipedia.org/wiki/The_Ancient_of_Days"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: movement, Romanticism",
+        "url": "https://en.wikipedia.org/wiki/The_Ancient_of_Days"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Ancient of Days is a design by William Blake, originally published as the frontispiece to the 1794 work Europe a Prophecy. It draws its name from one of God's titles in the Book of Daniel and shows Urizen",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ancient of Days",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ancient_of_Days",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The same concept of a crouching figure holding a compass was used by Blake in his Newton, completed the next year.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ancient of Days",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ancient_of_Days",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "an uncommonly fine specimen of art, and approaches almost to the sublimity of Raffaelle or Michel Angelo",
+        "lead": "An early admirer, writing two years after Blake’s death:",
+        "source": {
+          "author": "Richard Thompson",
+          "title": "in John Thomas Smith, Nollekens and His Times (1829)",
+          "publisher": "quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ancient_of_Days",
+          "accessed": "2026-11-09",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "a singular favourite with Blake and as one it was always a happiness to him to copy",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake (1863)",
+          "publisher": "quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ancient_of_Days",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Blake finished it to the utmost point, making it as beautiful in colour as already grand in design ; patiently working on it till within a few days of his death. … he threw it from him, and with an air of exulting triumph exclaimed, “There! that will do! I cannot mend it.”",
+        "lead": "Gilchrist on the copy Frederick Tatham commissioned in Blake’s last weeks:",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake",
+          "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+          "year": "1863; ed. 1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

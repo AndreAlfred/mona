@@ -1,0 +1,92 @@
+{
+  "id": "william-blake",
+  "name": "William Blake",
+  "born": 1757,
+  "died": 1827,
+  "active": "1780s–1827",
+  "nationality": "British",
+  "period": "romantic",
+  "movements": [
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: his paintings and poetry have been characterised as part of the Romantic movement",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "henry-fuseli",
+      "name": "Henry Fuseli",
+      "source": {
+        "label": "Wikipedia: Fuseli among the circle at Joseph Johnson’s house that Blake frequented",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    },
+    {
+      "id": "samuel-palmer",
+      "name": "Samuel Palmer",
+      "source": {
+        "label": "Wikipedia: through Linnell Blake met Samuel Palmer and the Shoreham Ancients",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    }
+  ],
+  "wikidata": "Q41513",
+  "archive": {
+    "cma": [
+      1257
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "William Blake (28 November 1757 – 12 August 1827) was an English poet, painter and printmaker. Largely unrecognised during his life, Blake has become a seminal figure in the history of the poetry and visual art of the Romantic Age.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "William Blake",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/William_Blake",
+        "accessed": "2026-11-09",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "I feel that a man may be happy in this world, and I know that this world is a world of imagination and vision. I see everything I paint in this world, but everybody does not see alike. … But to the eyes of the man of imagination, Nature is Imagination itself.",
+      "lead": "Blake, answering a clergyman who found his designs too fanciful:",
+      "source": {
+        "author": "William Blake",
+        "title": "Letter to the Rev. Dr Trusler, 23 August 1799",
+        "publisher": "The Letters of William Blake, ed. Archibald G. B. Russell (Methuen, 1906; Internet Archive scan)",
+        "year": "1906",
+        "url": "https://archive.org/details/letterswilliamb00tathgoog",
+        "readAt": "https://archive.org/stream/letterswilliamb00tathgoog/letterswilliamb00tathgoog_djvu.txt",
+        "accessed": "2026-11-09",
+        "tier": 1,
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Well might Flaxman exclaim, “Sir, his poems are as grand as his pictures.” … Blake himself thought his poems finer than his designs.",
+      "source": {
+        "author": "Alexander Gilchrist",
+        "title": "Life of William Blake",
+        "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+        "year": "1863; ed. 1907",
+        "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+        "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+        "accessed": "2026-11-09",
+        "tier": 2,
+        "license": "Public domain"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

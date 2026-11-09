@@ -1,0 +1,119 @@
+{
+  "id": "sesshu-huike-offering-his-arm",
+  "artist": "sesshu-toyo",
+  "title": "Huike Offering His Arm to Bodhidharma",
+  "date": "1496",
+  "year": 1496,
+  "medium": "ink on paper",
+  "dimensions": "199.9 × 113.6 cm",
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q85843025"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bodhidharma.and.Huike-Sesshu.Toyo.jpg/1280px-Bodhidharma.and.Huike-Sesshu.Toyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1941,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Bodhidharma.and.Huike-Sesshu.Toyo.jpg)"
+  },
+  "archive": {
+    "wd": "Q85843025"
+  },
+  "phase": {
+    "label": "Late years, 1496",
+    "source": {
+      "label": "Wikipedia, National Treasures list: Huike Offering His Arm to Bodhidharma, Muromachi period, 1496",
+      "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia, National Treasures list: “Hanging scroll, ink and light color on paper”",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia, National Treasures list: “Hanging scroll, ink and light color on paper”",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His range led him through every variety of Chinese subject : figures, religious, historical, symbolical, biographical",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. 2",
+          "publisher": "William Heinemann, London (Internet Archive scan)",
+          "year": "1912 (1921 reprint)",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "One of Sesshū’s few large figure paintings, made in 1496, ten years before his death: Bodhidharma sits in meditation facing a cave wall, while Huike, behind him, holds out his severed arm."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is content with [landscape], birds and flowers, adding only a few figures from religious history or legend, and these not as actors in any human drama, but as types of contemplation or spiritual desire.",
+        "lead": "Laurence Binyon, on Ashikaga ink painting:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/paintinginfarea00biny",
+          "readAt": "https://archive.org/stream/paintinginfarea00biny/paintinginfarea00biny_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Bodhidharma refused, saying, \"How can you hope for true religion with little virtue, little wisdom, a shallow heart, and an arrogant mind? It would just be a waste of effort.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Huike",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Huike",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Finally, to prove his resolve, Huike cut off his left arm and presented it to the First Patriarch as a token of his sincerity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Huike",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Huike",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

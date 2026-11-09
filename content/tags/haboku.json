@@ -1,0 +1,34 @@
+{
+  "id": "haboku",
+  "kind": "technique",
+  "name": "Haboku (splashed or broken ink)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Haboku (破墨) and Hatsuboku (溌墨) are both painting techniques employed in suiboku (ink-wash painting) in China and Japan, as seen in landscape paintings, involving an abstract simplification of forms and freedom of brushwork.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Haboku",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Haboku",
+        "accessed": "2026-11-09",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Generally, haboku relies on a layered contrast black, gray and white, whereas hatsuboku utilizes \"splashes\" of ink, without leaving clear contours or outlines.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Haboku",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Haboku",
+        "accessed": "2026-11-09",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "splashed ink"
+}

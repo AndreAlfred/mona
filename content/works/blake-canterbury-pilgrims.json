@@ -1,0 +1,133 @@
+{
+  "id": "blake-canterbury-pilgrims",
+  "artist": "william-blake",
+  "title": "The Canterbury Pilgrims",
+  "date": "1808",
+  "year": 1808,
+  "dimensions": "46.7 × 137 cm",
+  "museum": {
+    "name": "Pollok House, Glasgow",
+    "url": "https://www.wikidata.org/wiki/Q3791115"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/William_Blake_-_Canterbury_Pilgrims_Picture.jpg/1280px-William_Blake_-_Canterbury_Pilgrims_Picture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/William_Blake_-_Canterbury_Pilgrims_Picture.jpg/2560px-William_Blake_-_Canterbury_Pilgrims_Picture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 406,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (William Blake - Canterbury Pilgrims Picture.jpg)"
+  },
+  "archive": {
+    "wd": "Q3791115"
+  },
+  "phase": {
+    "label": "The 1809 exhibition and Descriptive Catalogue",
+    "source": {
+      "label": "Gilchrist, ch. XXV “Appeal to the Public. 1808–10”",
+      "url": "https://archive.org/details/lifeofwilliambla00gilcuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Gilchrist: Blake’s “fresco” of the Canterbury Pilgrimage — his name for his tempera technique",
+        "url": "https://archive.org/details/lifeofwilliambla00gilcuoft"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: Blake, a seminal figure of the Romantic Age",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Of Chaucer's characters, as described in his Canterbury Tales, some of the names or titles are altered by time, but the characters themselves for ever remain unaltered ; and consequently they are the physiognomies or lineaments of universal human life, beyond which Nature never steps.",
+        "lead": "Blake, in the catalogue of his 1809 exhibition:",
+        "source": {
+          "author": "William Blake",
+          "title": "A Descriptive Catalogue of Pictures (1809)",
+          "publisher": "reprinted in Gilchrist, Life of William Blake (John Lane, 1907; Internet Archive scan)",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "As Newton numbered the stars, and as Linnaeus numbered the plants, so Chaucer numbered the classes of men.",
+        "source": {
+          "author": "William Blake",
+          "title": "A Descriptive Catalogue of Pictures (1809)",
+          "publisher": "reprinted in Gilchrist, Life of William Blake (John Lane, 1907; Internet Archive scan)",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Designer proposes to engrave [it] in a correct and finished line manner of engraving, similar to those original copper-plates of Albert Durer, Lucas von Leyen, Aldegrave, and the old original engravers",
+        "source": {
+          "author": "William Blake",
+          "title": "Prospectus of the engraving of Chaucer’s Canterbury Pilgrims (1809)",
+          "publisher": "reprinted in Gilchrist, Life of William Blake (John Lane, 1907; Internet Archive scan)",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "That rare critic was delighted also with the Descriptive Catalogue. The analysis of the characters in the Prologue — the Knight, the Prioress, the Friar, &c. — he pronounced the finest criticism of Chaucer's poem he had ever read.",
+        "lead": "Gilchrist on Charles Lamb’s response:",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake",
+          "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+          "year": "1863; ed. 1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Thinking to take a leaf out of Cromek's book, Blake determined to show his work, and “shame the fools” who preferred Stothard … in May, Blake opened an Exhibition of his own, on the first floor of his brother the hosier's house, at the corner of Broad Street.",
+        "lead": "After the publisher Cromek promoted a rival Pilgrims by Thomas Stothard:",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake",
+          "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+          "year": "1863; ed. 1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

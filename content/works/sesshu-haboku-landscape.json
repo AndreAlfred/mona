@@ -1,0 +1,157 @@
+{
+  "id": "sesshu-haboku-landscape",
+  "artist": "sesshu-toyo",
+  "title": "Haboku sansui",
+  "date": "1495",
+  "year": 1495,
+  "medium": "ink on paper",
+  "dimensions": "148.6 × 32.7 cm",
+  "museum": {
+    "name": "Tokyo National Museum (A-282)",
+    "url": "https://www.wikidata.org/wiki/Q28418167"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Sesshu_-_Haboku-Sansui.jpg/1280px-Sesshu_-_Haboku-Sansui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Sesshu_-_Haboku-Sansui.jpg/2560px-Sesshu_-_Haboku-Sansui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1855,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sesshu - Haboku-Sansui.jpg)"
+  },
+  "archive": {
+    "wd": "Q28418167"
+  },
+  "phase": {
+    "label": "Late years, 1495",
+    "source": {
+      "label": "Wikipedia, National Treasures list: Landscape with ink broken (haboku sansuizu), Muromachi period, 1495",
+      "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+    }
+  },
+  "tags": [
+    {
+      "id": "haboku",
+      "source": {
+        "label": "Wikipedia, Haboku: “Splashed-ink Landscape (破墨山水, Haboku sansui) by Sesshū Tōyō, 1495”",
+        "url": "https://en.wikipedia.org/wiki/Haboku"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Generally, haboku relies on a layered contrast black, gray and white, whereas hatsuboku utilizes \"splashes\" of ink, without leaving clear contours or outlines.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Haboku",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Haboku",
+            "accessed": "2026-11-09",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia, National Treasures list: hanging scroll, splashed ink on paper",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia, National Treasures list: Landscape (shihon bokuga sansuizu)",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Wikipedia, National Treasures list: with inscriptions by the artist and six poet-monks",
+        "url": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Sōen, who famously received Sesshū’s 1495 Splashed-ink Landscape as a certificate of his success as a pupil, studied with the master in Suō, presentday Yamaguchi, after which he returned to his native province in the Kanto region.",
+        "lead": "The Cleveland Museum of Art, on Sesshū’s pupil Josui Sōen:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Josui Sōen, Chinese Literatus in an Autumn Landscape (collection description)",
+          "publisher": "Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/79576",
+          "accessed": "2026-11-09",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With inscriptions by the artist and six poet-monks from Gozan Zen temples in Kyoto",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "List of National Treasures of Japan (paintings)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(paintings)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Whenever he wanted to paint a picture, Wang Mo would first drink wine, and when he was sufficiently drunk, would splash the ink onto the painting surface.",
+        "lead": "The Tang-dynasty legend of the technique’s inventor, as told by Zhu Jingxuan:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Haboku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Haboku",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A Japanese zen monk, Sesshū Tōyō, traveled to china in 1468-1469 to study contemporary Ming painting and through his studies he created the Haboku style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Haboku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Haboku",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This is why even the rocks and trees of Sesshu strike you with a sort of unearthly force, as if more real than reality.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. 2",
+          "publisher": "William Heinemann, London (Internet Archive scan)",
+          "year": "1912 (1921 reprint)",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "blake-body-of-abel",
+  "artist": "william-blake",
+  "title": "The Body of Abel Found by Adam and Eve",
+  "date": "c. 1826",
+  "year": 1826,
+  "medium": "tempera, gold, mahogany wood",
+  "dimensions": "43.3 × 32.5 cm",
+  "museum": {
+    "name": "Tate (N05888)",
+    "url": "http://www.tate.org.uk/art/artworks/blake-the-body-of-abel-found-by-adam-and-eve-n05888"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Blake-Abel.jpg/1280px-Blake-Abel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 931,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Blake-Abel.jpg)"
+  },
+  "archive": {
+    "wd": "Q3605056"
+  },
+  "phase": {
+    "label": "Last years: the late temperas, c. 1826",
+    "source": {
+      "label": "Tate record via Wikidata: tempera and gold on mahogany, c. 1826",
+      "url": "https://www.wikidata.org/wiki/Q3605056"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Tate record via Wikidata: tempera, gold, mahogany",
+        "url": "https://www.wikidata.org/wiki/Q3605056"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: Blake, a seminal figure of the Romantic Age",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Eve droops fainting over the dead Abel, who lies beside an open grave. Cain turns to fly with a gesture of despair. Flames kindle around him, and the sun sets in blood behind dim blue hills",
+        "source": {
+          "author": "W. Graham Robertson",
+          "title": "Supplementary list of works in colour, in Gilchrist’s Life of William Blake (1907 edition)",
+          "publisher": "John Lane, London (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A highly finished picture, splendid in colour and partly painted over gold.",
+        "source": {
+          "author": "W. Graham Robertson",
+          "title": "Supplementary list of works in colour, in Gilchrist’s Life of William Blake (1907 edition)",
+          "publisher": "John Lane, London (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Blake lived for twenty-three years after the date on the title-page of Jerusalem, but, with the exception of the two plates called The Ghost of Abel, engraved in 1822, this vast and obscure encyclopaedia of unknown regions remains his last gospel.",
+        "source": {
+          "author": "Arthur Symons",
+          "title": "William Blake",
+          "publisher": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/60448",
+          "readAt": "https://www.gutenberg.org/cache/epub/60448/pg60448.txt",
+          "accessed": "2026-11-09",
+          "tier": 3,
+          "license": "Public domain",
+          "year": "1907"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "To Lord Byron in the Wilderness.--What dost thou here, Elijah? Can a Poet doubt the Visions of Jehovah? Nature has no Outline: But Imagination has.",
+        "lead": "The Ghost of Abel opens with an address to Byron:",
+        "source": {
+          "author": "William Blake",
+          "title": "The Ghost of Abel (1822), reprinted in Swinburne, William Blake: A Critical Essay",
+          "publisher": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/35995",
+          "readAt": "https://www.gutenberg.org/cache/epub/35995/pg35995.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain",
+          "year": "1822"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "EVE fainted over the dead body of ABEL which lays near a grave. ADAM kneels by her. JEHOVAH stands above. … VOICE. O Earth, cover not thou my blood! cover not thou my blood!",
+        "lead": "Blake staged the same scene in words in The Ghost of Abel:",
+        "source": {
+          "author": "William Blake",
+          "title": "The Ghost of Abel (1822), reprinted in Swinburne, William Blake: A Critical Essay",
+          "publisher": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/35995",
+          "readAt": "https://www.gutenberg.org/cache/epub/35995/pg35995.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain",
+          "year": "1822"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

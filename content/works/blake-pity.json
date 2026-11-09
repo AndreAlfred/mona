@@ -1,0 +1,161 @@
+{
+  "id": "blake-pity",
+  "artist": "william-blake",
+  "title": "Pity",
+  "date": "1795",
+  "year": 1795,
+  "medium": "ink, watercolor paint on paper",
+  "dimensions": "425 × 539 mm",
+  "museum": {
+    "name": "Tate (N05062)",
+    "url": "https://www.tate.org.uk/art/artworks/blake-pity-n05062"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Pity_by_William_Blake_1795.jpg/1280px-Pity_by_William_Blake_1795.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 947,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Pity by William Blake 1795.jpg)"
+  },
+  "archive": {
+    "wd": "Q7199551"
+  },
+  "phase": {
+    "label": "The Large Colour Prints, 1795–c. 1805",
+    "source": {
+      "label": "Wikipedia: one of the 12 “Large Colour Prints” created between 1795 and 1805",
+      "url": "https://en.wikipedia.org/wiki/Newton_(Blake)"
+    }
+  },
+  "tags": [
+    {
+      "id": "monotype",
+      "source": {
+        "label": "Wikipedia: “a monotype produced by printing from a matrix consisting of paint on gessoed millboard”",
+        "url": "https://en.wikipedia.org/wiki/Pity_(William_Blake)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "British William Blake developed a different technique, painting on millboard in egg tempera to produce both new works and coloured impressions of his prints and book illustrations, including his Pity.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Monotyping",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Monotyping",
+            "accessed": "2026-11-09",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Wikipedia: “finished in ink and watercolour”",
+        "url": "https://en.wikipedia.org/wiki/Pity_(William_Blake)"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: Blake, a seminal figure of the Romantic Age",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Like other members of the group, it is a monotype produced by printing from a matrix consisting of paint on gessoed millboard, with each impression then finished by hand. Blake could obtain up to three impressions from a single painting by this unusual means.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pity (William Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pity_(William_Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Martin Butlin wrote that this colour print is one of the most inspired of all 'literal' illustrations of a text in the history of art.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pity (William Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pity_(William_Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The work is unusual, as it is a literal illustration of a double simile from Macbeth",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pity (William Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pity_(William_Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Both prints refer to Macbeth. As Nicholas Rawlinson has noted, the play was undergoing a major revival in popularity at the time, being performed nine times in 1795.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pity (William Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pity_(William_Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Pity would be no more / If we did not make somebody poor, / And Mercy no more could be / If all were as happy as we.",
+        "lead": "Blake, a year earlier, in Songs of Experience:",
+        "source": {
+          "author": "William Blake",
+          "title": "The Human Abstract, in Songs of Experience",
+          "publisher": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/1934",
+          "readAt": "https://www.gutenberg.org/cache/epub/1934/pg1934.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain",
+          "year": "1794"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is a personification of a Christian element that some critics argue was a negative virtue for Blake, since pity is associated with \"the failure of inspiration and a further dividing\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pity (William Blake)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pity_(William_Blake)",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

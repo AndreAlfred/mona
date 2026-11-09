@@ -1,0 +1,142 @@
+{
+  "id": "blake-wood-of-the-self-murderers",
+  "artist": "william-blake",
+  "title": "The Wood of the Self-Murderers: The Harpies and the Suicides",
+  "date": "c. 1824",
+  "year": 1824,
+  "dimensions": "372 × 527 mm",
+  "museum": {
+    "name": "Tate (N03356)",
+    "url": "https://www.wikidata.org/wiki/Q7775719"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Wood_of_the_Self-Murderers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 839,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Wood of the Self-Murderers.jpg)"
+  },
+  "archive": {
+    "wd": "Q7775719"
+  },
+  "phase": {
+    "label": "Designs to Dante, 1824–27",
+    "source": {
+      "label": "Gilchrist, ch. XXXVI “Declining Health: Designs to Dante. 1824–27”",
+      "url": "https://archive.org/details/lifeofwilliambla00gilcuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Wikipedia: “a pencil, ink and watercolour on paper artwork”",
+        "url": "https://en.wikipedia.org/wiki/The_Wood_of_the_Self-Murderers:_The_Harpies_and_the_Suicides"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: Blake, a seminal figure of the Romantic Age",
+        "url": "https://en.wikipedia.org/wiki/William_Blake"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is part of a series which became the last set of watercolours Blake produced before his death in August 1827.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Wood of the Self-Murderers: The Harpies and the Suicides",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Wood_of_the_Self-Murderers:_The_Harpies_and_the_Suicides",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Examining Blake's use of camouflage in the work, the art historian Kathleen Lundeen observes, \"The trees appear to be superimposed over the figures as if the two images in the previous illustration has been pulled together into a single focus. … Now we see trees, now we see people.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Wood of the Self-Murderers: The Harpies and the Suicides",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Wood_of_the_Self-Murderers:_The_Harpies_and_the_Suicides",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The conception is not always such as most students of Dante will be willing to admit as Dantesque, though certainly much more Dantesque than the refined performance of Flaxman, or than any other known to me ; it is, at any rate, the highly creative mind of Dante filtered through the highly creative, sympathetic mind of Blake.",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake",
+          "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+          "year": "1863; ed. 1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Blake was commissioned in 1824 by his friend, the painter John Linnell (1792–1882), to create a series of illustrations based on Dante's poem.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Wood of the Self-Murderers: The Harpies and the Suicides",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Wood_of_the_Self-Murderers:_The_Harpies_and_the_Suicides",
+          "accessed": "2026-11-09",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I am too much attached to Dante to think much of anything else.",
+        "lead": "Blake to Linnell, less than four months before his death:",
+        "source": {
+          "author": "William Blake",
+          "title": "Letter to John Linnell, 25 April 1827",
+          "publisher": "The Letters of William Blake, ed. Archibald G. B. Russell (Methuen, 1906; Internet Archive scan)",
+          "year": "1906",
+          "url": "https://archive.org/details/letterswilliamb00tathgoog",
+          "readAt": "https://archive.org/stream/letterswilliamb00tathgoog/letterswilliamb00tathgoog_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the course of his lingering illness, he was frequently bolstered up in his bed, that he might go on with these drawings.",
+        "source": {
+          "author": "Alexander Gilchrist",
+          "title": "Life of William Blake",
+          "publisher": "ed. W. Graham Robertson, John Lane, London (Internet Archive scan)",
+          "year": "1863; ed. 1907",
+          "url": "https://archive.org/details/lifeofwilliambla00gilcuoft",
+          "readAt": "https://archive.org/stream/lifeofwilliambla00gilcuoft/lifeofwilliambla00gilcuoft_djvu.txt",
+          "accessed": "2026-11-09",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}

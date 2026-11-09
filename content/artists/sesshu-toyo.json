@@ -1,0 +1,91 @@
+{
+  "id": "sesshu-toyo",
+  "name": "Sesshū Tōyō",
+  "born": 1420,
+  "died": 1506,
+  "active": "1450s–1506",
+  "nationality": "Japanese",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Sesshū's works are predominantly suibokuga, meaning ‘water and ink paintings’”",
+        "url": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "ma-yuan",
+      "name": "Ma Yuan",
+      "source": {
+        "label": "Fenollosa: Sesshū “stood — and stands — side by side with Bayen [Ma Yuan], Kakei and Mokkei”",
+        "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft"
+      }
+    },
+    {
+      "id": "sesson-shukei",
+      "name": "Sesson Shūkei",
+      "source": {
+        "label": "Okakura: “a great work by Sesshu or Sesson” — “the two most prominent artists of this period”",
+        "url": "https://archive.org/details/idealsofeastwith1920okak"
+      }
+    }
+  ],
+  "wikidata": "Q48514",
+  "archive": {
+    "aic": 36610,
+    "cma": [
+      11294
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "The monk-painter Sesshū is revered today, as he was in his own time. While he left Kyoto's sophisticated intellectual and cultural environment to live in a provincial village in a far western province, he seems never to have severed contacts with the monastic communities of his young adulthood.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Follower of Sesshū, Birds and Flowers in a Landscape of the Four Seasons (collection description)",
+        "publisher": "Cleveland Museum of Art",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136666",
+        "accessed": "2026-11-09",
+        "tier": 4,
+        "license": "CC0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Sesshu, so central, so sane, so masterful, so versatile, finally of such a fiery genius, that he easily overmarks them all, focuses the whole work of the Ashikaga school into himself, and stands up for ever as their central peak.",
+      "lead": "Ernest Fenollosa, 1912:",
+      "source": {
+        "author": "Ernest F. Fenollosa",
+        "title": "Epochs of Chinese and Japanese Art, vol. 2",
+        "publisher": "William Heinemann, London (Internet Archive scan)",
+        "year": "1912 (1921 reprint)",
+        "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+        "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+        "accessed": "2026-11-09",
+        "tier": 2,
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Sesshū went to China in 1467 and traveled about the country, visiting well-known historical sites and Chan (Zen) temples before returning two years later. Thus he became familiar with contemporary painting practices, materials, formats, and subject matter.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Follower of Sesshū, Birds and Flowers in a Landscape of the Four Seasons (collection description)",
+        "publisher": "Cleveland Museum of Art",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136666",
+        "accessed": "2026-11-09",
+        "tier": 4,
+        "license": "CC0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-09",
+    "by": "claude-routine"
+  }
+}
