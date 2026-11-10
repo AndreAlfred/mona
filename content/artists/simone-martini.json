@@ -1,0 +1,95 @@
+{
+  "id": "simone-martini",
+  "name": "Simone Martini",
+  "born": 1284,
+  "died": 1344,
+  "active": "c. 1312–1344",
+  "nationality": "Italian (Sienese)",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: the Sienese school's most important artists include Duccio and his pupil Simone Martini",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    },
+    {
+      "id": "international-gothic",
+      "source": {
+        "label": "Wikipedia: Simone Martini, a Sienese precursor of the International Gothic style",
+        "url": "https://en.wikipedia.org/wiki/International_Gothic"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "duccio",
+      "name": "Duccio di Buoninsegna",
+      "source": {
+        "label": "Wikipedia: it is thought that Martini was a pupil of Duccio di Buoninsegna",
+        "url": "https://en.wikipedia.org/wiki/Simone_Martini"
+      }
+    },
+    {
+      "id": "giotto",
+      "name": "Giotto di Bondone",
+      "source": {
+        "label": "Vasari: Simone followed Giotto, whom he calls his master, to Rome (a claim later historians reject)",
+        "url": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt"
+      }
+    },
+    {
+      "id": "matteo-di-giovanni",
+      "name": "Matteo di Giovanni",
+      "source": {
+        "label": "Douglas: Matteo di Giovanni, Neroccio and Benvenuto were Simone's followers",
+        "url": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q221043",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Simone is the most lovable of all the Italian artists before the Renaissance.",
+      "source": {
+        "author": "Bernard Berenson",
+        "title": "The Central Italian Painters of the Renaissance",
+        "year": "1897",
+        "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+        "accessed": "2026-11-10",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He did not merely create a few types. He made a whole beautiful world of his own.",
+      "source": {
+        "author": "Langton Douglas",
+        "title": "A History of Siena",
+        "year": "1902",
+        "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+        "accessed": "2026-11-10",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He was a major figure in the development of early Italian painting and greatly influenced the development of the International Gothic style.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Simone Martini",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Simone_Martini",
+        "accessed": "2026-11-10",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

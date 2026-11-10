@@ -1,0 +1,162 @@
+{
+  "id": "simone-martini-agostino-novello",
+  "artist": "simone-martini",
+  "title": "Blessed Agostino Novello Triptych",
+  "date": "c. 1324–28",
+  "year": 1326,
+  "medium": "tempera on panel",
+  "dimensions": "82 × 67 cm",
+  "museum": {
+    "name": "Pinacoteca Nazionale, Siena",
+    "url": "https://www.wikidata.org/wiki/Q3539577"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Simone_Martini_073.jpg/1280px-Simone_Martini_073.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 928,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Simone Martini 073.jpg)"
+  },
+  "archive": {
+    "wd": "Q3539577"
+  },
+  "phase": {
+    "label": "Siena, between Assisi and the Palazzo Pubblico, 1324–28",
+    "source": {
+      "label": "Wikipedia: produced for a church in Siena between 1324 and 1328",
+      "url": "https://en.wikipedia.org/wiki/Blessed_Agostino_Novello_Triptych"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: a tempera on panel painting",
+        "url": "https://en.wikipedia.org/wiki/Blessed_Agostino_Novello_Triptych"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Full of animation and of bold movement in the figures, the incidental scenes are quite characteristic of Simone's style, and the whole work is coloured in the softest and most harmonious manner.",
+          "source": {
+            "author": "J. A. Crowe and G. B. Cavalcaselle",
+            "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+            "year": "1908",
+            "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+            "accessed": "2026-11-10",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Simone Martini, Duccio's pupil, is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Then what extraordinary grace of motion and beauty of line in Simone's miracles of the Blessed Agostino Novello!",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The work had previously been attributed to Lippo Memmi before Sienese art historian Lucy Olcott restored the attribution to Simone Martini in 1903.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Blessed Agostino Novello Triptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Blessed_Agostino_Novello_Triptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Blessed Agostino Novello Triptych is a tempera on panel painting by Simone Martini, produced for a church in Siena between 1324 and 1328, at which time he had just returned from Assisi, Pisa and Orvieto to work on his frescoes at the Palazzo Pubblico.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Blessed Agostino Novello Triptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Blessed_Agostino_Novello_Triptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Should it be a question, however, whether he or Lippo painted it, we might affirm that, if by the latter, it is the best he ever produced, and one in which he successfully equalled his great relative.",
+        "lead": "Crowe and Cavalcaselle, weighing Simone against his brother-in-law Lippo Memmi:",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "[Agostino Novello was] a courtier of King Manfred, who became a hermit",
+        "source": {
+          "author": "Edmund G. Gardner",
+          "title": "The Story of Siena and San Gimignano",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/storyofsienasang00garduoft/storyofsienasang00garduoft_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "he holds a red book (the Order's Constitutions, which he edited) and an angel whispers divine inspiration into his right ear.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Blessed Agostino Novello Triptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Blessed_Agostino_Novello_Triptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "All four scenes show the accident, the saint's intervention, the prayer which followed the miracle and a depiction of Sienna or the landscape around it.",
+        "lead": "The side panels show children and a knight saved by the saint:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Blessed Agostino Novello Triptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Blessed_Agostino_Novello_Triptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

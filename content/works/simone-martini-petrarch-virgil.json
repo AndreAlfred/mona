@@ -1,0 +1,143 @@
+{
+  "id": "simone-martini-petrarch-virgil",
+  "artist": "simone-martini",
+  "title": "Frontispiece to Petrarch's Virgil (Frontespizio del Commento di Servio a Virgilio)",
+  "date": "c. 1336–40",
+  "year": 1338,
+  "dimensions": "29.5 × 20 cm",
+  "museum": {
+    "name": "Biblioteca Ambrosiana",
+    "url": "https://www.wikidata.org/wiki/Q3753706"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Simone_Martini_-_frontespizio_per_codice_Virgilio_-_Biblioteca_Ambrosiana_-_Milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1761,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Simone Martini - frontespizio per codice Virgilio - Biblioteca Ambrosiana - Milano.jpg)"
+  },
+  "archive": {
+    "wd": "Q3753706"
+  },
+  "phase": {
+    "label": "Avignon, with Petrarch, c. 1336–40",
+    "source": {
+      "label": "Wikipedia: Petrarch's Virgil (title page), c. 1336; Petrarch became Simone's friend in Avignon",
+      "url": "https://en.wikipedia.org/wiki/Simone_Martini"
+    }
+  },
+  "tags": [
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "Wikipedia: Simone also worked as a miniaturist; the frontispiece of the Codex Ambrosianus",
+        "url": "https://en.wikipedia.org/wiki/Gothic_book_illustration"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It was on vellum that Simone traced the features of Laura, and a page illuminated by him is still to be seen in a manuscript of Virgil in the Ambrosian Library",
+          "source": {
+            "author": "Langton Douglas",
+            "title": "A History of Siena",
+            "year": "1902",
+            "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+            "accessed": "2026-11-10",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Simone Martini, Duccio's pupil, is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Simone Martini, originally from Siena, primarily produced large-scale paintings but also worked as a miniaturist. One of his notable works includes the frontispiece of the Codex Ambrosianus, which he painted around 1340 for Petrarch.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Gothic book illustration",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Gothic_book_illustration",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "if it be conceded that Simone painted miniatures, as some infer from the sonnet of Petrarch, a Virgil with pictorial ornaments in the Ambrosiana at Milan may be taken as a better illustration of his peculiar style than any other of the same kind.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Very great, then, was that good-fortune of Simone, to live at the time of Messer Francesco Petrarca and to chance to find that most amorous poet at the Court of Avignon",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Simone Sanese, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 1 (trans. Gaston du C. de Vere)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "… at the papal court of Avignon. There he made the acquaintance of Petrarch, and, it is supposed, of Laura, whose likeness he drew.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "But Simon sure, in Paradise the blest, Whence came this noble lady of my heart, Saw her, and took this wond'rous counterpart Which should on earth her lovely face attest.",
+        "lead": "Petrarch, on the portrait of Laura that Simone painted for him (now lost):",
+        "source": {
+          "author": "Francesco Petrarca",
+          "title": "Sonnet LVII, “Per mirar Policleto” (trans. MacGregor), in The Sonnets, Triumphs, and Other Poems of Petrarch",
+          "readAt": "https://www.gutenberg.org/cache/epub/17650/pg17650.txt",
+          "accessed": "2026-11-10",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "whence it may be concluded that Petrarch, who received this precious MS. in 1338, requested of Simone this mark of his friendship, to render it more valuable.",
+        "source": {
+          "author": "Thomas Campbell",
+          "title": "Life of Petrarch, in The Sonnets, Triumphs, and Other Poems of Petrarch",
+          "readAt": "https://www.gutenberg.org/cache/epub/17650/pg17650.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

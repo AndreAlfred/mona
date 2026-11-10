@@ -1,0 +1,137 @@
+{
+  "id": "simone-martini-avignon-sinopia",
+  "artist": "simone-martini",
+  "title": "Christ Blessing among Angels (sinopia for the porch fresco of Avignon Cathedral)",
+  "date": "c. 1335–44",
+  "year": 1340,
+  "medium": "sinopia (red underdrawing) on plaster",
+  "museum": {
+    "name": "Avignon Cathedral (Notre-Dame des Doms)",
+    "url": "https://www.wikidata.org/wiki/Q29327387"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Sinopia_figurant_le_Christ_R%C3%A9dempteur_en_Gloire_entour%C3%A9_par_des_anges.jpg/1280px-Sinopia_figurant_le_Christ_R%C3%A9dempteur_en_Gloire_entour%C3%A9_par_des_anges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Sinopia_figurant_le_Christ_R%C3%A9dempteur_en_Gloire_entour%C3%A9_par_des_anges.jpg/2560px-Sinopia_figurant_le_Christ_R%C3%A9dempteur_en_Gloire_entour%C3%A9_par_des_anges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 587,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sinopia figurant le Christ Rédempteur en Gloire entouré par des anges.jpg)"
+  },
+  "archive": {
+    "wd": "Q29327387"
+  },
+  "phase": {
+    "label": "Avignon, last years, c. 1335–44",
+    "source": {
+      "label": "Wikipedia: frescos for the porch of Avignon Cathedral, of which only the faint sinopia outlines remain",
+      "url": "https://en.wikipedia.org/wiki/Simone_Martini"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: a series of frescos for the porch of the Avignon Cathedral",
+        "url": "https://en.wikipedia.org/wiki/Simone_Martini"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "which method of working was the cartoon that our old masters used to make for painting in fresco, for greater rapidity; for having distributed the whole work over the plaster, they would outline it with the brush, reproducing from a small design all that which they wished to paint, and enlarging in proportion all that they thought to put down.",
+          "lead": "Vasari on the red underdrawing, describing an unfinished work of Simone's:",
+          "source": {
+            "author": "Giorgio Vasari",
+            "title": "Life of Simone Sanese, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 1 (trans. Gaston du C. de Vere)",
+            "year": "1568",
+            "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+            "accessed": "2026-11-10",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "international-gothic",
+      "source": {
+        "label": "Wikipedia: Simone's works at Avignon helped carry the style to France",
+        "url": "https://en.wikipedia.org/wiki/International_Gothic"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He was commissioned to paint a series of frescos for the porch of the Avignon Cathedral of which only the faint sinopia outlines remain.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Simone Martini",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Simone_Martini",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In a triangular space above the lunette, the Saviour sits in benediction between six angels in graceful motion, airing their draperies in the wind.",
+        "lead": "Crowe and Cavalcaselle saw the painted surface still in place:",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "he was summoned with very great insistence to the Court of the Pope at Avignon, where he wrought so many pictures, in fresco and on panels, that he made his works correspond to the reputation that had been borne thither.",
+        "lead": "Vasari on Simone's call to the papal court:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Simone Sanese, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 1 (trans. Gaston du C. de Vere)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This undoubtedly genuine production shows that Simone was at Avignon in his prime, free from the fetters of the old style as far it was possible for a Sienese painter to be, and graceful if not severe in the rendering of form.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Simone Martini died while in the service of the Papal court at Avignon in 1344, having likely moved there in 1334 or 1335.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Simone Martini",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Simone_Martini",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

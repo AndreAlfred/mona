@@ -1,0 +1,141 @@
+{
+  "id": "simone-martini-christ-discovered-in-the-temple",
+  "artist": "simone-martini",
+  "title": "Christ Discovered in the Temple",
+  "date": "1342",
+  "year": 1342,
+  "medium": "tempera on panel",
+  "dimensions": "49.5 × 35.1 cm",
+  "museum": {
+    "name": "Walker Art Gallery, Liverpool (WAG 2787)",
+    "url": "https://www.wikidata.org/wiki/Q19607289"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Simone_Martini_-_Christ_Discovered_in_the_Temple_-_Google_Art_Project.jpg/1280px-Simone_Martini_-_Christ_Discovered_in_the_Temple_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Simone_Martini_-_Christ_Discovered_in_the_Temple_-_Google_Art_Project.jpg/2560px-Simone_Martini_-_Christ_Discovered_in_the_Temple_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1687,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Simone Martini - Christ Discovered in the Temple - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q19607289"
+  },
+  "phase": {
+    "label": "Avignon, last years, 1342",
+    "source": {
+      "label": "Wikipedia: Christ Discovered in the Temple (1342); Simone died in the service of the Papal court at Avignon in 1344",
+      "url": "https://en.wikipedia.org/wiki/Simone_Martini"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Museum record (Wikidata): tempera on panel",
+        "url": "https://www.wikidata.org/wiki/Q19607289"
+      }
+    },
+    {
+      "id": "international-gothic",
+      "source": {
+        "label": "Wikipedia: Simone's works at Avignon in the 1330s and 1340s helped carry the style north",
+        "url": "https://en.wikipedia.org/wiki/International_Gothic"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A Christ Discovered in the Temple (1342) is in the collections of Liverpool's Walker Art Gallery.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Simone Martini",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Simone_Martini",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was, however, impossible that Simone, who lived long at Avignon, should not have produced many portable pictures there. … Two years before his death he completed the interesting “Return … of the Saviour from the Temple,” which now adorns the Liverpool Gallery, and which bears his name.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Much of the development of the style occurred in Italy, and it probably spread north of the Alps to influence France partly through the colony of Italian artists attached to the Papal Court at Avignon, and the works displayed from the residence there in the 1330s and 1340s of Simone Martini, a Sienese precursor of the style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "International Gothic",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/International_Gothic",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His \"northern European\" style granted Martini a call from the papal court in Avignon, where there were Italian but no Florentine painters, as the Giottesque classical manner was met with little interest by the Gothic culture of the area.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Annunciation with Saint Margaret and Saint Ansanus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "When admonished by Mary, Jesus replied: \"How is it that you sought me? Did you not know that I must be in my Father's house?\"",
+        "lead": "The Gospel episode (Luke 2:41–52):",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Finding in the Temple",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Finding_in_the_Temple",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The losing of Jesus is the third of the Seven Sorrows of Mary, and the Finding in the Temple is the fifth Joyful Mystery of the Rosary.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Finding in the Temple",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Finding_in_the_Temple",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Rather than the boy debating among the doctors, Simone paints the moment after: a tense exchange between Mary, Joseph and the twelve-year-old Jesus, a family scene made for private devotion."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

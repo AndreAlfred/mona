@@ -1,0 +1,195 @@
+{
+  "id": "simone-martini-annunciation",
+  "artist": "simone-martini",
+  "title": "Annunciation with Saint Margaret and Saint Ansanus",
+  "date": "1333",
+  "year": 1333,
+  "medium": "tempera on panel",
+  "dimensions": "305 × 265 cm",
+  "museum": {
+    "name": "Uffizi Gallery (00284557)",
+    "url": "https://www.wikidata.org/wiki/Q979440"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Simone_Martini_%E2%80%94_Annunciation_with_St._Margaret_and_St._Ansanus.jpg/1280px-Simone_Martini_%E2%80%94_Annunciation_with_St._Margaret_and_St._Ansanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Simone_Martini_%E2%80%94_Annunciation_with_St._Margaret_and_St._Ansanus.jpg/2560px-Simone_Martini_%E2%80%94_Annunciation_with_St._Margaret_and_St._Ansanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1042,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Simone Martini — Annunciation with St. Margaret and St. Ansanus.jpg)"
+  },
+  "archive": {
+    "wd": "Q979440"
+  },
+  "phase": {
+    "label": "Siena Cathedral altarpiece, 1333",
+    "source": {
+      "label": "Wikipedia: dated 1333 on the original frame; painted for a side altar in Siena Cathedral",
+      "url": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: tempera and gold on panel",
+        "url": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the background is completely gilt",
+        "url": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus"
+      }
+    },
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: the painting uses the difficult to obtain lapis lazuli",
+        "url": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The artists' use of expensive lacquer, extensive gold leafing and the difficult to obtain lapis lazuli in the painting demonstrates the communal prestige of the commission.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Annunciation with Saint Margaret and Saint Ansanus",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus",
+            "accessed": "2026-11-10",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "international-gothic",
+      "source": {
+        "label": "Wikipedia: Simone Martini, a Sienese precursor of the style",
+        "url": "https://en.wikipedia.org/wiki/International_Gothic"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Simone Martini, Duccio's pupil, is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Considered Martini's masterwork and one of the most outstanding works of Gothic painting, the work was originally painted for a side altar in Siena Cathedral.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Annunciation with Saint Margaret and Saint Ansanus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Lippo Memmi painted the two saints who stand one on either side of the central scene. But the Annunciation itself is entirely the work of Simone.",
+        "source": {
+          "author": "Langton Douglas",
+          "title": "A History of Siena",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "As you look at the angel's mantle it is as if you were seeing the young sunlight on driven snow.",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The work, in both size and style, has no similarities with any other contemporary painting in Italy. It can be compared instead to French illuminated manuscripts of that time, as well as to paintings from Germany or England.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Annunciation with Saint Margaret and Saint Ansanus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This is a picture the affected tenderness of which might well have had influence on the school of mystic painters.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Mary, sitting on a throne, is portrayed at the moment that she is startled out of her reading, reacting with a graceful and composed reluctance, looking with surprise at the celestial messenger.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Annunciation with Saint Margaret and Saint Ansanus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Virgin in the act of receiving the angel, but shrinking with a sidelong action and with affected softness of motion from him, is rendered with an extraordinary exaggeration of tenderness in the closed lids and hardly apparent iris of the eyes.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "along the path of the dove, viewers see Gabriel's utterance: ave gratia plena dominvs tecvm ('Hail, full of grace, the Lord is with thee.').",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Annunciation with Saint Margaret and Saint Ansanus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

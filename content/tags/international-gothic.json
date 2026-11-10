@@ -1,0 +1,34 @@
+{
+  "id": "international-gothic",
+  "kind": "style",
+  "name": "International Gothic",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "International Gothic is a period of Gothic art that began in Burgundy, France, and northern Italy in the late 14th and early 15th century. It then spread very widely across Western Europe, hence the name for the period",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "International Gothic",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/International_Gothic",
+        "accessed": "2026-11-10",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It was initially a style of courtly sophistication, but somewhat more robust versions spread to art commissioned by the emerging mercantile classes and the smaller nobility.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "International Gothic",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/International_Gothic",
+        "accessed": "2026-11-10",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "International Gothic"
+}
