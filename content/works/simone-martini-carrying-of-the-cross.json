@@ -1,0 +1,177 @@
+{
+  "id": "simone-martini-carrying-of-the-cross",
+  "artist": "simone-martini",
+  "title": "The Carrying of the Cross (Le Portement de croix)",
+  "date": "c. 1335",
+  "year": 1335,
+  "medium": "tempera, gold on poplar panel",
+  "dimensions": "30 × 20.5 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 670 bis)",
+    "url": "http://www.louvre.fr/oeuvre-notices/le-portement-de-croix-0"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Simone_Martini_067.jpg/1280px-Simone_Martini_067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1940,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Simone Martini 067.jpg)"
+  },
+  "archive": {
+    "wd": "Q3225814"
+  },
+  "phase": {
+    "label": "The Orsini Polyptych, c. 1333–40",
+    "source": {
+      "label": "Wikipedia: Orsini Polyptych, 1333–1340; the Louvre holds Christ Bearing the Cross",
+      "url": "https://en.wikipedia.org/wiki/Orsini_Polyptych"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: Orsini Polyptych, tempera on panel",
+        "url": "https://en.wikipedia.org/wiki/Orsini_Polyptych"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: the panels share a golden background",
+        "url": "https://en.wikipedia.org/wiki/Orsini_Polyptych"
+      }
+    },
+    {
+      "id": "international-gothic",
+      "source": {
+        "label": "Wikipedia: Simone's works at Avignon helped carry the style to France",
+        "url": "https://en.wikipedia.org/wiki/International_Gothic"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Much of the development of the style occurred in Italy, and it probably spread north of the Alps to influence France partly through the colony of Italian artists attached to the Papal Court at Avignon, and the works displayed from the residence there in the 1330s and 1340s of Simone Martini, a Sienese precursor of the style.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "International Gothic",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/International_Gothic",
+            "accessed": "2026-11-10",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Crowe and Cavalcaselle: conceived entirely in the spirit of the Sienese school",
+        "url": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Orsini Polyptych (also known as the Orsini Altarpiece or Passion Polyptych) is an altarpiece produced at an unknown location by Simone Martini for private devotion by a cardinal of the Orsini family.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Orsini Polyptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Orsini_Polyptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When open, the altarpiece had four scenes of Christ's Passion on one side, from left to right Christ Bearing the Cross (Louvre), the Crucifixion (Antwerp), the Descent from the Cross (Antwerp) and the Entombment (Berlin).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Orsini Polyptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Orsini_Polyptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Louvre collection comprises a very small panel by Simone representing Christ carrying His Cross, followed by the Marys and the usual crowd of people.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was taken to France very early in its lifespan and formed a major influence on late medieval French artists.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Orsini Polyptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Orsini_Polyptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The altarpiece was probably in the Champmol Charterhouse, near Dijon, by the end of the 14th century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Orsini Polyptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Orsini_Polyptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "[The executioner's companions] push back the Virgin, and the Magdalen raises her arms to heaven. The subject is conceived entirely in the spirit of the Sienese school of which Simone is a chief.",
+        "lead": "Behind Christ, the women who follow him:",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On the back of the Louvre panel (Christ Bearing the Cross) is the coat of arms of the Orsini family. It shows the man who commissioned the painting dressed as a cardinal at the foot of the Cross. Some art historians see this as a portrait of the Roman cardinal Napoleone Orsini, who owned a fragment of the True Cross, which may explain the choice of subject.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Orsini Polyptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Orsini_Polyptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

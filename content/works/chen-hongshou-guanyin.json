@@ -1,0 +1,115 @@
+{
+  "id": "chen-hongshou-guanyin",
+  "artist": "chen-hongshou",
+  "title": "Bodhisattva Guanyin in the Form of the Buddha Mother",
+  "date": "1620",
+  "year": 1620,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1992.197)",
+    "url": "https://www.metmuseum.org/art/collection/search/41470"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E6%98%8E-%E6%B8%85_%E9%99%B3%E6%B4%AA%E7%B6%AC_%E6%BA%96%E6%8F%90%E4%BD%9B%E6%AF%8D%E6%B3%95%E5%83%8F%E5%9C%96_%E8%BB%B8-Bodhisattva_Guanyin_in_the_Form_of_the_Buddha_Mother_MET_DP317447.jpg/1280px-%E6%98%8E-%E6%B8%85_%E9%99%B3%E6%B4%AA%E7%B6%AC_%E6%BA%96%E6%8F%90%E4%BD%9B%E6%AF%8D%E6%B3%95%E5%83%8F%E5%9C%96_%E8%BB%B8-Bodhisattva_Guanyin_in_the_Form_of_the_Buddha_Mother_MET_DP317447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2408,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (明-清 陳洪綬 準提佛母法像圖 軸-Bodhisattva Guanyin in the Form of the Buddha Mother MET DP317447.jpg)"
+  },
+  "archive": {
+    "wd": "Q78854616"
+  },
+  "phase": {
+    "label": "Early years, 1620",
+    "source": {
+      "label": "Metropolitan Museum record (via Wikidata): dated 1620",
+      "url": "https://www.wikidata.org/wiki/Q78854616"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Metropolitan Museum record (via Commons): Hanging scroll; ink on paper",
+        "url": "https://commons.wikimedia.org/wiki/File:%E6%98%8E-%E6%B8%85_%E9%99%B3%E6%B4%AA%E7%B6%AC_%E6%BA%96%E6%8F%90%E4%BD%9B%E6%AF%8D%E6%B3%95%E5%83%8F%E5%9C%96_%E8%BB%B8-Bodhisattva_Guanyin_in_the_Form_of_the_Buddha_Mother_MET_DP317447.jpg"
+      }
+    },
+    {
+      "id": "gongbi",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "As early as 1616, when he was eighteen sui, he produced a series of twelve illustrations depicting legendary figures in poetry of the [fourth century] B.C. known as the [Elegies] of Ch‘u",
+        "lead": "Four years before this scroll:",
+        "source": {
+          "author": "Fang Chao-ying",
+          "title": "Ch‘ên Hung-shou",
+          "publisher": "in Arthur W. Hummel (ed.), Eminent Chinese of the Ch‘ing Period, vol. I, US Government Printing Office (Internet Archive scan)",
+          "year": "1943",
+          "url": "https://archive.org/details/in.ernet.dli.2015.280001",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.280001/2015.280001.Eminent-Chinese_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-10"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "at the age of four, seeing in his grandfather's establishment a newly-whitewashed wall, forthwith climbed upon a table and drew a full-length portrait of the great general Kuan Yu (now the God of War) of the Han dynasty, from eight to nine feet in height.",
+        "lead": "Giles, translating a Chinese account of Chen as a child:",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Bernard Quaritch, 2nd ed. (Internet Archive scan)",
+          "year": "1918",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-10"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Cundī Esotericism was also widely practiced by Chinese Buddhist laypersons during the Ming. … She is also prominent in the art of the late Ming, such as in the paintings of Chen Hongshou (1598–1652).",
+        "lead": "The “Buddha Mother” of the title is Cundi (Zhunti):",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cundi (Buddhism)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cundi_(Buddhism)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-10"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In his later life he devoted himself chiefly to drawings of Buddhist divinities, particularly Kuan-yin and Lo-han.",
+        "source": {
+          "author": "Fang Chao-ying",
+          "title": "Ch‘ên Hung-shou",
+          "publisher": "in Arthur W. Hummel (ed.), Eminent Chinese of the Ch‘ing Period, vol. I, US Government Printing Office (Internet Archive scan)",
+          "year": "1943",
+          "url": "https://archive.org/details/in.ernet.dli.2015.280001",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.280001/2015.280001.Eminent-Chinese_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-10"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Painted when Chen was about twenty-two, this Guanyin shows that the Buddhist devotion of his last years was there from the start: years later he still used a seal calling himself a disciple of Cundi, the deity drawn here."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "simone-martini-pisa-polyptych",
+  "artist": "simone-martini",
+  "title": "Saint Catherine of Alexandria Polyptych (Pisa Polyptych)",
+  "date": "1319–20",
+  "year": 1320,
+  "medium": "tempera, gold on panel",
+  "dimensions": "195 × 340 cm",
+  "museum": {
+    "name": "National Museum of San Matteo",
+    "url": "https://www.wga.hu/frames-e.html?/html/s/simone/4altars/3pisa/1pisa.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Simone_Martini_012.jpg/1280px-Simone_Martini_012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Simone_Martini_012.jpg/2560px-Simone_Martini_012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 846,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Simone Martini 012.jpg)"
+  },
+  "archive": {
+    "wd": "Q3907529"
+  },
+  "phase": {
+    "label": "Pisa, for the Dominicans of Santa Caterina, 1319–20",
+    "source": {
+      "label": "Wikipedia: placed at the altar in 1320, likely begun in 1319",
+      "url": "https://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_Polyptych"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: tempera and gold on panel",
+        "url": "https://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_Polyptych"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: tempera and gold on panel",
+        "url": "https://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_Polyptych"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Simone Martini, Duccio's pupil, is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The polyptych is Martini's largest work, and includes numerous sub-panels. … There is a total of 44 figures.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Catherine of Alexandria Polyptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_Polyptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "its parts are preserved and, independently of the poetic praise of Petrarch, they would suffice to establish the lasting fame of Simone.",
+        "lead": "Crowe and Cavalcaselle, on the dismembered altarpiece:",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "That he was a disciple of Duccio both his early panel pictures at Pisa, and his Madonna and Saints, which was formerly at Orvieto, clearly prove.",
+        "source": {
+          "author": "Langton Douglas",
+          "title": "A History of Siena",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Like Chaucer, and many another great inventor, he began his career as an imitator.",
+        "source": {
+          "author": "Langton Douglas",
+          "title": "A History of Siena",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The work is signed SYMON DE SENIS ME PINXIT in the central panel with the Madonna and Child.",
+        "lead": "“Simone of Siena painted me”:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Catherine of Alexandria Polyptych",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_Polyptych",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Finer still, and gracefully noble, is the St. Catherine, whose fair proportions, regular features, and natural attitude are not surpassed in any subsequent effort of the master.",
+        "lead": "On the church's patron saint:",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

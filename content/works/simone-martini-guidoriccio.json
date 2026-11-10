@@ -1,0 +1,168 @@
+{
+  "id": "simone-martini-guidoriccio",
+  "artist": "simone-martini",
+  "title": "Guidoriccio da Fogliano at the Siege of Montemassi",
+  "date": "c. 1330 (attribution debated)",
+  "year": 1330,
+  "medium": "fresco",
+  "dimensions": "340 × 968 cm",
+  "museum": {
+    "name": "Palazzo Pubblico",
+    "url": "https://www.wikidata.org/wiki/Q3119488"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/1western-wall-in-palazzo-publico-siena-235.jpg/1280px-1western-wall-in-palazzo-publico-siena-235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 877,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (1western-wall-in-palazzo-publico-siena-235.jpg)"
+  },
+  "archive": {
+    "wd": "Q3119488"
+  },
+  "phase": {
+    "label": "Siena, Palazzo Pubblico, c. 1330 (attribution debated)",
+    "source": {
+      "label": "Wikipedia: long assumed painted in 1330 by Simone; attribution disputed since 1977",
+      "url": "https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano_at_the_Siege_of_Montemassi"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: a fresco on the western wall of the Sala del Mappamondo",
+        "url": "https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano_at_the_Siege_of_Montemassi"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: considered one of the first secular portraits",
+        "url": "https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano_at_the_Siege_of_Montemassi"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "As a portrait painter Simone shows his talent in the reproduction of a stout soldier of fine stature and mature age in profile.",
+          "source": {
+            "author": "J. A. Crowe and G. B. Cavalcaselle",
+            "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+            "year": "1908",
+            "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+            "accessed": "2026-11-10",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Simone Martini, Duccio's pupil, is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "For a long time it was assumed that the work was painted in 1330 by Simone Martini. This dating made it one of the first secular portraits and one of the first monumental landscape paintings. It is widely considered a masterpiece of European painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Guidoriccio da Fogliano at the Siege of Montemassi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano_at_the_Siege_of_Montemassi",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1977, a frequently acrimonious debate started among art historians about the question whether Martini was indeed the artist. … However, this matter is still unresolved.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Guidoriccio da Fogliano at the Siege of Montemassi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano_at_the_Siege_of_Montemassi",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is Guidoriccio da Fogliano riding through the land. … How completely Guidoriccio possesses his steed, how firmly he holds his commander's staff, with what a level look he fronts the world!",
+        "lead": "Berenson, who took the attribution for granted:",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "By decorating the meeting room of the Council of Nine with these images, it was made clear that these cities and castles were now the inalienable property of Siena. In this sense, the frescoes can be seen as an artistic form of political propaganda.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Guidoriccio da Fogliano at the Siege of Montemassi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano_at_the_Siege_of_Montemassi",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Such being the ideal basis of Siena's policy, we are now given a series of her victories. On the opposite wall, painted by Simone in 1328, is a mediaeval warrior, Guidoriccio, riding alone, fully armed save for the head, his baton of command in his hand, his steed gorgeously caparisoned.",
+        "source": {
+          "author": "Edmund G. Gardner",
+          "title": "The Story of Siena and San Gimignano",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/storyofsienasang00garduoft/storyofsienasang00garduoft_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Guidoriccio dei Fogliani of Reggio was elected Captain of War in Siena for six months in 1326, and afterwards confirmed so many … times in the office that he kept it for seven years.",
+        "source": {
+          "author": "Edmund G. Gardner",
+          "title": "The Story of Siena and San Gimignano",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/storyofsienasang00garduoft/storyofsienasang00garduoft_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Over the centuries, the horseman has become an emblem of Siena which is still frequently found on souvenirs and local products.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Guidoriccio da Fogliano at the Siege of Montemassi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano_at_the_Siege_of_Montemassi",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

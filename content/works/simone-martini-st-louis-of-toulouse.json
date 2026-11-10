@@ -1,0 +1,160 @@
+{
+  "id": "simone-martini-st-louis-of-toulouse",
+  "artist": "simone-martini",
+  "title": "Saint Louis of Toulouse Crowning Robert of Anjou",
+  "date": "c. 1317",
+  "year": 1317,
+  "medium": "tempera on panel",
+  "dimensions": "200 × 138 cm",
+  "museum": {
+    "name": "Museo di Capodimonte",
+    "url": "https://www.wikidata.org/wiki/Q3947520"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Simone_Martini_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1750,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Simone Martini 013.jpg)"
+  },
+  "archive": {
+    "wd": "Q3947520"
+  },
+  "phase": {
+    "label": "Naples, for Robert of Anjou, c. 1317",
+    "source": {
+      "label": "Wikipedia: commissioned by Robert of Anjou during the artist's stay in Naples around 1317",
+      "url": "https://en.wikipedia.org/wiki/Saint_Louis_of_Toulouse_Crowning_His_Brother_Robert_of_Anjou"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Museum record (Wikidata): tempera on panel",
+        "url": "https://www.wikidata.org/wiki/Q3947520"
+      }
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Simone Martini, Duccio's pupil, is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Perpetuating the Sienese tradition, Simone's style contrasted with the sobriety and monumentality of Florentine art, and is noted for its soft, stylized, decorative features, sinuosity of line, and courtly elegance.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Simone Martini",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Simone_Martini",
+            "accessed": "2026-11-10",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Simone's most consummate works are his frescoes at Assisi, the central portion of the Annunciation of the Uffizi, and his St Louis of Toulouse crowning Robert of Anjou.",
+        "source": {
+          "author": "Langton Douglas",
+          "title": "A History of Siena",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Saint Louis of Toulouse Crowning His Brother Robert of Anjou is a painting by Simone Martini, commissioned from him by Robert of Anjou during the artist's stay in Naples around 1317.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Louis of Toulouse Crowning His Brother Robert of Anjou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Louis_of_Toulouse_Crowning_His_Brother_Robert_of_Anjou",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "St. Louis, Archbishop of Toulouse, of life size, sits in majesty with the mitre on his head and a crozier in his right hand ; and with his left holds a crown over the head of his kneeling brother, Robert of Naples. Two diminutive angels flying above St. Louis hold over his head the crown of sanctity.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "There is no reason to doubt that about 1315 Simone was an artist of considerable powers, known by repute not only at Siena, but throughout the continent of Italy.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Simone's art owes much to French manuscript illumination and ivory carving: examples of such art were brought to Siena in the fourteenth century by means of the Via Francigena, a main pilgrimage and trade route from Northern Europe to Rome.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Simone Martini",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Simone_Martini",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It shows Robert being crowned by his elder brother Louis of Toulouse, who was made a saint in 1317.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Louis of Toulouse Crowning His Brother Robert of Anjou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Louis_of_Toulouse_Crowning_His_Brother_Robert_of_Anjou",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[Louis] had solemnly renounced his rights to the crown of Naples in Robert's favour, “preferring a heavenly crown to an earthly.” Robert of Anjou determined to celebrate his brother's canonisation with great pomp and with acts of princely generosity.",
+        "source": {
+          "author": "Langton Douglas",
+          "title": "A History of Siena",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

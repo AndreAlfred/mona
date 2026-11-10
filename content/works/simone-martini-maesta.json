@@ -1,0 +1,173 @@
+{
+  "id": "simone-martini-maesta",
+  "artist": "simone-martini",
+  "title": "Maestà",
+  "date": "1315",
+  "year": 1315,
+  "medium": "fresco",
+  "dimensions": "763 × 970 cm",
+  "museum": {
+    "name": "Palazzo Pubblico",
+    "url": "https://www.wikidata.org/wiki/Q3276413"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Maest%C3%A0_di_simone_martini%2C_siena_palazzo_pubblico_1315-1321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 844,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Maestà di simone martini, siena palazzo pubblico 1315-1321.jpg)"
+  },
+  "archive": {
+    "wd": "Q3276413"
+  },
+  "phase": {
+    "label": "First Siena years: the Palazzo Pubblico Maestà, 1312–15",
+    "source": {
+      "label": "Wikipedia: created from 1312 to 1315",
+      "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Simone_Martini)"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: the Maestà is a large fresco (7.63 x 9.7 m)",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Simone_Martini)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "But six years later, it was restored by Simone himself, and it has suffered several subsequent restorations. Nothing now remains of the master's work save the lineal design.",
+          "lead": "Douglas in 1902, on the fresco's condition:",
+          "source": {
+            "author": "Langton Douglas",
+            "title": "A History of Siena",
+            "year": "1902",
+            "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+            "accessed": "2026-11-10",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sienese-school",
+      "source": {
+        "label": "Wikipedia: Simone Martini, Duccio's pupil, is among the Sienese school's most important artists",
+        "url": "https://en.wikipedia.org/wiki/Sienese_School"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Simone is obviously the follower of the purely Sienese manner improved by Duccio; and this is clear from the earliest of all his frescoes.",
+        "lead": "Crowe and Cavalcaselle, introducing the Maestà:",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was created from 1312 to 1315 and is considered one of the artist's masterpieces and one of the most important examples of 14th-century Italian art.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Simone Martini)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Simone_Martini)",
+          "accessed": "2026-11-10",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the Council Hall of Siena we see him in all his splendour. On one side, radiant in beauty, the Queen of Heaven sits in the midst of the noblest of the Saints, the loveliest of the Virgins, and the sweetest of the Angels.",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Central Italian Painters of the Renaissance",
+          "year": "1897",
+          "readAt": "https://archive.org/stream/cu31924015697331/cu31924015697331_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "As in Duccio's Majestas at Siena, the four saintly protectors of the city are represented kneeling in the foreground.",
+        "source": {
+          "author": "Langton Douglas",
+          "title": "A History of Siena",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/ahistorysiena00douggoog/ahistorysiena00douggoog_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The composition, too, has the defects of Duccio and is distributed without the perfect balance of the Florentines. It betrays the necessity under which the artist laboured, of preserving old forms of arrangement dictated by custom.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 3: The Sienese School of the Fourteenth Century (ed. Langton Douglas)",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/historyofpaintin03crow/historyofpaintin03crow_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "he was commissioned by the Signoria to paint in fresco, in a hall of their Palace, a Virgin Mary with many figures round her, which he completed with all perfection to his own great credit and advantage.",
+        "lead": "Vasari, two centuries later:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Simone Sanese, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 1 (trans. Gaston du C. de Vere)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Our Lady, enthroned as Queen of Siena, is holding up the Divine Child standing on her knees to bless the deliberations of the Council",
+        "source": {
+          "author": "Edmund G. Gardner",
+          "title": "The Story of Siena and San Gimignano",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/storyofsienasang00garduoft/storyofsienasang00garduoft_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The angelical flowers, roses and lilies, wherewith the celestial meadow is adorned, do not delight me more than good counsels. But sometimes I see one who, to exalt himself, despises me and deceives my city",
+        "lead": "The Virgin's warning to the councillors, painted at the foot of her throne (Gardner's translation):",
+        "source": {
+          "author": "Edmund G. Gardner",
+          "title": "The Story of Siena and San Gimignano",
+          "year": "1902",
+          "readAt": "https://archive.org/stream/storyofsienasang00garduoft/storyofsienasang00garduoft_djvu.txt",
+          "accessed": "2026-11-10",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}

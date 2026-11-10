@@ -1,0 +1,34 @@
+{
+  "id": "illuminated-manuscript",
+  "kind": "technique",
+  "name": "Manuscript illumination",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "An illuminated manuscript is a formally prepared document where the text is decorated with flourishes such as borders and miniature illustrations.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Illuminated manuscript",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Illuminated_manuscript",
+        "accessed": "2026-11-10",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The majority of extant manuscripts are from the Middle Ages, although many survive from the Renaissance.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Illuminated manuscript",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Illuminated_manuscript",
+        "accessed": "2026-11-10",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "manuscript"
+}

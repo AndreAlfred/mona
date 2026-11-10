@@ -1,0 +1,129 @@
+{
+  "id": "chen-hongshou-lady",
+  "artist": "chen-hongshou",
+  "title": "Paintings after Ancient Masters: A Lady",
+  "date": "1598–1652",
+  "year": 1598,
+  "medium": "album leaf, ink and color on silk",
+  "dimensions": "Overall: 30.2 x 26.7 cm (11 7/8 x 10 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1979.27.2.16"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.16/1979.27.2.16_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1979.27.2.16/1979.27.2.16_print.jpg",
+    "width": 794,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 149621
+  },
+  "phase": {
+    "label": "Late albums, after the fall of the Ming",
+    "source": {
+      "label": "CMA: this album is among “the other albums from the latter part of his career”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/149621"
+    }
+  },
+  "tags": [
+    {
+      "id": "spirit-of-antiquity",
+      "source": {
+        "label": "Sirén: some of Chen’s ladies “[are] actually copied after originals by Chou Fang”",
+        "url": "https://archive.org/details/in.gov.ignca.17931"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "People who saw his paintings said: ‘Your copies surpass the originals; why do you keep on making copies?’ To [which] he answered: ‘That is just where I fall short; the merits of my pictures [are] easily seen, and so [I] have not attained supreme skill. Chou Fang’s [skill] is [consummate]; yet he appears to possess no skill. This is what is really difficult.’",
+          "lead": "After copying a Tang picture of ladies by Zhou Fang:",
+          "source": {
+            "author": "Chen Hongshou (Ch‘ên Hung-shou)",
+            "title": "Reply recorded by Zhang Geng",
+            "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+            "page": "64",
+            "url": "https://archive.org/details/in.gov.ignca.17931",
+            "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+            "tier": 1,
+            "accessed": "2026-11-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gongbi",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It also has one leaf featuring a woman, an often-used subject not found in the other albums from the latter part of his career.",
+        "lead": "The Cleveland Museum, on the album this leaf comes from:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Paintings after Ancient Masters: A Lady",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/149621",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149621",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-10"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The majority of [Chen Hongshou's] figure-paintings [are] of minor size, on short handscrolls or album-leaves, representing queer and ugly old men (often humorously characterized), or puppet-like young ladies dressed in T'ang fashion. Some of these [are] actually copied after originals by Chou Fang or other famous painters of female [beauties].",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-10"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He was very famous at that time, called \"Chen in South and Cui in North\", together with Cui Zizhong.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Chen Hongshou",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Chen_Hongshou",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-10"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "His fame as a painter, [calligrapher], and poet soon became widespread, as did also his reputation for freedom [with] wine and women.",
+        "source": {
+          "author": "Fang Chao-ying",
+          "title": "Ch‘ên Hung-shou",
+          "publisher": "in Arthur W. Hummel (ed.), Eminent Chinese of the Ch‘ing Period, vol. I, US Government Printing Office (Internet Archive scan)",
+          "year": "1943",
+          "url": "https://archive.org/details/in.ernet.dli.2015.280001",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.280001/2015.280001.Eminent-Chinese_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-10"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-10",
+    "by": "claude-routine"
+  }
+}
