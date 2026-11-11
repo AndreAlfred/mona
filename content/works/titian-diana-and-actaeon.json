@@ -1,0 +1,166 @@
+{
+  "id": "titian-diana-and-actaeon",
+  "artist": "titian",
+  "title": "Diana and Actaeon",
+  "date": "1557",
+  "year": 1557,
+  "medium": "oil paint on canvas",
+  "dimensions": "184.5 × 202.2 cm",
+  "museum": {
+    "name": "National Gallery (NG 2839)",
+    "url": "https://www.wikidata.org/wiki/Q2528177"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg/1280px-Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg/2560px-Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1100,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Titian - Diana and Actaeon - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q2528177"
+  },
+  "phase": {
+    "label": "The poesie for Philip II, 1550s",
+    "source": {
+      "label": "Wikipedia: “the fourth of seven paintings made by Titian for Phillip II as a part of his poesie series”",
+      "url": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: Titian's mythological “Poesie”, inspired mostly by Ovid",
+        "url": "https://en.wikipedia.org/wiki/Titian"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "For Philip II, he painted a series of large mythological paintings known as the \"Poesie\", inspired mostly by Ovid's mythological narrative texts, which scholars regard as among his greatest works.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Titian",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Titian",
+            "accessed": "2026-11-11",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia infobox: oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “Along with Giorgione, he is considered a founder of the Venetian school of Italian Renaissance painting”",
+        "url": "https://en.wikipedia.org/wiki/Titian"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "At no previous period has Titian wielded the brush with greater maestria and ease than here, or united a richer or more transparent glow with greater dignity of colour.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Later Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1898",
+          "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips, 1898:"
+      },
+      {
+        "kind": "quote",
+        "text": "as is also another of Diana, who, bathing in a fount with her Nymphs, transforms Actæon into a stag. He also painted Europa passing over the sea on the back of the Bull. All these pictures are in the possession of the Catholic King, held very dear for the vivacity that Tiziano has given to the figures with his colours, making them natural and as if alive.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari, 1568:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "the early works are executed with a certain delicacy and a diligence that are incredible, and they can be seen both from near and from a distance, and these last works are executed with bold strokes and dashed off with a broad and even coarse sweep of the brush, insomuch that from near little can be seen, but from a distance they appear perfect.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari on how Titian’s handling had changed in these late pictures:"
+      },
+      {
+        "kind": "quote",
+        "text": "Judging by the repetitions, reductions, and copies that exist in the Imperial Gallery of Vienna, the Prado Gallery, the Yarborough Collection, and elsewhere, these mythological poesie have captivated the world far more than the fresher and lovelier painted poems of the earlier time",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Later Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1898",
+          "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It portrays the moment in which the hunter Actaeon comes across the goddess Diana and her nymphs as they are bathing. Diana is furious, and will turn Actaeon into a stag, who is then pursued and killed by his own hounds, a scene Titian later painted in his The Death of Actaeon (National Gallery).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Diana and Actaeon (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Titian adjusts this traditional setting by placing his characters in the arched stone ruins of a forest temple.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Diana and Actaeon (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

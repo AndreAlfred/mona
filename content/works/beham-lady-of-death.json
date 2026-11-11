@@ -1,0 +1,125 @@
+{
+  "id": "beham-lady-of-death",
+  "artist": "hans-sebald-beham",
+  "title": "The Lady of Death Masquerading as a Fool",
+  "date": "1541",
+  "year": 1541,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1935.4"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1935.4/1935.4_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1935.4/1935.4_print.jpg",
+    "width": 609,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 115252
+  },
+  "phase": {
+    "label": "Frankfurt, the last decade, 1540s",
+    "source": {
+      "label": "Hind: “In the last ten years of his life his virtuosity even increased”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/115252"
+      }
+    },
+    {
+      "id": "memento-mori",
+      "source": {
+        "label": "Cleveland Museum of Art record: The Lady of Death Masquerading as a Fool",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/115252"
+      }
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “The leading members were Hans Sebald Beham, his brother Barthel, and George Pencz”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the last ten years of his life his virtuosity even increased, his technique becoming more delicate as it lost some of its vitality.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "83"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Raimondi, and the exterior fresco friezes of Polidoro di Caravaggio, influenced their choice of subjects and compositional style, to which Northern themes of death (Death appears personified in many prints, as above) and humour are added.",
+        "lead": "Of the Little Masters:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Masters",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The prints of Hans Baldung Grien contain similar treatments of sexual themes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Masters",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "[Death is constantly] introduced at that period sometimes in a very comic way, but always with a moral intention",
+        "lead": "William Bell Scott, on Death in Beham’s prints:",
+        "source": {
+          "author": "William Bell Scott",
+          "title": "The Little Masters",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1879",
+          "url": "https://archive.org/details/littlemastersal00scotgoog",
+          "readAt": "https://archive.org/stream/littlemastersal00scotgoog/littlemastersal00scotgoog_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "68"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

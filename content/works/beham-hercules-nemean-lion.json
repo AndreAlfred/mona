@@ -1,0 +1,153 @@
+{
+  "id": "beham-hercules-nemean-lion",
+  "artist": "hans-sebald-beham",
+  "title": "The Labors of Hercules: Hercules Strangling the Nemean Lion",
+  "date": "1548",
+  "year": 1548,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1923.120.11"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1923.120.11/1923.120.11_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1923.120.11/1923.120.11_print.jpg",
+    "width": 1263,
+    "height": 859,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 104879
+  },
+  "phase": {
+    "label": "Frankfurt, the last decade, 1540s",
+    "source": {
+      "label": "Hind: “In the last ten years of his life his virtuosity even increased”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/104879"
+      }
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “the Little Masters did not let small size deter them from tackling the largest subjects of history painting”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “The leading members were Hans Sebald Beham, his brother Barthel, and George Pencz”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Beham was one of several German printmakers referred to today as the “Little Masters.” They established their artistic prowess by engraving remarkably small prints, appealing to collectors fascinated with miniature objects and curiosities.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "The Labors of Hercules: Hercules Strangling the Nemean Lion",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/104879",
+            "accessed": "2026-11-11",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Here, Beham has packed 12 larger-than-life stories of the mighty Hercules into tiny prints. The series includes three of the 12 labors Hercules performed as penance for slaying his children in a fit of madness: Strangling the Nemean Lion, Killing the Lernean Hydra, and Dragging Cerberus from the Underworld.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Labors of Hercules: Hercules Strangling the Nemean Lion",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/104879",
+          "accessed": "2026-11-11",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Of all his mythological subjects, the series of twelve, [the Labours of Hercules] (B. 96 — 107), are perhaps the most accomplished. These show very high powers of design and composition, with command over the nude in action, united however to something of the peculiar shortness of stature observable in the Liberal Arts, so that the muscular god looks like a powerful dwarf or gnome.",
+        "lead": "William Bell Scott, 1879:",
+        "source": {
+          "author": "William Bell Scott",
+          "title": "The Little Masters",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1879",
+          "url": "https://archive.org/details/littlemastersal00scotgoog",
+          "readAt": "https://archive.org/stream/littlemastersal00scotgoog/littlemastersal00scotgoog_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "76"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Unfortunately, he did not return often enough in these later years to his real sphere, that of genre, but played to the public taste in supplying classical pieces which were often adaptations from Italian engravers, if not mere repetitions of his own earlier work.",
+        "lead": "Arthur M. Hind, on Beham’s last decade:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "84"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One of a series of tiny (about 5.1 x 7.9 cm) prints of the Labours of Hercules by Hans Sebald Beham; the Little Masters did not let small size deter them from tackling the largest subjects of history painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Masters",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The son of Jupiter and the mortal Alcmena, Hercules was both man and god. His saga of moral and physical trials made him one of the most popular classical heroes in Renaissance art.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Labors of Hercules: Hercules Strangling the Nemean Lion",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/104879",
+          "accessed": "2026-11-11",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

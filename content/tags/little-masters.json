@@ -1,0 +1,37 @@
+{
+  "id": "little-masters",
+  "kind": "movement",
+  "name": "Little Masters (Kleinmeister)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Little Masters (\"Kleinmeister\" in German), were a group of German printmakers who worked in the first half of the 16th century, primarily in engraving.  They specialized in very small finely detailed prints, some no larger than a postage stamp.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Little Masters",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The most eminent of the Little Masters as virtuosi of delicate engraving are unquestionably the brothers Barthel and Hans Sebald Beham, and Georg Pencz.",
+      "source": {
+        "author": "Arthur M. Hind",
+        "title": "A Short History of Engraving and Etching",
+        "publisher": "Archibald Constable (Internet Archive scan)",
+        "year": "1908",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+        "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+        "accessed": "2026-11-11",
+        "tier": 2,
+        "license": "Public domain",
+        "page": "83"
+      }
+    }
+  ],
+  "archiveTerm": "Little Masters"
+}

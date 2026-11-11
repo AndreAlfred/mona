@@ -1,0 +1,129 @@
+{
+  "id": "beham-twelve-months",
+  "artist": "hans-sebald-beham",
+  "title": "The Village Wedding: Fabianus Jenner / Mathias Hornung",
+  "date": "1546",
+  "year": 1546,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.114"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.114/1922.114_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.114/1922.114_print.jpg",
+    "width": 1261,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 103914
+  },
+  "phase": {
+    "label": "Frankfurt, the last decade, 1540s",
+    "source": {
+      "label": "Hind: “In the last ten years of his life his virtuosity even increased”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/103914"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Hind: Beham’s genius “is seen at its best in the sets of genre”",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+      }
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “The leading members were Hans Sebald Beham, his brother Barthel, and George Pencz”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His Twelve [Months] of the Year (B. 151-60), are very characteristic also. They are represented by twelve pairs of peasants, all capering and dancing forward, over -each being the supposed name of the male dancer.",
+        "lead": "William Bell Scott, 1879:",
+        "source": {
+          "author": "William Bell Scott",
+          "title": "The Little Masters",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1879",
+          "url": "https://archive.org/details/littlemastersal00scotgoog",
+          "readAt": "https://archive.org/stream/littlemastersal00scotgoog/littlemastersal00scotgoog_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "78"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the natural bent of his genius is seen at its best in the sets of genre produced about the same period",
+        "lead": "Arthur M. Hind:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "83"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[His] engravings cover a range of subjects, but he is especially known for scenes of peasant life and scenes from classical myth or history, both of which often had an erotic element.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Then after all the twelve have run on in the vain attempt to overtake time, comes a supplementary design, showing two humble bare-legged musicians blowing hard at their flageolet and bagpipe",
+        "lead": "On the set’s last plate:",
+        "source": {
+          "author": "William Bell Scott",
+          "title": "The Little Masters",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1879",
+          "url": "https://archive.org/details/littlemastersal00scotgoog",
+          "readAt": "https://archive.org/stream/littlemastersal00scotgoog/littlemastersal00scotgoog_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "79"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

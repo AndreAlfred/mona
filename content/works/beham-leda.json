@@ -1,0 +1,131 @@
+{
+  "id": "beham-leda",
+  "artist": "hans-sebald-beham",
+  "title": "Leda and the Swan",
+  "date": "1548",
+  "year": 1548,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1939.598"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1939.598/1939.598_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1939.598/1939.598_print.jpg",
+    "width": 1164,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Robert Hays Gries"
+  },
+  "archive": {
+    "cma": 118568
+  },
+  "phase": {
+    "label": "Frankfurt, the last decade, 1540s",
+    "source": {
+      "label": "Hind: “In the last ten years of his life his virtuosity even increased”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/118568"
+      }
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “The leading members were Hans Sebald Beham, his brother Barthel, and George Pencz”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "other prints of similar subjects, or subjects from mythology, which we certainly know to be done in his last year or two, show very different [proportions] of the human figure. Leda and the Swan (B. 112), for example, done in [1548], is perfect in power of drawing.",
+        "lead": "William Bell Scott, contrasting Beham’s late mythologies with his stocky earlier nudes:",
+        "source": {
+          "author": "William Bell Scott",
+          "title": "The Little Masters",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1879",
+          "url": "https://archive.org/details/littlemastersal00scotgoog",
+          "readAt": "https://archive.org/stream/littlemastersal00scotgoog/littlemastersal00scotgoog_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "76"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the last ten years of his life his virtuosity even increased, his technique becoming more delicate as it lost some of its vitality.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "83"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "All the Little Masters followed Marcantonio in engraving mythological scenes, roundly drawn nudes, and the kind of erotic subjects that appear whenever a great tradition breaks up, whether in late antiquity, the end of the Renaissance, or our own time.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Leda and the Swan is a story and subject in art from Greek mythology in which the god Zeus, in the form of a swan, seduces Leda, an Aetolian princess who became Spartan queen.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Leda and the Swan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Leda_and_the_Swan",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Thanks to the literary renditions of Ovid and Fulgentius, it was a well-known myth through the Middle Ages, but emerged more prominently as a classicizing theme with erotic overtones in the Italian Renaissance.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Leda and the Swan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Leda_and_the_Swan",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "titian",
+  "name": "Titian",
+  "born": 1488,
+  "died": 1576,
+  "active": "c. 1506–1576",
+  "nationality": "Italian",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “he is considered a founder of the Venetian school of Italian Renaissance painting”",
+        "url": "https://en.wikipedia.org/wiki/Titian"
+      }
+    },
+    {
+      "id": "high-renaissance",
+      "source": {
+        "label": "Wikipedia: the Assunta reflects “developments in High Renaissance painting further south”",
+        "url": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "source": {
+        "label": "Wikipedia: Titian’s Charles V draws on “possibly Dürer's 1513 engraving Knight, Death and the Devil”",
+        "url": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V"
+      }
+    },
+    {
+      "id": "edouard-manet",
+      "name": "Édouard Manet",
+      "source": {
+        "label": "Wikipedia: “The Venus of Urbino was one of the inspirations for Édouard Manet's 1863 Olympia”",
+        "url": "https://en.wikipedia.org/wiki/Venus_of_Urbino"
+      }
+    }
+  ],
+  "wikidata": "Q47551",
+  "archive": {
+    "aic": 40868,
+    "cma": [
+      2341
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "I, Titian of Cadore, having studied painting from childhood upwards, and desirous of fame rather than profit, wish to serve the Doge and Signori, rather than his Highness the Pope and other Signori, who in past days, and even now, have urgently asked to employ me",
+      "source": {
+        "author": "Titian",
+        "title": "Petition to the Council of Ten, Venice, 31 May 1513 (trans. J. A. Crowe and G. B. Cavalcaselle, Titian: His Life and Times, 1877)",
+        "publisher": "via Wikiquote",
+        "year": "1513",
+        "readAt": "https://en.wikiquote.org/wiki/Titian",
+        "accessed": "2026-11-11",
+        "tier": 1,
+        "license": "CC BY-SA 4.0"
+      },
+      "lead": "Offering his services to Venice, 1513:"
+    },
+    {
+      "kind": "quote",
+      "text": "Titian was one of the most versatile of Italian painters, equally adept with portraits, landscape backgrounds, and mythological and religious subjects. His painting methods, particularly in the application and use of colour, exerted a profound influence not only on painters of the late Italian Renaissance, but on future generations of Western artists.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Titian",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Titian",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "There is no greater name in Italian art--therefore no greater in art--than that of Titian.",
+      "source": {
+        "author": "Claude Phillips",
+        "title": "The Earlier Work of Titian",
+        "publisher": "Seeley and Co., London (Project Gutenberg)",
+        "year": "1897",
+        "readAt": "https://www.gutenberg.org/cache/epub/12626/pg12626.txt",
+        "accessed": "2026-11-11",
+        "tier": 2,
+        "license": "Public domain"
+      },
+      "lead": "Claude Phillips, 1897:"
+    }
+  ],
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

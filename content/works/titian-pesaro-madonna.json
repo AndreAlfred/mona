@@ -1,0 +1,158 @@
+{
+  "id": "titian-pesaro-madonna",
+  "artist": "titian",
+  "title": "Pesaro Madonna",
+  "date": "1522",
+  "year": 1522,
+  "medium": "oil paint on canvas",
+  "dimensions": "478 × 268 cm",
+  "museum": {
+    "name": "Santa Maria Gloriosa dei Frari",
+    "url": "https://www.wikidata.org/wiki/Q572697"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Frari_%28Venice%29_nave_left_-_Altar_of_Madona_di_Ca%27Pesaro.jpg/1280px-Frari_%28Venice%29_nave_left_-_Altar_of_Madona_di_Ca%27Pesaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Frari_%28Venice%29_nave_left_-_Altar_of_Madona_di_Ca%27Pesaro.jpg/2560px-Frari_%28Venice%29_nave_left_-_Altar_of_Madona_di_Ca%27Pesaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1876,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Frari (Venice) nave left - Altar of Madona di Ca'Pesaro.jpg)"
+  },
+  "archive": {
+    "wd": "Q572697"
+  },
+  "phase": {
+    "label": "The Frari altarpieces, 1519–26",
+    "source": {
+      "label": "Phillips: “which Titian finished in 1526, after having worked upon it for no less than seven years”",
+      "url": "https://www.gutenberg.org/ebooks/12626"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: “When Titian painted this altarpiece …” (Pala Pesaro, Frari Basilica)",
+        "url": "https://en.wikipedia.org/wiki/Pesaro_Madonna"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Phillips: “The magic of bold and subtle chiaroscuro”",
+        "url": "https://www.gutenberg.org/ebooks/12626"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The magic of bold and subtle chiaroscuro is obtained by the cloud gently descending along the two gigantic pillars which fill all the upper part of the arched canvas, dark in the main, but illuminated above and below by the light emanating from the divine putti",
+          "source": {
+            "author": "Claude Phillips",
+            "title": "The Earlier Work of Titian",
+            "publisher": "Seeley and Co., London (Project Gutenberg)",
+            "year": "1897",
+            "readAt": "https://www.gutenberg.org/cache/epub/12626/pg12626.txt",
+            "accessed": "2026-11-11",
+            "tier": 2,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia infobox: oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/Pesaro_Madonna"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “Along with Giorgione, he is considered a founder of the Venetian school of Italian Renaissance painting”",
+        "url": "https://en.wikipedia.org/wiki/Titian"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Madonna di Casa Pesaro, which Titian finished in 1526, after having worked upon it for no less than seven years, is perhaps the masterpiece of the painter of Cadore among the extant altar-pieces of exceptional dimensions, if there be excepted its former companion at the Frari, the Assunta.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Earlier Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1897",
+          "readAt": "https://www.gutenberg.org/cache/epub/12626/pg12626.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips, 1897:"
+      },
+      {
+        "kind": "quote",
+        "text": "These columns in the center of the painting are unprecedented in Renaissance painting and are the subject of some controversy. X-rays reveal that Titian painted several other architectural elements in their place before settling on the columns.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pesaro Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pesaro_Madonna",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "When Titian painted this altarpiece, he broke with a centuries-long tradition of placing the devotional figures (the Virgin and Child) in the center of the painting and the painted space. By doing this, he allowed for a greater sense of movement through the painting, presaging the Baroque period's more complicated compositional techniques.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pesaro Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pesaro_Madonna",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "For the Chapel of the Pesari family, in the same church, he painted in an altar-piece the Madonna with the Child in her arms, a S. Peter and a S. George, and about them the patrons of the work, kneeling and portrayed from life; among whom are the Bishop of Paphos and his brother, then newly returned from the victory which that Bishop won against the Turks.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari, 1568:"
+      },
+      {
+        "kind": "quote",
+        "text": "An unidentified knight has two prisoners in tow, a turbaned Turk and a Moor, probably a reference to Jacopo's victory over the Turks in 1502.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pesaro Madonna",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pesaro_Madonna",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

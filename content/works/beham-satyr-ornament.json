@@ -1,0 +1,137 @@
+{
+  "id": "beham-satyr-ornament",
+  "artist": "hans-sebald-beham",
+  "title": "Ornament of Satyr's Head and Wreath",
+  "date": "1543",
+  "year": 1543,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.122"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.122/1922.122_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.122/1922.122_print.jpg",
+    "width": 1263,
+    "height": 849,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 103923
+  },
+  "phase": {
+    "label": "Frankfurt, the last decade, 1540s",
+    "source": {
+      "label": "Hind: “In the last ten years of his life his virtuosity even increased”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/103923"
+      }
+    },
+    {
+      "id": "ornament-print",
+      "source": {
+        "label": "Cleveland Museum of Art record: Ornament of Satyr’s Head and Wreath",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/103923"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In addition many of their prints were \"ornament prints\", consisting entirely of ornament in the Renaissance style, which as well as being collected were designed to be used as patterns for craftsmen in various media.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Little Masters",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+            "accessed": "2026-11-11",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “The leading members were Hans Sebald Beham, his brother Barthel, and George Pencz”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In ornament, however, in which he is one of the great masters, some of his finest plates belong to this last decade.",
+        "lead": "Arthur M. Hind, on Beham’s late work:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "84"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "With the arrival of the print, ornament prints became an important part of the output of printmakers, especially in Germany, and played a vital role in the rapid diffusion of new Renaissance styles to makers of all sorts of object.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ornament (art)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ornament_(art)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The Little Masters also engraved ornamental motifs for craftsmen to adapt in decorative works … Indeed, they might have planned their whole production to furnish ideas for other artists, who copied their diminutive engravings wholesale, especially in the enamel workshops at Limoges.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Their prints were very widely disseminated, and  both drawn copies and examples of the originals have been found in albums from Mughal India, and their figurative compositions were copied in Limoges enamel and various other decorative media, from bronze plaques to stoneware pottery.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Masters",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

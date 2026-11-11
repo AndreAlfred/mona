@@ -1,0 +1,34 @@
+{
+  "id": "venetian-school",
+  "kind": "movement",
+  "name": "Venetian school",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Venetian painting was a major force in Italian Renaissance painting and beyond.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Venetian painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Venetian_painting",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Considered to give primacy to colour over line, the tradition of the Venetian school contrasted with the Mannerism prevalent in the rest of Italy. The Venetian style exerted great influence upon the subsequent development of Western painting.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Venetian painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Venetian_painting",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Venetian"
+}

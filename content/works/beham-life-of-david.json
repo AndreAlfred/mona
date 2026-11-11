@@ -1,0 +1,141 @@
+{
+  "id": "beham-life-of-david",
+  "artist": "hans-sebald-beham",
+  "title": "Scenes from the Life of David (Table peinte illustrant l'Histoire de David)",
+  "date": "1534",
+  "year": 1534,
+  "medium": "oil paint on panel",
+  "dimensions": "128 × 131 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 1033)",
+    "url": "https://www.wikidata.org/wiki/Q29641959"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Beham%2C_Sebald_-_Scenes_from_the_Life_of_David_-_1534.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1213,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Beham, Sebald - Scenes from the Life of David - 1534.jpg)"
+  },
+  "archive": {
+    "wd": "Q29641959"
+  },
+  "phase": {
+    "label": "Frankfurt, painting for Cardinal Albrecht of Brandenburg, 1534",
+    "source": {
+      "label": "Wikipedia: “This was done following his move to Frankfurt, for Cardinal Albrecht of Brandenburg”",
+      "url": "https://en.wikipedia.org/wiki/Sebald_Beham"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q29641959"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: Beham, a German Renaissance painter of the generation after Dürer",
+        "url": "https://en.wikipedia.org/wiki/Sebald_Beham"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His only known panel painting, however, is a tabletop painted with scenes from the life of King David, now in the Louvre. This was done following his move to Frankfurt, for Cardinal Albrecht of Brandenburg.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Oil-paintings very few. In the Salon Carre of the Louvre is a work in compartments representing the history of King David. This was carried away from Mainz. It was originally a table-top painted for the Cardinal [Archbishop].",
+        "lead": "William Bell Scott, 1879:",
+        "source": {
+          "author": "William Bell Scott",
+          "title": "The Little Masters",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1879",
+          "url": "https://archive.org/details/littlemastersal00scotgoog",
+          "readAt": "https://archive.org/stream/littlemastersal00scotgoog/littlemastersal00scotgoog_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "86"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Beham is best known as a prolific printmaker, but also painted, designed stained glass, and wrote two successful illustrated books, manuals for artists.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He also painted miniatures for a prayer-book for Albrecht, now in the collection of the Hofbibliothek, Aschaffenburg.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "in 1528 Beham hurriedly left the city once more, following the threat of legal action over his treatise on the proportions of the horse which was  regarded as having been plagiarised from an unpublished manuscript by Albrecht Dürer, who had recently died.",
+        "lead": "Why he left Nuremberg:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He lived mostly in Frankfurt from 1532, becoming a citizen there in 1540, and remaining until his death ten years later.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

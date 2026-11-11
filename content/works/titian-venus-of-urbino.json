@@ -1,0 +1,158 @@
+{
+  "id": "titian-venus-of-urbino",
+  "artist": "titian",
+  "title": "Venus of Urbino (Venere di Urbino)",
+  "date": "1538",
+  "year": 1538,
+  "medium": "oil paint on canvas",
+  "dimensions": "119 × 165.5 cm",
+  "museum": {
+    "name": "Uffizi Gallery (1437)",
+    "url": "https://www.wikidata.org/wiki/Q727875"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg/1280px-Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg/2560px-Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 850,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Tiziano's Venere di Urbino (from The History BLog).jpg)"
+  },
+  "archive": {
+    "wd": "Q727875"
+  },
+  "phase": {
+    "label": "Middle period: nudes and court portraits, 1530s",
+    "source": {
+      "label": "Phillips: the second period is “one less of great altar-pieces and poesie … than it is of splendid nudities and great portraits”",
+      "url": "https://www.gutenberg.org/ebooks/12657"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil painting by Italian painter Titian”",
+        "url": "https://en.wikipedia.org/wiki/Venus_of_Urbino"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Still as an example of his unrivalled mastery in rendering the glow and semi-transparency of flesh, enhanced by the contrast with white linen--itself slightly golden in tinge; in suggesting the appropriate atmospheric environment; in giving the full splendour of Venetian colour, duly subordinated nevertheless to the main motive",
+          "source": {
+            "author": "Claude Phillips",
+            "title": "The Later Work of Titian",
+            "publisher": "Seeley and Co., London (Project Gutenberg)",
+            "year": "1898",
+            "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+            "accessed": "2026-11-11",
+            "tier": 2,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “the mainly Venetian tradition of the reclining female nude, which Titian had created, or helped to create”",
+        "url": "https://en.wikipedia.org/wiki/Venus_of_Urbino"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The figure’s pose derives from the Dresden Venus made around 1510–11, traditionally attributed to Giorgione but with the landscape completed by Titian. In this painting, Titian places Venus indoors, meets the viewer’s gaze, and makes her sensuality explicit.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Venus of Urbino",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venus_of_Urbino",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is manifestly borrowed, too--as is now universally acknowledged--from Giorgione's Venus in the Dresden Gallery, with the significant alteration, however, that Titian's fair one voluptuously dreams awake, while Giorgione's goddess more divinely reposes, and sleeping dreams loftier dreams.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Later Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1898",
+          "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips, 1898:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This disagreement forms part of a wider debate on the meaning of the mainly Venetian tradition of the reclining female nude, which Titian had created, or helped to create.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Venus of Urbino",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venus_of_Urbino",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Venus of Urbino was one of the inspirations for Édouard Manet's 1863 Olympia, in which the figure of Venus is replaced with the model Victorine Meurent.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Venus of Urbino",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venus_of_Urbino",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As letters from him and his mother show, he was extremely keen to buy it, and did so some months later; he referred to it simply as \"the nude woman\", and was worried Titian would sell it to someone else.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Venus of Urbino",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venus_of_Urbino",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Guidobaldo della Rovere, future Duke of Urbino, saw it in Titian’s studio in 1538:"
+      },
+      {
+        "kind": "quote",
+        "text": "There are in the guardaroba of the same Duke, by the hand of Tiziano, two most lovely heads of women, and a young recumbent Venus with flowers and certain light draperies about her, very beautiful and well finished",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari, who saw it in the duke’s collection:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

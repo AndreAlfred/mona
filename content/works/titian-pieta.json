@@ -1,0 +1,176 @@
+{
+  "id": "titian-pieta",
+  "artist": "titian",
+  "title": "Pietà",
+  "date": "1575",
+  "year": 1575,
+  "medium": "oil paint on canvas",
+  "dimensions": "352 × 349 cm",
+  "museum": {
+    "name": "Gallerie dell'Accademia (400)",
+    "url": "https://www.gallerieaccademia.it/opera/pieta-3/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Accademia_-_Piet%C3%A0_by_Titian.jpg/1280px-Accademia_-_Piet%C3%A0_by_Titian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Accademia_-_Piet%C3%A0_by_Titian.jpg/2560px-Accademia_-_Piet%C3%A0_by_Titian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1214,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Accademia - Pietà by Titian.jpg)"
+  },
+  "archive": {
+    "wd": "Q2665840"
+  },
+  "phase": {
+    "label": "The last painting, 1575–76",
+    "source": {
+      "label": "Wikipedia: “The painting is Titian's last, left unfinished at his death”",
+      "url": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)"
+    }
+  },
+  "tags": [
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Phillips: “the luminous half-gloom, the deeply significant chiaroscuro”",
+        "url": "https://www.gutenberg.org/ebooks/12657"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This system of lighting furnishes just the luminous half-gloom, the deeply significant chiaroscuro, that the painter requires in order to give the most poignant effect to his last and most thrilling conception of the world's tragedy.",
+          "source": {
+            "author": "Claude Phillips",
+            "title": "The Later Work of Titian",
+            "publisher": "Seeley and Co., London (Project Gutenberg)",
+            "year": "1898",
+            "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+            "accessed": "2026-11-11",
+            "tier": 2,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil on canvas painting, one of the last paintings by Titian”",
+        "url": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)"
+      }
+    },
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Wikipedia: “a large rusticated Mannerist aedicule or niche”",
+        "url": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Let us rather strive to appreciate what is left of a creation unique in the life-work of Titian, and in some ways his most sublime invention.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Later Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1898",
+          "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips, 1898:"
+      },
+      {
+        "kind": "quote",
+        "text": "The distinction between forms and the space between them almost disappears, and \"The forms emerge like wraiths out of the circumambient darkness, and mass is reduced to a flickering pattern of colour and light. In his last years only these elements had reality for Titian.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pietà (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "An inscription in the lower part of the painting records that it was finished by Palma Giovane, whose interventions seem to have been kept to the minimum necessary, and doing his best to match Titian's own style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pietà (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He often kept paintings in the studio for a long period, with several probably unfinished at his death in 1576.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pietà (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Because the Pietà was to decorate the artist's own tomb, it is often interpreted as an invocation or \"painted prayer\" for protection from the plague that eventually killed him.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Titian",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Titian",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A figure who is either the Nicodemus of the gospels or, as usually thought today, Saint Jerome, approaches Christ on his knees, and reaches out to touch his hand. This is generally agreed to be a self-portrait of Titian.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pietà (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "These are agreed to represent Titian and his son Orazio, probably praying to be spared from the plague that in fact killed them both, a full year after it arrived in Venice.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pietà (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "In the small votive picture at lower right:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}
