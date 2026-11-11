@@ -1,0 +1,179 @@
+{
+  "id": "titian-paul-iii-and-grandsons",
+  "artist": "titian",
+  "title": "Pope Paul III and His Grandsons (Portrait of Pope Paul III with His Grandsons)",
+  "date": "c. 1546",
+  "year": 1546,
+  "medium": "oil paint on canvas",
+  "dimensions": "210 × 176 cm",
+  "museum": {
+    "name": "Museo di Capodimonte (Q 129)",
+    "url": "https://www.wikidata.org/wiki/Q180632"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Titian_%E2%80%93_Portrait_of_Pope_Paul_III_with_his_Grandsons_%E2%80%93_Google_Art_Project_%E2%80%93_edited.jpg/1280px-Titian_%E2%80%93_Portrait_of_Pope_Paul_III_with_his_Grandsons_%E2%80%93_Google_Art_Project_%E2%80%93_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Titian_%E2%80%93_Portrait_of_Pope_Paul_III_with_his_Grandsons_%E2%80%93_Google_Art_Project_%E2%80%93_edited.jpg/2560px-Titian_%E2%80%93_Portrait_of_Pope_Paul_III_with_his_Grandsons_%E2%80%93_Google_Art_Project_%E2%80%93_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1381,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Titian – Portrait of Pope Paul III with his Grandsons – Google Art Project – edited.jpg)"
+  },
+  "archive": {
+    "wd": "Q180632"
+  },
+  "phase": {
+    "label": "The visit to Rome, 1545–46",
+    "source": {
+      "label": "Wikipedia: “painted during Titian's visit to Rome between autumn 1545 and June 1546”",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: a portrait of Pope Paul III with Ottavio and Alessandro Farnese",
+        "url": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The panel contains subtle indications of the contradictions in the character of the Pope, and captures the complex psychological dynamic between the three men.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Pope Paul III and His Grandsons",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons",
+            "accessed": "2026-11-11",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil on canvas painting by Titian”",
+        "url": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “Along with Giorgione, he is considered a founder of the Venetian school of Italian Renaissance painting”",
+        "url": "https://en.wikipedia.org/wiki/Titian"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Pope Paul III and His Grandsons ranks as one of Titian's finest and most penetrating works. Although unfinished and less technically accomplished than his Portrait of Pope Paul III of a few years earlier, it is renowned for its rich colouring; the deep reds of the tablecloth and the almost spectral whites of Paul's gown.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pope Paul III and His Grandsons",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "is, apart from its extraordinary directness and swift technical mastery, of exceptional interest as being unfinished, and thus doubly instructive.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Later Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1898",
+          "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips on the Naples group, 1898:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "rooms were given to him in the Belvedere, to the end that he might set his hand to painting once more the portrait of Pope Paul, of full length, with one of Farnese and one of Duke Ottavio, which he executed excellently well and much to the satisfaction of those lords.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari, who showed Titian round Rome in 1546:"
+      },
+      {
+        "kind": "quote",
+        "text": "Buonarroti commended it not a little, saying that his colouring and his manner much pleased him, but that it was a pity that in Venice men did not learn to draw well from the beginning",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Visiting Titian in the Belvedere, Michelangelo praised his Danaë to Vasari, with a reservation:"
+      },
+      {
+        "kind": "quote",
+        "text": "I recollect hearing Messer Titian say when I visited his house in my childhood to learn something of painting that he had greatly improved his works after having been in Rome",
+        "source": {
+          "author": "Giovanni Battista Leoni",
+          "title": "Letter to Francesco Montemezzano, Rome, 6 August 1589 (in Lettere familiari, 1600)",
+          "publisher": "via Wikiquote",
+          "year": "1589",
+          "readAt": "https://en.wikiquote.org/wiki/Titian",
+          "accessed": "2026-11-11",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The painting explores the effects of ageing and the manoeuvring behind succession; Paul was at the time in his late seventies and ruling in an uncertain political climate as Charles V, Holy Roman Emperor came into ascendancy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pope Paul III and His Grandsons",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Aware of the changing tides of influence, Titian abandoned the commission before completion, and for the next 100 years the painting languished unframed in a Farnese cellar.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pope Paul III and His Grandsons",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

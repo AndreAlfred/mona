@@ -1,0 +1,173 @@
+{
+  "id": "titian-charles-v-at-muhlberg",
+  "artist": "titian",
+  "title": "Equestrian Portrait of Charles V",
+  "date": "1548",
+  "year": 1548,
+  "medium": "oil paint on canvas",
+  "dimensions": "335 × 283 cm",
+  "museum": {
+    "name": "Museo del Prado (P000410)",
+    "url": "https://www.wikidata.org/wiki/Q1123378"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg/1280px-Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg/2560px-Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1424,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Carlos V en Mühlberg, by Titian, from Prado in Google Earth.jpg)"
+  },
+  "archive": {
+    "wd": "Q1123378"
+  },
+  "phase": {
+    "label": "Painter to the Emperor, Augsburg, 1548",
+    "source": {
+      "label": "Wikipedia: “Created between April and September 1548 while Titian was at the imperial court of Augsburg”",
+      "url": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: an equestrian portrait of Charles V, Holy Roman Emperor",
+        "url": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The emperor was very aware of the importance of portraiture in determining how he was seen by others, and appreciated not only Titian's mastery as a painter, but also the artist's manner of presenting him as a ruler.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Equestrian Portrait of Charles V",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V",
+            "accessed": "2026-11-11",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil-on-canvas painting by the Italian Renaissance artist Titian”",
+        "url": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the presence of one of the world's masterpieces criticism may for once remain silent, willingly renouncing all its rights. … A deep sense of thankfulness should possess us that the highest manifestation of Titian's genius has been preserved, even though it be shorn of some of its original beauty.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Later Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1898",
+          "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips, on the fire-damaged canvas, 1898:"
+      },
+      {
+        "kind": "quote",
+        "text": "The painting contains a mix of styles; passages such as the armor and harness display the realism of Titian's early work, while the trees, landscape and sky are built from the broad stretches of colour and strong brushstrokes associated with his work from the 1540s on.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Equestrian Portrait of Charles V",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His instruction reveals that he regarded that pigment \"so burning and so splendid...that in comparison the crimson on velvet and silk will become less beautiful\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Equestrian Portrait of Charles V",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Titian had half a pound of red lake sent from Venice to Augsburg."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Drawing on sources such as Roman military art (the statue of Marcus Aurelius on horseback), Renaissance equestrian imagery such as the engravings of Hans Burgkmair, and possibly Dürer's 1513 engraving Knight, Death and the Devil, Titian departs from the traditional rendering of rider on horse, in which one of the horse's front legs is raised",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Equestrian Portrait of Charles V",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the work of Tiziano so pleased that all-conquering Emperor, that after he had once seen it he would not be portrayed by other painters.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "So with your license, Padron mio unico, I shall go, whither I am called, and returning with the grace of God, I shall serve you with all the strength of the talents which I got from my cradle",
+        "source": {
+          "author": "Titian",
+          "title": "Letter to Cardinal Alessandro Farnese, Venice, 24 December 1547 (trans. J. A. Crowe and G. B. Cavalcaselle, Titian: His Life and Times, 1877)",
+          "publisher": "via Wikiquote",
+          "year": "1547",
+          "readAt": "https://en.wikiquote.org/wiki/Titian",
+          "accessed": "2026-11-11",
+          "tier": 1,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Summoned to the Emperor at Augsburg, Titian excuses himself to the Pope’s grandson:"
+      },
+      {
+        "kind": "quote",
+        "text": "The Emperor is alone--alone as he must be in life and in death--a man, yet lifted so high above other men that the world stretches far below at his feet, while above him this ruler knows no power but that of God.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Later Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1898",
+          "readAt": "https://www.gutenberg.org/cache/epub/12657/pg12657.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

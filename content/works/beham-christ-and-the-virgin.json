@@ -1,0 +1,118 @@
+{
+  "id": "beham-christ-and-the-virgin",
+  "artist": "hans-sebald-beham",
+  "title": "Christ and the Virgin",
+  "date": "1519",
+  "year": 1519,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1946.394"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1946.394/1946.394_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1946.394/1946.394_print.jpg",
+    "width": 615,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. Lewis B. Williams Collection"
+  },
+  "archive": {
+    "cma": 124944
+  },
+  "phase": {
+    "label": "Early Nuremberg prints, signed HSP, c. 1518–25",
+    "source": {
+      "label": "Wikipedia: “In 1521 he is recorded as a Malergeselle (“journeyman painter”)”; “Until about 1532 his prints were monogrammed ‘HSP’”",
+      "url": "https://en.wikipedia.org/wiki/Sebald_Beham"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124944"
+      }
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “The leading members were Hans Sebald Beham, his brother Barthel, and George Pencz”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In his earliest plates … he is a close imitator of [Dürer]",
+        "lead": "Arthur M. Hind, on Beham’s first engravings:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "83"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His early work was done under the shadow of Dürer, who was still working in Nuremberg, and one early woodcut \"Head of Christ\", to which the \"AD\" monogram was added in the second state (though probably not by Beham), was long misattributed to Dürer by Adam Bartsch and others.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Their engraving style was based on the work of Nuremberg master printmaker Albrecht Dürer, who was still living in the city until 1528, and in whose workshop Pencz at least may have trained, and the Italian Marcantonio Raimondi, with whom Barthel Beham is supposed to have worked in Rome.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Masters",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Compared to their contemporaries, devotional subjects are notably absent in the work of the Nuremberg artists, who were all expelled from the city for their religious views in 1525 – an episode that still remains rather unclear.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Masters",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Dated 1519, this devotional plate comes from before that break: a young journeyman still working in the religious subjects of Dürer’s Nuremberg, six years before the city expelled him."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

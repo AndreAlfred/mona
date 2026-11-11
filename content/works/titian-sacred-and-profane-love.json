@@ -1,0 +1,156 @@
+{
+  "id": "titian-sacred-and-profane-love",
+  "artist": "titian",
+  "title": "Sacred and Profane Love (Amor sacro e Amor profano)",
+  "date": "c. 1514",
+  "year": 1514,
+  "medium": "oil paint on canvas",
+  "dimensions": "118 × 279 cm",
+  "museum": {
+    "name": "Galleria Borghese (147)",
+    "url": "https://www.collezionegalleriaborghese.it/opere/amor-sacro-e-amor-profano"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg/1280px-Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg/2560px-Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 476,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Tiziano - Amor Sacro y Amor Profano (Galería Borghese, Roma, 1514)FXD.jpg)"
+  },
+  "archive": {
+    "wd": "Q794077"
+  },
+  "phase": {
+    "label": "Giorgionesque early years, c. 1510–1515",
+    "source": {
+      "label": "Phillips: with the Three Ages it represents “the apogee of Titian's Giorgionesque style”",
+      "url": "https://www.gutenberg.org/ebooks/12626"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil painting by Titian, probably painted in 1514”",
+        "url": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Phillips: the masterpiece of Titian’s “early or Giorgionesque period”, after Giorgione",
+        "url": "https://www.gutenberg.org/ebooks/12626"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He never so completely gave back, coloured with the splendour of his own genius, the rays received from Giorgione. The delicious sunset landscape has all the Giorgionesque elements, with more spaciousness, and lines of a still more suave harmony.",
+          "source": {
+            "author": "Claude Phillips",
+            "title": "The Earlier Work of Titian",
+            "publisher": "Seeley and Co., London (Project Gutenberg)",
+            "year": "1897",
+            "readAt": "https://www.gutenberg.org/cache/epub/12626/pg12626.txt",
+            "accessed": "2026-11-11",
+            "tier": 2,
+            "license": "Public domain"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Sacred and Profane Love of the Borghese Gallery is one of the world's pictures, and beyond doubt the masterpiece of the early or Giorgionesque period.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Earlier Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1897",
+          "readAt": "https://www.gutenberg.org/cache/epub/12626/pg12626.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips, 1897:"
+      },
+      {
+        "kind": "quote",
+        "text": "Sacred and Profane Love (Italian: Amor Sacro e Amor Profano) is an oil painting by Titian, probably painted in 1514, early in his career.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sacred and Profane Love",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The title of the painting is first recorded in 1693, when it was listed in an inventory as Amor Divino e Amor Profano (Divine love and Profane love), and may not represent the original concept at all.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sacred and Profane Love",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although \"much ink has been spilt by art historians attempting to decipher the iconography of the painting\", and some measure of consensus has been achieved, basic aspects of the intended meaning of the painting, including the identity of the central figures, remain disputed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sacred and Profane Love",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The painting is presumed to have been commissioned by Niccolò Aurelio, a secretary to the Venetian Council of Ten, whose coat of arms appears on the sarcophagus or fountain, to celebrate his marriage to a young widow, Laura Bagarotto.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sacred and Profane Love",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In her hair she wears myrtle, both a flower sacred to Venus and one worn by brides.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sacred and Profane Love",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The clothed woman on the left:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

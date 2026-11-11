@@ -1,0 +1,147 @@
+{
+  "id": "beham-luther-disputation",
+  "artist": "hans-sebald-beham",
+  "title": "Dispute between Luther and a Catholic Theologian",
+  "date": "1515–50",
+  "year": 1515,
+  "medium": "woodcut",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1923.412"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1923.412/1923.412_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1923.412/1923.412_print.jpg",
+    "width": 1263,
+    "height": 734,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade"
+  },
+  "archive": {
+    "cma": 105220
+  },
+  "phase": {
+    "label": "Reformation Nuremberg, late 1520s (date uncertain)",
+    "source": {
+      "label": "Scott: “About this time, it may have been, his engraving on wood (B. 164) The Disputation may have been done”",
+      "url": "https://archive.org/details/littlemastersal00scotgoog"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium woodcut",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/105220"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: Beham “was one of the most important of the ‘Little Masters’, the group of German artists making prints in the generation after Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Sebald_Beham"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The disputants are Luther and, possibly, the [Romish] theologian Eck. Behind this last stands bishop and prelate, a muster of clergy ; but behind Luther are secular men and women, peasants and others.",
+        "lead": "William Bell Scott, 1879:",
+        "source": {
+          "author": "William Bell Scott",
+          "title": "The Little Masters",
+          "publisher": "Sampson Low, Marston, Searle & Rivington, London (Internet Archive scan)",
+          "year": "1879",
+          "url": "https://archive.org/details/littlemastersal00scotgoog",
+          "readAt": "https://archive.org/stream/littlemastersal00scotgoog/littlemastersal00scotgoog_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "63"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Those works were printed and published by him, and his much larger woodcuts were mostly commissioned work.",
+        "lead": "On Beham’s tiny engravings and his woodcuts:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1525, he was imprisoned with the brothers Barthel Beham and Hans Sebald Beham, the so-called \"godless painters\", for spreading the radical views of Thomas Müntzer by asserting disbelief in baptism, Christ, and transubstantiation.",
+        "lead": "Of Georg Pencz:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Georg Pencz",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Georg_Pencz",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The accusations against Beham were connected with his Lutheran beliefs, the city authorities then being Catholic, although they adopted Lutheranism as the city's official religion only two months later.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "they formed a trio of freethinkers, and in this period of reformation, when [lukewarmness] in [religious] matters was eyed askance, this was enough to cause the banishment from their native city, which occurred in 1525.",
+        "lead": "Arthur M. Hind, on the Behams and Pencz:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "83"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Several of these contrivers of exquisite miniatures, including Bartel Beham and his more prolific but duller brother, Hans Sebald Beham, lived violently enough to get themselves jailed and banished as subversive freethinkers.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

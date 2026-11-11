@@ -1,0 +1,34 @@
+{
+  "id": "ornament-print",
+  "kind": "subject",
+  "name": "Ornament print",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "With the arrival of the print, ornament prints became an important part of the output of printmakers, especially in Germany, and played a vital role in the rapid diffusion of new Renaissance styles to makers of all sorts of object.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Ornament (art)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Ornament_(art)",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "As printing became cheaper, the single ornament print turned into sets, and then finally books.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Ornament (art)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Ornament_(art)",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "ornament"
+}

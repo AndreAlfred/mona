@@ -1,0 +1,113 @@
+{
+  "id": "beham-little-buffoon",
+  "artist": "hans-sebald-beham",
+  "title": "The Little Buffoon",
+  "date": "1542",
+  "year": 1542,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.385"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.385/1922.385_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.385/1922.385_print.jpg",
+    "width": 1263,
+    "height": 744,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 104230
+  },
+  "phase": {
+    "label": "Frankfurt, the last decade, 1540s",
+    "source": {
+      "label": "Hind: “In the last ten years of his life his virtuosity even increased”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/104230"
+      }
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia, Old master print: “The Little Fool by Sebald Beham, 1542, 4.4 x 8.1 cm”, illustrating the Little Masters",
+        "url": "https://en.wikipedia.org/wiki/Old_master_print"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "So finely engraved as they were, his plates could not last out many printings, and much of the last part of his life was spent in reworking his own plates as well as those left by his brother, to which he even added his own signature.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "83"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Little Masters is a term for a group of several printmakers, who all produced very small finely detailed engravings for a largely bourgeois market, combining in miniature elements from Dürer and from Marcantonio Raimondi, and concentrating on secular, often mythological and erotic, rather than on religious themes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Old master print",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Old_master_print",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The engravings found a ready market among German bourgeois collectors.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sebald Beham",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The size and subject matter of the prints shows that they were designed for a market of collectors who would keep them in albums, of which a number have survived.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Little Masters",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Little_Masters",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

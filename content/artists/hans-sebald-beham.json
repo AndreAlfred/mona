@@ -1,0 +1,116 @@
+{
+  "id": "hans-sebald-beham",
+  "name": "Hans Sebald Beham",
+  "born": 1500,
+  "died": 1550,
+  "active": "c. 1518–1550",
+  "nationality": "German",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “He was one of the most important of the ‘Little Masters’”",
+        "url": "https://en.wikipedia.org/wiki/Sebald_Beham"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: Beham, of “the group of German artists making prints in the generation after Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Sebald_Beham"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "source": {
+        "label": "Hind: the Behams and Pencz “came closely under Dürer’s influence”",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+      }
+    },
+    {
+      "id": "georg-pencz",
+      "name": "Georg Pencz",
+      "source": {
+        "label": "Wikipedia: in 1525 Pencz “was imprisoned with the brothers Barthel Beham and Hans Sebald Beham, the so-called ‘godless painters’”",
+        "url": "https://en.wikipedia.org/wiki/Georg_Pencz"
+      }
+    },
+    {
+      "id": "heinrich-aldegrever",
+      "name": "Heinrich Aldegrever",
+      "source": {
+        "label": "Wikipedia: leading Little Masters include “Heinrich Aldegrever and Albrecht Altdorfer”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    },
+    {
+      "id": "albrecht-altdorfer",
+      "name": "Albrecht Altdorfer",
+      "source": {
+        "label": "Wikipedia: “The earliest artist to make very small intricate engravings was Altdorfer”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    }
+  ],
+  "wikidata": "Q507825",
+  "archive": {
+    "aic": 33577,
+    "cma": [
+      1193
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Sebald Beham (1500–1550) was a German painter and printmaker, mainly known for his very small engravings. Born in Nuremberg, he spent the later part of his career in Frankfurt. He was one of the most important of the \"Little Masters\", the group of German artists making prints in the generation after Dürer.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Sebald Beham",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Sebald_Beham",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "If Barthel was the more talented artist, Hans Sebald Beham, … who was probably of a stronger nature or constitution, and able to … give more assiduous practice to his craft, attained to a greater virtuosity in engraving, and left a far more prolific work.",
+      "lead": "Arthur M. Hind, comparing the brothers:",
+      "source": {
+        "author": "Arthur M. Hind",
+        "title": "A Short History of Engraving and Etching",
+        "publisher": "Archibald Constable (Internet Archive scan)",
+        "year": "1908",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+        "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+        "accessed": "2026-11-11",
+        "tier": 2,
+        "license": "Public domain",
+        "page": "83"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Hans Sebald Beham brought out a pamphlet of the horse in profile …, pirated from studies that [Dürer] must have drawn from the bronze horses of Saint Mark's and their Renaissance adaptations. By later adding the human figure, Beham [produced] a self-help syllabus so practical that artists wore out edition after edition.",
+      "source": {
+        "author": "A. Hyatt Mayor",
+        "title": "Prints & People: A Social History of Printed Pictures",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1971",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+        "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+        "accessed": "2026-11-11",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

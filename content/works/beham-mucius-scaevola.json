@@ -1,0 +1,137 @@
+{
+  "id": "beham-mucius-scaevola",
+  "artist": "hans-sebald-beham",
+  "title": "Mucius Scaevola Holding His Hand in the Fire",
+  "date": "c. 1520",
+  "year": 1515,
+  "medium": "etching",
+  "dimensions": "Sheet: 6.7 x 5.2 cm (2 5/8 x 2 1/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2014.4"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2014.4/2014.4_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2014.4/2014.4_print.jpg",
+    "width": 710,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Alma and Robert D. Milne Fund"
+  },
+  "archive": {
+    "cma": 171632
+  },
+  "phase": {
+    "label": "Early Nuremberg prints, signed HSP, c. 1518–25",
+    "source": {
+      "label": "Wikipedia: “In 1521 he is recorded as a Malergeselle (“journeyman painter”)”; “Until about 1532 his prints were monogrammed ‘HSP’”",
+      "url": "https://en.wikipedia.org/wiki/Sebald_Beham"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/171632"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "[The] etched plates of [Dürer’s] follower, Hans Sebald Beham, amount … to less than twenty in all, and, as in the case of [Dürer], are the [occasional] work of an artist chiefly devoted to line-engraving.",
+          "source": {
+            "author": "Arthur M. Hind",
+            "title": "A Short History of Engraving and Etching",
+            "publisher": "Archibald Constable (Internet Archive scan)",
+            "year": "1908",
+            "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+            "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+            "accessed": "2026-11-11",
+            "tier": 2,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “The leading members were Hans Sebald Beham, his brother Barthel, and George Pencz”",
+        "url": "https://en.wikipedia.org/wiki/Little_Masters"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "he is a close imitator of [Dürer], who was also the immediate inspirer of his etchings, some of which are dated in the years [1519 and 1520].",
+        "lead": "Arthur M. Hind:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "83"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "At about 6.7 by 5.2 centimetres, this is one of Beham’s rare etchings, made when the young printmaker was still testing Dürer’s new technique alongside engraving."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Little Masters is a term for a group of several printmakers, who all produced very small finely detailed engravings for a largely bourgeois market, combining in miniature elements from Dürer and from Marcantonio Raimondi, and concentrating on secular, often mythological and erotic, rather than on religious themes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Old master print",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Old_master_print",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "was an ancient Roman youth, possibly mythical, famous for his bravery.",
+        "lead": "Gaius Mucius Scaevola",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Gaius Mucius Scaevola",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Gaius_Mucius_Scaevola",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Mucius thrust his right hand into a fire which was lit for sacrifice and held it there without giving any indication of pain, thereby earning for himself and his descendants the cognomen Scaevola, meaning \"left-handed\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Gaius Mucius Scaevola",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Gaius_Mucius_Scaevola",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "titian-assumption",
+  "artist": "titian",
+  "title": "Assumption of the Virgin",
+  "date": "1517",
+  "year": 1517,
+  "medium": "oil paint on panel",
+  "dimensions": "668 × 344 cm",
+  "museum": {
+    "name": "Santa Maria Gloriosa dei Frari",
+    "url": "https://www.basilicadeifrari.it/en/opere/assunta/"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2208,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Tizian 041.jpg)"
+  },
+  "archive": {
+    "wd": "Q1899740"
+  },
+  "phase": {
+    "label": "First maturity, Venice, 1516–18",
+    "source": {
+      "label": "Phillips: the Assunta, “that great landmark of the first period of maturity”",
+      "url": "https://www.gutenberg.org/ebooks/12626"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: “a large altarpiece panel painting in oils … on the high altar of the Basilica di Santa Maria Gloriosa dei Frari”",
+        "url": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It is the largest altarpiece in the city, with the figures well over life-size, necessitated by the large church, with a considerable distance between the altar and the congregation.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Assumption of the Virgin (Titian)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
+            "accessed": "2026-11-11",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a large altarpiece panel painting in oils”",
+        "url": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)"
+      }
+    },
+    {
+      "id": "high-renaissance",
+      "source": {
+        "label": "Wikipedia: “reflecting his awareness of the developments in High Renaissance painting further south”",
+        "url": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “Along with Giorgione, he is considered a founder of the Venetian school of Italian Renaissance painting”",
+        "url": "https://en.wikipedia.org/wiki/Titian"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It marked a new direction in Titian's style, reflecting his awareness of the developments in High Renaissance painting further south, in Florence and Rome, by artists including Raphael and Michelangelo.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Assumption of the Virgin (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In none of these masterpieces of the full Renaissance, even if they had all been seen by Titian, which was far from being the case, was there any help to be derived in the elaboration of a work which cannot be said to have had any precursor in the art of Venice.",
+        "source": {
+          "author": "Claude Phillips",
+          "title": "The Earlier Work of Titian",
+          "publisher": "Seeley and Co., London (Project Gutenberg)",
+          "year": "1897",
+          "readAt": "https://www.gutenberg.org/cache/epub/12626/pg12626.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Claude Phillips, 1897:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The agitated figures of the Apostles marked a break with the usual meditative stillness of saints in Venetian painting, in the tradition of Giovanni Bellini and others.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Assumption of the Virgin (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was perhaps originally rather shocking for the Venetian public, but soon recognised as a masterpiece that confirmed Titian's position as the leading artist in Venice, and one of the most important in all Italy, a rival to Michelangelo and Raphael.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Assumption of the Virgin (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He then executed for the high-altar in the Church of the Friars Minors, called the Cà Grande, a picture of Our Lady ascending into Heaven, and below her the twelve Apostles, who are gazing upon her as she ascends",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 9 (Life of Tiziano da Cadore)",
+          "publisher": "Translated by Gaston du C. de Vere (Project Gutenberg)",
+          "year": "1568",
+          "readAt": "https://www.gutenberg.org/cache/epub/32362/pg32362.txt",
+          "accessed": "2026-11-11",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari, 1568:"
+      },
+      {
+        "kind": "quote",
+        "text": "The Franciscan order whose church the Frari is, were always keen promoters of this and other aspects of Marian theology, in particular the related doctrine of the Immaculate Conception of Mary, then still a matter of live controversy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Assumption of the Virgin (Titian)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
+          "accessed": "2026-11-11",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-11",
+    "by": "claude-routine"
+  }
+}

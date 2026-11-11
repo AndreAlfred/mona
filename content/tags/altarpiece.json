@@ -1,0 +1,34 @@
+{
+  "id": "altarpiece",
+  "kind": "subject",
+  "name": "Altarpiece",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "An altarpiece is a painting or sculpture, including relief, of religious subject matter made for placing at the back of or behind the altar of a Christian church.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Altarpiece",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Altarpiece",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Altarpieces were one of the most important products of Christian art especially from the late Middle Ages to the era of Baroque painting.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Altarpiece",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Altarpiece",
+        "accessed": "2026-11-11",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "altarpiece"
+}
