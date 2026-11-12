@@ -22,17 +22,152 @@
     "wd": "Q5526647"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "War artist, 1918–19",
+    "source": {
+      "label": "Wikipedia: Sargent “visited the Western Front in July 1918”; Gassed completed March 1919",
+      "url": "https://en.wikipedia.org/wiki/Gassed_(painting)"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: commissioned “to create a large painting for a planned Hall of Remembrance”",
+        "url": "https://en.wikipedia.org/wiki/Gassed_(painting)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The maimed and broken march of a file of men, [blindfold] and striving in their stricken state to follow the directions of a guiding hand, has been treated with impressive simplicity. It is executed in low relief; with the severity of a processional frieze.",
+          "source": {
+            "author": "Evan Charteris",
+            "title": "John Sargent",
+            "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+            "year": "1927",
+            "url": "https://archive.org/details/johnsargent00char_0",
+            "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+            "accessed": "2026-11-12",
+            "tier": 2,
+            "page": "215"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Gassed is a very large oil painting”",
+        "url": "https://en.wikipedia.org/wiki/Gassed_(painting)"
+      }
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Charteris: “He has given a spiritual value to realism”",
+        "url": "https://archive.org/details/johnsargent00char_0"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Ministry of Information expects an epic – and how can one do an epic without masses of men? Excepting at night I have only seen three fine subjects with masses of men – one a harrowing sight, a field full of gassed and blindfolded men",
+        "lead": "Writing from the front, September 1918:",
+        "source": {
+          "author": "John Singer Sargent",
+          "title": "Letter to Evan Charteris, 11 September 1918",
+          "publisher": "quoted in Wikipedia, “Gassed (painting)”",
+          "year": "1918",
+          "readAt": "https://en.wikipedia.org/wiki/Gassed_(painting)",
+          "accessed": "2026-11-12",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The word “gassed” is ugly, which is my own objection, but I don’t feel it to be melodramatic only very prosaic and matter of fact.",
+        "lead": "Defending the title once the picture was finished:",
+        "source": {
+          "author": "John Singer Sargent",
+          "title": "Letter on the picture's title",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "year": "1919",
+          "page": "215",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In May 1918, Sargent was one of several painters commissioned by the British War Memorials Committee of the British Ministry of Information to create a large painting for a planned Hall of Remembrance.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Gassed (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Gassed_(painting)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was voted picture of the year by the Royal Academy of Arts in 1919. The painting was not universally liked: E. M. Forster considered it too heroic. Winston Churchill praised its \"brilliant genius and painful significance\", but Virginia Woolf attacked its patriotism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Gassed (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Gassed_(painting)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "We knew that a number of gassed men were being taken to a dressing station on the Doullens Road, so we went there in the evening. … It is a good representation of what we saw, as it gives a sense of the surrounding peace.",
+        "lead": "Henry Tonks, the fellow war artist who was with him:",
+        "source": {
+          "author": "Henry Tonks",
+          "title": "Recollection of Sargent at the front",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "page": "212",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the chokings and coughing of gassed men, which was a nightmare—it always seemed strange on opening one’s eyes to see the level cots and the dimly-lit long tent looking so calm, when one was dozing in pandemonium.",
+        "lead": "Laid up with influenza in a hospital tent that autumn:",
+        "source": {
+          "author": "John Singer Sargent",
+          "title": "Letter to Isabella Stewart Gardner",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "year": "1918",
+          "page": "216",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

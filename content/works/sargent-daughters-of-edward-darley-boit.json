@@ -21,17 +21,146 @@
     "wd": "Q644106"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Paris years, 1874–84",
+    "source": {
+      "label": "Charteris: by 1884 Sargent “had been working for ten years in Paris”",
+      "url": "https://archive.org/details/johnsargent00char_0"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: The Daughters of Edward Darley Boit",
+        "url": "https://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In very nearly hiding one of the girl's faces and subjugating the characterization of individuals to more formal compositional considerations, The Daughters of Edward Darley Boit is as much about the subject of childhood as it is an example of portraiture.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Daughters of Edward Darley Boit",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Wikipedia: the girls are shown “in their family's Paris apartment”",
+        "url": "https://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: The Daughters of Edward Darley Boit, oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The artist has done nothing more felicitous and interesting than this view of a rich dim, rather generalized French interior (the perspective of a hall with a shining floor, where screens and tall Japanese vases shimmer and loom), which encloses the life and seems to form the happy play-world of a family of charming children.",
+        "lead": "Henry James, 1887:",
+        "source": {
+          "author": "Henry James",
+          "title": "John S. Sargent",
+          "publisher": "Picture and Text, Harper & Brothers, New York (Project Gutenberg)",
+          "year": "1893",
+          "url": "https://www.gutenberg.org/ebooks/25767",
+          "readAt": "https://www.gutenberg.org/cache/epub/25767/pg25767.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The dimensions may owe something to the influence of Diego Velázquez's Las Meninas, which Sargent had copied, and which presages the geometric format and broad, deep spaces of Sargent's painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Daughters of Edward Darley Boit",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[The picture] was criticized for “its four corners and a void” and the abbreviated execution, but the most captious acknowledged the beauty of the figures of the children, shown under a strong light upon a background of deep shadow",
+        "lead": "At the Salon of 1883:",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "57"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The composition was unusual for a group portrait, both for the varying degrees of prominence given to the figures—conventional group portraiture called for an arrangement in which the subjects were portrayed as equally important—and for the square shape of the canvas.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Daughters of Edward Darley Boit",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "none the less do the little figures in their white pinafores (when was the pinafore ever painted with that power and made so poetic?) detach themselves and live with a personal life.",
+        "source": {
+          "author": "Henry James",
+          "title": "John S. Sargent",
+          "publisher": "Picture and Text, Harper & Brothers, New York (Project Gutenberg)",
+          "year": "1893",
+          "url": "https://www.gutenberg.org/ebooks/25767",
+          "readAt": "https://www.gutenberg.org/cache/epub/25767/pg25767.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Gallati has suggested that the placement of the two oldest girls, at the edge of a darkened and ambiguous entryway, is symbolic of their maturation into an unknown future. … In the succeeding years, none of the girls would marry, and the two oldest suffered emotional disturbances in maturity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Daughters of Edward Darley Boit",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

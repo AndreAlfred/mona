@@ -1,0 +1,21 @@
+{
+  "id": "charcoal",
+  "kind": "material",
+  "name": "Charcoal",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Artists' charcoal is charcoal used as a dry art medium. Both compressed charcoal (held together by a gum or wax binder) and charcoal sticks (wooden sticks burned in a kiln without air) are used. The marks it leaves behind on paper are much less permanent than with other media such as graphite, and so lines can easily be erased and blended.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Charcoal (art)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Charcoal_(art)",
+        "accessed": "2026-11-12",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "charcoal"
+}

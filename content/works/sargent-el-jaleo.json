@@ -1,7 +1,7 @@
 {
   "id": "sargent-el-jaleo",
   "artist": "john-singer-sargent",
-  "title": "El Jaleo (El Jaleo: Danse des gitanes)",
+  "title": "El Jaleo",
   "date": "1882",
   "year": 1882,
   "medium": "oil paint on canvas",
@@ -22,17 +22,146 @@
     "wd": "Q5351449"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Paris years: after Spain, 1879–82",
+    "source": {
+      "label": "Wikipedia: “inspired by a five-month trip Sargent made through Spain and North Africa in 1879”",
+      "url": "https://en.wikipedia.org/wiki/El_Jaleo"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: El Jaleo, oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/El_Jaleo"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "At odds with the academic practice of carefully modulated tones, Sargent dramatized the contrast between rich blacks and the shining white skirt of the dancer, caught in the strong footlights and painted briskly so as to suggest movement.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "El Jaleo",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/El_Jaleo",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: “depicting a Spanish Romani dancer performing to the accompaniment of musicians”",
+        "url": "https://en.wikipedia.org/wiki/El_Jaleo"
+      }
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: El Jaleo shows “his early affinity with the Realist movement”",
+        "url": "https://en.wikipedia.org/wiki/El_Jaleo"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "El Jaleo is the most theatrical of Sargent's early major works. … It was the last subject picture that Sargent exhibited at the Salon, and his greatest success there.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "El Jaleo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/El_Jaleo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This singular work, which has found an appreciative home in Boston, has the stamp of an extraordinary energy and facility—of an actual scene, with its accidents and peculiarities caught, as distinguished from a composition where arrangement and invention have played their part.",
+        "lead": "Henry James, 1887:",
+        "source": {
+          "author": "Henry James",
+          "title": "John S. Sargent",
+          "publisher": "Picture and Text, Harper & Brothers, New York (Project Gutenberg)",
+          "year": "1893",
+          "url": "https://www.gutenberg.org/ebooks/25767",
+          "readAt": "https://www.gutenberg.org/cache/epub/25767/pg25767.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "El Jaleo is an example of Hispanism, the phenomenon of widespread fascination with Spanish culture throughout Europe and America in the nineteenth and early twentieth century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "El Jaleo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/El_Jaleo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "“El Jaleo” sins, in my opinion, in the direction of ugliness, and, independently of the fact that the heroine is circling round incommoded by her petticoats, has a want of serenity.",
+        "source": {
+          "author": "Henry James",
+          "title": "John S. Sargent",
+          "publisher": "Picture and Text, Harper & Brothers, New York (Project Gutenberg)",
+          "year": "1893",
+          "url": "https://www.gutenberg.org/ebooks/25767",
+          "readAt": "https://www.gutenberg.org/cache/epub/25767/pg25767.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was entranced with Spanish music and dance. The trip also re-awakened his own talent for music (which was nearly equal to his artistic talent), and which found visual expression in his early masterpiece El Jaleo (1882).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Singer Sargent",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Singer_Sargent",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "there is as it were the knack of Spain in his “Jaleo”, something neither Italian nor Oriental, but proper to the spirit of the populace of this one peninsula, a somewhat deep-toned gaiety, a laugh in grave notes, and a kind of defiance, at least in the women.",
+        "lead": "Alice Meynell, 1903:",
+        "source": {
+          "author": "Alice Meynell",
+          "title": "The Work of John S. Sargent, R.A.",
+          "publisher": "William Heinemann, London (Internet Archive scan)",
+          "year": "1903",
+          "url": "https://archive.org/details/gri_33125009520731",
+          "readAt": "https://archive.org/stream/gri_33125009520731/gri_33125009520731_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

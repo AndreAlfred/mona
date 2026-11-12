@@ -21,17 +21,149 @@
     "wd": "Q28537564"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Giverny and the Impressionist years, mid-1880s",
+    "source": {
+      "label": "Wikipedia: painted “on a visit to Monet at Giverny in 1885”",
+      "url": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Wikipedia: the picture “is rendered in his own version of the Impressionist style”",
+        "url": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "it has the effect of for the first time coming across a picture that looks like nature and gives the sense of living—for these reasons Monet bowled me over—and he counts as having added a new perception to Artists as the man did who invented perspective.",
+          "lead": "Sargent, years later, on what Monet had taught him:",
+          "source": {
+            "author": "John Singer Sargent",
+            "title": "Letter to Mr. Jameson",
+            "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+            "year": "c. 1911–12",
+            "page": "124",
+            "url": "https://archive.org/details/johnsargent00char_0",
+            "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+            "accessed": "2026-11-12",
+            "tier": 1,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plein-air",
+      "source": {
+        "label": "Wikipedia, En plein air: illustrated with this painting",
+        "url": "https://en.wikipedia.org/wiki/En_plein_air"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia, En plein air: “Claude Monet Painting by the Edge of a Wood (1885) by John Singer Sargent. Oil on canvas”",
+        "url": "https://en.wikipedia.org/wiki/En_plein_air"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Sargent is usually not thought of as an Impressionist painter, but he sometimes used impressionistic techniques to great effect. His Claude Monet Painting at the Edge of a Wood is rendered in his own version of the Impressionist style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Singer Sargent",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Singer_Sargent",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Broken touches, here and there broken colour, lightness of key, harmony of tone, unity of effect, and contrast reduced to its lowest terms—the [characteristics], in fact, associated with Impressionism are found in the studies of this period.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "99–100"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Degas, Renoir, Sisley and Pissarro were among those he saw most often, but Claude Monet was the artist of all others with whom he was on the most friendly terms.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "69"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although the British critics classified Sargent in the Impressionist camp, the French Impressionists thought otherwise. As Monet later stated: \"He is not an Impressionist in the sense that we use the word, he is too much under the influence of Carolus-Duran.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Singer Sargent",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Singer_Sargent",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Cher Monet je vous remercie et je vous aime. Comme artiste, alors, je vous adore.",
+        "lead": "Signing off a letter to Monet:",
+        "source": {
+          "author": "John Singer Sargent",
+          "title": "Letter to Claude Monet",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "page": "97",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Sargent purchased four Monet works for his personal collection during that time.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Singer Sargent",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Singer_Sargent",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "sargent-studies-of-a-soldier-drinking",
   "artist": "john-singer-sargent",
-  "title": "Studies of a Soldier Drinking, for Gassed (recto)",
+  "title": "Studies of a Soldier Drinking, for Gassed",
   "date": "1918–19",
   "year": 1918,
   "medium": "charcoal (stumped in places) (left figures) and graphite (right figure); squared in graphite (right figure)",
@@ -22,18 +22,121 @@
     "cma": 159988
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "War artist, 1918–19",
+    "source": {
+      "label": "Cleveland Museum of Art: a study for Gassed, after Sargent's 1918 visit to the battlefields",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/159988"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "charcoal",
+      "source": {
+        "label": "Cleveland Museum of Art record: charcoal (stumped in places) and graphite",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159988"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "[Gassed] is now held by the Imperial War Museum, along with several charcoal studies for the painting. Other charcoal sketches are held by the Corcoran Gallery of Art.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Gassed (painting)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Gassed_(painting)",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art record: Drawings",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159988"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This drawing is a study for one of the soldiers in the painting, which now hangs in the Imperial War Museum in London.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Studies of a Soldier Drinking, for Gassed (recto)",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159988",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He worked hard and made a number of pencil and pen sketches which formed the basis of the oil painting known as Gassed now in the War Museum.",
+        "lead": "Henry Tonks, on Sargent at the dressing station:",
+        "source": {
+          "author": "Henry Tonks",
+          "title": "Recollection of Sargent at the front",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "page": "212",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The British War Memorial Committee had commissioned the work from him as a way of honoring the sacrifices of World War I. The subject was based on a scene the artist actually witnessed during his visit to battlefields in France in 1918.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Studies of a Soldier Drinking, for Gassed (recto)",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159988",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Gassed cases kept coming in, lead along in parties of about six just as Sargent has depicted them, by an orderly. They sat or lay down on the grass, there must have been several hundred, evidently suffering a great deal, chiefly I fancy from their eyes which were covered up by a piece of lint.",
+        "lead": "Henry Tonks, remembering the dressing station:",
+        "source": {
+          "author": "Henry Tonks",
+          "title": "Letter to Alfred Yockney, 19 March 1920",
+          "publisher": "quoted in Wikipedia, “Gassed (painting)”",
+          "year": "1920",
+          "readAt": "https://en.wikipedia.org/wiki/Gassed_(painting)",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Mustard gas is a persistent vesicant gas, with effects that only become apparent several hours after exposure. It attacks the skin, the eyes and the mucous membranes, causing large skin blisters, blindness, choking and vomiting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Gassed (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Gassed_(painting)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
-  },
-  "_museumText": "In 1919, Sargent exhibited a large painting at the Royal Academy of Art in London called Gassed. The Dressing Station at Le Bac and on the Doullers-Arras Road. The British War Memorial Committee had commissioned the work from him as a way of honoring the sacrifices of World War I. The subject was based on a scene the artist actually witnessed during his visit to battlefields in France in 1918. This drawing is a study for one of the soldiers in the painting, which now hangs in the Imperial War Museum in London."
+    "by": "claude-routine"
+  }
 }
