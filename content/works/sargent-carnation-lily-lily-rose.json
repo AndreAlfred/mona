@@ -1,0 +1,168 @@
+{
+  "id": "sargent-carnation-lily-lily-rose",
+  "artist": "john-singer-sargent",
+  "title": "Carnation, Lily, Lily, Rose",
+  "date": "1885",
+  "year": 1885,
+  "medium": "oil paint on canvas",
+  "dimensions": "153.7 × 174 cm",
+  "museum": {
+    "name": "Tate (N01615)",
+    "url": "http://www.tate.org.uk/art/artworks/sargent-carnation-lily-lily-rose-n01615"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg/1280px-John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg/2560px-John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1356,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singer Sargent - Carnation, Lily, Lily, Rose - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q1560719"
+  },
+  "phase": {
+    "label": "Broadway, the Cotswolds, 1885–86",
+    "source": {
+      "label": "Charteris: “In the late summer of 1886 he was back again at Broadway, finishing Carnation, Lily Lily Rose”",
+      "url": "https://archive.org/details/johnsargent00char_0"
+    }
+  },
+  "tags": [
+    {
+      "id": "plein-air",
+      "source": {
+        "label": "Wikipedia: “he painted the picture en plein air – outdoors and in the Impressionist manner”",
+        "url": "https://en.wikipedia.org/wiki/Carnation,_Lily,_Lily,_Rose"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Sargent wanted to capture the exact level of light at dusk so he painted the picture en plein air – outdoors and in the Impressionist manner.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Carnation, Lily, Lily, Rose",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Carnation,_Lily,_Lily,_Rose",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "Instantly, he took up his place at a distance from the canvas, and at a certain notation of the light ran forward over the lawn with the action of a wag-tail, planting at the same time rapid dabs of paint on the picture, and then retiring again",
+          "lead": "Edmund Gosse, who watched him at Broadway:",
+          "source": {
+            "author": "Edmund Gosse",
+            "title": "Letter to Evan Charteris",
+            "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+            "page": "75",
+            "url": "https://archive.org/details/johnsargent00char_0",
+            "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+            "accessed": "2026-11-12",
+            "tier": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Wikipedia: painted “in the Impressionist manner”",
+        "url": "https://en.wikipedia.org/wiki/Carnation,_Lily,_Lily,_Rose"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil-on-canvas painting”",
+        "url": "https://en.wikipedia.org/wiki/Carnation,_Lily,_Lily,_Rose"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The most successful picture which he painted out of doors in England, he succeeded in painting only with the assistance of a Chinese lantern. … he obtained a subtlety and delicacy of colouring reminiscent of his earliest work, and produced what will always rank as one of his great achievements.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "83–84"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the painting of the lilies shows the same exactness of observation that characterizes the faces. They are portraits of lilies.",
+        "source": {
+          "author": "John C. Van Dyke",
+          "title": "American Painting and Its Tradition",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1919",
+          "url": "https://archive.org/details/ameng00vand",
+          "readAt": "https://archive.org/stream/ameng00vand/ameng00vand_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain",
+          "page": "261"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The work received a mixed reception at the Royal Academy summer exhibition in 1887, with some criticising his \"Frenchified\" style. However, there was also much praise, and Sir Frederic Leighton, President of the Royal Academy, encouraged the Tate Gallery to buy the painting later that year, using money from the Chantrey Bequest. It was the first of Sargent's works to be acquired by a public museum.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Carnation, Lily, Lily, Rose",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Carnation,_Lily,_Lily,_Rose",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Never for any picture did he do so many studies and sketches. He would hang about like a snapshot photographer to catch the children in attitudes helpful to his main purpose.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "74"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The two subjects of the painting are the daughters of the illustrator Frederick Barnard, a friend of Sargent's.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Carnation, Lily, Lily, Rose",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Carnation,_Lily,_Lily,_Rose",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

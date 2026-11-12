@@ -1,0 +1,34 @@
+{
+  "id": "plein-air",
+  "kind": "technique",
+  "name": "Plein-air painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "En plein air … or plein-air painting, is the act of painting outdoors.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "En plein air",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/En_plein_air",
+        "accessed": "2026-11-12",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It enabled the artist to better capture the changing details of weather and light. The invention of portable canvases and easels allowed the practice to develop, particularly in France, and in the early 1830s the Barbizon School of painting in natural light was highly influential.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "En plein air",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/En_plein_air",
+        "accessed": "2026-11-12",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "plein air"
+}

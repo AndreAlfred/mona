@@ -1,0 +1,165 @@
+{
+  "id": "tiepolo-immaculate-conception",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "The Immaculate Conception (Die Unbefleckte Empfängnis)",
+  "date": "1767",
+  "year": 1767,
+  "medium": "oil paint on canvas",
+  "dimensions": "281 × 155 cm",
+  "museum": {
+    "name": "Museo del Prado (P000363)",
+    "url": "https://www.wikidata.org/wiki/Q5916308"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg/1280px-The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg/2560px-The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2205,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Immaculate Conception, by Giovanni Battista Tiepolo, from Prado in Google Earth.jpg)"
+  },
+  "archive": {
+    "wd": "Q5916308"
+  },
+  "phase": {
+    "label": "Last years in Madrid, 1762–70",
+    "source": {
+      "label": "Wikipedia: commissioned by Charles III in 1761; “Tiepolo died in Madrid on 27 March 1770”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: “one of seven altarpieces commissioned in March 1767”",
+        "url": "https://en.wikipedia.org/wiki/The_Immaculate_Conception_(Tiepolo)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The painting was one of seven altarpieces commissioned in March 1767 from Tiepolo by King Charles III of Spain for the Church of Saint Pascual in Aranjuez, then under construction.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Immaculate Conception (Tiepolo)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Immaculate_Conception_(Tiepolo)",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Medium Oil on canvas”",
+        "url": "https://en.wikipedia.org/wiki/The_Immaculate_Conception_(Tiepolo)"
+      }
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Tiepolo “painted in the Rococo style”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "[The Prado picture and its modello mark] the climax of Tiepolo's long career as a painter of religious subjects.",
+        "lead": "Catherine Whistler, 1996:",
+        "source": {
+          "author": "Catherine Whistler",
+          "title": "Catalogue entries nos. 40a–b, The Immaculate Conception, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "242",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Tiepolo had painted an earlier version of the Immaculate Conception in 1734 for the Franciscan church of Santa Maria in Araceli in Vicenza. That version depicted the Virgin Mary as a beautiful young girl in the manner already established by Guido Reni and Bartolomé Esteban Murillo following Pacheco.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Immaculate Conception (Tiepolo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Immaculate_Conception_(Tiepolo)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Tiepolo's altarpieces were transferred to the adjoining convent soon after they were installed in the church. They were replaced by an identically themed set by Anton Raphael Mengs, whose neo-classicism was more to Charles III's taste.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Immaculate Conception (Tiepolo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Immaculate_Conception_(Tiepolo)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "However, he suffered from the jealousy and the bitter opposition of the rising champion of Neoclassicism, Anton Raphael Mengs",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Tiepolo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "We know from a letter the artist wrote on 29 August 1769 that he was acutely anxious lest Eleta find fault with the finished paintings",
+        "lead": "Whistler, on the painter’s last months:",
+        "source": {
+          "author": "Catherine Whistler",
+          "title": "Catalogue entries nos. 40a–b, The Immaculate Conception, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "245",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It depicts the Virgin Mary, surrounded by angels and crowned with the circle of stars. She is shown trampling a snake, representing her victory over the devil.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Immaculate Conception (Tiepolo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Immaculate_Conception_(Tiepolo)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

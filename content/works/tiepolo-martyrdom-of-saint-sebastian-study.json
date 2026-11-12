@@ -1,0 +1,165 @@
+{
+  "id": "tiepolo-martyrdom-of-saint-sebastian-study",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "Study for \"The Martyrdom of Saint Sebastian\" (for the Augustinian monastery at Diessen, Germany)",
+  "date": "1739",
+  "year": 1739,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 67.5 x 45.5 x 6 cm (26 9/16 x 17 15/16 x 2 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1946.277"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1946.277/1946.277_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1946.277/1946.277_print.jpg",
+    "width": 518,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Delia E. Holden and L. E. Holden Funds"
+  },
+  "archive": {
+    "cma": 124796
+  },
+  "phase": {
+    "label": "Early maturity, 1726–50",
+    "source": {
+      "label": "Wikipedia: section “Early mature work (1726–1750)”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-sketch",
+      "source": {
+        "label": "Cleveland Museum of Art record: “This sketch is Tiepolo’s initial design for his altarpiece”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124796"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "A modello (from Italian [moˈdɛllo], plural modelli) is a preparatory study or model, usually at a smaller scale, for a work of art or architecture, especially one produced for the approval of the commissioning patron.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Modello",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Modello",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Cleveland Museum of Art record: a pair of monumental altarpieces installed in 1739",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124796"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium oil on canvas",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124796"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This sketch is Tiepolo’s initial design for his altarpiece, submitted for approval before beginning the final work.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Study for “The Martyrdom of Saint Sebastian”",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1946.277",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124796",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A systematic producer of small modelli sketches on canvas with a high degree of finish was the 18th century Venetian Giovanni Battista Tiepolo, whose superb technique is often shown at its best in reducing a huge altarpiece to a lively but precise rendering at this small scale.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Oil sketch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Oil_sketch",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1739 a pair of monumental altarpieces by two Venetian painters (Giovanni Battista Tiepolo and Giambattista Pittoni) were installed in a church in southern Germany, part of a carefully orchestrated decorative program that included architecture, painting, sculpture, and decorative stuccowork.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Study for “The Martyrdom of Saint Sebastian”",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1946.277",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124796",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "By the end of the 1730s, Tiepolo's experience of large-scale work in fresco in northern Italy and the Venetian mainland gave him the edge over Piazzetta, Pittoni, and other artists whose religious pictures were sought after but who rarely, if ever, painted in fresco.",
+        "lead": "Catherine Whistler, 1996:",
+        "source": {
+          "author": "Catherine Whistler",
+          "title": "“Tiepolo as a Religious Artist” (essay), in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "193",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "With quick, assured brushstrokes, he represents the Christian martyr Sebastian bound to a tree and shot with arrows, flooded with radiant light to symbolize his devotion to his faith.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Study for “The Martyrdom of Saint Sebastian”",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1946.277",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124796",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "According to traditional belief, he was killed during the Diocletianic Persecution of Christians. He was initially tied to a post or tree and shot with arrows, though this did not kill him.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Sebastian",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Sebastian",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

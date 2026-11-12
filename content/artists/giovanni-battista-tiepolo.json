@@ -1,0 +1,141 @@
+{
+  "id": "giovanni-battista-tiepolo",
+  "name": "Giovanni Battista Tiepolo",
+  "born": 1696,
+  "died": 1770,
+  "active": "c. 1715–1770",
+  "nationality": "Italian",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Tiepolo “painted in the Rococo style”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “considered an important member of the 18th-century Venetian school”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "giovanni-domenico-tiepolo",
+      "name": "Giovanni Domenico Tiepolo",
+      "source": {
+        "label": "Wikipedia: “Two of his sons, Giovanni Domenico and Lorenzo, painted with him as his assistants”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    },
+    {
+      "id": "giovanni-battista-piazzetta",
+      "name": "Giovanni Battista Piazzetta",
+      "source": {
+        "label": "Wikipedia: Tiepolo was “strongly influenced by his study of the works of other contemporary artists such as Sebastiano Ricci, Giovanni Battista Piazzetta and Federico Bencovich”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    },
+    {
+      "id": "francesco-guardi",
+      "name": "Francesco Guardi",
+      "source": {
+        "label": "Wikipedia: Tiepolo married Maria Cecilia Guardi, “sister of two contemporary Venetian painters, Francesco and Giovanni Antonio Guardi”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    },
+    {
+      "id": "antonio-canaletto",
+      "name": "Antonio Canaletto",
+      "source": {
+        "label": "Wikipedia: Tiepolo, “together with Giambattista Pittoni, Canaletto, Giovan Battista Piazzetta, Giuseppe Maria Crespi, and Francesco Guardi are considered the traditional Old Masters of that period”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    },
+    {
+      "id": "giovanni-battista-piranesi",
+      "name": "Giovanni Battista Piranesi",
+      "source": {
+        "label": "Boorsch: Piranesi “surely saw Tiepolo's Capricci and probably some of the Scherzi, for his set of four Grotteschi … show their influence”",
+        "url": "https://archive.org/details/VenetianPrintsandBooksintheAgeofTiepolo"
+      }
+    },
+    {
+      "id": "francisco-de-goya",
+      "name": "Francisco de Goya",
+      "source": {
+        "label": "Christiansen: “the Caprichos of Goya, who unquestionably knew and perhaps owned a set of Tiepolo's etchings”",
+        "url": "https://archive.org/details/GiambattistaTiepolo16961770"
+      }
+    },
+    {
+      "id": "titian",
+      "name": "Titian",
+      "source": {
+        "label": "Christiansen: in Scipio Freeing Massiva the standard-bearer “repeats the pose of the Magdalen in Titian's late Pietà”",
+        "url": "https://archive.org/details/GiambattistaTiepolo16961770"
+      }
+    }
+  ],
+  "wikidata": "Q186202",
+  "archive": {
+    "aic": 36972,
+    "cma": [
+      2329
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Painters should aim to succeed in great works, the kind that can please noble, rich people, for it is they who determine the fortunes of the Masters, and not other people, who cannot buy paintings of great value. Therefore the mind of the painter must always be directed towards the Sublime, the Heroic, towards Perfection.",
+      "lead": "His creed, published as he left for Spain in 1762:",
+      "source": {
+        "author": "Giovanni Battista Tiepolo",
+        "title": "Declaration published in the Nuova veneta gazzetta, 20 March 1762 (quoted by Adriano Mariuz)",
+        "publisher": "Translated in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen (The Metropolitan Museum of Art, 1996; Internet Archive scan)",
+        "year": "1762",
+        "page": "5",
+        "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+        "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+        "accessed": "2026-11-12",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Tiepolo, then, is the painter of light, a term with the fullest possible resonance in a century that declared itself enlightened.",
+      "lead": "Adriano Mariuz, 1996:",
+      "source": {
+        "author": "Adriano Mariuz",
+        "title": "“Giambattista Tiepolo: ‘Painting's True Magician’” (essay), in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+        "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+        "year": "1996",
+        "page": "5",
+        "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+        "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+        "accessed": "2026-11-12",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Giovanni Battista Tiepolo … was an Italian painter and printmaker from the Republic of Venice who painted in the Rococo style, considered an important member of the 18th-century Venetian school. He was prolific, and worked not only in Italy, but also in Germany and Spain.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Giovanni Battista Tiepolo",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+        "accessed": "2026-11-12",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

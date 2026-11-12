@@ -1,0 +1,110 @@
+{
+  "id": "john-singer-sargent",
+  "name": "John Singer Sargent",
+  "born": 1856,
+  "died": 1925,
+  "active": "1870s–1925",
+  "nationality": "American",
+  "period": "fin-de-siecle",
+  "wikidata": "Q155626",
+  "archive": {
+    "aic": 36540,
+    "cma": [
+      2559,
+      287402
+    ]
+  },
+  "movements": [
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: “Sargent practiced his own form of Realism”",
+        "url": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Wikipedia: his informal studies and landscapes “displayed a familiarity with Impressionism”",
+        "url": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "claude-monet",
+      "name": "Claude Monet",
+      "source": {
+        "label": "Charteris: Monet “was the artist of all others with whom he was on the most friendly terms”",
+        "url": "https://archive.org/details/johnsargent00char_0"
+      }
+    },
+    {
+      "id": "winslow-homer",
+      "name": "Winslow Homer",
+      "source": {
+        "label": "Cleveland Museum of Art: “Along with Winslow Homer, Sargent was the major artist to develop a spontaneous approach toward watercolor”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124814"
+      }
+    },
+    {
+      "id": "james-mcneill-whistler",
+      "name": "James McNeill Whistler",
+      "source": {
+        "label": "Wikipedia: through Helleu, Sargent met “Degas, Rodin, Monet, and Whistler”",
+        "url": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
+      }
+    }
+  ],
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "No more paughtraits whether refreshed or not. I abhor and abjure them and hope never to do another especially of the Upper Classes.",
+      "lead": "Writing to a friend, when sated with portrait painting:",
+      "source": {
+        "author": "John Singer Sargent",
+        "title": "Letter to Ralph Curtis",
+        "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+        "page": "155",
+        "url": "https://archive.org/details/johnsargent00char_0",
+        "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+        "accessed": "2026-11-12",
+        "tier": 1,
+        "license": "Public domain"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "[Sargent] was an American expatriate artist, considered the \"leading portrait painter of his generation\" for his evocations of Belle Époque and Edwardian-era luxury. He made roughly 900 oil paintings and more than 2,000 watercolors, as well as countless sketches and charcoal drawings.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "John Singer Sargent",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/John_Singer_Sargent",
+        "accessed": "2026-11-12",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It is as if painting were pure tact of vision, a simple manner of feeling.",
+      "lead": "Henry James, 1887:",
+      "source": {
+        "author": "Henry James",
+        "title": "John S. Sargent",
+        "publisher": "Picture and Text, Harper & Brothers, New York (Project Gutenberg)",
+        "year": "1893",
+        "url": "https://www.gutenberg.org/ebooks/25767",
+        "readAt": "https://www.gutenberg.org/cache/epub/25767/pg25767.txt",
+        "accessed": "2026-11-12",
+        "tier": 3,
+        "license": "Public domain"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

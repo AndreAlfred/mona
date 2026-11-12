@@ -1,0 +1,159 @@
+{
+  "id": "sargent-in-austrian-tyrol",
+  "artist": "john-singer-sargent",
+  "title": "In Austrian Tyrol",
+  "date": "1911",
+  "year": 1911,
+  "medium": "watercolor with traces of graphite",
+  "dimensions": "Sheet: 29.9 x 45.2 cm (11 3/4 x 17 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1921.1734"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1921.1734/1921.1734_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1921.1734/1921.1734_print.jpg",
+    "width": 1263,
+    "height": 851,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Hinman B. Hurlbut Collection"
+  },
+  "archive": {
+    "cma": 173172
+  },
+  "phase": {
+    "label": "After the portrait studio: travel watercolours, 1907–14",
+    "source": {
+      "label": "Charteris: “In the summer of 1911, at Munich, on his way to the Tyrol”",
+      "url": "https://archive.org/details/johnsargent00char_0"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art record: watercolor with traces of graphite",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/173172"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Instead, mountain views such as In Austrian Tyrol were closely cropped, often rendered from a low vantage point. The visual relationship between the shapes of the foreground rocks and the mountains themselves was what captured his attention.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "In Austrian Tyrol",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173172",
+            "accessed": "2026-11-12",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plein-air",
+      "source": {
+        "label": "Wikipedia: in later life Sargent “devoted much of his energy to mural painting and working en plein air”",
+        "url": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Although Sargent’s career was defined by his portraits of high-society patrons, privately he painted landscapes in watercolor and oil throughout his career. After the turn of the century, assured of his reputation, Sargent produced more landscapes than any other kind of painting.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "In Austrian Tyrol",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173172",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "if he turned to natural scenery, he chose wildness rather than beauty, strange effects in mountain formation, gorges, tumbling glaciers, or rocks strewn as though they were the missiles on a Titans’ battlefield.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "224"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Alpine views were among his favorite subjects, but he avoided associating them with the rhetoric of the sublime.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "In Austrian Tyrol",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/173172",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Appreciation of his water-colours has since then rapidly increased. The view is even entertained that they will do more than his oil paintings to maintain the level of his fame.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "223"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "But I hardly ever do! Once in a great, great while.",
+        "lead": "Told how delightful it must be to bring back something fine every time he worked:",
+        "source": {
+          "author": "John Singer Sargent",
+          "title": "Remark recorded by Evan Charteris",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "page": "225",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With his watercolors, Sargent was able to indulge his earliest artistic inclinations for nature, architecture, exotic peoples, and noble mountain landscapes. And it is in some of his late works where one senses Sargent painting most purely for himself.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Singer Sargent",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Singer_Sargent",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

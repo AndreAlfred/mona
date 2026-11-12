@@ -1,0 +1,180 @@
+{
+  "id": "sargent-madame-x",
+  "artist": "john-singer-sargent",
+  "title": "Madame X (Virginie Amélie Avegno Gautreau)",
+  "date": "1884",
+  "year": 1884,
+  "medium": "oil paint on canvas",
+  "dimensions": "2432 × 1438 mm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (16.53)",
+    "url": "https://www.metmuseum.org/art/collection/search/12127"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Sargent_MadameX.jpeg/1280px-Sargent_MadameX.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2271,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sargent MadameX.jpeg)"
+  },
+  "archive": {
+    "wd": "Q2664039"
+  },
+  "phase": {
+    "label": "Paris years, 1874–84",
+    "source": {
+      "label": "Charteris: by 1884 Sargent “had been working for ten years in Paris”",
+      "url": "https://archive.org/details/johnsargent00char_0"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: Madame X is “an 1884 portrait painting by John Singer Sargent”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Madame_X"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This superb picture, noble in conception and masterly in line, gives to the figure represented something of the high relief of the profiled images on great friezes.",
+          "lead": "Henry James, 1887:",
+          "source": {
+            "author": "Henry James",
+            "title": "John S. Sargent",
+            "publisher": "Picture and Text, Harper & Brothers, New York (Project Gutenberg)",
+            "year": "1893",
+            "url": "https://www.gutenberg.org/ebooks/25767",
+            "readAt": "https://www.gutenberg.org/cache/epub/25767/pg25767.txt",
+            "accessed": "2026-11-12",
+            "tier": 3,
+            "license": "Public domain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Portrait of Madame X, oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Madame_X"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "My portrait of Madame Gautreau is now, with some other things I sent from here at the San Francisco Exhibition and now that it is in America I rather feel inclined to let it stay there if a Museum should want it. I suppose it is the best thing I have done.",
+        "lead": "Offering the picture to the Metropolitan Museum, January 1916:",
+        "source": {
+          "author": "John Singer Sargent",
+          "title": "Letter to Edward Robinson, director of the Metropolitan Museum",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "year": "1916",
+          "page": "65",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He had painted what is now recognized as a masterpiece, displaying excellences which he was perhaps never to surpass. It had been received with a storm of abuse.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "63"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "There was a grande tapage before it all day. In a few minutes I found him dodging behind doors to avoid friends who looked grave.",
+        "lead": "Sargent's friend Ralph Curtis, on opening day at the Salon:",
+        "source": {
+          "author": "Ralph Curtis",
+          "title": "Letter to his parents on the Salon of 1884",
+          "publisher": "quoted in Evan Charteris, John Sargent (1927; Internet Archive scan)",
+          "page": "61",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The scandal resulting from the painting's controversial reception at the Paris Salon of 1884 (negative reviews saw it as vulgar and over-sexualized, or criticized the stark contrast) amounted to a temporary setback to Sargent while in France, though it may have helped him later establish a successful career in Britain and America.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Madame X",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Madame_X",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is a work to take or to leave, as the phrase is, and one in regard to which the question of liking or disliking comes promptly to be settled.",
+        "source": {
+          "author": "Henry James",
+          "title": "John S. Sargent",
+          "publisher": "Picture and Text, Harper & Brothers, New York (Project Gutenberg)",
+          "year": "1893",
+          "url": "https://www.gutenberg.org/ebooks/25767",
+          "readAt": "https://www.gutenberg.org/cache/epub/25767/pg25767.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I have a great desire to paint her portrait and have reason to think she would allow it and is waiting for someone to propose this homage to her beauty.",
+        "lead": "Writing to a friend after meeting Virginie Gautreau:",
+        "source": {
+          "author": "John Singer Sargent",
+          "title": "Letter to a friend, quoted in “Portrait of Madame X”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Madame_X",
+          "accessed": "2026-11-12",
+          "tier": 1,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Paris, which had been smooth and well-disposed and [encouraging], had turned, and like a child splintering a plaything, had dealt a violent blow at its recognized favourite.",
+        "source": {
+          "author": "Evan Charteris",
+          "title": "John Sargent",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/johnsargent00char_0",
+          "readAt": "https://archive.org/stream/johnsargent00char_0/johnsargent00char_0_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "63"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

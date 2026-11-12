@@ -1,0 +1,158 @@
+{
+  "id": "sargent-lady-agnew-of-lochnaw",
+  "artist": "john-singer-sargent",
+  "title": "Lady Agnew of Lochnaw",
+  "date": "1892",
+  "year": 1892,
+  "medium": "oil paint on canvas",
+  "dimensions": "127 × 101 cm",
+  "museum": {
+    "name": "National Galleries Scotland (NG 1656)",
+    "url": "https://www.wikidata.org/wiki/Q18344787"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg/1280px-John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg/2560px-John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1518,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singer Sargent - Lady Agnew of Lochnaw (1892).jpeg)"
+  },
+  "archive": {
+    "wd": "Q18344787"
+  },
+  "phase": {
+    "label": "Society portraitist in London, 1890s",
+    "source": {
+      "label": "Wikipedia: exhibited at the Royal Academy in 1893, the year before Sargent became an associate",
+      "url": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “an oil on canvas portrait painting of Gertrude Agnew”",
+        "url": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Lady Agnew is seated in an 18th-century French Bergère and, according to art historian Richard Ormond, the back of the chair is used as a \"curving, supporting space to contain the figure, creating a distinctive, languid elegance\".",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Lady Agnew of Lochnaw",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil on canvas portrait painting”",
+        "url": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Lady Agnew in especial may be unquestionably classed among the most [sympathetic] portrayals of feminine character that Sargent has achieved.",
+        "source": {
+          "author": "William Howe Downes",
+          "title": "John S. Sargent: His Life and Work",
+          "publisher": "Little, Brown, and Company, Boston (Internet Archive scan)",
+          "year": "1925",
+          "url": "https://archive.org/details/johnssargenthisl0000down",
+          "readAt": "https://archive.org/stream/johnssargenthisl0000down/johnssargenthisl0000down_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2,
+          "page": "36"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The portrait was exhibited at the Royal Academy, London, in 1893 and may have been influential in the artist's acceptance as an associate of the Academy the following January.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lady Agnew of Lochnaw",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "not only a triumph of technique but the finest example of portraiture, in the literal sense of the word, that has been seen here for a long time. While Mr Sargent has abandoned none of his subtlety, he has abandoned his mannerisms, and has been content to make a beautiful picture of a charming subject, under conditions of repose.",
+        "lead": "The Times, reviewing the Royal Academy in April 1893:",
+        "source": {
+          "author": "The Times",
+          "title": "The Royal Academy",
+          "publisher": "The Times",
+          "year": "1893",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw",
+          "accessed": "2026-11-12",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "And for refinement, distinction, sensitiveness, what could be better than the beautiful portrait of \"Lady Agnew\"?",
+        "source": {
+          "author": "John C. Van Dyke",
+          "title": "American Painting and Its Tradition",
+          "publisher": "Charles Scribner's Sons, New York (Internet Archive scan)",
+          "year": "1919",
+          "url": "https://archive.org/details/ameng00vand",
+          "readAt": "https://archive.org/stream/ameng00vand/ameng00vand_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 3,
+          "license": "Public domain",
+          "page": "260"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Ormond and Kilmurray remark that she was convalescing from influenza at the time, which may account for the languor in her pose. They describe her gaze as \"quietly challenging\" and \"something withheld and inviting in her quizzical half-smile\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lady Agnew of Lochnaw",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "According to the Scottish National Gallery, \"the cumulative cost of sustaining celebrity with style obliged Lady Agnew to sell her own portrait\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lady Agnew of Lochnaw",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}

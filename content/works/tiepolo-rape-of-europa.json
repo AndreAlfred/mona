@@ -1,0 +1,140 @@
+{
+  "id": "tiepolo-rape-of-europa",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "The Rape of Europa",
+  "date": "c. 1725",
+  "year": 1725,
+  "medium": "oil paint on canvas",
+  "dimensions": "105.5 × 141.5 cm",
+  "museum": {
+    "name": "Gallerie dell'Accademia (Cat.435)",
+    "url": "https://www.wikidata.org/wiki/Q25442922"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg/1280px-%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg/2560px-%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 882,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons ((Venice) Rape of Europa by Giambattista Tiepolo - Gallerie Accademia.jpg)"
+  },
+  "archive": {
+    "wd": "Q25442922"
+  },
+  "phase": {
+    "label": "Early years in Venice, 1716–30",
+    "source": {
+      "label": "Christiansen (ed.), Giambattista Tiepolo 1696–1770 (1996): catalogue section “The Early Years: 1716–1730”",
+      "url": "https://archive.org/details/GiambattistaTiepolo16961770"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q25442922"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “considered an important member of the 18th-century Venetian school”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Drawing especially on Veronese, he developed a light, airy, Baroque style that foreshadowed the painting of most of the rest of the century, and was a great influence on young Venetian painters.",
+          "lead": "Of Sebastiano Ricci, to whom the Accademia mythologies were long attributed:",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Venetian painting",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Venetian_painting",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Tiepolo “painted in the Rococo style”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the Rape of Europa Tiepolo identified himself not with the most famous painter of antiquity but, audaciously, with the ruler of the gods.",
+        "lead": "Giuseppe Maria Pilo, 1996:",
+        "source": {
+          "author": "Giuseppe Maria Pilo",
+          "title": "Catalogue entries nos. 6a–b, The Accademia Mythologies, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "71",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "At the end of the 17th century things began to change dramatically, and for much of the 18th century Venetian painters were in remarkable demand all over Europe, even as the city itself declined and was a much reduced market, in particular for large works",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Venetian painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venetian_painting",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "[In 1719,] Tiepolo married noblewoman Maria Cecilia Guardi, sister of two contemporary Venetian painters, Francesco and Giovanni Antonio Guardi.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Tiepolo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it seems plausible that Tiepolo gave Agenor's proud daughter, the beautiful Phoenician princess kidnapped by Zeus, the features of his young wife.",
+        "lead": "Pilo, on the marriage:",
+        "source": {
+          "author": "Giuseppe Maria Pilo",
+          "title": "Catalogue entries nos. 6a–b, The Accademia Mythologies, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "71",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "claude-routine"
+  }
+}
