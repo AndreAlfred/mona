@@ -1,0 +1,38 @@
+{
+  "id": "sargent-gassed",
+  "artist": "john-singer-sargent",
+  "title": "Gassed",
+  "date": "1919",
+  "year": 1919,
+  "medium": "oil paint on canvas",
+  "dimensions": "231 × 611.1 cm",
+  "museum": {
+    "name": "Imperial War Museum London (Art.IWM ART 1460)",
+    "url": "https://www.iwm.org.uk/collections/item/object/23722"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/John_Singer_Sargent_-_Gassed_%281919%29.jpg/1280px-John_Singer_Sargent_-_Gassed_%281919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/John_Singer_Sargent_-_Gassed_%281919%29.jpg/2560px-John_Singer_Sargent_-_Gassed_%281919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 452,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singer Sargent - Gassed (1919).jpg)"
+  },
+  "archive": {
+    "wd": "Q5526647"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

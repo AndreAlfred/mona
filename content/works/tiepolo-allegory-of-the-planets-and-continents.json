@@ -1,0 +1,38 @@
+{
+  "id": "tiepolo-allegory-of-the-planets-and-continents",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "Allegory of the Planets and Continents",
+  "date": "1752",
+  "year": 1752,
+  "medium": "oil paint on canvas",
+  "dimensions": "185.4 × 139.4 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1977.1.3)",
+    "url": "https://www.metmuseum.org/art/collection/search/437790"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Giovanni_Battista_Tiepolo_-_Allegory_of_the_Planets_and_Continents.jpg/1280px-Giovanni_Battista_Tiepolo_-_Allegory_of_the_Planets_and_Continents.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Giovanni_Battista_Tiepolo_-_Allegory_of_the_Planets_and_Continents.jpg/2560px-Giovanni_Battista_Tiepolo_-_Allegory_of_the_Planets_and_Continents.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1590,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giovanni Battista Tiepolo - Allegory of the Planets and Continents.jpg)"
+  },
+  "archive": {
+    "wd": "Q19911765"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

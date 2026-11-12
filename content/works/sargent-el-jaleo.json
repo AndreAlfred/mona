@@ -1,0 +1,38 @@
+{
+  "id": "sargent-el-jaleo",
+  "artist": "john-singer-sargent",
+  "title": "El Jaleo (El Jaleo: Danse des gitanes)",
+  "date": "1882",
+  "year": 1882,
+  "medium": "oil paint on canvas",
+  "dimensions": "232 × 348 cm",
+  "museum": {
+    "name": "Isabella Stewart Gardner Museum (P7s1)",
+    "url": "https://www.gardnermuseum.org/experience/collection/13259"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/EL_JALEO-SINGER.jpg/1280px-EL_JALEO-SINGER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/EL_JALEO-SINGER.jpg/2560px-EL_JALEO-SINGER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 811,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (EL JALEO-SINGER.jpg)"
+  },
+  "archive": {
+    "wd": "Q5351449"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

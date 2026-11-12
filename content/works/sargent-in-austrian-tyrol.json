@@ -1,0 +1,39 @@
+{
+  "id": "sargent-in-austrian-tyrol",
+  "artist": "john-singer-sargent",
+  "title": "In Austrian Tyrol",
+  "date": "1911",
+  "year": 1911,
+  "medium": "watercolor with traces of graphite",
+  "dimensions": "Sheet: 29.9 x 45.2 cm (11 3/4 x 17 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1921.1734"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1921.1734/1921.1734_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1921.1734/1921.1734_print.jpg",
+    "width": 1263,
+    "height": 851,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Hinman B. Hurlbut Collection"
+  },
+  "archive": {
+    "cma": 173172
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  },
+  "_museumText": "Although Sargent’s career was defined by his portraits of high-society patrons, privately he painted landscapes in watercolor and oil throughout his career. After the turn of the century, assured of his reputation, Sargent produced more landscapes than any other kind of painting. Alpine views were among his favorite subjects, but he avoided associating them with the rhetoric of the sublime. Instead, mountain views such as In Austrian Tyrol were closely cropped, often rendered from a low vantage point. The visual relationship between the shapes of the foreground rocks and the mountains themselves was what captured his attention."
+}

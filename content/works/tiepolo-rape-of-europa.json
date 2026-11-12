@@ -1,0 +1,38 @@
+{
+  "id": "tiepolo-rape-of-europa",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "The Rape of Europa",
+  "date": "c. 1725",
+  "year": 1725,
+  "medium": "oil paint on canvas",
+  "dimensions": "105.5 × 141.5 cm",
+  "museum": {
+    "name": "Gallerie dell'Accademia (Cat.435)",
+    "url": "https://www.wikidata.org/wiki/Q25442922"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg/1280px-%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg/2560px-%28Venice%29_Rape_of_Europa_by_Giambattista_Tiepolo_-_Gallerie_Accademia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 882,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons ((Venice) Rape of Europa by Giambattista Tiepolo - Gallerie Accademia.jpg)"
+  },
+  "archive": {
+    "wd": "Q25442922"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

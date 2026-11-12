@@ -1,0 +1,39 @@
+{
+  "id": "sargent-the-patio",
+  "artist": "john-singer-sargent",
+  "title": "The Patio",
+  "date": "1908",
+  "year": 1869,
+  "medium": "watercolor with traces of gouache over graphite",
+  "dimensions": "Sheet: 53.2 x 34.6 cm (20 15/16 x 13 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1946.293"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1946.293/1946.293_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1946.293/1946.293_print.jpg",
+    "width": 589,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, In memory of Ralph King, gift of Mrs. Ralph King; Ralph T. Woods, Charles G. King; and Frances King Schafer"
+  },
+  "archive": {
+    "cma": 124814
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  },
+  "_museumText": "Sargent was born in Italy, studied in France, and worked chiefly in England, but he never renounced his American citizenship. As a young man, Sargent achieved fame and wealth as a portraitist, but he gradually tired of painting wealthy, superficial aristocrats. In his later years he focused increasingly on watercolor. Along with Winslow Homer, Sargent was the major artist to develop a spontaneous approach toward watercolor. Rather than carefully layering his pigments, he dashed off his paintings in a single sitting, allowing the colors to freely blend together."
+}

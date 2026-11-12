@@ -1,0 +1,38 @@
+{
+  "id": "tiepolo-banquet-of-cleopatra",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "The Banquet of Cleopatra",
+  "date": "1743",
+  "year": 1743,
+  "medium": "oil paint on canvas",
+  "dimensions": "250.3 × 357 cm",
+  "museum": {
+    "name": "National Gallery of Victoria (103-4)",
+    "url": "https://www.wikidata.org/wiki/Q18167078"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg/1280px-Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg/2560px-Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 838,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giambattista Tiepolo - The Banquet of Cleopatra - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18167078"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

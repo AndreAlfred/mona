@@ -1,0 +1,37 @@
+{
+  "id": "tiepolo-death-giving-audience",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "Various Caprices:  Death Giving Audience",
+  "date": "1735–50",
+  "year": 1730,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1924.575.9"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1924.575.9/1924.575.9_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1924.575.9/1924.575.9_print.jpg",
+    "width": 903,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 106521
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

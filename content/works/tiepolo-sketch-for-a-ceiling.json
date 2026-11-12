@@ -1,0 +1,39 @@
+{
+  "id": "tiepolo-sketch-for-a-ceiling",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "Sketch for a Ceiling",
+  "date": "1750s",
+  "year": 1750,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 51.5 x 43 x 6.5 cm (20 1/4 x 16 15/16 x 2 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1916.780"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1916.780/1916.780_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1916.780/1916.780_print.jpg",
+    "width": 725,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Holden Collection"
+  },
+  "archive": {
+    "cma": 97141
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  },
+  "_museumText": "This small, quickly painted picture is typical of the sketches Tiepolo made as studies for larger compositions. When completed full-scale on a ceiling, works like these give the impression of a massive window, through which one can see angels or mythological beings floating among the clouds. Although we know from the work's shape that it was a study for a ceiling painting, it is not related to any of Tiepolo's finished architectural decorations. Tiepolo used such sketches to explore design problems, experiment with form and color, or give his clients an idea of how a finished project would look. With the help of a large workshop, which included two of his sons, Tiepolo completed a number of painted ceilings and decorative schemes across Europe."
+}

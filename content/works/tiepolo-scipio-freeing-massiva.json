@@ -1,0 +1,37 @@
+{
+  "id": "tiepolo-scipio-freeing-massiva",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "Scipio Africanus Freeing Massiva",
+  "date": "1719",
+  "year": 1719,
+  "medium": "oil paint on canvas",
+  "dimensions": "279.4 × 487.6 mm",
+  "museum": {
+    "name": "Walters Art Museum (37.657)",
+    "url": "https://www.wikidata.org/wiki/Q38197"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Giovanni_Battista_Tiepolo_-_Scipio_Africanus_Freeing_Massiva_-_Walters_37657.jpg/1280px-Giovanni_Battista_Tiepolo_-_Scipio_Africanus_Freeing_Massiva_-_Walters_37657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 679,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Giovanni Battista Tiepolo - Scipio Africanus Freeing Massiva - Walters 37657.jpg)"
+  },
+  "archive": {
+    "wd": "Q38197"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

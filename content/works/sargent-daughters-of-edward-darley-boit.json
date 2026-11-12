@@ -1,0 +1,37 @@
+{
+  "id": "sargent-daughters-of-edward-darley-boit",
+  "artist": "john-singer-sargent",
+  "title": "The Daughters of Edward Darley Boit",
+  "date": "1882",
+  "year": 1882,
+  "medium": "oil paint on canvas",
+  "dimensions": "221.93 × 222.57 cm",
+  "museum": {
+    "name": "Museum of Fine Arts Boston (19.124)",
+    "url": "https://www.wikidata.org/wiki/Q644106"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/John_Singer_Sargent_001.jpg/1280px-John_Singer_Sargent_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1204,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singer Sargent 001.jpg)"
+  },
+  "archive": {
+    "wd": "Q644106"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

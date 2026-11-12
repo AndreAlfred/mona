@@ -1,0 +1,38 @@
+{
+  "id": "sargent-lady-agnew-of-lochnaw",
+  "artist": "john-singer-sargent",
+  "title": "Lady Agnew of Lochnaw",
+  "date": "1892",
+  "year": 1892,
+  "medium": "oil paint on canvas",
+  "dimensions": "127 × 101 cm",
+  "museum": {
+    "name": "National Galleries Scotland (NG 1656)",
+    "url": "https://www.wikidata.org/wiki/Q18344787"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg/1280px-John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg/2560px-John_Singer_Sargent_-_Lady_Agnew_of_Lochnaw_%281892%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1518,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singer Sargent - Lady Agnew of Lochnaw (1892).jpeg)"
+  },
+  "archive": {
+    "wd": "Q18344787"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

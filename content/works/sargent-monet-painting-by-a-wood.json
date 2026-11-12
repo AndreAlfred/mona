@@ -1,0 +1,37 @@
+{
+  "id": "sargent-monet-painting-by-a-wood",
+  "artist": "john-singer-sargent",
+  "title": "Claude Monet Painting by the Edge of a Wood",
+  "date": "c. 1885",
+  "year": 1885,
+  "medium": "oil paint on canvas",
+  "dimensions": "64.8 × 54 cm",
+  "museum": {
+    "name": "Tate (N04103)",
+    "url": "http://www.tate.org.uk/art/artworks/sargent-claude-monet-painting-by-the-edge-of-a-wood-n04103"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sargent_MonetPainting.jpg/1280px-Sargent_MonetPainting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 988,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sargent MonetPainting.jpg)"
+  },
+  "archive": {
+    "wd": "Q28537564"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

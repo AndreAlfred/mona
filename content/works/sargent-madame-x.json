@@ -1,0 +1,37 @@
+{
+  "id": "sargent-madame-x",
+  "artist": "john-singer-sargent",
+  "title": "Madame X (Virginie Amélie Avegno Gautreau)",
+  "date": "1884",
+  "year": 1884,
+  "medium": "oil paint on canvas",
+  "dimensions": "2432 × 1438 mm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (16.53)",
+    "url": "https://www.metmuseum.org/art/collection/search/12127"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Sargent_MadameX.jpeg/1280px-Sargent_MadameX.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2271,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sargent MadameX.jpeg)"
+  },
+  "archive": {
+    "wd": "Q2664039"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

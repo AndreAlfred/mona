@@ -1,0 +1,39 @@
+{
+  "id": "sargent-studies-of-a-soldier-drinking",
+  "artist": "john-singer-sargent",
+  "title": "Studies of a Soldier Drinking, for Gassed (recto)",
+  "date": "1918–19",
+  "year": 1918,
+  "medium": "charcoal (stumped in places) (left figures) and graphite (right figure); squared in graphite (right figure)",
+  "dimensions": "Sheet: 48.1 x 62.6 cm (18 15/16 x 24 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1997.256.a"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.256.a/1997.256.a_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1997.256.a/1997.256.a_print.jpg",
+    "width": 900,
+    "height": 695,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Jane Iglauer Fallon in memory of Harold Fallon"
+  },
+  "archive": {
+    "cma": 159988
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  },
+  "_museumText": "In 1919, Sargent exhibited a large painting at the Royal Academy of Art in London called Gassed. The Dressing Station at Le Bac and on the Doullers-Arras Road. The British War Memorial Committee had commissioned the work from him as a way of honoring the sacrifices of World War I. The subject was based on a scene the artist actually witnessed during his visit to battlefields in France in 1918. This drawing is a study for one of the soldiers in the painting, which now hangs in the Imperial War Museum in London."
+}

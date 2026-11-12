@@ -1,0 +1,38 @@
+{
+  "id": "tiepolo-immaculate-conception",
+  "artist": "giovanni-battista-tiepolo",
+  "title": "The Immaculate Conception (Die Unbefleckte Empfängnis)",
+  "date": "1767",
+  "year": 1767,
+  "medium": "oil paint on canvas",
+  "dimensions": "281 × 155 cm",
+  "museum": {
+    "name": "Museo del Prado (P000363)",
+    "url": "https://www.wikidata.org/wiki/Q5916308"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg/1280px-The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg/2560px-The_Immaculate_Conception%2C_by_Giovanni_Battista_Tiepolo%2C_from_Prado_in_Google_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2205,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Immaculate Conception, by Giovanni Battista Tiepolo, from Prado in Google Earth.jpg)"
+  },
+  "archive": {
+    "wd": "Q5916308"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}

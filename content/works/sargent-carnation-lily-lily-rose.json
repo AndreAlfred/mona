@@ -1,0 +1,38 @@
+{
+  "id": "sargent-carnation-lily-lily-rose",
+  "artist": "john-singer-sargent",
+  "title": "Carnation, Lily, Lily and Rose (Carnation, Lily, Lily, Rose)",
+  "date": "1885",
+  "year": 1885,
+  "medium": "oil paint on canvas",
+  "dimensions": "153.7 × 174 cm",
+  "museum": {
+    "name": "Tate (N01615)",
+    "url": "http://www.tate.org.uk/art/artworks/sargent-carnation-lily-lily-rose-n01615"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg/1280px-John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg/2560px-John_Singer_Sargent_-_Carnation%2C_Lily%2C_Lily%2C_Rose_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1356,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singer Sargent - Carnation, Lily, Lily, Rose - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q1560719"
+  },
+  "phase": {
+    "label": "TODO period/phase of the artist's career",
+    "ai": true
+  },
+  "tags": [],
+  "sections": {
+    "work": [],
+    "moment": [],
+    "matters": []
+  },
+  "curated": {
+    "on": "2026-11-12",
+    "by": "TODO agent name"
+  }
+}
