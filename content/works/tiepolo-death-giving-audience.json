@@ -1,7 +1,7 @@
 {
   "id": "tiepolo-death-giving-audience",
   "artist": "giovanni-battista-tiepolo",
-  "title": "Various Caprices:  Death Giving Audience",
+  "title": "Various Caprices: Death Giving Audience",
   "date": "1735–50",
   "year": 1730,
   "medium": "etching",
@@ -21,17 +21,136 @@
     "cma": 106521
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Early maturity, 1726–50",
+    "source": {
+      "label": "Wikipedia: section “Early mature work (1726–1750)”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/106521"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Tiepolo produced two sets of etchings, the Capricci (c. 1740–1742) and the Scherzi di fantasia (c. 1743–1757). The ten capricci were first published by Anton Maria Zanetti, incorporated into the third edition of a compilation of woodcuts after Parmigianino. They were not published separately until 1785.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Giovanni Battista Tiepolo",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "memento-mori",
+      "source": {
+        "label": "Christiansen: “its subject is the confrontation of the living with Death”",
+        "url": "https://archive.org/details/GiambattistaTiepolo16961770"
+      }
+    },
+    {
+      "id": "capriccio",
+      "source": {
+        "label": "Boorsch: “Tiepolo's Capricci are dreamlike, timeless, subjectless works, true caprices”",
+        "url": "https://archive.org/details/VenetianPrintsandBooksintheAgeofTiepolo"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Even the Capriccio portraying Death traces its origin to a more conventional subject. Four preliminary studies are known, and in the earliest of these … a saint was shown performing a miracle in front of an upended tomb slab.",
+        "lead": "Keith Christiansen, 1996:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "Catalogue entry no. 59a–j, The Capricci, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "350",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Tiepolo's Capricci are dreamlike, timeless, subjectless works, true caprices sprung from the artist's imagination",
+        "source": {
+          "author": "Suzanne Boorsch",
+          "title": "Venetian Prints and Books in the Age of Tiepolo",
+          "publisher": "The Metropolitan Museum of Art Bulletin (Internet Archive scan)",
+          "year": "1997",
+          "page": "14",
+          "url": "https://archive.org/details/VenetianPrintsandBooksintheAgeofTiepolo",
+          "readAt": "https://archive.org/stream/VenetianPrintsandBooksintheAgeofTiepolo/VenetianPrintsandBooksintheAgeofTiepolo_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The subject matter is often bizarre and fantastical, and the works owe a lot to the example of Salvator Rosa and Giovanni Benedetto Castiglione.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Tiepolo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[In] Death Giving Audience … the viewer is distanced from the scene; this is not the traditional cautionary image of omnipresent Death making a sudden strike, but a glimpse into a world removed, where Death's appearance is not surprising",
+        "lead": "Suzanne Boorsch, 1997:",
+        "source": {
+          "author": "Suzanne Boorsch",
+          "title": "Venetian Prints and Books in the Age of Tiepolo",
+          "publisher": "The Metropolitan Museum of Art Bulletin (Internet Archive scan)",
+          "year": "1997",
+          "page": "14",
+          "url": "https://archive.org/details/VenetianPrintsandBooksintheAgeofTiepolo",
+          "readAt": "https://archive.org/stream/VenetianPrintsandBooksintheAgeofTiepolo/VenetianPrintsandBooksintheAgeofTiepolo_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "[This print] … obviously draws on images of the triumph of Death and of the classical-pastoral theme of Death's presence even in Arcadia (et in arcadia ego). The sinister element that comes to the fore in the Scherzi is here scarcely hinted at",
+        "lead": "Christiansen:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "Catalogue entry no. 59a–j, The Capricci, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "349",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

@@ -22,18 +22,165 @@
     "cma": 123965
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Early maturity, 1726–50",
+    "source": {
+      "label": "Wikipedia: section “Early mature work (1726–1750)”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "pen-and-ink",
+      "source": {
+        "label": "Cleveland Museum of Art record: pen and brown ink and brush and brown wash, over black chalk",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/123965"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Working over his black chalk underdrawing, traces of which are visible in the figures’ robes, the artist delineated the scene with brown ink, quill pen, and brush before modeling with brown wash.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: The Adoration of the Magi",
+            "publisher": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1944.474",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123965",
+            "accessed": "2026-11-12",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art record: department Drawings",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/123965"
+      }
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Tiepolo “painted in the Rococo style”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Tiepolo plays with the conventions of the Adoration subject by employing an asymmetrical composition.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: The Adoration of the Magi",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.474",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123965",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The broken wheel in the foreground, an attribute of Saint Catherine, also appears in Tiepolo's etching of the same subject (1965.18) to which this drawing may be related.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: The Adoration of the Magi",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.474",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123965",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Giambattista made only two prints with traditional subject matter: a small Saint Joseph with the Infant Jesus and a much larger Adoration of the Magi",
+        "lead": "Suzanne Boorsch, on that etching:",
+        "source": {
+          "author": "Suzanne Boorsch",
+          "title": "Venetian Prints and Books in the Age of Tiepolo",
+          "publisher": "The Metropolitan Museum of Art Bulletin (Internet Archive scan)",
+          "year": "1997",
+          "page": "23–24",
+          "url": "https://archive.org/details/VenetianPrintsandBooksintheAgeofTiepolo",
+          "readAt": "https://archive.org/stream/VenetianPrintsandBooksintheAgeofTiepolo/VenetianPrintsandBooksintheAgeofTiepolo_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Tiepolo’s mastery over value is evident in his contrasts of dark shadow with light midtones and the luminous white of his paper, producing his celebrated effects of glistening sunlight and clear atmosphere.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: The Adoration of the Magi",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.474",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123965",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Long after the tide of changing taste had swept away serious consideration of Tiepolo's illusionistic ceilings, secular fresco cycles, and opulent altarpieces, the demand for his drawings and oil sketches remained undiminished.",
+        "lead": "Keith Christiansen, 1996:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "“The Fiery Poetic Fantasy of Giambattista Tiepolo” (essay), in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "284",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to the Gospel of Matthew, three Magi, guided by a star, found the newborn Jesus and laid gifts of gold, frankincense, and myrrh before him.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: The Adoration of the Magi",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.474",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/123965",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A love of exotic costume … is an intrinsic part of Tiepolo's imagination",
+        "lead": "Christiansen:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "“The Fiery Poetic Fantasy of Giambattista Tiepolo” (essay), in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "278",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
-  },
-  "_museumText": "According to the Gospel of Matthew, three Magi, guided by a star, found the newborn Jesus and laid gifts of gold, frankincense, and myrrh before him. Giovanni Battista (Giambattista) Tiepolo’s drawing of the traditional subject places the Madonna on a platform as she holds the Christ child out toward three approaching magi. Two bearded white magi kneel in supplication as the turbaned black magi stands behind them. Tiepolo plays with the conventions of the Adoration subject by employing an asymmetrical composition. Working over his black chalk underdrawing, traces of which are visible in the figures’ robes, the artist delineated the scene with brown ink, quill pen, and brush before modeling with brown wash. Tiepolo’s mastery over value is evident in his contrasts of dark shadow with light midtones and the luminous white of his paper, producing his celebrated effects of glistening sunlight and clear atmosphere. The broken wheel in the foreground, an attribute of Saint Catherine, also appears in Tiepolo's etching of the same subject (1965.18) to which this drawing may be related."
+    "by": "claude-routine"
+  }
 }

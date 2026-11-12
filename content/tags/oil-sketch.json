@@ -1,0 +1,34 @@
+{
+  "id": "oil-sketch",
+  "kind": "technique",
+  "name": "Oil sketch (modello)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "An oil sketch or oil study is an artwork made primarily in oil paint in preparation for a larger, finished work. Originally these were created as preparatory studies or modelli, especially so as to gain approval for the design of a larger commissioned painting.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Oil sketch",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Oil_sketch",
+        "accessed": "2026-11-12",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Especially in the case of oil sketches, many modelli are greatly valued in their own right, as they may show a freedom in execution and freshness of inspiration missing in the final work, and also may show changes in composition from the finished work, throwing light on the process of artistic creation.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Modello",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Modello",
+        "accessed": "2026-11-12",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "oil sketch"
+}

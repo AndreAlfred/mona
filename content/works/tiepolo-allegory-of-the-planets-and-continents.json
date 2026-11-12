@@ -22,17 +22,152 @@
     "wd": "Q19911765"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Würzburg, 1750–53",
+    "source": {
+      "label": "Wikipedia: “Würzburg Residenz (1750–1753)”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "oil-sketch",
+      "source": {
+        "label": "Wikipedia: “an elaborate oil sketch made by Tiepolo in preparation”",
+        "url": "https://en.wikipedia.org/wiki/Allegory_of_the_Planets_and_Continents"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In the modello the light source is imagined as emanating from Apollo rather than from the various windows in the stairwell; even the stucco figures are shown, quite impossibly, as though lit from this notional source. This choice alone makes it clear that to a degree Tiepolo viewed the modello as an independent work.",
+          "lead": "Keith Christiansen, 1996:",
+          "source": {
+            "author": "Keith Christiansen",
+            "title": "Catalogue entry no. 49, Allegory of the Planets and Continents, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+            "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+            "year": "1996",
+            "page": "309",
+            "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+            "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+            "accessed": "2026-11-12",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "ceiling-painting",
+      "source": {
+        "label": "Wikipedia: prepared for “a massive fresco” on “the ceiling of a staircase”",
+        "url": "https://en.wikipedia.org/wiki/Allegory_of_the_Planets_and_Continents"
+      }
+    },
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: “a similar, larger version of the scene as a massive fresco”",
+        "url": "https://en.wikipedia.org/wiki/Allegory_of_the_Planets_and_Continents"
+      }
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Tiepolo “painted in the Rococo style”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting is an elaborate oil sketch made by Tiepolo in preparation for rendering a similar, larger version of the scene as a massive fresco.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Allegory of the Planets and Continents",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Allegory_of_the_Planets_and_Continents",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The result was a fresco that necessarily sacrificed the discrete compositional unity of the modello, which was meant to be taken in by the patron at a glance, to the realities of complex, on-site viewing.",
+        "lead": "Christiansen, on what changed on the ceiling:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "“The Fiery Poetic Fantasy of Giambattista Tiepolo” (essay), in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "286",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1750, Lorenz Jakob Mehling, a merchant at Venice, sent Giovanni Battista Tiepolo, the most famous fresco painter of his time, to the episcopal residence, after the painter Giuseppe Visconti had failed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Würzburg Residence",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/W%C3%BCrzburg_Residence",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "By 1750, Tiepolo's reputation was firmly established throughout Europe, with the help of his friend Francesco Algarotti, an art dealer, critic and collector.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Tiepolo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The intricate painting depicts figures circling around Tiepolo's rendering of Apollo, the sun god; this represents planets orbiting the Sun. The cornice of the painting symbolize the continents Europe, America, Africa, and Asia.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Allegory of the Planets and Continents",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Allegory_of_the_Planets_and_Continents",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He included several portraits in the Europe section of this fresco, including a self-portrait; one of his son Giandomenico; one of the prince-bishop von Greiffenklau; one of the painter Antonio Bossi; and one of the architect, Balthasar Neumann.",
+        "lead": "On the finished staircase fresco:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Tiepolo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

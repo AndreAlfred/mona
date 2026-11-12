@@ -22,17 +22,151 @@
     "wd": "Q18167078"
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Early maturity, 1726–50",
+    "source": {
+      "label": "Wikipedia: section “Early mature work (1726–1750)”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “a supposed historical banquet, hosted by Cleopatra for Marc Antony”",
+        "url": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The subject of the painting is a supposed historical banquet, hosted by Cleopatra for Marc Antony, and described by both Pliny's Natural History (9.58.119–121) and Plutarch's Lives (Antony 25.36.1). During this banquet Cleopatra takes an expensive pearl and dissolves it in her wine, prior to imbibing the drink.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Banquet of Cleopatra (Tiepolo)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)",
+            "accessed": "2026-11-12",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Type Oil paint on canvas”",
+        "url": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)"
+      }
+    },
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “Venetian taste approved of such explicit reference to the city's artistic tradition”",
+        "url": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)"
+      }
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Tiepolo “painted in the Rococo style”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is the first of three large paintings of the subject by Tiepolo. In addition to these, the much smaller oil studies or modelli for each of the larger paintings survive.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Banquet of Cleopatra (Tiepolo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the painting later sent to Dresden, Tiepolo altered a number of elements, the most important of which are Cleopatra's gestures and the surrounding architecture. The queen is now poised, ready to let the pearl drop into the vinegar, and the moment is more pregnant with suspense.",
+        "lead": "William L. Barcham, comparing this canvas with its modello:",
+        "source": {
+          "author": "William L. Barcham",
+          "title": "Catalogue entry no. 19, The Banquet of Cleopatra, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "151",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "All the compositions show a clear debt to Paolo Veronese's grandly theatrical feast paintings of nearly a century earlier, such as The Wedding at Cana (1563, Louvre) and The Feast in the House of Levi (1573, Accademia, Venice). Venetian taste approved of such explicit reference to the city's artistic tradition.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Banquet of Cleopatra (Tiepolo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Melbourne painting was commissioned for Frederick Augustus III, Elector of Saxony, by his agent Francesco Algarotti.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Banquet of Cleopatra (Tiepolo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I swear I enjoy spending one day in your company and talking about painting more than I do the delights of this villa, which — believe me — are far from few.",
+        "lead": "Writing to Algarotti, the patron of this picture, from Villa Cordellina:",
+        "source": {
+          "author": "Giovanni Battista Tiepolo",
+          "title": "Letter to Francesco Algarotti, 26 October 1743 (quoted by William L. Barcham)",
+          "publisher": "Translated in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen (The Metropolitan Museum of Art, 1996; Internet Archive scan)",
+          "year": "1743",
+          "page": "152",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The episode depicts the spartan Roman warrior represented by Antony being seduced by the sensual opulence of the East, as exemplified by Cleopatra. The wealth of the scene is compounded by the presence of black servants, often held as slaves in Venice.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Banquet of Cleopatra (Tiepolo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Tiepolo)",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
+    "by": "claude-routine"
   }
 }

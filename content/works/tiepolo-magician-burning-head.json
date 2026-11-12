@@ -22,18 +22,148 @@
     "cma": 160194
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Mature years in Venice: the Scherzi, c. 1743–57",
+    "source": {
+      "label": "Wikipedia: “the Scherzi di fantasia (c. 1743–1757)”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/160194"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Light was Tiepolo's essential means of expression and the basic element of his style. The sensation of sunlight bathing each scene is an illusion created by the contrast of the nervous, broken lines against white paper.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Scherzi di Fantasia: Magician Pointing Out a Burning Head to Two Youths",
+            "publisher": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1998.113",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/160194",
+            "accessed": "2026-11-12",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "memento-mori",
+      "source": {
+        "label": "Cleveland Museum of Art record: “direct confrontation with death, are the recurring themes”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/160194"
+      }
+    },
+    {
+      "id": "capriccio",
+      "source": {
+        "label": "Christiansen: the Scherzi as “high-brow caprices”",
+        "url": "https://archive.org/details/GiambattistaTiepolo16961770"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The 23 Scherzi were etched over more than ten years and privately circulated, only being commercially published after Tiepolo's death, with numbers and titles added by his son, Giandomenico. Subjects include mysterious Eastern figures, and, in some of the later prints, scenes of necromancy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Tiepolo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Invention and virtuosity, not technical innovation or fastidiousness, are the strengths of his etchings.",
+        "lead": "Keith Christiansen, 1996:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "Catalogue entry no. 60a–w, The Scherzi di Fantasia, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "358",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The eerie mood of the prints reflect the preoccupation of 18th-century Venice with magic, superstition, and witchcraft.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Scherzi di Fantasia: Magician Pointing Out a Burning Head to Two Youths",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1998.113",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/160194",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Scherzi might best be seen as high-brow caprices meant to titillate as well as give esoteric pleasure. In this they are decisively unlike Goya's Caprichos … They are, first and foremost, exercises in the fantastic, and Goya must have admired their enigmatic allure.",
+        "lead": "Christiansen:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "Catalogue entry no. 60a–w, The Scherzi di Fantasia, in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "360",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A scherzo is a musical composition made up of little phrases, with implications of playfulness. Tiepolo's Scherzi are improvised scenes of magicians, philosophers, soldiers, old men in turbans, and shepherds who consult horoscopes, skulls, skeletons, and snakes among altars, ruins, and ancient bas-reliefs.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Scherzi di Fantasia: Magician Pointing Out a Burning Head to Two Youths",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1998.113",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/160194",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The transitory nature of life, the vanity of human pursuits, and direct confrontation with death, are the recurring themes.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Scherzi di Fantasia: Magician Pointing Out a Burning Head to Two Youths",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1998.113",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/160194",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
-  },
-  "_museumText": "A scherzo is a musical composition made up of little phrases, with implications of playfulness. Tiepolo's Scherzi are improvised scenes of magicians, philosophers, soldiers, old men in turbans, and shepherds who consult horoscopes, skulls, skeletons, and snakes among altars, ruins, and ancient bas-reliefs. The transitory nature of life, the vanity of human pursuits, and direct confrontation with death, are the recurring themes. The eerie mood of the prints reflect the preoccupation of 18th-century Venice with magic, superstition, and witchcraft. Light was Tiepolo's essential means of expression and the basic element of his style. The sensation of sunlight bathing each scene is an illusion created by the contrast of the nervous, broken lines against white paper. Shade is obliterated; even the darkest areas are transparent as they, too, are created out of light."
+    "by": "claude-routine"
+  }
 }

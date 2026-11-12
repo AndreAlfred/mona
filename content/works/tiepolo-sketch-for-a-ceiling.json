@@ -22,18 +22,168 @@
     "cma": 97141
   },
   "phase": {
-    "label": "TODO period/phase of the artist's career",
-    "ai": true
+    "label": "Würzburg and the return to Venice, 1750s",
+    "source": {
+      "label": "Wikipedia: sections “Würzburg Residenz (1750–1753)” and “Return to Venice and the Veneto (1753–1770)”",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+    }
   },
-  "tags": [],
+  "tags": [
+    {
+      "id": "oil-sketch",
+      "source": {
+        "label": "Cleveland Museum of Art record: “typical of the sketches Tiepolo made as studies for larger compositions”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/97141"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Tiepolo used such sketches to explore design problems, experiment with form and color, or give his clients an idea of how a finished project would look.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "Collection description: Sketch for a Ceiling",
+            "publisher": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1916.780",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/97141",
+            "accessed": "2026-11-12",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ceiling-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: “a study for a ceiling painting”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/97141"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium oil on canvas",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/97141"
+      }
+    },
+    {
+      "id": "rococo",
+      "source": {
+        "label": "Wikipedia: Tiepolo “painted in the Rococo style”",
+        "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo"
+      }
+    }
+  ],
   "sections": {
-    "work": [],
-    "moment": [],
-    "matters": []
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This small, quickly painted picture is typical of the sketches Tiepolo made as studies for larger compositions.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Sketch for a Ceiling",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1916.780",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/97141",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although we know from the work's shape that it was a study for a ceiling painting, it is not related to any of Tiepolo's finished architectural decorations.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Sketch for a Ceiling",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1916.780",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/97141",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nowhere is the inherent independence of the modelli more evident than in the sketches for the vast ceiling projects, in which the figures are invariably larger in scale than in the final work.",
+        "lead": "Keith Christiansen, 1996:",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "“The Fiery Poetic Fantasy of Giambattista Tiepolo” (essay), in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "285",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "When completed full-scale on a ceiling, works like these give the impression of a massive window, through which one can see angels or mythological beings floating among the clouds.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Sketch for a Ceiling",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1916.780",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/97141",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Long after the tide of changing taste had swept away serious consideration of Tiepolo's illusionistic ceilings, secular fresco cycles, and opulent altarpieces, the demand for his drawings and oil sketches remained undiminished.",
+        "source": {
+          "author": "Keith Christiansen",
+          "title": "“The Fiery Poetic Fantasy of Giambattista Tiepolo” (essay), in Giambattista Tiepolo, 1696–1770, ed. Keith Christiansen",
+          "publisher": "The Metropolitan Museum of Art, New York (Internet Archive scan)",
+          "year": "1996",
+          "page": "284",
+          "url": "https://archive.org/details/GiambattistaTiepolo16961770",
+          "readAt": "https://archive.org/stream/GiambattistaTiepolo16961770/GiambattistaTiepolo16961770_djvu.txt",
+          "accessed": "2026-11-12",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "With the help of a large workshop, which included two of his sons, Tiepolo completed a number of painted ceilings and decorative schemes across Europe.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Sketch for a Ceiling",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1916.780",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/97141",
+          "accessed": "2026-11-12",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Two of his sons, Giovanni Domenico and Lorenzo, painted with him as his assistants and later achieved some independent recognition, in particular Giovanni Domenico Tiepolo.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Giovanni Battista Tiepolo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+          "accessed": "2026-11-12",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
   },
   "curated": {
     "on": "2026-11-12",
-    "by": "TODO agent name"
-  },
-  "_museumText": "This small, quickly painted picture is typical of the sketches Tiepolo made as studies for larger compositions. When completed full-scale on a ceiling, works like these give the impression of a massive window, through which one can see angels or mythological beings floating among the clouds. Although we know from the work's shape that it was a study for a ceiling painting, it is not related to any of Tiepolo's finished architectural decorations. Tiepolo used such sketches to explore design problems, experiment with form and color, or give his clients an idea of how a finished project would look. With the help of a large workshop, which included two of his sons, Tiepolo completed a number of painted ceilings and decorative schemes across Europe."
+    "by": "claude-routine"
+  }
 }
