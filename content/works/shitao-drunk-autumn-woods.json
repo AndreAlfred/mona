@@ -1,0 +1,166 @@
+{
+  "id": "shitao-drunk-autumn-woods",
+  "artist": "shitao",
+  "title": "Drunk in Autumn Woods",
+  "date": "c. 1702",
+  "year": 1702,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1987.202)",
+    "url": "https://www.metmuseum.org/art/collection/search/49178"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Shitao_%28Zhu_Ruoji%29_-_Drunk_in_Autumn_Woods_-_1987.202_-_Metropolitan_Museum_of_Art.jpg/1280px-Shitao_%28Zhu_Ruoji%29_-_Drunk_in_Autumn_Woods_-_1987.202_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Shitao_%28Zhu_Ruoji%29_-_Drunk_in_Autumn_Woods_-_1987.202_-_Metropolitan_Museum_of_Art.jpg/2560px-Shitao_%28Zhu_Ruoji%29_-_Drunk_in_Autumn_Woods_-_1987.202_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1599,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Shitao (Zhu Ruoji) - Drunk in Autumn Woods - 1987.202 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78826041"
+  },
+  "phase": {
+    "label": "Late Yangzhou years, c. 1702",
+    "source": {
+      "label": "Barnhart: “He painted it in the early eighteenth century, probably 1702”",
+      "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Barnhart catalogue: “Hanging scroll, ink and color on paper; three inscriptions by the artist”",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+      }
+    },
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Barnhart: “an untrammeled masterpiece by the eccentric individualist”",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Nearly all of these men were, in one way or another, rebels in retirement, actively out of sympathy with the new Dynasty in particular and the world in general.",
+          "lead": "Sherman Lee on the Qing Individualists:",
+          "source": {
+            "author": "Sherman E. Lee",
+            "title": "Chinese Landscape Painting",
+            "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+            "year": "1954",
+            "url": "https://archive.org/details/ChineseLandscape",
+            "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Barnhart: “He wrote three separate inscriptions on his painting”",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He wrote three separate inscriptions on his painting Drunk in Autumn Woods … an indication of the pleasure the work brought him. He painted it in the early eighteenth century, probably 1702, to commemorate an outing he made with some friends into the autumn hills.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Drunk in Autumn Woods, on the other hand, is an untrammeled masterpiece by the eccentric individualist … Shih-t'ao's certainty that there was no one like him in the world is one of his most endearing traits, and in such paintings as this he dramatically demonstrates his uniqueness, creating the image of a state of mind.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "An outspoken contrast to the understatement of the Sung garden is found in the lively Drunk in Autumn Woods, an early eighteenth-century masterpiece by the Individualist painter Shih-t'ao",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Recent Acquisitions: A Selection, 1986–1987",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/RecentAcquisitionsASelection19861987",
+          "readAt": "https://archive.org/stream/RecentAcquisitionsASelection19861987/RecentAcquisitionsASelection19861987_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The art he created was revolutionary in its transgressions of the rigidly codified techniques and styles that dictated aesthetics at the time. Imitation was valued over innovation, and although Shitao was clearly influenced by his predecessors (namely Ni Zan and Li Yong), his art breaks with theirs in several new and fascinating ways.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shitao",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shitao",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In an instant, mists and clouds can return to their primeval form; red trees fill the skies spreading fire through the heavens. I invite you, sir, to get very drunk on my black brushstrokes; lie down and watch the frosted forest as falling leaves swirl.",
+        "lead": "Shitao, inscribing the scroll:",
+        "source": {
+          "author": "Shitao (Shih-t'ao)",
+          "title": "Inscriptions on Drunk in Autumn Woods",
+          "publisher": "translated by Aschwin Lippe (modified), quoted in Richard M. Barnhart, Peach Blossom Spring, The Metropolitan Museum of Art, 1983 (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I have three kinds of madness: I am mad, my words are mad, and my painting is mad",
+        "source": {
+          "author": "Shitao (Shih-t'ao)",
+          "title": "Inscriptions on Drunk in Autumn Woods",
+          "publisher": "translated by Aschwin Lippe (modified), quoted in Richard M. Barnhart, Peach Blossom Spring, The Metropolitan Museum of Art, 1983 (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  },
+  "medium": "hanging scroll; ink and color on paper"
+}

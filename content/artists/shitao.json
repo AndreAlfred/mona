@@ -1,0 +1,114 @@
+{
+  "id": "shitao",
+  "name": "Shitao",
+  "born": 1642,
+  "died": 1707,
+  "active": "1660s–1707",
+  "nationality": "Chinese",
+  "period": "baroque",
+  "movements": [
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Lee: Shitao “is one of the four great individualists who glorify the seventeenth century”",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Wikipedia: his paintings “exemplify the internal contradictions and tensions of the literati or scholar-amateur artist”",
+        "url": "https://en.wikipedia.org/wiki/Shitao"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "mei-qing",
+      "name": "Mei Qing",
+      "source": {
+        "label": "Fong: “Mei Qing (1623–1697), a close friend of Shitao”, wrote a colophon on The Sixteen Luohans",
+        "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717"
+      }
+    },
+    {
+      "id": "wang-yuanqi",
+      "name": "Wang Yuanqi",
+      "source": {
+        "label": "Lee: in Beijing Shitao “painted a picture in collaboration with … Wang Yuan-ch’i”",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1"
+      }
+    },
+    {
+      "id": "wang-hui",
+      "name": "Wang Hui",
+      "source": {
+        "label": "Fong: while “the Orthodox master Wang Hui” returned to early masters, “the Individualist Shitao proceeded in the opposite direction”",
+        "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717"
+      }
+    },
+    {
+      "id": "chen-hongshou",
+      "name": "Chen Hongshou",
+      "source": {
+        "label": "Fong: Shitao’s “earlier models were popular late Ming woodblock illustrations or paintings by Chen Hongshou”",
+        "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717"
+      }
+    }
+  ],
+  "wikidata": "Q469439",
+  "archive": {
+    "cma": [
+      6317
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "I am always myself and must naturally be present (in my work). The beards and eyebrows of the old masters cannot grow on my face. … I express my own lungs and bowels and show my own beard and eyebrows. If it happens that my work approaches that of some old painter, it is he who comes close to me, not I who am imitating him.",
+      "lead": "Shitao, in his Sayings on Painting (Huayu lu):",
+      "source": {
+        "author": "Shitao (Shih-t‘ao)",
+        "title": "Huayu lu (Notes on Painting), chapter “Transformations”",
+        "publisher": "translated by Osvald Sirén; quoted in Sherman E. Lee, “‘Rocks, Orchids, and Bamboo’ by Shih-t’ao”, The Bulletin of the Cleveland Museum of Art 41, no. 1 (Internet Archive scan)",
+        "year": "1954",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1",
+        "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1_djvu.txt",
+        "accessed": "2026-11-13",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Born Prince Zhu Ruoji (in 1642) in Guilin, Guangxi Province, in southwestern China, Shitao was a scion of the Ming imperial family, which fell to the Manchu conquest in 1644. … The future artist was saved by a family servant and subsequently hid behind his Buddhist name, Yuanji; he was also known by his sobriquet, Shitao.",
+      "source": {
+        "author": "Wen C. Fong",
+        "title": "Wang Hui and Repossessing the Past",
+        "publisher": "in Maxwell K. Hearn (ed.), Landscapes Clear and Radiant: The Art of Wang Hui (1632–1717), The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "2008",
+        "page": "36",
+        "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717",
+        "readAt": "https://archive.org/stream/LandscapesClearandRadiantTheArtofWangHui16321717/LandscapesClearandRadiantTheArtofWangHui16321717_djvu.txt",
+        "accessed": "2026-11-13",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He moved from Wuchang, where he began his religious instruction, to Anhui in the 1660s. Throughout the 1680s he lived in Nanjing and Yangzhou, and in 1690 he moved to Beijing to find patronage for his promotion within the monastic system. Frustrated by his failure to find a patron, Shitao converted to Daoism in 1693 and returned to Yangzhou where he remained until his death in 1707.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Shitao",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Shitao",
+        "accessed": "2026-11-13",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

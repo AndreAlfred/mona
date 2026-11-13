@@ -1,0 +1,174 @@
+{
+  "id": "delacroix-jacob-wrestling",
+  "artist": "eugene-delacroix",
+  "title": "Jacob Wrestling with the Angel",
+  "date": "1861",
+  "year": 1861,
+  "medium": "oil paint, plaster, wax",
+  "dimensions": "751 × 485 cm",
+  "museum": {
+    "name": "Church of Saint-Sulpice",
+    "url": "https://www.wikidata.org/wiki/Q3837491"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Eug%C3%A8ne_Delacroix_%E2%80%94_Jacob_Wrestling_with_the_Angel.jpg/1280px-Eug%C3%A8ne_Delacroix_%E2%80%94_Jacob_Wrestling_with_the_Angel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Eug%C3%A8ne_Delacroix_%E2%80%94_Jacob_Wrestling_with_the_Angel.jpg/2560px-Eug%C3%A8ne_Delacroix_%E2%80%94_Jacob_Wrestling_with_the_Angel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1787,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Eugène Delacroix — Jacob Wrestling with the Angel.jpg)"
+  },
+  "archive": {
+    "wd": "Q3837491"
+  },
+  "phase": {
+    "label": "Saint-Sulpice, last great commission, 1849–1861",
+    "source": {
+      "label": "Bussy: the chapel was entrusted to him in 1849; “his last painting of importance”",
+      "url": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: religious works, including the Saints-Anges chapel of Saint-Sulpice",
+        "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Delacroix reflected on religion through his paintings, and his religious works often show subtle details to Biblical texts. While considered an unbeliever or agnostic, his journal and paintings reveal an openness and receptiveness to spirituality through his art.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Eugène Delacroix",
+            "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+            "accessed": "2026-11-13",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: oil paint, plaster, wax",
+        "url": "https://www.wikidata.org/wiki/Q3837491"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: leader of the French Romantic school",
+        "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The decoration of the whole Chapel of the Saints Anges, consisting of two walls and a ceiling, was entrusted to him in 1849, and he worked at it, with constant interruptions, … It is his last painting of importance, and though Delacroix had to contend with great material difficulties as well as with increasing ill-health, it, nevertheless, shows the master's qualities in undiminished vigour.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The success of these works, which were shown to the public in situ in 1861, somewhat consoled the artist for the humiliation of 1859.",
+        "source": {
+          "author": "Camille Mauclair",
+          "title": "Eugène Delacroix",
+          "publisher": "Internet Archive scan of the English edition",
+          "year": "1909",
+          "url": "https://archive.org/details/cu31924014893501",
+          "readAt": "https://archive.org/stream/cu31924014893501/cu31924014893501_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "These commissions offered him the opportunity to compose on a large scale in an architectural setting, much as had those masters he admired, Paolo Veronese, Tintoretto, and Rubens.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Eugène Delacroix",
+          "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Like all true fresco decoration, the two large paintings of “Jacob wrestling with the Angel” and “Heliodorus driven from the Temple” do not attempt to give the illusion of plastic life, or of an opening cut through the wall, but duly accentuate the flatness of the surface.",
+        "source": {
+          "author": "Paul G. Konody",
+          "title": "Delacroix",
+          "publisher": "T. C. & E. C. Jack, Masterpieces in Colour (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/delacroix0000kono",
+          "readAt": "https://archive.org/stream/delacroix0000kono/delacroix0000kono_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Nothing could be more impressive than the contrast of the terrific muscular exertion of Jacob and the easy grace with which it is made ineffective by his invincible supernatural opponent.",
+        "source": {
+          "author": "Paul G. Konody",
+          "title": "Delacroix",
+          "publisher": "T. C. & E. C. Jack, Masterpieces in Colour (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/delacroix0000kono",
+          "readAt": "https://archive.org/stream/delacroix0000kono/delacroix0000kono_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "there winds into the distance a white and gleaming caravan, such as Delacroix may have seen in Morocco, in the shimmering light of an Eastern sun.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He also said, while working at Saint-Sulpice, that music put him in a state of \"exaltation\" that inspired his painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Eugène Delacroix",
+          "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

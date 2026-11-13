@@ -1,0 +1,159 @@
+{
+  "id": "delacroix-women-of-algiers",
+  "artist": "eugene-delacroix",
+  "title": "The Women of Algiers (Les Femmes d'Alger dans leur appartement)",
+  "date": "1834",
+  "year": 1834,
+  "medium": "oil paint on canvas",
+  "dimensions": "180 × 229 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 3824)",
+    "url": "http://www.louvre.fr/oeuvre-notices/femmes-d-alger-dans-leur-appartement"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Femmes_d%27Alger_dans_leur_appartement%2C_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3824.jpg/1280px-Femmes_d%27Alger_dans_leur_appartement%2C_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Femmes_d%27Alger_dans_leur_appartement%2C_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3824.jpg/2560px-Femmes_d%27Alger_dans_leur_appartement%2C_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 932,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Femmes d'Alger dans leur appartement, Eugène Delacroix - Musée du Louvre Peintures INV 3824.jpg)"
+  },
+  "archive": {
+    "wd": "Q1212737"
+  },
+  "phase": {
+    "label": "After Morocco: the Orientalist paintings, 1830s–1840s",
+    "source": {
+      "label": "Konody: “one of the first-fruits of Delacroix’s journey to Morocco”",
+      "url": "https://archive.org/stream/delacroix0000kono/delacroix0000kono_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "orientalism",
+      "source": {
+        "label": "Wikipedia (Orientalism): illustrated with The Women of Algiers",
+        "url": "https://en.wikipedia.org/wiki/Orientalism"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "French painters such as Eugène Delacroix (1798–1863) and Jean-Léon Gérôme (1824–1904) are widely regarded as the leading luminaries of the Orientalist movement.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Orientalism",
+            "readAt": "https://en.wikipedia.org/wiki/Orientalism",
+            "accessed": "2026-11-13",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/The_Women_of_Algiers"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: by the French Romantic painter Eugène Delacroix",
+        "url": "https://en.wikipedia.org/wiki/The_Women_of_Algiers"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This picture was one of the first-fruits of Delacroix’s journey to Morocco with Count Mornay’s mission.",
+        "source": {
+          "author": "Paul G. Konody",
+          "title": "Delacroix",
+          "publisher": "T. C. & E. C. Jack, Masterpieces in Colour (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/delacroix0000kono",
+          "readAt": "https://archive.org/stream/delacroix0000kono/delacroix0000kono_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "…we see at a glance that the general effect is fresher and more delicate than formerly. Instead of the gold and amber light of his earlier pictures with their red, brown and bituminous shadows, we have an atmosphere of pearly-grey, which gives harmony and accent to the notes of pure, rich colour.",
+        "lead": "Comparing the picture with his work before Morocco:",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The art critic Gustave Plance wrote in a review for Revue des deux mondes that Delacroix's painting Femmes d'Alger dans leur Appartement was about painting and nothing more, painting that is fresh, vigorous, advanced with spirit, and of an audacity completely venetian, yet yielding nothing to the masters it recalls.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Women of Algiers in Their Apartment",
+          "readAt": "https://en.wikipedia.org/wiki/The_Women_of_Algiers",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The frank and simple execution of this picture, the brilliancy, and above all, the harmony of its somewhat resonant tones, struck and captivated Manet at a decisive moment of his career, and through him exercised an incalculable influence over modern … French art.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The fourth woman is a black enslaved person who exits the scene, looking over her left shoulder towards the seated women.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Women of Algiers in Their Apartment",
+          "readAt": "https://en.wikipedia.org/wiki/The_Women_of_Algiers",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Ultimately Delacroix's stolen glance into the Algerian harem provided him with little visual information to create a realistic image. With these gaps in visual information Delacroix fills the voids with his own European interpretation, resulting in a subtler version of the fantasy female.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Women of Algiers in Their Apartment",
+          "readAt": "https://en.wikipedia.org/wiki/The_Women_of_Algiers",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

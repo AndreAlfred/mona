@@ -1,0 +1,166 @@
+{
+  "id": "shitao-qinhuai-plum-cliff",
+  "artist": "shitao",
+  "title": "Reminiscences of Qinhuai River (leaf 8)",
+  "date": "c. 1695",
+  "year": 1695,
+  "medium": "Album leaf; ink and color on Song paper",
+  "dimensions": "Image: 25.5 x 20.2 cm (10 1/16 x 7 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1966.31.8"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1966.31.8/1966.31.8_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1966.31.8/1966.31.8_print.jpg",
+    "width": 798,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 142579
+  },
+  "phase": {
+    "label": "Yizheng, near Yangzhou, c. 1695: remembering Nanjing",
+    "source": {
+      "label": "CMA: the leaf “was probably created in 1695”; Shitao’s inscription says he painted it in Zhenzhou [Yizheng]",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/142579"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "CMA: “rising mountain masses that form an overhanging cliff”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/142579"
+      }
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "CMA record: the artist’s poem, inscription, signature and seals on leaf 8",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/142579"
+      }
+    },
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Lee: “The universality of Shih-t’ao is due, in part, to his free and often un-Chinese attitude toward the brush”",
+        "url": "https://archive.org/details/ChineseLandscape"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The universality of Shih-t’ao is due, in part, to his free and often un-Chinese attitude toward the brush. Few, if any other Chinese painters use the brush more pictorially, with relatively little emphasis on [precision] and accuracy of the stroke.",
+          "source": {
+            "author": "Sherman E. Lee",
+            "title": "Chinese Landscape Painting",
+            "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+            "year": "1954",
+            "url": "https://archive.org/details/ChineseLandscape",
+            "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This album leaf was probably created in 1695 for a friend Shitao had traveled with to visit ancient sites along the Qinhuai River from the Six Dynasties period. A tiny figure in a boat looks up in awe toward rising mountain masses that form an overhanging cliff, perhaps an image for the overwhelming history of Nanjing.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Reminiscences of Qinhuai River",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "accessed": "2026-11-13",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "What makes this painting so unique is that it appears to depict the mountain bowing. A monk stands placidly on a boat that floats along the Qin-Huai river, staring up in admiration at the genuflecting stone giant.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shitao",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shitao",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The second “Stone,” Shih-t’ao, is even less traditional and more varied than the first … He seems at his best in the small, personal format of the album leaf.",
+        "lead": "Sherman Lee, pairing Shitao with Kuncan, the first of the “Two Stones”:",
+        "source": {
+          "author": "Sherman E. Lee",
+          "title": "Chinese Landscape Painting",
+          "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/ChineseLandscape",
+          "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Shitao was born two years before the Ming dynasty fell. A descendant of the first Ming emperor, he later lived in Nanjing, Yangzhou, and Anhui province. Despite his affiliation with the Ming imperial family, he met the Qing dynasty Kangxi emperor twice.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Reminiscences of Qinhuai River",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "accessed": "2026-11-13",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Let us take pity on the cold solitary [plum], devoid of any companions. With only a few branches remaining … The falling flowers fill the ground while Spring is yet to end. A soured heart, tight as a bean, can endure lasting thoughts.",
+        "lead": "From Shitao’s poem on the leaf:",
+        "source": {
+          "author": "Shitao",
+          "title": "Inscription on Reminiscences of Qinhuai River, leaf 8 (c. 1695)",
+          "publisher": "translated in the Cleveland Museum of Art collection record",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I recalled those places in Qinhuai where we got together in search of blossoming plums. I painted these [leaves] to seek his advice.",
+        "lead": "Shitao, on why he painted the album:",
+        "source": {
+          "author": "Shitao",
+          "title": "Inscription on Reminiscences of Qinhuai River, leaf 8 (c. 1695)",
+          "publisher": "translated in the Cleveland Museum of Art collection record",
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/142579",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

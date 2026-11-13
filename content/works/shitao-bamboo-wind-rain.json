@@ -1,0 +1,166 @@
+{
+  "id": "shitao-bamboo-wind-rain",
+  "artist": "shitao",
+  "title": "Bamboo in Wind and Rain",
+  "date": "c. 1694",
+  "year": 1694,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1984.475.2)",
+    "url": "https://www.metmuseum.org/art/collection/search/49172"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Shitao_%28Zhu_Ruoji%29_-_Bamboo_in_Wind_and_Rain_-_1984.475.2_-_Metropolitan_Museum_of_Art.jpg/1280px-Shitao_%28Zhu_Ruoji%29_-_Bamboo_in_Wind_and_Rain_-_1984.475.2_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 3209,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Shitao (Zhu Ruoji) - Bamboo in Wind and Rain - 1984.475.2 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78826395"
+  },
+  "phase": {
+    "label": "Beijing and the return to Yangzhou, early 1690s",
+    "source": {
+      "label": "Met: undated, but “very close stylistically to works dated 1691 and 1694”",
+      "url": "https://archive.org/details/NotableAcquisitions19841985"
+    }
+  },
+  "tags": [
+    {
+      "id": "orchid-and-bamboo",
+      "source": {
+        "label": "Met: Shitao “was passionately devoted to bamboo painting”",
+        "url": "https://archive.org/details/NotableAcquisitions19841985"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "[In] addition to these there are the bamboo studies [which Shitao did all] through his life and in which the energy, decision and concentration expressed in the brush-work are most [impressive].",
+          "source": {
+            "author": "Osvald Sirén",
+            "title": "Chinese Painting: Leading Masters and Principles, vol. V",
+            "publisher": "Lund Humphries (Internet Archive scan)",
+            "year": "1958",
+            "url": "https://archive.org/details/in.gov.ignca.17931",
+            "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Met: “Hanging scroll, ink on paper”",
+        "url": "https://archive.org/details/NotableAcquisitions19841985"
+      }
+    },
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Met: bamboo “can be depicted with the same brushstrokes used in writing”; the scroll carries Shitao’s long inscription",
+        "url": "https://archive.org/details/NotableAcquisitions19841985"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Tao-chi, one of the most outstanding landscape masters of his time, was passionately devoted to bamboo painting. In his monumental Bamboo in Wind and Rain, perhaps the artist's finest extant depiction of bamboo, Tao-chi reveals his strong spiritual bonds to earlier masters",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi (Shih-t’ao), Bamboo in Wind and Rain",
+          "publisher": "The Metropolitan Museum of Art, Notable Acquisitions 1984–1985 (Internet Archive scan)",
+          "year": "1985",
+          "url": "https://archive.org/details/NotableAcquisitions19841985",
+          "readAt": "https://archive.org/stream/NotableAcquisitions19841985/NotableAcquisitions19841985_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although the painting is undated, it is very close [stylistically] to works dated 1691 and 1694; paintings Tao-chi did after 1696 tend to be even freer in execution.",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi (Shih-t’ao), Bamboo in Wind and Rain",
+          "publisher": "The Metropolitan Museum of Art, Notable Acquisitions 1984–1985 (Internet Archive scan)",
+          "year": "1985",
+          "url": "https://archive.org/details/NotableAcquisitions19841985",
+          "readAt": "https://archive.org/stream/NotableAcquisitions19841985/NotableAcquisitions19841985_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[Shitao] made at least one trip to Peking and there painted a picture in collaboration with the most important of the early Manchu court painters, Wang Yuan-ch’i.",
+        "source": {
+          "author": "Sherman E. Lee",
+          "title": "“Rocks, Orchids, and Bamboo” by Shih-t’ao",
+          "publisher": "The Bulletin of the Cleveland Museum of Art 41, no. 1 (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1",
+          "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        },
+        "lead": "Sherman Lee, writing in 1954:"
+      },
+      {
+        "kind": "quote",
+        "text": "In contrasting the works of the early Qing Orthodox Four Wangs with those of the Individualist master Shitao, James Cahill has summed up their different approaches as the “culmination of method and no-method.”",
+        "source": {
+          "author": "Wen C. Fong",
+          "title": "Wang Hui and Repossessing the Past",
+          "publisher": "in Maxwell K. Hearn (ed.), Landscapes Clear and Radiant: The Art of Wang Hui (1632–1717), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2008",
+          "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717",
+          "readAt": "https://archive.org/stream/LandscapesClearandRadiantTheArtofWangHui16321717/LandscapesClearandRadiantTheArtofWangHui16321717_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Su Ch'e explained, “Walking among bamboo in the morning, being a companion to bamboo in the evening; drinking and eating amid bamboo, relaxing in the shade of bamboo. Only after much observation of the transformations of bamboo can one completely understand it.” … If that guest had not been startled, my heart would not be on the right path, and I would always have been an outsider in bamboo painting.",
+        "lead": "Shitao’s inscription on the scroll:",
+        "source": {
+          "author": "Shitao (Tao-chi)",
+          "title": "Inscription on Bamboo in Wind and Rain",
+          "publisher": "translated in The Metropolitan Museum of Art, Notable Acquisitions 1984–1985 (Internet Archive scan)",
+          "year": "1985",
+          "url": "https://archive.org/details/NotableAcquisitions19841985",
+          "readAt": "https://archive.org/stream/NotableAcquisitions19841985/NotableAcquisitions19841985_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Accompanying Tao-chi's signature is his seal, which quotes Wen T'ung's saying “How can I [live] one day without this gentleman [i.e., bamboo].”",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi (Shih-t’ao), Bamboo in Wind and Rain",
+          "publisher": "The Metropolitan Museum of Art, Notable Acquisitions 1984–1985 (Internet Archive scan)",
+          "year": "1985",
+          "url": "https://archive.org/details/NotableAcquisitions19841985",
+          "readAt": "https://archive.org/stream/NotableAcquisitions19841985/NotableAcquisitions19841985_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  },
+  "medium": "hanging scroll; ink on paper"
+}

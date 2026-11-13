@@ -1,0 +1,138 @@
+{
+  "id": "shitao-hibiscus-lotus",
+  "artist": "shitao",
+  "title": "Hibiscus, Lotus, and Rock",
+  "date": "1706",
+  "year": 1706,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1978.254)",
+    "url": "https://www.metmuseum.org/art/collection/search/41492"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shitao_%28Zhu_Ruoji%29_-_Hibiscus%2C_Lotus%2C_and_Rock_-_1978.254_-_Metropolitan_Museum_of_Art.jpg/1280px-Shitao_%28Zhu_Ruoji%29_-_Hibiscus%2C_Lotus%2C_and_Rock_-_1978.254_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2146,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Shitao (Zhu Ruoji) - Hibiscus, Lotus, and Rock - 1978.254 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78853396"
+  },
+  "phase": {
+    "label": "Final years in Yangzhou, 1706",
+    "source": {
+      "label": "Barnhart: Shitao’s last paintings date from “the final decade of his life, between about 1696 and 1707”, settled in Yangzhou",
+      "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Barnhart: “Flowers held important meanings for Shih-t'ao”",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "[Shitao] was a true lover of flowers; he [understood] their silent message and knew how to [interpret] the fragrance in poetic and pictorial symbols",
+          "source": {
+            "author": "Osvald Sirén",
+            "title": "Chinese Painting: Leading Masters and Principles, vol. V",
+            "publisher": "Lund Humphries (Internet Archive scan)",
+            "year": "1958",
+            "url": "https://archive.org/details/in.gov.ignca.17931",
+            "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Barnhart catalogue: “Hanging scroll, ink on paper; inscribed by the artist”",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Barnhart: “a passionate, wet, exuberant creation”, in ink on paper",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting itself is a passionate, wet, exuberant creation of the kind Shih-t'ao painted only after mid-life.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Whatever the flowers may be, [hibiscus or plum-blossoms, chrysanthemums or epidendrums] by a rockery, a few sprigs of [bamboo], or old banana-leaves, [they are transmuted] into impressions of light and shade, movement and growth, [all] reverberant with life-breath transmitted through the point of the brush",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This was the period of his “great cleansing,” of the washing away of his earlier identities as Buddhist monk and refugee i-min heir of the Ming imperial family, and the beginning of a settled, secular life, [primarily] in Yangchow, as a professional [painting] master.",
+        "lead": "Barnhart, on Shitao’s last decade:",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As I grow older, I have stopped having lush dreams; Even one hibiscus tree by the pond is too much for me!",
+        "lead": "Shitao’s inscription on the scroll:",
+        "source": {
+          "author": "Shitao (Shih-t'ao)",
+          "title": "Inscription on Hibiscus and Lotus",
+          "publisher": "translated by Maxwell K. Hearn in Richard M. Barnhart, Peach Blossom Spring, The Metropolitan Museum of Art, 1983 (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  },
+  "medium": "hanging scroll; ink on paper"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "delacroix-lion-devouring-horse",
+  "artist": "eugene-delacroix",
+  "title": "Lion Devouring a Horse",
+  "date": "1844",
+  "year": 1844,
+  "medium": "lithograph",
+  "dimensions": "Sheet: 22 x 26.1 cm (8 11/16 x 10 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1952.269"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.269/1952.269_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1952.269/1952.269_print.jpg",
+    "width": 1173,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 129840
+  },
+  "phase": {
+    "label": "Animal and Orientalist subjects, 1840s",
+    "source": {
+      "label": "Art Institute of Chicago: made twelve years after his journey through Spain, Morocco and Algeria",
+      "url": "https://www.artic.edu/artworks/22905"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art record: lithograph",
+        "url": "https://clevelandart.org/art/1952.269"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Eugène Delacroix’s black-and-white lithographs are almost coloristic in their dramatic explosions of painterly tone. The artist, violently opposed to the careful linear styles espoused by the Royal Academy (as represented by Jean-August-Dominique Ingres and Jacques-Louis David), not only drew his animal prints directly onto the lithographic stone, but also clawed and scraped into them to create further highlights.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Lion Devouring a Horse (Art Institute of Chicago impression)",
+            "publisher": "Art Institute of Chicago",
+            "readAt": "https://api.artic.edu/api/v1/artworks/22905?fields=id,title,description",
+            "accessed": "2026-11-13",
+            "tier": 4,
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Art Institute of Chicago: one of his animal prints",
+        "url": "https://www.artic.edu/artworks/22905"
+      }
+    },
+    {
+      "id": "orientalism",
+      "source": {
+        "label": "Art Institute of Chicago: “this Orientalizing print”",
+        "url": "https://www.artic.edu/artworks/22905"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This Orientalizing print was made twelve years after a seven-month journey through Spain, Morocco, and Algeria and was likely inspired by a combination of memory, imagination, and examination of the Barbary lions at the zoo in Paris’s Jardin des Plantes.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Lion Devouring a Horse (Art Institute of Chicago impression)",
+          "publisher": "Art Institute of Chicago",
+          "readAt": "https://api.artic.edu/api/v1/artworks/22905?fields=id,title,description",
+          "accessed": "2026-11-13",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With extraordinary versatility he turned his hand to every kind of medium: oils, water-colours, pastels, and lithography, and to an enormous variety of subjects.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He constantly used to go to the Jardin des Plantes, where at one period he studied wild beasts in company with the famous sculptor, Barye.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "animalier sculpture became more popular, and reputable, in early 19th century Paris, with the works of Antoine-Louis Barye (1795–1875) - for whom the term was coined, decisively, by critics in 1831",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Animal painter",
+          "readAt": "https://en.wikipedia.org/wiki/Animal_painter",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was all energy, but energy derived from the nerves and the will; for, physically, he was frail and delicate. The tiger, watching its prey, has less light in its eyes and has less impatient quivering in its muscles, than could be perceived in our great painter when with his whole soul he flung himself on an idea or endeavoured to seize a dream.",
+        "lead": "Baudelaire, describing the painter himself:",
+        "source": {
+          "author": "Charles Baudelaire",
+          "title": "L’Œuvre et la vie d’Eugène Delacroix (L’Art romantique)",
+          "publisher": "translated in Paul G. Konody, Delacroix (1910; Internet Archive scan)",
+          "year": "1863",
+          "url": "https://archive.org/details/delacroix0000kono",
+          "readAt": "https://archive.org/stream/delacroix0000kono/delacroix0000kono_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

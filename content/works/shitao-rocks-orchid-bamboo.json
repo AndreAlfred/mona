@@ -1,0 +1,163 @@
+{
+  "id": "shitao-rocks-orchid-bamboo",
+  "artist": "shitao",
+  "title": "Rocks, Orchid, and Bamboo",
+  "date": "1662",
+  "year": 1662,
+  "medium": "handscroll; ink on paper",
+  "dimensions": "Overall: 31.8 x 266.7 cm (12 1/2 x 105 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1952.589"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.589/1952.589_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1952.589/1952.589_print.jpg",
+    "width": 900,
+    "height": 55,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund"
+  },
+  "archive": {
+    "cma": 130220
+  },
+  "phase": {
+    "label": "Early years as a young monk, 1662",
+    "source": {
+      "label": "Sirén: Shitao “specialized to begin with on plants, stones and garden-flowers”; this scroll is dated 1662",
+      "url": "https://archive.org/details/in.gov.ignca.17931"
+    }
+  },
+  "tags": [
+    {
+      "id": "orchid-and-bamboo",
+      "source": {
+        "label": "CMA record: Rocks, Orchid, and Bamboo",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/130220"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Confucius admired the flower for its beauty and integrity in the wilderness, and the poet Ch'u Yuan made of it an enduring emblem of loyalty.",
+          "lead": "On the orchid:",
+          "source": {
+            "author": "Richard M. Barnhart",
+            "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+            "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+            "year": "1983",
+            "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+            "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "CMA record: handscroll; ink on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/130220"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Lee: “The ink is rich and very black and varies from a dry texture … to the wettest of washes”",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1"
+      }
+    },
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Lee: Shitao “is one of the four great individualists who glorify the seventeenth century”",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "… the scroll in the Cleveland Museum [which] is dated 1662. The [composition] consists mainly of [epidendrum (orchids)] but includes also two slender branches of bamboo and a garden rock. It is exquisitely balanced in [design] as well as in tone and executed [with] the utmost [refinement].",
+        "lead": "Sirén, among Shitao’s earliest dated paintings:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Between are numerous orchids and one spray of bamboo. All are thrown on the paper in Shih-t’ao’s favorite “one stroke” style with no worries as to the finish or detail. Rather the life of the plants and so of nature itself is portrayed, fulfilling the artist’s written aims.",
+        "source": {
+          "author": "Sherman E. Lee",
+          "title": "“Rocks, Orchids, and Bamboo” by Shih-t’ao",
+          "publisher": "The Bulletin of the Cleveland Museum of Art 41, no. 1 (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1",
+          "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Shih-t’ao (also known as Tao-chih) is one of the four great individualists who glorify the seventeenth century, the others being Chu Ta, K’un-ts’an, and Kung Hsien. The former two were of the Ming royal blood and all chose the life of a recluse as a protest against the new … Manchu dynasty.",
+        "lead": "Sherman Lee, writing in 1954:",
+        "source": {
+          "author": "Sherman E. Lee",
+          "title": "“Rocks, Orchids, and Bamboo” by Shih-t’ao",
+          "publisher": "The Bulletin of the Cleveland Museum of Art 41, no. 1 (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1",
+          "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Near a cliff there are a few pieces of stone, A sweet smell floats from the orchid plants: Catching this mood in painting, There is a quiet feeling at my brushtip.",
+        "lead": "Shitao’s poem at the end of the scroll:",
+        "source": {
+          "author": "Shitao (Shih-t‘ao)",
+          "title": "Inscription on Rocks, Orchids, and Bamboo, 1662",
+          "publisher": "translated by Wen Fong in Sherman E. Lee, “‘Rocks, Orchids, and Bamboo’ by Shih-t’ao”, The Bulletin of the Cleveland Museum of Art 41, no. 1 (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1",
+          "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The far extending sinuous leaves of the magnificent plants, which are bending and [undulating] with the suppleness [of] living [nerves, seem] to reflect the sensitiveness and shifting thoughts of the painter like [the] strings of a violin vibrating under the touch of a master[’s] bow.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "Chinese Painting: Leading Masters and Principles, vol. V",
+          "publisher": "Lund Humphries (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/in.gov.ignca.17931",
+          "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}
