@@ -1,0 +1,36 @@
+{
+  "id": "orchid-and-bamboo",
+  "kind": "subject",
+  "name": "Orchid and bamboo (scholars’ ink plays)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Bamboo, admired in China since the time of Confucius (551-479 B.C.), is often compared to the virtuous [gentleman], who may bend in the winds of adversity but always returns to the upright. Because the leaves, stalks, and joints of the bamboo can be depicted with the same brushstrokes used in writing, monochrome paintings of bamboo have been a favorite subject for the “ink-plays” of scholar-artists since the eleventh century.",
+      "source": {
+        "author": "The Metropolitan Museum of Art",
+        "title": "Tao-chi (Shih-t’ao), Bamboo in Wind and Rain",
+        "publisher": "The Metropolitan Museum of Art, Notable Acquisitions 1984–1985 (Internet Archive scan)",
+        "year": "1985",
+        "url": "https://archive.org/details/NotableAcquisitions19841985",
+        "readAt": "https://archive.org/stream/NotableAcquisitions19841985/NotableAcquisitions19841985_djvu.txt",
+        "accessed": "2026-11-13",
+        "tier": 4
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The orchid in China is an autumnal flower and because it grows naturally in inaccessible areas, is regarded as a symbol of unappreciated virtue and beauty. Ch'u Yuan, author of Songs of the South, admired the orchid above all other flowers, and its association with him has lent the flower the additional — and [ultimately] primary — symbolic meaning of loyalty.",
+      "source": {
+        "author": "Richard M. Barnhart",
+        "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1983",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+        "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+        "accessed": "2026-11-13",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "bamboo"
+}

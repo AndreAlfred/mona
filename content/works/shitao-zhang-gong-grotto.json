@@ -1,0 +1,165 @@
+{
+  "id": "shitao-zhang-gong-grotto",
+  "artist": "shitao",
+  "title": "Outing to Zhang Gong's Grotto",
+  "date": "c. 1700",
+  "year": 1700,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1982.126)",
+    "url": "https://www.metmuseum.org/art/collection/search/49177"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E6%B8%85_%E7%9F%B3%E6%BF%A4%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E9%81%8A%E5%BC%B5%E5%85%AC%E6%B4%9E%E5%9C%96_%E5%8D%B7-Outing_to_Zhang_Gong%27s_Grotto_MET_DP204906_CRD.jpg/1280px-%E6%B8%85_%E7%9F%B3%E6%BF%A4%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E9%81%8A%E5%BC%B5%E5%85%AC%E6%B4%9E%E5%9C%96_%E5%8D%B7-Outing_to_Zhang_Gong%27s_Grotto_MET_DP204906_CRD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E6%B8%85_%E7%9F%B3%E6%BF%A4%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E9%81%8A%E5%BC%B5%E5%85%AC%E6%B4%9E%E5%9C%96_%E5%8D%B7-Outing_to_Zhang_Gong%27s_Grotto_MET_DP204906_CRD.jpg/2560px-%E6%B8%85_%E7%9F%B3%E6%BF%A4%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E9%81%8A%E5%BC%B5%E5%85%AC%E6%B4%9E%E5%9C%96_%E5%8D%B7-Outing_to_Zhang_Gong%27s_Grotto_MET_DP204906_CRD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 795,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (清 石濤(朱若極) 遊張公洞圖 卷-Outing to Zhang Gong's Grotto MET DP204906 CRD.jpg)"
+  },
+  "archive": {
+    "wd": "Q78826109"
+  },
+  "phase": {
+    "label": "Late Yangzhou years, c. 1700",
+    "source": {
+      "label": "Met: “done at the peak of his artistic powers around 1700”",
+      "url": "https://archive.org/details/NotableAcquisitions19821983"
+    }
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Met: “Handscroll … Ink and colors on paper”",
+        "url": "https://archive.org/details/NotableAcquisitions19821983"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Met: Shitao transformed Shen Zhou’s “topographical likeness” of the famous scenic spot",
+        "url": "https://archive.org/details/NotableAcquisitions19821983"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the [brush] brings out the fragrance of the [mountains] and the [water], the colouring suggests a vast expanse of misty trees",
+          "lead": "Shitao on his own coloured landscapes, as quoted by Sirén:",
+          "source": {
+            "author": "Shitao (Tao-chi)",
+            "title": "Inscription on an album of landscapes",
+            "publisher": "translated in Osvald Sirén, Chinese Painting: Leading Masters and Principles, vol. V (Lund Humphries, 1958; Internet Archive scan)",
+            "url": "https://archive.org/details/in.gov.ignca.17931",
+            "readAt": "https://archive.org/stream/in.gov.ignca.17931/17931_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "spirit-of-antiquity",
+      "source": {
+        "label": "Barnhart: the scroll follows Shen Zhou, “one of several predecessors honored by Shih-t'ao through the emulation of their styles”",
+        "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Tao-chi's painting of the grotto, done at the peak of his [artistic] powers around 1700, is one of his most sumptuous [masterpieces]. Following an earlier composition by Shen Chou (1427-1509), Tao-chi painted as if he were reenacting the [cosmic] processes of creation; by building up layers of energized brushwork in flowery hues of sky blue, pale green, orange, and fuchsia, he transformed Shen Chou's topographical [likeness] into a glowing image redolent of nature's procreative power.",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi (Shih-t’ao), Outing to Chang Kung’s Grotto",
+          "publisher": "The Metropolitan Museum of Art, Notable Acquisitions 1982–1983 (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/NotableAcquisitions19821983",
+          "readAt": "https://archive.org/stream/NotableAcquisitions19821983/NotableAcquisitions19821983_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The picture is typical of Shih-t'ao's most polished commissioned works, and clearly represents the artist at his most professional.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Chang Kung's Grotto, a famous scenic spot, and once the abode of Chang Tao-ling (Chang Kung, second century A.D.), a Taoist immortal and patriarch of the Taoist church, is located near Lake T'ai in Kiangsu Province … According to Taoist beliefs such grottos are wellsprings of nature's creative force and offer the potential for rejuvenation and renewal.",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi (Shih-t’ao), Outing to Chang Kung’s Grotto",
+          "publisher": "The Metropolitan Museum of Art, Notable Acquisitions 1982–1983 (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/NotableAcquisitions19821983",
+          "readAt": "https://archive.org/stream/NotableAcquisitions19821983/NotableAcquisitions19821983_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is thanks to Wolfgang Bauer that we now realize how significant the idea of the grotto was to Taoist thought. The cave symbolized a passageway, through the rocks, through space and time; and the passage was a journey, toward [enlightenment] and happiness, toward renewal and rebirth.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Peach Blossom Spring: Gardens and Flowers in Chinese Paintings",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/PeachBlossomSpringGardensAndFlowersInChinesePainting",
+          "readAt": "https://archive.org/stream/PeachBlossomSpringGardensAndFlowersInChinesePainting/Peach_Blossom_Spring_Gardens_and_Flowers_in_Chinese_Painting_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "No one is in Chang Kung's Grotto, But from inside Chang Kung's Grotto a spring breeze arises. … When most people talk about it they are always rather vague, Yet I must paint both its spirit and principle. … Cave, oh cave, now it is in my painting",
+        "lead": "From Shitao’s long poem at the end of the scroll:",
+        "source": {
+          "author": "Shitao (Tao-chi)",
+          "title": "Poem on Outing to Zhang Gong’s Grotto",
+          "publisher": "translated in The Metropolitan Museum of Art, Notable Acquisitions 1982–1983 (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/NotableAcquisitions19821983",
+          "readAt": "https://archive.org/stream/NotableAcquisitions19821983/NotableAcquisitions19821983_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Da Dizi was taken when Shitao renounced his Buddhist faith and turned to Daoism. It was also the name he used for his home in Yangzhou",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shitao",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shitao",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  },
+  "medium": "handscroll; ink and colors on paper"
+}

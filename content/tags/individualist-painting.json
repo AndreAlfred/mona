@@ -1,0 +1,36 @@
+{
+  "id": "individualist-painting",
+  "kind": "movement",
+  "name": "Individualist painting (Qing Individualists)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In many ways the styles of painting and the attitudes towards past or present of these Ch’ing individualists were the most extreme in the [history] of Chinese painting until modern times. While they were just as aware of tradition as any of their more conservative contemporaries, their use of that tradition was free and original.",
+      "source": {
+        "author": "Sherman E. Lee",
+        "title": "Chinese Landscape Painting",
+        "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+        "year": "1954",
+        "url": "https://archive.org/details/ChineseLandscape",
+        "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+        "accessed": "2026-11-13",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Their rebellious natures are expressed as well in their painting for they were all bold and individual painters who cared less for precedent than for vitality. These individualists are as much a part of Chinese art history as the traditionalists and they speak today with a clearer voice than their often timid contemporaries.",
+      "lead": "Sherman Lee on Shitao, Zhu Da (Bada Shanren), Kuncan and Gong Xian:",
+      "source": {
+        "author": "Sherman E. Lee",
+        "title": "“Rocks, Orchids, and Bamboo” by Shih-t’ao",
+        "publisher": "The Bulletin of the Cleveland Museum of Art 41, no. 1 (Internet Archive scan)",
+        "year": "1954",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1",
+        "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1/sim_bulletin-of-the-cleveland-museum-of-art_1954-01_41_1_djvu.txt",
+        "accessed": "2026-11-13",
+        "tier": 2
+      }
+    }
+  ]
+}

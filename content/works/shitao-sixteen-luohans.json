@@ -1,0 +1,151 @@
+{
+  "id": "shitao-sixteen-luohans",
+  "artist": "shitao",
+  "title": "The Sixteen Luohans",
+  "date": "1667",
+  "year": 1667,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1985.227.1)",
+    "url": "https://www.metmuseum.org/art/collection/search/49170"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%E6%B8%85_%E7%9F%B3%E6%BF%A4_%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E5%8D%81%E5%85%AD%E7%BE%85%E6%BC%A2%E5%9C%96_%E5%8D%B7-The_Sixteen_Luohans_MET_DP153677.jpg/1280px-%E6%B8%85_%E7%9F%B3%E6%BF%A4_%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E5%8D%81%E5%85%AD%E7%BE%85%E6%BC%A2%E5%9C%96_%E5%8D%B7-The_Sixteen_Luohans_MET_DP153677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%E6%B8%85_%E7%9F%B3%E6%BF%A4_%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E5%8D%81%E5%85%AD%E7%BE%85%E6%BC%A2%E5%9C%96_%E5%8D%B7-The_Sixteen_Luohans_MET_DP153677.jpg/2560px-%E6%B8%85_%E7%9F%B3%E6%BF%A4_%28%E6%9C%B1%E8%8B%A5%E6%A5%B5%29_%E5%8D%81%E5%85%AD%E7%BE%85%E6%BC%A2%E5%9C%96_%E5%8D%B7-The_Sixteen_Luohans_MET_DP153677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 900,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (清 石濤 (朱若極) 十六羅漢圖 卷-The Sixteen Luohans MET DP153677.jpg)"
+  },
+  "archive": {
+    "wd": "Q47544982"
+  },
+  "phase": {
+    "label": "Anhui years, 1667: a young Chan monk",
+    "source": {
+      "label": "Wikipedia: Shitao moved “to Anhui in the 1660s”; Met: painted in 1667 at the age of twenty-five",
+      "url": "https://en.wikipedia.org/wiki/Shitao"
+    }
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Met: “Handscroll: ink on paper”",
+        "url": "https://archive.org/details/RecentAcquisitionsASelection19851986"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Mei Ch'ing (1623-1697), a master painter of a generation before, [inscribed] the painting with praise for Tao-chi's skill, noting that the artist worked on the almost twenty-foot scroll for a full year.",
+          "source": {
+            "author": "The Metropolitan Museum of Art",
+            "title": "Tao-chi, Sixteen Lohans",
+            "publisher": "The Metropolitan Museum of Art, Recent Acquisitions: A Selection 1985–1986 (Internet Archive scan)",
+            "year": "1986",
+            "url": "https://archive.org/details/RecentAcquisitionsASelection19851986",
+            "readAt": "https://archive.org/stream/RecentAcquisitionsASelection19851986/RecentAcquisitionsASelection19851986_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "spirit-of-antiquity",
+      "source": {
+        "label": "Fong: Mei Qing’s colophon names the Song master Li Gonglin as the source of Shitao’s baimiao technique",
+        "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717"
+      }
+    },
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Fong: “the Individualist Shitao”",
+        "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In Tao-chi's [entertaining] depiction of the theme, the lohans are shown reading scriptures, meditating with a tiger, discoursing on Buddhist law as they stroll with a fantastic beast (ch'i-lin), and, at the center of the composition, witnessing with wonder and fascination the emergence of an electrifying dragon from the bottle of the “dragon tamer” lohan",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi, Sixteen Lohans",
+          "publisher": "The Metropolitan Museum of Art, Recent Acquisitions: A Selection 1985–1986 (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/RecentAcquisitionsASelection19851986",
+          "readAt": "https://archive.org/stream/RecentAcquisitionsASelection19851986/RecentAcquisitionsASelection19851986_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Shitao’s powerfully built beast with its hate-filled humanoid eyes is realistically threatening. Its long, flapping, snakelike tail whips up a tidal wave of cosmic vibrations: rising ocean breakers, angry [spidery] tree branches, and massive rock outcroppings with throbbing contour lines and struggling “veins” or “arteries,”",
+        "source": {
+          "author": "Wen C. Fong",
+          "title": "Wang Hui and Repossessing the Past",
+          "publisher": "in Maxwell K. Hearn (ed.), Landscapes Clear and Radiant: The Art of Wang Hui (1632–1717), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2008",
+          "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717",
+          "readAt": "https://archive.org/stream/LandscapesClearandRadiantTheArtofWangHui16321717/LandscapesClearandRadiantTheArtofWangHui16321717_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In a colophon at the end of [The Sixteen Luohans], Mei Qing (1623—1697), a close friend of Shitao, identifies Li Gonglin (ca. 1041—1106) as the source of the [artist’s] “monochrome-outline” (baimiao) technique … But Shitao probably never saw an original work by a real Song master.",
+        "source": {
+          "author": "Wen C. Fong",
+          "title": "Wang Hui and Repossessing the Past",
+          "publisher": "in Maxwell K. Hearn (ed.), Landscapes Clear and Radiant: The Art of Wang Hui (1632–1717), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2008",
+          "url": "https://archive.org/details/LandscapesClearandRadiantTheArtofWangHui16321717",
+          "readAt": "https://archive.org/stream/LandscapesClearandRadiantTheArtofWangHui16321717/LandscapesClearandRadiantTheArtofWangHui16321717_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "According to Buddhist doctrine, the Buddha ordered sixteen guardian lohans to live in the mountains while awaiting the coming of Maitreya, the Future Buddha.",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi, Sixteen Lohans",
+          "publisher": "The Metropolitan Museum of Art, Recent Acquisitions: A Selection 1985–1986 (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/RecentAcquisitionsASelection19851986",
+          "readAt": "https://archive.org/stream/RecentAcquisitionsASelection19851986/RecentAcquisitionsASelection19851986_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As a descendant of the Ming imperial family, Tao-chi's life was imperiled at the time of the Manchu conquest in 1644. He was raised in Buddhist monasteries and, in 1662, became a disciple of a powerful Ch'an master, Lu-an Pen-yueh (died 1676). … Yet, even in 1667, his clear devotion to the Buddhist faith, manifested in this scroll, was overshadowed by his exuberant talent and dedication to his [craft].",
+        "source": {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Tao-chi, Sixteen Lohans",
+          "publisher": "The Metropolitan Museum of Art, Recent Acquisitions: A Selection 1985–1986 (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/RecentAcquisitionsASelection19851986",
+          "readAt": "https://archive.org/stream/RecentAcquisitionsASelection19851986/RecentAcquisitionsASelection19851986_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 4
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  },
+  "medium": "handscroll; ink on paper"
+}
