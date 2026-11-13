@@ -1,0 +1,146 @@
+{
+  "id": "delacroix-macbeth-witches",
+  "artist": "eugene-delacroix",
+  "title": "Macbeth Consulting the Witches",
+  "date": "1825",
+  "year": 1825,
+  "medium": "lithograph",
+  "dimensions": "Image: 32.2 x 25.2 cm (12 11/16 x 9 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1962.109"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.109/1962.109_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1962.109/1962.109_print.jpg",
+    "width": 657,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 137145
+  },
+  "phase": {
+    "label": "Early lithographs and the London visit, 1825",
+    "source": {
+      "label": "Wikipedia: by 1825 he was producing lithographs illustrating Shakespeare",
+      "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art record: lithograph",
+        "url": "https://clevelandart.org/art/1962.109"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "A master lithographer, Delacroix experimented with the technique. By covering the surface of the stone with rich, black lithographic crayon and then scratching out the design with a sharp tool, Delacroix heightened the diabolical effect of this night scene where sorcerers tend to their boiling cauldron.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Macbeth Consulting the Witches",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137145",
+            "accessed": "2026-11-13",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Cleveland Museum of Art record: print",
+        "url": "https://clevelandart.org/art/1962.109"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: romantic works of numerous themes, including Shakespeare lithographs",
+        "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "By 1825, he was producing lithographs illustrating Shakespeare, and soon thereafter lithographs and paintings from Goethe's Faust.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Eugène Delacroix",
+          "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A fine lithographer, Delacroix illustrated various works of William Shakespeare, the Scottish author Walter Scott, and the German author Johann Wolfgang von Goethe.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Eugène Delacroix",
+          "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "when the numbing traditions of the eighteenth century still kept the French stage in their icy clutch, Delacroix was already prepared by temperament and vocation to feel in the depths and heights of his being the genius of Shakespeare, so kindred to his own, in its tragic passion and complex sensibility.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Well! A general invasion: Hamlet rears his hideous head, Othello is preparing his dagger, that essentially murderous weapon, subversive of all good theatrical government.",
+        "lead": "Writing to Victor Hugo as English actors brought Shakespeare to Paris:",
+        "source": {
+          "author": "Eugène Delacroix",
+          "title": "Letter to Victor Hugo, 1828",
+          "publisher": "in Richard Friedenthal, Letters of the Great Artists (1963) (via Wikiquote)",
+          "readAt": "https://en.wikiquote.org/wiki/Eug%C3%A8ne_Delacroix",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "But, perhaps, the deepest and most abiding impressions that Delacroix carried away from his stay in London were those left by his visits to the theatre.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

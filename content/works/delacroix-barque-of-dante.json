@@ -1,0 +1,161 @@
+{
+  "id": "delacroix-barque-of-dante",
+  "artist": "eugene-delacroix",
+  "title": "The Barque of Dante (Dante et Virgile aux enfers, dit aussi La Barque de Dante)",
+  "date": "1822",
+  "year": 1822,
+  "medium": "oil paint on canvas",
+  "dimensions": "189 × 241.5 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 3820)",
+    "url": "https://www.wikidata.org/wiki/Q2354251"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg/1280px-Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg/2560px-Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 898,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Eugène Delacroix - The Barque of Dante.jpg)"
+  },
+  "archive": {
+    "wd": "Q2354251"
+  },
+  "phase": {
+    "label": "Salon debut, 1822",
+    "source": {
+      "label": "Wikipedia: his first major painting, accepted by the Salon of 1822",
+      "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+    }
+  },
+  "tags": [
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: The Barque of Dante (movement: Romanticism)",
+        "url": "https://en.wikipedia.org/wiki/The_Barque_of_Dante"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The impact of Géricault's The Raft of the Medusa was profound, and stimulated Delacroix to produce his first major painting, The Barque of Dante, which was accepted by the Paris Salon of 1822.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Eugène Delacroix",
+            "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+            "accessed": "2026-11-13",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: based on Canto VIII of Dante's Inferno",
+        "url": "https://en.wikipedia.org/wiki/The_Barque_of_Dante"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: an 1822 oil painting",
+        "url": "https://en.wikipedia.org/wiki/The_Barque_of_Dante"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Though it is almost the first that Delacroix painted, it already shows us all his essential characteristics. His genius was one of those rare ones that, at the first essay, find and enter into their kingdom; for him there was no groping for the way, no false start.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This picture, which he painted in two and a half feverish months, working at it often twelve and thirteen hours a day, was exhibited in the Salon of 1822.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He flings in his figures, groups and bends them to his will with the boldness of Michael Angelo and the fecundity of Rubens.",
+        "lead": "The young journalist Adolphe Thiers, reviewing the Salon:",
+        "source": {
+          "author": "Adolphe Thiers",
+          "title": "Review of the Salon of 1822, Le Constitutionnel",
+          "publisher": "translated in Dorothy Bussy, Eugène Delacroix (Duckworth, 1907; Internet Archive scan)",
+          "year": "1822",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It received a mixed reception at the Salon: while many praised the painting, such as Antoine-Jean Gros's favorable comparison to the work of Peter Paul Rubens, others critiqued its loose composition.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Barque of Dante",
+          "readAt": "https://en.wikipedia.org/wiki/The_Barque_of_Dante",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I met Gros by chance, who, learning that I was the author of the picture in question … complimented me with such incredible warmth … After having brought out all its merits, he ended by saying it was 'Rubens chastened.' For him who adores Rubens and who had been trained in the severe school of David this was the highest praise.",
+        "lead": "Delacroix, remembering the older painter Antoine-Jean Gros's response:",
+        "source": {
+          "author": "Eugène Delacroix",
+          "title": "Autobiographical fragment",
+          "publisher": "translated in Dorothy Bussy, Eugène Delacroix (Duckworth, 1907; Internet Archive scan)",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Delacroix had been suffering from financial issues. … A purchase of his art by the state at the Salon would improve this financial situation.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Barque of Dante",
+          "readAt": "https://en.wikipedia.org/wiki/The_Barque_of_Dante",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

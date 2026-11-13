@@ -1,0 +1,174 @@
+{
+  "id": "delacroix-woman-fetching-water",
+  "artist": "eugene-delacroix",
+  "title": "A Young Black Woman Fetching Water",
+  "date": "1832",
+  "year": 1832,
+  "medium": "Watercolor and graphite, heightened with gouache on paper",
+  "dimensions": "Support: 32.4 x 25.9 cm (12 3/4 x 10 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2023.123"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2023.123/2023.123_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2023.123/2023.123_print.jpg",
+    "width": 644,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 662030
+  },
+  "phase": {
+    "label": "Journey to Morocco, 1832",
+    "source": {
+      "label": "Cleveland Museum of Art: made on the 1832 journey with the Count de Mornay",
+      "url": "https://clevelandart.org/art/2023.123"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art record: watercolor and graphite, heightened with gouache",
+        "url": "https://clevelandart.org/art/2023.123"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Among Delacroix’s intimates of these early days was the English painter, Thales Fielding, from whom he not only acquired his knowledge of the art of water-colour painting — then scarcely practised in France — but who awakened or strengthened in him the taste for English literature and especially for Shakespeare and Byron.",
+          "source": {
+            "author": "Paul G. Konody",
+            "title": "Delacroix",
+            "publisher": "T. C. & E. C. Jack, Masterpieces in Colour (Internet Archive scan)",
+            "year": "1910",
+            "url": "https://archive.org/details/delacroix0000kono",
+            "readAt": "https://archive.org/stream/delacroix0000kono/delacroix0000kono_djvu.txt",
+            "accessed": "2026-11-13",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "orientalism",
+      "source": {
+        "label": "Wikipedia: the trip added a new and personal chapter to the interest in Orientalism",
+        "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+      }
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art record: classified as a drawing",
+        "url": "https://clevelandart.org/art/2023.123"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1832, the French Romantic artist Eugène Delacroix was invited to accompany the Count de Mornay, ambassador to the Sultan of Morocco, on a journey to Spain, Morocco, and Algeria. … The drawing was one of 18 that Delacroix included in an album given to the count as a souvenir of their travels.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "A Young Black Woman Fetching Water",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/662030",
+          "accessed": "2026-11-13",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "During the three months that the expedition lasted he filled his note-books with drawings and notes of architecture, costumes, faces, and effects of light, shade and colour.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He went not primarily to study art, but to escape from the civilization of Paris, in hopes of seeing a more \"primitive\" culture. He eventually produced over 100 paintings and drawings of scenes from or based on the life of the people of North Africa, and added a new and personal chapter to the interest in Orientalism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Eugène Delacroix",
+          "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+          "accessed": "2026-11-13",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The memories and documents he brought back from this journey enabled him henceforth to depict … oriental scenes with an accent of truth hitherto unknown, for, as Gautier says, Delacroix was the discoverer of Africa, from a picturesque point of view.",
+        "source": {
+          "author": "Dorothy Bussy",
+          "title": "Eugène Delacroix",
+          "publisher": "Duckworth (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The aspect of this country will remain for ever in my eyes … all my life long the men of this noble race will live and move in my memory",
+        "source": {
+          "author": "Eugène Delacroix",
+          "title": "As recorded by Théophile Silvestre, Les Artistes vivants",
+          "publisher": "translated in Dorothy Bussy, Eugène Delacroix (Duckworth, 1907; Internet Archive scan)",
+          "url": "https://archive.org/details/eugnedelacroix00buss",
+          "readAt": "https://archive.org/stream/eugnedelacroix00buss/eugnedelacroix00buss_djvu.txt",
+          "accessed": "2026-11-13",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Greeks and Romans are here at my door, in the Arabs who wrap themselves in a white blanket and look like Cato or Brutus",
+        "source": {
+          "author": "Eugène Delacroix",
+          "title": "Letter from Morocco, 1832",
+          "publisher": "as quoted in Wikipedia, “Eugène Delacroix”",
+          "readAt": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+          "accessed": "2026-11-13",
+          "tier": 1,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "While there, he created this watercolor depicting a young woman—likely an enslaved African—as she engaged in domestic work.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "A Young Black Woman Fetching Water",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/662030",
+          "accessed": "2026-11-13",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-13",
+    "by": "claude-routine"
+  }
+}

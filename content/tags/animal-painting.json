@@ -1,0 +1,31 @@
+{
+  "id": "animal-painting",
+  "kind": "subject",
+  "name": "Animal painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "An animal painter is an artist who specialises in (or is known for their skill in) the portrayal of animals.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Animal painter",
+        "readAt": "https://en.wikipedia.org/wiki/Animal_painter",
+        "accessed": "2026-11-13",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Frans Snyders, a founder of the Baroque animal painting tradition, often provided the animals, and also still lifes of food, for Peter Paul Rubens",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Animal painter",
+        "readAt": "https://en.wikipedia.org/wiki/Animal_painter",
+        "accessed": "2026-11-13",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

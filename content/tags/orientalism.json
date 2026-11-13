@@ -1,0 +1,32 @@
+{
+  "id": "orientalism",
+  "kind": "movement",
+  "name": "Orientalism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In art history, literature, and cultural studies, Orientalism is the imitation or depiction of aspects of the Eastern world (or Orient) by writers, designers, and artists from the Western world. Orientalist painting, particularly of West Asia and North Africa, was one of the many specialties of 19th-century academic art",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Orientalism",
+        "readAt": "https://en.wikipedia.org/wiki/Orientalism",
+        "accessed": "2026-11-13",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Since the publication of Edward Said's Orientalism in 1978, much academic discourse has begun to use the term Orientalism to refer to a general patronizing Western attitude towards Asian and North African societies.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Orientalism",
+        "readAt": "https://en.wikipedia.org/wiki/Orientalism",
+        "accessed": "2026-11-13",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Orientalism"
+}
