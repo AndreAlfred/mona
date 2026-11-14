@@ -1,0 +1,36 @@
+{
+  "id": "opaque-watercolour",
+  "kind": "material",
+  "name": "Opaque watercolour (gouache)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Gouache … body color, or opaque watercolor is a water-medium paint consisting of natural pigment, water, a binding agent (usually gum arabic or dextrin), and sometimes additional inert material.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Gouache",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Gouache",
+        "accessed": "2026-11-14",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Washes of opaque color were gradually added to the underdrawing; as they built up layer upon layer, these were fused to the paper fibers by repeated [burnishing].",
+      "lead": "Welch, on how a Mughal miniature was made:",
+      "source": {
+        "author": "Stuart Cary Welch",
+        "title": "Introduction, in The Emperors’ Album: Images of Mughal India",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1987",
+        "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia",
+        "readAt": "https://archive.org/stream/TheEmperorsAlbumImagesofMughalIndia/TheEmperorsAlbumImagesofMughalIndia_djvu.txt",
+        "accessed": "2026-11-14",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "opaque watercolor"
+}

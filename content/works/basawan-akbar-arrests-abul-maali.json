@@ -1,0 +1,175 @@
+{
+  "id": "basawan-akbar-arrests-abul-maali",
+  "artist": "basawan",
+  "title": "The Young Emperor Akbar Arrests the Insolent Shah Abu’l-Maali, page from a manuscript of the Akbarnama",
+  "date": "1590",
+  "year": 1590,
+  "medium": "gouache paint, gold on paper",
+  "dimensions": "32 × 19.3 cm",
+  "museum": {
+    "name": "Art Institute of Chicago (1919.898)",
+    "url": "https://www.artic.edu/artworks/76816"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Basawan_-_The_Young_Emperor_Akbar_Arrests_the_Insolent_Shah_Abu%E2%80%99l-Maali%2C_page_from_a_manuscript_of_the_Akbarnama_-_1919.898_-_Art_Institute_of_Chicago.jpg/1280px-Basawan_-_The_Young_Emperor_Akbar_Arrests_the_Insolent_Shah_Abu%E2%80%99l-Maali%2C_page_from_a_manuscript_of_the_Akbarnama_-_1919.898_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2027,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Basawan - The Young Emperor Akbar Arrests the Insolent Shah Abu’l-Maali, page from a manuscript of the Akbarnama - 1919.898 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "wd": "Q20267394",
+    "aic": 76816
+  },
+  "phase": {
+    "label": "Lahore years: the illustrated histories, c. 1590",
+    "source": {
+      "label": "AIC: the Akbarnama was “Commissioned in 1589” and illustrated as Abu’l Fazl wrote it",
+      "url": "https://www.artic.edu/artworks/76816"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "AIC: Basawan “was particularly skilled in portraiture”",
+        "url": "https://www.artic.edu/artworks/76816"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He was particularly skilled in portraiture and is known to have painted the faces of the young emperor and the two other figures in front of him: the regent Bairam Khan, who is standing, and the disgraced courtier Shah Abu’l-Ma’ali, who crouches in a red robe.",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "The Young Emperor Akbar Arrests the Insolent Shah Abu’l-Maali, Page from a Manuscript of the Akbarnama",
+            "publisher": "Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/76816",
+            "readAt": "https://api.artic.edu/api/v1/artworks/76816?fields=id,title,description,artist_display,date_display",
+            "accessed": "2026-11-14",
+            "tier": 4,
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "AIC: a page from Akbar’s official history of his rule",
+        "url": "https://www.artic.edu/artworks/76816"
+      }
+    },
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "AIC: “a lavishly illustrated manuscript commissioned by the Mughal emperor Akbar”",
+        "url": "https://www.artic.edu/artworks/76816"
+      }
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "AIC record: opaque watercolor and gold on paper",
+        "url": "https://api.artic.edu/api/v1/artworks/76816"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Basawan, the designer of this painting, whose signature appears in the lower margin in red, was one of the studio’s leading painters.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Young Emperor Akbar Arrests the Insolent Shah Abu’l-Maali, Page from a Manuscript of the Akbarnama",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/76816",
+          "readAt": "https://api.artic.edu/api/v1/artworks/76816?fields=id,title,description,artist_display,date_display",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "According to the signature, the rest of the painting was executed by Shankar, another prominent painter in Emperor Akbar’s atelier. This painting is a prime example of the collaborative nature of the art of painting in Mughal workshops.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "The Young Emperor Akbar Arrests the Insolent Shah Abu’l-Maali, Page from a Manuscript of the Akbarnama",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/76816",
+          "readAt": "https://api.artic.edu/api/v1/artworks/76816?fields=id,title,description,artist_display,date_display",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In the earlier of the manuscript pages (Figure 82), separated from the Victoria and Albert Museum volume, the concentration is on clear presentation of narrative action; [gestures] are clearly stated, and color enhances the excitement of the arrest.",
+        "lead": "Beach, comparing this page with La’l’s version of the scene in the later Akbarnama of c. 1604:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "As the first opportunity for Akbar to assert his authority, this was an important event; it is illustrated in each of the two Akbar-nama manuscripts.",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was drunk, and a mad dog bit him; mad, and a scorpion stung him!",
+        "lead": "Abu’l Fazl, on Shah Abu’l-Ma’ali’s arrogance:",
+        "source": {
+          "author": "Abu’l Fazl",
+          "title": "Akbarnama, vol. II",
+          "publisher": "translated by H. Beveridge, Asiatic Society of Bengal (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/india.history.resource.107685",
+          "readAt": "https://archive.org/stream/india.history.resource.107685/107685_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On the third day after the accession a great assembly was organised in the same delightful spot.",
+        "source": {
+          "author": "Abu’l Fazl",
+          "title": "Akbarnama, vol. II",
+          "publisher": "translated by H. Beveridge, Asiatic Society of Bengal (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/india.history.resource.107685",
+          "readAt": "https://archive.org/stream/india.history.resource.107685/107685_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

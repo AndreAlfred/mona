@@ -1,0 +1,145 @@
+{
+  "id": "basawan-feast-for-babur",
+  "artist": "basawan",
+  "title": "A feast for Babur hosted by his half-brother Jahangir Mirza in Ghazni in May 1505, from a Babur-nama (Memoirs of Babur)",
+  "date": "c. 1589; outer margins added c. mid-1900s",
+  "year": 1584,
+  "medium": "Gum tempera and gold on paper",
+  "dimensions": "Page: 28 x 18.1 cm (11 x 7 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2013.300"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2013.300/2013.300_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2013.300/2013.300_print.jpg",
+    "width": 515,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift in honor of Madeline Neves Clapp; Gift of Mrs. Henry White Cannon by exchange; Bequest of Louise T. Cooper; Leonard C. Hanna Jr. Fund; From the Catherine and Ralph Benkaim Collection"
+  },
+  "archive": {
+    "cma": 170795
+  },
+  "phase": {
+    "label": "Lahore years: the illustrated histories, c. 1589",
+    "source": {
+      "label": "Beach: in the Lahore years Akbar commissioned “further large, physically impressive dynastic histories”",
+      "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "CMA: Babur’s reception at Ghazni in 1505, from his memoirs",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/170795"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Drinking parties and feasts in lavish movable tent settings, where gifts were exchanged, alliances forged, and relationships cemented, were as important to the building of the empire as the battles.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "A feast for Babur hosted by his half-brother Jahangir Mirza in Ghazni in May 1505, from a Babur-nama (Memoirs of Babur)",
+            "publisher": "The Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/2013.300",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/170795",
+            "accessed": "2026-11-14",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "CMA: a page from a Babur-nama (Memoirs of Babur) manuscript",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/170795"
+      }
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Wikipedia: Akbar ordered illustrated copies of the Persian Baburnama from 1589",
+        "url": "https://en.wikipedia.org/wiki/Baburnama"
+      }
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Welch: Mughal miniatures were made in “the technique of opaque watercolor or gouache painting”",
+        "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is the only [manuscript] worked on by Basawan (who executed five designs for figural scenes, the greatest number by any artist), and its style is the earliest and most tentative. [It is] also the only one executed primarily by designers and assistants, rather than by single artists working alone.",
+        "lead": "Beach, on the earliest illustrated Babur-nama (c. 1589), the only copy Basawan worked on:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Though Babur himself does not seem to have commissioned any illustrated versions, his grandson ordered their production as soon as he was presented with the finished Persian translation in November 1589.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Baburnama",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Baburnama",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His half-brother, who controlled the region around Ghazni, ordered that a party be thrown in honor of Babur’s arrival from the north.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "A feast for Babur hosted by his half-brother Jahangir Mirza in Ghazni in May 1505, from a Babur-nama (Memoirs of Babur)",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/2013.300",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/170795",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "we went on through Old Nānī and Sar-i-dih to Ghaznī where for a few days Jahāngīr Mīrzā was our host, setting food before us and offering his tribute.",
+        "lead": "Babur’s own memoir recalls the visit, in spring 1505:",
+        "source": {
+          "author": "Zahiru’d-din Muhammad Babur",
+          "title": "The Babur-nama in English (Memoirs of Babur)",
+          "publisher": "translated by Annette Susannah Beveridge (Project Gutenberg)",
+          "year": "1922",
+          "readAt": "https://www.gutenberg.org/cache/epub/44608/pg44608.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

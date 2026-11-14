@@ -1,0 +1,161 @@
+{
+  "id": "basawan-elephant-hawai",
+  "artist": "basawan",
+  "title": "Akbar's adventures with the elephant Hawa'i (V&A IS.2:22-1896)",
+  "date": "1590",
+  "year": 1590,
+  "medium": "watercolor paint on paper",
+  "dimensions": "33 × 20 cm",
+  "museum": {
+    "name": "Victoria and Albert Museum (IS.2:22-1896)",
+    "url": "https://www.wikidata.org/wiki/Q108040921"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/1561-Akbar_riding_the_elephant_Hawa%27I_pursuing_another_elephant_across_a_collapsing_bridge_of_boats_%28left%29.jpg/1280px-1561-Akbar_riding_the_elephant_Hawa%27I_pursuing_another_elephant_across_a_collapsing_bridge_of_boats_%28left%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1882,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (1561-Akbar riding the elephant Hawa'I pursuing another elephant across a collapsing bridge of boats (left).jpg)"
+  },
+  "archive": {
+    "wd": "Q108040921"
+  },
+  "phase": {
+    "label": "Lahore years: the illustrated histories, c. 1590",
+    "source": {
+      "label": "Welch: this Akbarnama manuscript “was probably completed in about 1590”",
+      "url": "https://archive.org/details/dli.ministry.25951"
+    }
+  },
+  "tags": [
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Welch: “he has painted elephants seldom equalled in Indian art”",
+        "url": "https://archive.org/details/dli.ministry.25951"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, he has painted elephants seldom equalled in Indian art—a great achievement considering that elephants were a specialty of Indian [artists].",
+          "source": {
+            "author": "Stuart Cary Welch",
+            "title": "Imperial Mughal Painting",
+            "publisher": "George Braziller (Internet Archive scan)",
+            "year": "1978",
+            "url": "https://archive.org/details/dli.ministry.25951",
+            "readAt": "https://archive.org/stream/dli.ministry.25951/ignca-492-rb_djvu.txt",
+            "accessed": "2026-11-14",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Brown: Akbar “mounted on an elephant engaged in madly pursuing another across a bridge of boats”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.208129"
+      }
+    },
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "Wikipedia: the Victoria and Albert Akbarnama’s paintings were removed from the volume",
+        "url": "https://en.wikipedia.org/wiki/Akbarnama"
+      }
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Welch: Akbar’s historical manuscripts “are among the most vivid in Islamic art”",
+        "url": "https://archive.org/details/dli.ministry.25951"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "But his involvement in this miniature did not stop at the main subject: he was equally interested in the gesture of the muscular boatman in the [distance] who poles his barge across the river with mighty thrusts.",
+        "lead": "Welch, on Basawan’s design:",
+        "source": {
+          "author": "Stuart Cary Welch",
+          "title": "Imperial Mughal Painting",
+          "publisher": "George Braziller (Internet Archive scan)",
+          "year": "1978",
+          "url": "https://archive.org/details/dli.ministry.25951",
+          "readAt": "https://archive.org/stream/dli.ministry.25951/ignca-492-rb_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Basawan collaborated with Chatar in the production of this picture, which is one of the most spirited of the whole series.",
+        "source": {
+          "author": "Percy Brown",
+          "title": "Indian Painting under the Mughals, A.D. 1550 to A.D. 1750",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/in.ernet.dli.2015.208129",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.208129/2015.208129.Indian-Painting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The most immediate and [compelling] of these vital compositions, commissioned for the Akbarnama, the emperor's official history of his reign, were sketched by Basawan or Miskin, who often added finishing touches to the coloring of their assistants.",
+        "source": {
+          "author": "Stuart Cary Welch",
+          "title": "Introduction, in The Emperors’ Album: Images of Mughal India",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia",
+          "readAt": "https://archive.org/stream/TheEmperorsAlbumImagesofMughalIndia/TheEmperorsAlbumImagesofMughalIndia_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The elephant Hawai was a mighty animal and reckoned among the special elephants. In choler, passionateness, fierceness and wickedness he was a match for the world.",
+        "lead": "Abu’l Fazl, in the Akbarnama this page illustrates:",
+        "source": {
+          "author": "Abu’l Fazl",
+          "title": "Akbarnama, vol. II",
+          "publisher": "translated by H. Beveridge, Asiatic Society of Bengal (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/india.history.resource.107685",
+          "readAt": "https://archive.org/stream/india.history.resource.107685/107685_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "if I have knowingly taken a step which is [displeasing] to God or have knowingly made an aspiration which was not … according to His pleasure, may that elephant finish us, for we cannot support the burden of life under God’s displeasure.",
+        "lead": "Akbar later told Abu’l Fazl why he rode such elephants:",
+        "source": {
+          "author": "Abu’l Fazl",
+          "title": "Akbarnama, vol. II",
+          "publisher": "translated by H. Beveridge, Asiatic Society of Bengal (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/india.history.resource.107685",
+          "readAt": "https://archive.org/stream/india.history.resource.107685/107685_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}
