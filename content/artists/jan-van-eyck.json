@@ -1,0 +1,108 @@
+{
+  "id": "jan-van-eyck",
+  "name": "Jan van Eyck",
+  "died": 1441,
+  "active": "c. 1422–1441",
+  "nationality": "Netherlandish",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "early-netherlandish",
+      "source": {
+        "label": "Wikipedia: “one of the early innovators of what became known as early Netherlandish painting”",
+        "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “one of the supreme figures of the Early Northern Renaissance”",
+        "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "source": {
+        "label": "Conway: Dürer “noted of this picture that ‘it is a most precious painting, full of thought’”",
+        "url": "https://archive.org/details/vaneyckstheirfol00conwuoft"
+      }
+    },
+    {
+      "id": "pieter-bruegel-the-elder",
+      "name": "Pieter Bruegel the Elder",
+      "source": {
+        "label": "Ferrari (via Wikipedia): Saint Barbara “seems to foreshadow the paintings of Pieter Bruegel the Elder”",
+        "url": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)"
+      }
+    },
+    {
+      "id": "hans-holbein-the-younger",
+      "name": "Hans Holbein the Younger",
+      "source": {
+        "label": "Fromentin, on the van der Paele donor: “All the art of Holbein is in it”",
+        "url": "https://archive.org/details/mastersofpasttim00from"
+      }
+    },
+    {
+      "id": "giotto",
+      "name": "Giotto",
+      "source": {
+        "label": "Wikipedia: the Virgin’s “monumental stature borrows from the works of … Cimabue and Giotto”",
+        "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+      }
+    }
+  ],
+  "wikidata": "Q102272",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "prince of all the painters of his age",
+      "lead": "The Neapolitan humanist Bartolomeo Facio, writing in the 1450s, called him the",
+      "source": {
+        "author": "Bartolomeo Facio",
+        "title": "De viris illustribus (c. 1456), as translated in J. A. Crowe and G. B. Cavalcaselle, The Early Flemish Painters (1872)",
+        "publisher": "John Murray, London (Internet Archive scan)",
+        "year": "c. 1456",
+        "url": "https://archive.org/details/earlyflemishpain00crow",
+        "readAt": "https://archive.org/stream/earlyflemishpain00crow/earlyflemishpain00crow_djvu.txt",
+        "accessed": "2026-11-14",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "John van Eyck now settled at Bruges in great good favour with his patron. He bought a house, and presently married a lady named Margaret, but her family name is forgotten.",
+      "lead": "Back from Portugal with the Duke of Burgundy’s bride in 1429,",
+      "source": {
+        "author": "Martin Conway",
+        "title": "The Van Eycks and Their Followers",
+        "publisher": "John Murray, London (Internet Archive scan)",
+        "year": "1921",
+        "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+        "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+        "accessed": "2026-11-14",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He took employment in The Hague around 1422, when he was already a master painter with workshop assistants, and was employed as painter and valet de chambre to John III the Pitiless, ruler of the counties of Holland and Hainaut. Some time after John's death in 1425, he was appointed as court painter to Philip the Good, Duke of Burgundy, and worked in Lille before moving to Bruges in 1429",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Jan van Eyck",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Jan_van_Eyck",
+        "accessed": "2026-11-14",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

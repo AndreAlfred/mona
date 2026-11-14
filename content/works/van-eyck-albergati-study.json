@@ -1,0 +1,150 @@
+{
+  "id": "van-eyck-albergati-study",
+  "artist": "jan-van-eyck",
+  "title": "Study for Cardinal Niccolò Albergati",
+  "date": "c. 1431",
+  "year": 1431,
+  "dimensions": "214 × 180 mm",
+  "museum": {
+    "name": "Kupferstich-Kabinett Dresden (KK-C-775-PS01)",
+    "url": "https://skd-online-collection.skd.museum/Details/Index/534235"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_Cardinal_Niccol%C3%B2_Albergati_-_Google_Art_Project.jpg/1280px-Jan_van_Eyck_-_Portrait_of_Cardinal_Niccol%C3%B2_Albergati_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_Cardinal_Niccol%C3%B2_Albergati_-_Google_Art_Project.jpg/2560px-Jan_van_Eyck_-_Portrait_of_Cardinal_Niccol%C3%B2_Albergati_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1371,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jan van Eyck - Portrait of Cardinal Niccolò Albergati - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q22329827"
+  },
+  "phase": {
+    "label": "Court painter to Philip the Good, early Bruges years, c. 1431",
+    "source": {
+      "label": "Weale’s chronology: “1431, December. Draws the portrait of B. Nicholas Albergati”",
+      "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "silverpoint",
+      "source": {
+        "label": "Weale: “This exquisite drawing, in silver-point on a white ground”",
+        "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In the late Gothic/early Renaissance era, silverpoint emerged as a fine line drawing technique. Not blunting as easily as lead or tin, and rendering precise detail, silverpoint was especially favored in Florentine and Flemish workshops. … Artists who worked in silverpoint include Jan van Eyck, Leonardo da Vinci, Albrecht Dürer and Raphael.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Silverpoint",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Silverpoint",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Wikipedia: “A preparatory drawing is now in the Staatliche Kunstsammlungen of Dresden”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Niccol%C3%B2_Albergati"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Conway lists the Albergati portrait, “drawing for it at Dresden”, first among Jan’s portraits",
+        "url": "https://archive.org/details/vaneyckstheirfol00conwuoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Van Eyck was therefore unable to do more than make a careful drawing of his likeness, with such memoranda as would enable him to execute a satisfactory painting. This exquisite drawing, in silver-point on a white ground, is preserved in the royal cabinet of prints at Dresden.",
+        "lead": "The cardinal stayed only a few days in Bruges in December 1431, so, Weale explains,",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The notes on his preparatory drawing for Portrait of Cardinal Niccolò Albergati are written in the Maasland dialect.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jan van Eyck",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Jan_van_Eyck",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although Albergati is traditionally identified as the sitter, some modern scholars suggest that Henry Beaufort is more likely to be its subject. If the portrait is of Henry Beaufort, it would be the earliest realistic portrait of an Englishman.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Cardinal Niccolò Albergati",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Niccol%C3%B2_Albergati",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Cardinal Albergati emerges well from the trial ; a man of strong character, in whom we note the marks of a tumultuous nature brought under control ; a diplomatist, capable, thoughtful, and resolute",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A model of all priestly and episcopal virtues, he continued to observe the austere rule of the Carthusians, sleeping on straw, never eating flesh-meat, wearing a hair shirt, and rising at midnight to pray.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  },
+  "medium": "silverpoint on paper prepared with a white ground"
+}

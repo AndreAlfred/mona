@@ -1,0 +1,176 @@
+{
+  "id": "van-eyck-saint-barbara",
+  "artist": "jan-van-eyck",
+  "title": "Saint Barbara",
+  "date": "1437",
+  "year": 1437,
+  "medium": "brush drawing with ink and oil on a chalk ground, oak panel",
+  "dimensions": "34 × 18.5 cm",
+  "museum": {
+    "name": "Royal Museum of Fine Arts Antwerp (410)",
+    "url": "https://vlaamseprimitieven.vlaamsekunstcollectie.be/nl/collectie/heilige-barbara-van-nicodemie/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Heilige_Barbara_van_Nicomedi%C3%AB%2C_Jan_van_Eyck%2C_1437%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_410.jpg/1280px-Heilige_Barbara_van_Nicomedi%C3%AB%2C_Jan_van_Eyck%2C_1437%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Heilige_Barbara_van_Nicomedi%C3%AB%2C_Jan_van_Eyck%2C_1437%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_410.jpg/2560px-Heilige_Barbara_van_Nicomedi%C3%AB%2C_Jan_van_Eyck%2C_1437%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2106,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Heilige Barbara van Nicomedië, Jan van Eyck, 1437, Koninklijk Museum voor Schone Kunsten Antwerpen, 410.jpg)"
+  },
+  "archive": {
+    "wd": "Q3464466"
+  },
+  "phase": {
+    "label": "Late Bruges years, 1437–41",
+    "source": {
+      "label": "Wikipedia: “Jan van Eyck died on 9 July 1441, in Bruges”; his last dated works are of 1437–39",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Wikipedia: “a small 1437 drawing on oak panel”",
+        "url": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Art historians debate whether the work is an unfinished painting or a complete drawing or study. The panel was completed with brush strokes, a stylus, silverpoint, ink, oil and black pigment on a chalk ground. The blue and ultramarine paint may be later additions.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Saint Barbara (van Eyck)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "silverpoint",
+      "source": {
+        "label": "Wikipedia: completed with “brush strokes, a stylus, silverpoint, ink, oil and black pigment”",
+        "url": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)"
+      }
+    },
+    {
+      "id": "early-netherlandish",
+      "source": {
+        "label": "Wikipedia infobox: Movement “Early Netherlandish painting”",
+        "url": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Jan van Eyck made me, 1437",
+        "lead": "Lettered on the painted marble frame, as if chiselled:",
+        "source": {
+          "author": "Jan van Eyck",
+          "title": "Inscription on the painted frame of Saint Barbara (translated in Wikipedia, “Saint Barbara (van Eyck)”)",
+          "publisher": "Wikipedia (CC BY-SA 4.0)",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)",
+          "accessed": "2026-11-14",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The sky is coloured, the rest of the picture merely drawn, but with the greatest care and minuteness.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "We are in fairy-land where ordinary rules do not apply. … the delicacy of intricate lines by which the whole is wrought out is just so much magic.",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "If intended as a finished work, it would be the earliest surviving drawing of any artist, although not prepared on paper or parchment. Evidence includes that the work was highly regarded at the time by Flemish aesthetics as an object in itself.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Barbara (van Eyck)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "with its detailed and complex of small scenes, the work seems to foreshadow the paintings of Pieter Bruegel the Elder",
+        "lead": "According to the art historian Simone Ferrari,",
+        "source": {
+          "author": "Simone Ferrari",
+          "title": "Van Eyck, as quoted in Wikipedia, “Saint Barbara (van Eyck)”",
+          "publisher": "quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)",
+          "accessed": "2026-11-14",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "on its summit four masons are working ; a fifth, near the crane by which a carved stone is being hauled up, stands looking down at the master-mason, who is giving him directions. … an interesting picture, showing how building operations were carried on in the fifteenth century.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Saint Barbara was a 3rd-century Christian martyr who became a popular saint in the late Middle Ages. According to hagiography, her wealthy and pagan father, Dioscorus, sought to preserve her from unwelcome suitors by imprisoning her in a tower.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Barbara (van Eyck)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Barbara_(van_Eyck)",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

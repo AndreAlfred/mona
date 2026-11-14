@@ -1,0 +1,34 @@
+{
+  "id": "early-netherlandish",
+  "kind": "movement",
+  "name": "Early Netherlandish painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Early Netherlandish painting is the body of work by artists active in the Burgundian and Habsburg Netherlands during the 15th- and 16th-century Northern Renaissance period, once known as the Flemish Primitives. It flourished especially in the cities of Bruges, Ghent, Mechelen, Leuven, Tournai and Brussels, all in present-day Belgium. The period begins approximately with Robert Campin and Jan van Eyck in the 1420s",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Early Netherlandish painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Early_Netherlandish_painting",
+        "accessed": "2026-11-14",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "These artists made significant advances in natural representation and illusionism, and their work typically features complex iconography. Their subjects are usually religious scenes or small portraits, with narrative painting or mythological subjects being relatively rare. … The painted works are generally in oils on panel, either as single panels or more complex portable or fixed altarpieces in the form of diptychs, triptychs or polyptychs.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Early Netherlandish painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Early_Netherlandish_painting",
+        "accessed": "2026-11-14",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Netherlandish"
+}

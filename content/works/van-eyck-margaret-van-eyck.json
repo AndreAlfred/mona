@@ -1,0 +1,176 @@
+{
+  "id": "van-eyck-margaret-van-eyck",
+  "artist": "jan-van-eyck",
+  "title": "Portrait of Margaret van Eyck",
+  "date": "1439",
+  "year": 1439,
+  "medium": "oil paint on oak panel, panel",
+  "dimensions": "32.6 × 25.8 cm",
+  "museum": {
+    "name": "Groeningemuseum (0000.GRO0162.I)",
+    "url": "https://vlaamsekunstcollectie.be/collectie/0000-gro0162-i"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg/1280px-Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg/2560px-Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1533,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jan van Eyck - Portrait of Margaret van Eyck (1439).jpg)"
+  },
+  "archive": {
+    "wd": "Q3399452"
+  },
+  "phase": {
+    "label": "Late Bruges years, 1437–41",
+    "source": {
+      "label": "Wikipedia: “one of the latest of his surviving paintings”",
+      "url": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “one of the earliest European artworks to depict a painter's spouse”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "They are a ruthless set of portraits, each individual beheld, and then not merely depicted, but judged beyond all appeal",
+          "lead": "Conway, on van Eyck’s portraits as a group:",
+          "source": {
+            "author": "Martin Conway",
+            "title": "The Van Eycks and Their Followers",
+            "publisher": "John Murray, London (Internet Archive scan)",
+            "year": "1921",
+            "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+            "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+            "accessed": "2026-11-14",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a 1439 oil on wood painting”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck"
+      }
+    },
+    {
+      "id": "early-netherlandish",
+      "source": {
+        "label": "Wikipedia (Portrait of Margaret van Eyck): “by the Early Netherlandish painter Jan van Eyck”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "My husband Johannes completed me in the year 1439 on 17 June, at the age of 33. As I can",
+        "lead": "On the frame, in the sitter’s voice, ending with his motto:",
+        "source": {
+          "author": "Jan van Eyck",
+          "title": "Inscription on the frame of the portrait (translated in Wikipedia, “Portrait of Margaret van Eyck”)",
+          "publisher": "Wikipedia (CC BY-SA 4.0)",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck",
+          "accessed": "2026-11-14",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "John has not flattered his wife, but has portrayed her with the insight born of intimate acquaintance. Her features are not attractive, and her head-dress does not improve her appearance ; but she was evidently an intelligent woman, and a competent housewife, with a clear steady eye and a firm mouth, showing that she had a will of her own.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is one of the latest of his surviving paintings, and one of the earliest European artworks to depict a painter's spouse. The painting was made when she was around 34, and was hung until the early 18th century in the Bruges Chapel of the Guild of Painters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Margaret van Eyck",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Art historians believe it was once a pendant (diptych) panel for Jan's likely self-portrait in the National Gallery, London.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Margaret van Eyck",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As for Margaret van Eyck, her husband may be reckoned fortunate ; she possesses considerable intelligence and discernment, no little determination, and probably some quiet humour. She will make a capable housewife and sensible companion.",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Van Eyck died within two years of completing this work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Margaret van Eyck",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although the widow of a renowned painter and diplomat, Margaret was only given a modest pension by the city of Bruges after Jan's death.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Margaret van Eyck",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "van-eyck-rolin-madonna",
+  "artist": "jan-van-eyck",
+  "title": "Madonna of Chancellor Rolin",
+  "date": "c. 1435",
+  "year": 1435,
+  "medium": "oil paint on panel",
+  "dimensions": "66 × 62 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 1271)",
+    "url": "https://www.wikidata.org/wiki/Q1516449"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp/1280px-The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1247,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Virgin with Chancellor Rolin by Jan van Eyck (Louvre).webp)"
+  },
+  "archive": {
+    "wd": "Q1516449"
+  },
+  "phase": {
+    "label": "Bruges maturity, 1434–36",
+    "source": {
+      "label": "Wikipedia: “The years between 1434 and 1436 … are generally considered his high point”",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: Rolin’s “votive portrait takes up the left side of the picture”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The Virgin possesses no physical attractions ; the Child is ugly, and the chancellor hideous . . . but his face, hideous though it be, possesses a fascination by reason of its strong and vivid presentment of character, which puts all else into the shade.",
+          "source": {
+            "author": "Martin Conway",
+            "title": "Early Flemish Artists (1887), as quoted in W. H. James Weale, Hubert and John van Eyck (1908)",
+            "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+            "year": "1887",
+            "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+            "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+            "accessed": "2026-11-14",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil painting by the Early Netherlandish painter Jan van Eyck”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin"
+      }
+    },
+    {
+      "id": "early-netherlandish",
+      "source": {
+        "label": "Wikipedia (Madonna of Chancellor Rolin): “by the Early Netherlandish painter Jan van Eyck”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Here John's art is displayed in all its force and weakness ; — admirable when we only look at the characteristic rendering of the scratch-wigged chancellor, or the adumbrations that cover the wondrous details of architecture, or the crystalline purity of a distance carried to a horizon of snow mountains miles away ; disappointing when we look at the plain mask of the Virgin, or the wooden shape of the aged babe",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "The Early Flemish Painters (1857), as quoted in W. H. James Weale, Hubert and John van Eyck (1908)",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1857",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is, however, the landscape here that enraptures every beholder. The figures belong to the solid earth on which John firmly stood, his eyes steadily fixed on the men and women of his day.",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "here evidently, as in all the landscapes of the Van Eycks, the whole is really an original composition, but so skilfully designed as to give the impression of its being a real view.",
+        "lead": "Weale, on the river city in the distance:",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The architecture of the loggia, as in so many of van Eyck's paintings, is in a rich and delicate Romanesque style far from the Gothic styles of his own day. The setting probably represents at the same time an imaginary building in Autun, and the \"Heavenly city of Jerusalem\"; two personages from two worlds are shown, and their surrounding combines the world of each.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna of Chancellor Rolin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Nicholas, son of John Rolin and Amee Jugnot, born at Autun in 1376, … was created Chancellor of Burgundy and Brabant, December 3, 1422.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Infrared reflectograms have disclosed a number of changes from the underdrawing. Rolin had a large purse hanging from his belt; since he had grown very rich in public office he probably felt that would be inappropriate.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna of Chancellor Rolin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "van-eyck-man-in-red-turban",
+  "artist": "jan-van-eyck",
+  "title": "Portrait of a Man in a Red Turban (Self Portrait?)",
+  "date": "1433",
+  "year": 1433,
+  "medium": "oil paint on oak panel, panel",
+  "dimensions": "27 × 19 cm",
+  "museum": {
+    "name": "National Gallery (NG222)",
+    "url": "https://www.wikidata.org/wiki/Q2392901"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/1280px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/2560px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1651,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jan van Eyck - Portrait of a Man (Self Portrait?) 1433.jpg)"
+  },
+  "archive": {
+    "wd": "Q2392901"
+  },
+  "phase": {
+    "label": "First Bruges portraits, 1432–33",
+    "source": {
+      "label": "Wikipedia: his motto “first appeared in 1433 on Portrait of a Man in a Turban”; Léal Souvenir is dated 1432",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “Like all van Eyck's portraits, it provides an unsparing, detailed analysis of the sitter”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Like all van Eyck's portraits, it provides an unsparing, detailed analysis of the sitter. The man has pronounced stubble, and his face is heavily lined with the onset of middle age, most notably in the wrinkles that radiate outward from his eyes. His blue eyes are semi-bloodshot.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Portrait of a Man (Self Portrait?)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: “his eyes with ultramarine”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a small oil painting”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Jan van Eyck made me on 21 October 1433",
+        "lead": "On the frame, below his motto “Als ich can”, the picture speaks for itself:",
+        "source": {
+          "author": "Jan van Eyck",
+          "title": "Inscription on the original frame (translated in Wikipedia, “Portrait of a Man (Self Portrait?)”)",
+          "publisher": "Wikipedia (CC BY-SA 4.0)",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban",
+          "accessed": "2026-11-14",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The red-turbaned man, who may have been John van Eyck himself (it looks like a portrait done from a mirror), is the finest of the series, the subtlest, the most finished.",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This, one of the best of John's portraits, is delicately painted in a reddish-brown tone, the modelling of the left cheek in shadow is most successful, its elevations and hollows, the pleats of the eyelids and at the root of the nose, and the veins and wrinkles of the forehead, being rendered with absolute faithfulness.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Autographing and dating secular paintings in the early 15th century was unusual: typically they appear in religious donor portraits as, according to the art historian Alfred Acres, \"testaments of devotion\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of a Man (Self Portrait?)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The National Gallery title is qualified with a question mark given that there is no extant documentary evidence that the painting is of the artist himself, and that no other independent self-portraits appear in European painting for several more decades.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of a Man (Self Portrait?)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "look at what I can do with paint, how lifelike I can make my figures",
+        "lead": "Read as a calling card, the portrait says, in the art historian Susie Nash’s words:",
+        "source": {
+          "author": "Susie Nash",
+          "title": "Northern Renaissance Art (2008), as quoted in Wikipedia, “Portrait of a Man (Self Portrait?)”",
+          "publisher": "quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban",
+          "accessed": "2026-11-14",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Art historians believe the motto is a challenge to other artists to try and do better. In addition, the Flemish phrase written in Greek script implies that van Eyck saw himself in \"competition with the ancients as well as with his contemporaries\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of a Man (Self Portrait?)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Turban",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}
