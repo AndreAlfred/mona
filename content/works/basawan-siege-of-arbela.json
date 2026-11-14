@@ -1,0 +1,174 @@
+{
+  "id": "basawan-siege-of-arbela",
+  "artist": "basawan",
+  "title": "The siege of Arbela in the era of Hulagu Khan, from a Chingiz-nama (Book of Chingiz Khan) of the Jami al-tavarikh (Compendium of Chronicles) of Rashid al-Din (Persian, 1247–1318)",
+  "date": "c. 1596",
+  "year": 1591,
+  "medium": "Gum tempera, ink, and gold on paper",
+  "dimensions": "Image: 34 x 20 cm (13 3/8 x 7 7/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1947.502"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1947.502/1947.502_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1947.502/1947.502_print.jpg",
+    "width": 900,
+    "height": 721,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 125579
+  },
+  "phase": {
+    "label": "Lahore years: the illustrated histories, c. 1596",
+    "source": {
+      "label": "Beach: the Akbar-period Jami al-Tawarikh (Chingiz-nama) is dated 1596; Siege of the City of Arbela “Designed by Basawan, painted by Sur Das Gujarati”",
+      "url": "https://archive.org/details/the-imperial-image"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "CMA: “a new emphasis on creating paintings to accompany historical texts”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/125579"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "By the end of the 1500s there was a new emphasis on creating paintings to accompany historical texts.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "The siege of Arbela in the era of Hulagu Khan, from a Chingiz-nama (Book of Chingiz Khan) of the Jami al-tavarikh (Compendium of Chronicles) of Rashid al-Din",
+            "publisher": "The Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1947.502",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/125579",
+            "accessed": "2026-11-14",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "CMA: a page from a Chingiz-nama of Rashid al-Din’s Jami al-tavarikh",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/125579"
+      }
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "CMA: “Painting from the Akbar period reached its maturity by the 1590s in works such as this”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/125579"
+      }
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Welch: Mughal miniatures were made in “the technique of opaque watercolor or gouache painting”",
+        "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A Mongol conqueror riding a white horse gazes stonily at his defeated West Asian opponent in a scene that took place more than 300 years before this painting was made.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The siege of Arbela in the era of Hulagu Khan, from a Chingiz-nama (Book of Chingiz Khan) of the Jami al-tavarikh (Compendium of Chronicles) of Rashid al-Din",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1947.502",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/125579",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Visually, the diagonal composition with cityscape at the top of the page—also found among the earliest Mughal paintings—was expanded to include throngs of participants and a startling new naturalism.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The siege of Arbela in the era of Hulagu Khan, from a Chingiz-nama (Book of Chingiz Khan) of the Jami al-tavarikh (Compendium of Chronicles) of Rashid al-Din",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1947.502",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/125579",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Identified pages from this [Akbar-period] copy relate to the second half of the first section, the history of Genghis Khan, specifically known as the Kitab-i-Chingiz-nama (Book of the History of Genghis), and Abu’l Fazl mentions it under this name in the A’in-i-Akbari.",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Painting from the Akbar period reached its maturity by the 1590s in works such as this: dynamic in composition and gestures but contained within organized spaces and emphasized three-dimensionality.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The siege of Arbela in the era of Hulagu Khan, from a Chingiz-nama (Book of Chingiz Khan) of the Jami al-tavarikh (Compendium of Chronicles) of Rashid al-Din",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1947.502",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/125579",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Zahiruddin Muhammad Babur [(1483–1530)], the dynasty's charismatic first emperor, [descended] from both Timur (Tamerlane) and Genghis Khan, was a man of letters as well as a soldier.",
+        "lead": "Welch, on why the Mongol past mattered to the Mughals:",
+        "source": {
+          "author": "Stuart Cary Welch",
+          "title": "Introduction, in The Emperors’ Album: Images of Mughal India",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia",
+          "readAt": "https://archive.org/stream/TheEmperorsAlbumImagesofMughalIndia/TheEmperorsAlbumImagesofMughalIndia_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The great Muslim historian Rashid al-Din (1247-1313) was a man of such eminence and power that he [established] virtual factories for the translation, copying, and embellishment of books of his own works",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

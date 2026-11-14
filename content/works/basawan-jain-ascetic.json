@@ -1,0 +1,169 @@
+{
+  "id": "basawan-jain-ascetic",
+  "artist": "basawan",
+  "title": "Jain Ascetic Walking Along a Riverbank",
+  "date": "c. 1600",
+  "year": 1595,
+  "medium": "gum tempera, ink, and gold on paper",
+  "dimensions": "Painting: 14.7 x 9.8 cm (5 13/16 x 3 7/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1967.244"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1967.244/1967.244_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1967.244/1967.244_print.jpg",
+    "width": 652,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Severance and Greta Millikin Collection"
+  },
+  "archive": {
+    "cma": 143314
+  },
+  "phase": {
+    "label": "Last years, c. 1600",
+    "source": {
+      "label": "Beach: “His career ended about 1600, when his name no longer appears in marginal inscriptions”",
+      "url": "https://archive.org/details/the-imperial-image"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "CMA: “This sensitively painted portrait was made for the collection of the Mughal emperor Akbar”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/143314"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This sensitively painted portrait was made for the collection of the Mughal emperor Akbar who was curious about the tenets of Jainism.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Jain Ascetic Walking Along a Riverbank",
+            "publisher": "The Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1967.244",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/143314",
+            "accessed": "2026-11-14",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "CMA: made for the collection of the Mughal emperor Akbar",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/143314"
+      }
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Welch: Mughal miniatures were made in “the technique of opaque watercolor or gouache painting”",
+        "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Alluding to his wisdom, this white-clad Jain monk carries a manuscript under his left arm, bound with a red cover. Otherwise he carries a Jain monk’s basic accouterments: whisk broom, staff, and pot.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Jain Ascetic Walking Along a Riverbank",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1967.244",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/143314",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Basawan’s achievement was crucial to the development of [Jahangiri] portraiture in the early seventeenth century, an astonishing attainment since he was also [instrumental] in the formation of the quite different early Mughal style.",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He admired the explanations of the Jain monks who regularly attended the emperor’s weekly discussion sessions among members of different religious groups.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Jain Ascetic Walking Along a Riverbank",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1967.244",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/143314",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Zoroastrians, Jains, Hindus and Muslims of all sects, and Christians joined in these serious all-night conversations, during which the emperor’s questions often must have been as upsetting as they were penetrating.",
+        "lead": "Welch, on Akbar’s religious debates:",
+        "source": {
+          "author": "Stuart Cary Welch",
+          "title": "Imperial Mughal Painting",
+          "publisher": "George Braziller (Internet Archive scan)",
+          "year": "1978",
+          "url": "https://archive.org/details/dli.ministry.25951",
+          "readAt": "https://archive.org/stream/dli.ministry.25951/ignca-492-rb_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Basawan, with minimal means, suggests that his subjects are part of our world.",
+        "lead": "Beach, contrasting Basawan’s holy men with Daswanth’s:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His psychologically penetrating portraiture and [swelling] forms suggest that he studied with Basawan, Akbar's greatest master, upon whose painterly brushwork he modeled his own.",
+        "lead": "Welch, on the next generation’s Govardhan:",
+        "source": {
+          "author": "Stuart Cary Welch",
+          "title": "Introduction, in The Emperors’ Album: Images of Mughal India",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia",
+          "readAt": "https://archive.org/stream/TheEmperorsAlbumImagesofMughalIndia/TheEmperorsAlbumImagesofMughalIndia_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

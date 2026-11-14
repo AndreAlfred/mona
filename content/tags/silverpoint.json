@@ -1,0 +1,35 @@
+{
+  "id": "silverpoint",
+  "kind": "technique",
+  "name": "Silverpoint",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A silverpoint drawing is made by dragging a silver rod or wire across a surface, often prepared with gesso or ground of Chinese white. Silverpoint is one of several types of metalpoint used by scribes, craftsmen and artists since ancient times.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Silverpoint",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Silverpoint",
+        "accessed": "2026-11-14",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "these other drawing techniques required less effort and were more forgiving than silver, which resists erasure and leaves a fainter line.",
+      "lead": "It gave way to graphite and chalk because",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Silverpoint",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Silverpoint",
+        "accessed": "2026-11-14",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "metalpoint"
+}

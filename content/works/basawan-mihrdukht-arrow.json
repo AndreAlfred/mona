@@ -1,0 +1,153 @@
+{
+  "id": "basawan-mihrdukht-arrow",
+  "artist": "basawan",
+  "title": "Mihrdukht aims her arrow at the ring",
+  "date": "c. 1570",
+  "year": 1570,
+  "medium": "gold, cotton fabric, gouache paint",
+  "dimensions": "68 × 52 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (2022.170)",
+    "url": "https://www.metmuseum.org/art/collection/search/825583"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Meister_der_Hamza-N%C3%A2ma-Handschrift_001.jpg/1280px-Meister_der_Hamza-N%C3%A2ma-Handschrift_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1569,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Meister der Hamza-Nâma-Handschrift 001.jpg)"
+  },
+  "archive": {
+    "wd": "Q50811701"
+  },
+  "phase": {
+    "label": "Hamza-nama years, c. 1562–77",
+    "source": {
+      "label": "Beach: the Tuti-nama, Hamza-nama and Darab-nama pages chart “the progression of Basawan’s early development”",
+      "url": "https://archive.org/details/the-imperial-image"
+    }
+  },
+  "tags": [
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "Beach: the Hamza-nama manuscript “is on cloth” with folios of “about 68 by 52 cm”",
+        "url": "https://archive.org/details/the-imperial-image"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "By Mughal standards the size of the Hamza-nama folios is enormous (about 68 by 52 cm.) and immediately affects the visual impact of the illustrations",
+          "source": {
+            "author": "Milo Cleveland Beach",
+            "title": "The Imperial Image: Paintings for the Mughal Court",
+            "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+            "year": "1981",
+            "url": "https://archive.org/details/the-imperial-image",
+            "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+            "accessed": "2026-11-14",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikidata (Met record): gouache and gold on cotton",
+        "url": "https://www.wikidata.org/wiki/Q50811701"
+      }
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Beach: the Hamza-nama is “an initial result” of the new Mughal style",
+        "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "[Basavana], who seems to have designed this painting, creates a spacious garden by reducing the size of its walls, and by introducing a distant side wall at an oblique angle. His painterly touch is apparent in both the spreading plantain tree and the pair of palm trees",
+        "lead": "Seyller, attributing the page to Basavana and Jagana:",
+        "source": {
+          "author": "John Seyller",
+          "title": "The Adventures of Hamza: Painting and Storytelling in Mughal India (catalogue entries)",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2002",
+          "url": "https://archive.org/details/adventuresofhamz00seyl",
+          "readAt": "https://archive.org/stream/adventuresofhamz00seyl/adventuresofhamz00seyl_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Story of Hamzah was represented in twelve volumes, and clever painters made the most astonishing illustrations for no less than one thousand and four hundred passages of the story.",
+        "lead": "Abu’l Fazl, on Akbar’s painting studio:",
+        "source": {
+          "author": "Abu’l Fazl",
+          "title": "Ain-i Akbari, Ain 34: The Art of Painting",
+          "publisher": "translated by H. Blochmann, vol. I, Asiatic Society of Bengal (Internet Archive scan)",
+          "year": "1873",
+          "page": "107–108",
+          "url": "https://archive.org/details/india.history.resource.117529",
+          "readAt": "https://archive.org/stream/india.history.resource.117529/117529_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Basawan, on the other hand, was a rationalist, and after Daswanth’s death by suicide in 1584, his style came to dominate the imperial studios.",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Standing on the balcony of a lofty pavilion, she takes aim at a small ring dangling from the mouth of a golden bird installed at the top of an [imposingly] tall tower. With incredible ease, she lets fly an arrow with such unerring aim that it passes cleanly through that ring.",
+        "source": {
+          "author": "John Seyller",
+          "title": "The Adventures of Hamza: Painting and Storytelling in Mughal India (catalogue entries)",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2002",
+          "url": "https://archive.org/details/adventuresofhamz00seyl",
+          "readAt": "https://archive.org/stream/adventuresofhamz00seyl/adventuresofhamz00seyl_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Most of the stories are extremely fanciful, “a continuous series of romantic interludes, threatening events, narrow escapes, and violent acts”.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hamzanama",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hamzanama",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mughal-painting",
+  "kind": "style",
+  "name": "Mughal painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Mughal painting is a style of miniature painting, used as either book illustrations or as single works to be kept in albums (muraqqa), which originated during the Mughal period in the Indian subcontinent.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Mughal painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Mughal_painting",
+        "accessed": "2026-11-14",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Such a later Mughal manuscript as the Harivamsa shows the growing concern for naturalism and a more precisely visual observation—traits that made European works of such novelty and interest—and this awareness becomes the most distinctive contribution of Mughal painting to the arts of either Islam or India.",
+      "source": {
+        "author": "Milo Cleveland Beach",
+        "title": "The Imperial Image: Paintings for the Mughal Court",
+        "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+        "year": "1981",
+        "url": "https://archive.org/details/the-imperial-image",
+        "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+        "accessed": "2026-11-14",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "Mughal"
+}

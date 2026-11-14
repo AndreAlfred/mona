@@ -1,0 +1,148 @@
+{
+  "id": "basawan-mendicant-holy-man",
+  "artist": "basawan",
+  "title": "A mendicant bowing before a holy man, from the Prince Salim Album",
+  "date": "c. 1585; inner border added in Allahabad c. 1602; outer border added probably 1900s",
+  "year": 1580,
+  "medium": "Gum tempera, ink, and gold on paper",
+  "dimensions": "Page: 32.7 x 21.1 cm (12 7/8 x 8 5/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2013.296"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2013.296/2013.296_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2013.296/2013.296_print.jpg",
+    "width": 675,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift in honor of Madeline Neves Clapp; Gift of Mrs. Henry White Cannon by exchange; Bequest of Louise T. Cooper; Leonard C. Hanna Jr. Fund; From the Catherine and Ralph Benkaim Collection"
+  },
+  "archive": {
+    "cma": 170789
+  },
+  "phase": {
+    "label": "Maturity in the 1580s",
+    "source": {
+      "label": "Beach: “By the 1580s he was a fully mature painter”",
+      "url": "https://archive.org/details/the-imperial-image"
+    }
+  },
+  "tags": [
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "CMA: Indian artists in the Mughal atelier of the 1580s combined Persian styles with new naturalism",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/170789"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "As the Mughal atelier grew into the 1580s, Indian artists become increasingly adept at incorporating Persian styles with a new dimensionality and naturalism that Akbar promoted, possibly based on his appreciation of European prints and paintings.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "A mendicant bowing before a holy man, from the Prince Salim Album",
+            "publisher": "The Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/2013.296",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/170789",
+            "accessed": "2026-11-14",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Welch: Mughal miniatures were made in “the technique of opaque watercolor or gouache painting”",
+        "url": "https://archive.org/details/TheEmperorsAlbumImagesofMughalIndia"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Here, a sincere holy man wears robes tinged lightly with blue. He stands beneath a tree in the wilderness with a loyal jackal by his side. A devotee touches his head to his feet. The artist’s tiny signature is written on the alms bowl.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "A mendicant bowing before a holy man, from the Prince Salim Album",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/2013.296",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/170789",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Two Ascetics Offered a Flower by a Shepherd (Figure 66), by [Basawan], depicts outlandish physical types, but pokes no fun. The figures could easily have been caricatured; instead [Basawan] sets them before us with sympathy, understanding, and even reverence",
+        "lead": "Beach, on a related drawing of holy men by Basawan, c. 1580:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Connoisseurs of Persian art in the Islamic world praised an artist’s virtuoso ability to work on a microscopic scale.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "A mendicant bowing before a holy man, from the Prince Salim Album",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/2013.296",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/170789",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The most fascinating documents for understanding Jahangir-period painting and the greatest evidence for the eclecticism and quality of the emperor’s taste are the albums that he formed, which begin with his years at Allahabad.",
+        "lead": "Beach, on the albums of Prince Salim, the future Jahangir:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "For this artist, human contact and interaction is all important.",
+        "lead": "Beach, on Basawan:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

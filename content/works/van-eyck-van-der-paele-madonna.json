@@ -1,0 +1,171 @@
+{
+  "id": "van-eyck-van-der-paele-madonna",
+  "artist": "jan-van-eyck",
+  "title": "Virgin and Child with Canon van der Paele",
+  "date": "1434–36",
+  "year": 1436,
+  "medium": "oil paint on panel",
+  "dimensions": "124.5 × 160 cm",
+  "museum": {
+    "name": "Groeningemuseum (0000.GRO0161.I)",
+    "url": "https://www.europeana.eu/de/item/2048001/AP_10100767"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg/1280px-Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg/2560px-Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 931,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Eyck, Jan van - Madonna with Canon van der Paele.jpeg)"
+  },
+  "archive": {
+    "wd": "Q2480921"
+  },
+  "phase": {
+    "label": "Bruges maturity, 1434–36",
+    "source": {
+      "label": "Wikipedia: “The years between 1434 and 1436 … are generally considered his high point”",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Van Eyck's mastery at handling oil can be seen in the differing breadths of brush strokes”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_with_Canon_van_der_Paele"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Van Eyck's mastery at handling oil can be seen in the differing breadths of brush strokes. The precision of the detail achieved is especially noticeable in the rendering of threads of St. Donatian's blue and golden embroidered cope and mitre, in the weave of the oriental carpet, and in the stubble and veins on van der Paele's aging face.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Virgin and Child with Canon van der Paele",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Madonna_with_Canon_van_der_Paele",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: “The panel was commissioned by van der Paele as an altarpiece”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_with_Canon_van_der_Paele"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Fromentin: the donor’s face “is a marvel of drawing and physiognomic painting”",
+        "url": "https://archive.org/details/mastersofpasttim00from"
+      }
+    },
+    {
+      "id": "early-netherlandish",
+      "source": {
+        "label": "Wikipedia (Virgin and Child with Canon van der Paele): “by the Early Netherlandish painter Jan van Eyck”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_with_Canon_van_der_Paele"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is undoubtedly the strongest bit of work in the picture. … He is bald ; a little down plays about his temples, the bone of which is visible and hard under the thin skin. The face is thick, the eyes are sunk, the muscles diminished, hardened, seamed and crevassed by age. This great face, flaccid and wrinkled, is a marvel of drawing and physiognomic painting. All the art of Holbein is in it.",
+        "lead": "Fromentin, on the kneeling donor:",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Masters of Past Time (Les Maîtres d’autrefois, 1876)",
+          "publisher": "J. M. Dent & Sons, London (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/mastersofpasttim00from",
+          "readAt": "https://archive.org/stream/mastersofpasttim00from/mastersofpasttim00from_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting is, after the \"Adoration of the Mystic Lamb\" panel of the Ghent Altarpiece, van Eyck's second largest extant painting, and the only one in a horizontal framing.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin and Child with Canon van der Paele",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_with_Canon_van_der_Paele",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In truth, when you concentrate upon it, it makes you forget everything else, and leads you to think that the art of painting has spoken its last word, and that in its first hour.",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Masters of Past Time (Les Maîtres d’autrefois, 1876)",
+          "publisher": "J. M. Dent & Sons, London (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/mastersofpasttim00from",
+          "readAt": "https://archive.org/stream/mastersofpasttim00from/mastersofpasttim00from_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "That this picture was highly considered is shown by several echoes and imitations of it in subsequent works of art, painted as far off as Avignon.",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The portrait of the canon is that of a man of marked individuality, but obviously infirm. … He died at an advanced age on the 25th of August, 1443, having been very infirm during the last ten years of his life.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "An illness around 1431 left van der Paele unable to fulfil the functions of his office, and led him to reflect upon his position as canon and on his mortality. In response he endowed a chaplaincy to the church and commissioned this work from van Eyck.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin and Child with Canon van der Paele",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_with_Canon_van_der_Paele",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

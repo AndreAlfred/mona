@@ -1,0 +1,166 @@
+{
+  "id": "basawan-mother-parrot-king",
+  "artist": "basawan",
+  "title": "The hunter offers the mother parrot to the king of Kamarupa, from a Tuti-nama (Tales of a Parrot): Fifth Night",
+  "date": "c. 1560",
+  "year": 1555,
+  "medium": "gum tempera, ink, and gold on paper",
+  "dimensions": "Overall: 20 x 14.3 cm (7 7/8 x 5 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1962.279.36.b"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.279.36.b/1962.279.36.b_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1962.279.36.b/1962.279.36.b_print.jpg",
+    "width": 624,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. A. Dean Perry"
+  },
+  "archive": {
+    "cma": 137875
+  },
+  "phase": {
+    "label": "Earliest works: the Tuti-nama, c. 1560s",
+    "source": {
+      "label": "Seyller: “Basavana’s second ascribed painting in the Tutinama”",
+      "url": "https://archive.org/details/adventuresofhamz00seyl"
+    }
+  },
+  "tags": [
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Seyller: Basavana “uses paint and crosshatching” to model the hunter’s scarf",
+        "url": "https://archive.org/details/adventuresofhamz00seyl"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Basavana uses paint and [crosshatching] so subtly that the hunter's scarf changes [imperceptibly] from white to grey, and reads convincingly as a roughly woven fabric.",
+          "source": {
+            "author": "John Seyller",
+            "title": "The Adventures of Hamza: Painting and Storytelling in Mughal India (catalogue entries)",
+            "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+            "year": "2002",
+            "url": "https://archive.org/details/adventuresofhamz00seyl",
+            "readAt": "https://archive.org/stream/adventuresofhamz00seyl/adventuresofhamz00seyl_djvu.txt",
+            "accessed": "2026-11-14",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "CMA: “The lavish use of gold indicates that this book was a costly production”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/137875"
+      }
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Beach: the Tuti-nama shows “constituent elements of the Mughal style before they blended”",
+        "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The figure of the hunter reveals the talents of the artist Basavana, whose name is written in the right margin. Draped in rustic garments shaded to appear softly flowing, the hunter bends forward with a subtle look of shrewd expectancy as the king seems ready to pay a high price for the parrot.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The hunter offers the mother parrot to the king of Kamarupa, from a Tuti-nama (Tales of a Parrot): Fifth Night",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1962.279.36.b",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137875",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This painting demonstrates Basavana's [unsurpassed] ability to render mass and texture.",
+        "source": {
+          "author": "John Seyller",
+          "title": "The Adventures of Hamza: Painting and Storytelling in Mughal India (catalogue entries)",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2002",
+          "url": "https://archive.org/details/adventuresofhamz00seyl",
+          "readAt": "https://archive.org/stream/adventuresofhamz00seyl/adventuresofhamz00seyl_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The billowing red curtain is one of Basavana’s signature motifs.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The hunter offers the mother parrot to the king of Kamarupa, from a Tuti-nama (Tales of a Parrot): Fifth Night",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1962.279.36.b",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137875",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Tuti-nama shows these varied constituent elements of the Mughal style before they blended; and the Hamza-nama is an initial result of the process set in motion in this manuscript.",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The king of Kamarupa, which ironically means “body of erotic love,” had leprosy. The hunter brought the captured mother parrot to the king, assuring him that the bird knew a cure.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The hunter offers the mother parrot to the king of Kamarupa, from a Tuti-nama (Tales of a Parrot): Fifth Night",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1962.279.36.b",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137875",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Beyond is a tantalizing glimpse of the forest to which the parrot will soon escape to rejoin her children.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The hunter offers the mother parrot to the king of Kamarupa, from a Tuti-nama (Tales of a Parrot): Fifth Night",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1962.279.36.b",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137875",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

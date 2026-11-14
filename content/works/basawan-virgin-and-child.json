@@ -1,0 +1,131 @@
+{
+  "id": "basawan-virgin-and-child",
+  "artist": "basawan",
+  "title": "The Virgin and Child",
+  "date": "1590",
+  "year": 1590,
+  "medium": "gouache paint, gold on paper",
+  "dimensions": "21.7 × 13.7 cm",
+  "museum": {
+    "name": "San Diego Museum of Art (1990.293)",
+    "url": "https://collection.sdmart.org/objects-1/info/5047"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Virgin_and_Child_%286124500531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1883,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Virgin and Child (6124500531).jpg)"
+  },
+  "archive": {
+    "wd": "Q100291384"
+  },
+  "phase": {
+    "label": "Lahore years, c. 1590",
+    "source": {
+      "label": "Wikidata (San Diego Museum of Art record): dated 1590, attributed to Basawan, a leaf from the Jahangir Album",
+      "url": "https://www.wikidata.org/wiki/Q100291384"
+    }
+  },
+  "tags": [
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Wikipedia: Mughal portraiture was “influenced by Western prints, which were available at the Mughal court”",
+        "url": "https://en.wikipedia.org/wiki/Mughal_painting"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "From fairly early the Mughal style made a strong feature of realistic portraiture, normally in profile, and influenced by Western prints, which were available at the Mughal court.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Mughal painting",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Mughal_painting",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikidata (San Diego Museum of Art record): gouache and gold on paper",
+        "url": "https://www.wikidata.org/wiki/Q100291384"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "More than any of his compatriots, Basawan studied and learned profoundly from the European prints that circulated in the Mughal empire, and consequently his figures are defined by weight and mass, and his character studies are unrivaled",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He showed great reverence for the pictures of our Savior and the blessed Virgin, and even for those of other saints; and he ordered his painter to make copies of those which the Fathers had placed in their chapel.",
+        "lead": "A Jesuit account of Akbar’s visit to the mission’s chapel in 1582:",
+        "source": {
+          "author": "Pierre du Jarric, quoted by Milo Cleveland Beach",
+          "title": "Akbar and the Jesuits, quoted in The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "translated by C. H. Payne; Freer Gallery of Art (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the arrival of the books— which were rapidly succeeded by a variety of northern European prints—and the almost continuous presence of Europeans at the capital sparked an intensive interest in [European] compositions and techniques.",
+        "lead": "Beach, on the illustrated Bible the Jesuits brought to Akbar in 1580:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The Bible itself was the source for several inventive studies. Figures in drawings by Basawan and his son Manohar are adapted from motifs found on the double-page frontispiece",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

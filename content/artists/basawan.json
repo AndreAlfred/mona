@@ -1,0 +1,75 @@
+{
+  "id": "basawan",
+  "name": "Basawan",
+  "active": "c. 1560s–1600",
+  "nationality": "Indian",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Beach: Basawan “was also instrumental in the formation of the quite different early Mughal style”",
+        "url": "https://archive.org/details/the-imperial-image"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q728311",
+  "archive": {
+    "aic": 100581,
+    "cma": [
+      6362,
+      286640
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Basawan. In back grounding, drawing of features, distribution of colours, portrait painting, and several other branches, he is most excellent, so much so, that many critics prefer him to Daswant’h.",
+      "lead": "Abu’l Fazl, Akbar’s court historian, ranking the emperor’s painters in the Ain-i Akbari:",
+      "source": {
+        "author": "Abu’l Fazl",
+        "title": "Ain-i Akbari, Ain 34: The Art of Painting",
+        "publisher": "translated by H. Blochmann, vol. I, Asiatic Society of Bengal (Internet Archive scan)",
+        "year": "1873",
+        "page": "108",
+        "url": "https://archive.org/details/in.ernet.dli.2015.279471",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.279471/2015.279471.Ain-I_djvu.txt",
+        "accessed": "2026-11-14",
+        "tier": 3
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "By 1584, [however], Mir Sayyid Ali was no longer active, Abd as-Samad was a figurehead, and Daswanth had committed suicide. Basawan, therefore, was the most important, prestigious, and influential painter active during the later years of Akbar’s reign.",
+      "source": {
+        "author": "Milo Cleveland Beach",
+        "title": "The Imperial Image: Paintings for the Mughal Court",
+        "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+        "year": "1981",
+        "url": "https://archive.org/details/the-imperial-image",
+        "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+        "accessed": "2026-11-14",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Basawan was a rationalist, with an interest in physical form and texture and a sympathetic [comprehension] of human individuality—unlike his early rival Daswanth, for whom the human was simply one manifestation of a universal energy.",
+      "source": {
+        "author": "Milo Cleveland Beach",
+        "title": "The Imperial Image: Paintings for the Mughal Court",
+        "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+        "year": "1981",
+        "url": "https://archive.org/details/the-imperial-image",
+        "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+        "accessed": "2026-11-14",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

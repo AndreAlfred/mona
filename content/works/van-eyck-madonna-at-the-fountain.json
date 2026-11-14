@@ -1,0 +1,162 @@
+{
+  "id": "van-eyck-madonna-at-the-fountain",
+  "artist": "jan-van-eyck",
+  "title": "Madonna at the Fountain",
+  "date": "1439",
+  "year": 1439,
+  "medium": "oil paint on panel",
+  "dimensions": "19 × 12 cm",
+  "museum": {
+    "name": "Royal Museum of Fine Arts Antwerp (411)",
+    "url": "http://vocab.getty.edu/aat/300177435"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Madonna_bij_de_fontein%2C_Jan_van_Eyck%2C_1439%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_411.jpg/1280px-Madonna_bij_de_fontein%2C_Jan_van_Eyck%2C_1439%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Madonna_bij_de_fontein%2C_Jan_van_Eyck%2C_1439%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_411.jpg/2560px-Madonna_bij_de_fontein%2C_Jan_van_Eyck%2C_1439%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1911,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Madonna bij de fontein, Jan van Eyck, 1439, Koninklijk Museum voor Schone Kunsten Antwerpen, 411.jpg)"
+  },
+  "archive": {
+    "wd": "Q838074"
+  },
+  "phase": {
+    "label": "Late Bruges years, 1437–41",
+    "source": {
+      "label": "Wikipedia: “It belongs to van Eyck's late work, and is his last signed and dated painting”",
+      "url": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain"
+    }
+  },
+  "tags": [
+    {
+      "id": "ultramarine",
+      "source": {
+        "label": "Wikipedia: “Italian painters used ultramarine for the robes of Madonnas”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This depiction is unusual in that the Madonna wears a blue robe; in the Dresden Triptych, Lucca Madonna, and the Madonna of Chancellor Rolin, van Eyck had depicted her dressed in red. … In contrast to this, Italian painters used ultramarine for the robes of Madonnas. Thus van Eyck's choice of blue can be seen as evidence of Italian influence.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Madonna at the Fountain",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a 1439 oil on panel painting”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain"
+      }
+    },
+    {
+      "id": "early-netherlandish",
+      "source": {
+        "label": "Wikipedia: “by the early Netherlandish artist Jan van Eyck”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Als ich can. Johannes de Eyck me fecit + complevit anno 1439°.",
+        "lead": "On the painted frame, his motto (“As I can”) and “Jan van Eyck made and completed me”:",
+        "source": {
+          "author": "Jan van Eyck",
+          "title": "Inscription on the original frame, as transcribed in W. H. James Weale, Hubert and John van Eyck (1908)",
+          "publisher": "John Lane, London (Internet Archive scan)",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 1,
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "More delightful than the most charming of the foregoing, … is a little Virgin by a fountain in Antwerp Museum, which bears the date 1439. Here John is almost copying Hubert, and is entirely reproducing Hubert's types of Virgin and Child ; but he invents a new and better background — a richly woven hanging or dorser, upheld by two fluttering angels, the very butterflies of Heaven",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Models for standing Virgins existed in the icons of Byzantine art, and both paintings also represent modified version of the eleusa type, sometimes called the Virgin of Tenderness in English, where the Virgin and Child touch cheeks, and he reaches out a hand.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna at the Fountain",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Van Eyck's two panels carried forward the habit of reproduction and were themselves frequently copied by commercial workshops throughout the 15th century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna at the Fountain",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Our Lady stands on a grass plot in the open air, tenderly pressing the Infant Jesus to her breast with both hands. The Child with His right hand embraces her affectionately, and with His left stretched out behind Him holds a tasselled chaplet of red coral beads.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Christ Child holds prayer beads in his left hand, suggesting, along with the rose bush behind the figures, the rosary. In the mid to late 15th century the rosary was becoming increasingly popular in northern Europe.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna at the Fountain",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_at_the_Fountain",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

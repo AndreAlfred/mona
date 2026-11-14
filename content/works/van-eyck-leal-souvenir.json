@@ -1,0 +1,161 @@
+{
+  "id": "van-eyck-leal-souvenir",
+  "artist": "jan-van-eyck",
+  "title": "Léal Souvenir (Portrait of a Man, ‘Timotheos’)",
+  "date": "1432",
+  "year": 1432,
+  "medium": "oil paint on panel",
+  "dimensions": "34.5 × 19 cm",
+  "museum": {
+    "name": "National Gallery (NG290)",
+    "url": "https://closertovaneyck.kikirpa.be/verona/#viewer/rep1=2&id1=7852375fa85bdb74fff6361655ac9cd6"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Eyck%2C_Jan_van_-_Portrait_of_a_Young_Man_%28Tymotheos%29_-_National_Gallery%2C_London.jpg/1280px-Eyck%2C_Jan_van_-_Portrait_of_a_Young_Man_%28Tymotheos%29_-_National_Gallery%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Eyck%2C_Jan_van_-_Portrait_of_a_Young_Man_%28Tymotheos%29_-_National_Gallery%2C_London.jpg/2560px-Eyck%2C_Jan_van_-_Portrait_of_a_Young_Man_%28Tymotheos%29_-_National_Gallery%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2156,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Eyck, Jan van - Portrait of a Young Man (Tymotheos) - National Gallery, London.jpg)"
+  },
+  "archive": {
+    "wd": "Q1150782"
+  },
+  "phase": {
+    "label": "First Bruges portraits, 1432–33",
+    "source": {
+      "label": "Wikipedia: his motto “first appeared in 1433 on Portrait of a Man in a Turban”; Léal Souvenir is dated 1432",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “one of the earliest surviving examples of secular portraiture in medieval European art”",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Léal Souvenir is one of the earliest surviving examples of secular portraiture in medieval European art and one of the earliest extant unidealised representations. This is apparent in its realism and acute observation of the details of the man's everyday appearance.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Léal Souvenir",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a small oil-on-oak panel portrait”",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir"
+      }
+    },
+    {
+      "id": "early-netherlandish",
+      "source": {
+        "label": "Wikipedia (Léal Souvenir): “by the Early Netherlandish painter Jan van Eyck”",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Finished in the year of our Lord 1432 on the 10th day of October by Jan van Eyck",
+        "lead": "Van Eyck’s signature, lettered on the painted stone parapet:",
+        "source": {
+          "author": "Jan van Eyck",
+          "title": "Signature on the painted parapet of Léal Souvenir (translated in Wikipedia, “Léal Souvenir”)",
+          "publisher": "Wikipedia (CC BY-SA 4.0)",
+          "readAt": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir",
+          "accessed": "2026-11-14",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is not known whom this portrait represents ; certainly not a Fleming, perhaps a Greek, possibly a humanist, apparently an intelligent, though by no means a handsome man, who, in spite of his angular features, heavy jaw, thick lips, prominent cheek-bones and cocked up nose, is a charming figure.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "From the first two inscriptions, the panel is generally accepted as a posthumous portrait. Roman tombstones often showed a representation of the deceased behind a parapet with a carved inscription, and van Eyck may have known of these from travels to France.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Léal Souvenir",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The decayed parapet allows van Eyck to display his skill in mimicking stone chiselling and scarring, and shows the influence of classical Roman funerary art, particularly stone memorials.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Léal Souvenir",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the face of one who feels and produces rather than observes and dissects",
+        "lead": "Erwin Panofsky, on the sitter:",
+        "source": {
+          "author": "Erwin Panofsky",
+          "title": "Early Netherlandish Painting (1953), as quoted in Wikipedia, “Léal Souvenir”",
+          "publisher": "quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir",
+          "accessed": "2026-11-14",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The parapet gives the work gravitas, the chips and cracks conveying a sense of the venerable, or, according to art historian Elisabeth Dhanens, a sense of the \"fragility of life or of memory itself\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Léal Souvenir",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/L%C3%A9al_Souvenir",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "basawan-donkey-tiger-skin",
+  "artist": "basawan",
+  "title": "The donkey, in a tiger’s skin, reveals his identity by braying aloud, from a Tuti-nama (Tales of a Parrot): Thirty-first Night",
+  "date": "c. 1560",
+  "year": 1555,
+  "medium": "gum tempera, ink, and gold on paper",
+  "dimensions": "Overall: 20.3 x 14 cm (8 x 5 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1962.279.207.a"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.279.207.a/1962.279.207.a_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1962.279.207.a/1962.279.207.a_print.jpg",
+    "width": 581,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. A. Dean Perry"
+  },
+  "archive": {
+    "cma": 137588
+  },
+  "phase": {
+    "label": "Earliest works: the Tuti-nama, c. 1560s",
+    "source": {
+      "label": "Beach: “signed and attributed pages in the Cleveland Museum Tuti-nama of circa 1560” are among Basawan’s earliest known works",
+      "url": "https://archive.org/details/the-imperial-image"
+    }
+  },
+  "tags": [
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Beach: “There is also a completely unprecedented use of pigment” in the Tuti-nama",
+        "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Those in The Donkey in a Tiger’s Skin (Figure 7), however, are quickly and spontaneously painted, giving a sense both of the movement of the brush and the texture of the pigment; effectively decorative surface pattern is irrelevant.",
+          "lead": "Beach, contrasting its trees with the flat, outlined ones of another Tuti-nama page:",
+          "source": {
+            "author": "Milo Cleveland Beach",
+            "title": "Early Mughal Painting",
+            "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+            "year": "1987",
+            "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+            "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+            "accessed": "2026-11-14",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "CMA: the donkey disguised in a tiger’s skin forages in the fields",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/137588"
+      }
+    },
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "CMA: an illustration from a Tuti-nama (Tales of a Parrot) manuscript",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/137588"
+      }
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Beach: in the Tuti-nama “the Hamza-nama is an initial result of the process set in motion in this manuscript”",
+        "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "the most important being signed and attributed pages in the Cleveland Museum Tuti-nama of circa 1560; these show an early interest in European styles and techniques.",
+        "lead": "Beach, on the commissions that open Basawan’s known career:",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "The Imperial Image: Paintings for the Mughal Court",
+          "publisher": "Freer Gallery of Art, Smithsonian Institution (Internet Archive scan)",
+          "year": "1981",
+          "url": "https://archive.org/details/the-imperial-image",
+          "readAt": "https://archive.org/stream/the-imperial-image/1621761102_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This painting illustrates a story about a merchant who owned a donkey but did not have enough money to feed him. He was able to secure a tiger’s skin, in which he dressed his donkey at night, so he could forage freely in fields, frightening away the owners’ watchmen, seen here scrambling up in trees for safety.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The donkey, in a tiger’s skin, reveals his identity by braying aloud, from a Tuti-nama (Tales of a Parrot): Thirty-first Night",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1962.279.207.a",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137588",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Nothing in Islamic or Indian traditions can explain this [radically] different approach to technique. The closest visual [precedent] for the effect is found in early sixteenth-century works from northern Europe, whether manuscripts, tapestries, or such otherwise very different drawings as the works of [Albrecht] Altdorfer.",
+        "source": {
+          "author": "Milo Cleveland Beach",
+          "title": "Early Mughal Painting",
+          "publisher": "Asia Society / Harvard University Press (Internet Archive scan)",
+          "year": "1987",
+          "url": "https://archive.org/details/milo-cleveland-1987.-mughal-painting",
+          "readAt": "https://archive.org/stream/milo-cleveland-1987.-mughal-painting/MiloCleveland%201987.%20MughalPainting_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He succeeded for a time and grew fat and healthy, until a nearby donkey brayed, and he instinctively answered, revealing his true identity.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The donkey, in a tiger’s skin, reveals his identity by braying aloud, from a Tuti-nama (Tales of a Parrot): Thirty-first Night",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1962.279.207.a",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/137588",
+          "accessed": "2026-11-14",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The adventure stories narrated by a parrot, night after night, for 52 successive nights, are moralistic stories to persuade his female owner Khojasta not to commit any adulterous act with any lover, in the absence of her husband.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tutinama",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tutinama",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}

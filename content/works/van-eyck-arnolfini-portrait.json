@@ -1,0 +1,197 @@
+{
+  "id": "van-eyck-arnolfini-portrait",
+  "artist": "jan-van-eyck",
+  "title": "Arnolfini Portrait",
+  "date": "1434",
+  "year": 1434,
+  "medium": "oil paint on oak panel",
+  "dimensions": "82.2 × 60 cm",
+  "museum": {
+    "name": "National Gallery (NG186)",
+    "url": "https://www.wikidata.org/wiki/Q220859"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/1280px-Van_Eyck_-_Arnolfini_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/2560px-Van_Eyck_-_Arnolfini_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1642,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Van Eyck - Arnolfini Portrait.jpg)"
+  },
+  "archive": {
+    "wd": "Q220859"
+  },
+  "phase": {
+    "label": "Bruges maturity, 1434–36",
+    "source": {
+      "label": "Wikipedia: “The years between 1434 and 1436 … are generally considered his high point”",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil painting on oak panel”",
+        "url": "https://en.wikipedia.org/wiki/Arnolfini_Portrait"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Van Eyck used the technique of applying several layers of thin translucent glazes to create a painting with an intensity of both tone and colour. … Van Eyck took advantage of the longer drying time of oil paint, compared to tempera, to blend colours by painting wet-in-wet to achieve subtle variations in light and shade to heighten the illusion of three-dimensional forms.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Arnolfini Portrait",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+            "accessed": "2026-11-14",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "glazing",
+      "source": {
+        "label": "Wikipedia: “several layers of thin translucent glazes”",
+        "url": "https://en.wikipedia.org/wiki/Arnolfini_Portrait"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “a full-length double portrait”",
+        "url": "https://en.wikipedia.org/wiki/Arnolfini_Portrait"
+      }
+    },
+    {
+      "id": "interior-scene",
+      "source": {
+        "label": "Harbison (via Wikipedia): contemporaries “engaged in some sort of action in a contemporary interior”",
+        "url": "https://en.wikipedia.org/wiki/Arnolfini_Portrait"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Johannes de eyck fuit hic 1434",
+        "lead": "Painted on the wall above the mirror, in a notary’s flourish (“Jan van Eyck was here”):",
+        "source": {
+          "author": "Jan van Eyck",
+          "title": "Inscription on the back wall of the Arnolfini Portrait",
+          "publisher": "Wikipedia (CC BY-SA 4.0)",
+          "readAt": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+          "accessed": "2026-11-14",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the mirror are seen faithfully reflected, not only the two figures and that portion of the room comprised in the picture, but an oak portal beyond projecting into it, in which two persons are standing, —apparently John van Eyck, dressed in blue, and a youth in scarlet.",
+        "source": {
+          "author": "W. H. James Weale",
+          "title": "Hubert and John van Eyck: Their Life and Work",
+          "publisher": "John Lane, The Bodley Head, London (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/hubertjohnvaneyc00wealuoft",
+          "readAt": "https://archive.org/stream/hubertjohnvaneyc00wealuoft/hubertjohnvaneyc00wealuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "yet in no single instance has John Van Eyck expressed with more perfection, by the aid of colour, the sense of depth and atmosphere; he nowhere blended colours more carefully, nowhere produced more transparent shadows.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "The Early Flemish Painters: Notices of Their Lives and Works",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1872",
+          "url": "https://archive.org/details/earlyflemishpain00crow",
+          "readAt": "https://archive.org/stream/earlyflemishpain00crow/earlyflemishpain00crow_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In its own way it was as new and revolutionary as Donatello's or Masaccio's work in Italy. A simple corner of the real world had suddenly been fixed on to a panel as if by magic [...] For the first time in history the artist became the perfect eye-witness in the truest sense of the term.",
+        "source": {
+          "author": "Ernst Gombrich",
+          "title": "The Story of Art, as quoted in Wikipedia, “Arnolfini Portrait”",
+          "publisher": "quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+          "accessed": "2026-11-14",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "is the only fifteenth-century Northern panel to survive in which the artist's contemporaries are shown engaged in some sort of action in a contemporary interior. It is indeed tempting to call this the first genre painting — a painting of everyday life — of modern times",
+        "lead": "For Craig Harbison the picture",
+        "source": {
+          "author": "Craig Harbison",
+          "title": "Jan van Eyck: The Play of Realism (1991), as quoted in Wikipedia, “Arnolfini Portrait”",
+          "publisher": "quoted in Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+          "accessed": "2026-11-14",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As for Arnolfini— the Lord deliver us from being caught as debtors to the like of him ! A sharp man of business if ever there was one, Jesuitical, mean, sly, and self-satisfied ; nevertheless there is reason to think that he and John van Eyck got along well together.",
+        "source": {
+          "author": "Martin Conway",
+          "title": "The Van Eycks and Their Followers",
+          "publisher": "John Murray, London (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/vaneyckstheirfol00conwuoft",
+          "readAt": "https://archive.org/stream/vaneyckstheirfol00conwuoft/vaneyckstheirfol00conwuoft_djvu.txt",
+          "accessed": "2026-11-14",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1934, Erwin Panofsky published an article entitled Jan van Eyck's 'Arnolfini' Portrait in the Burlington Magazine, arguing that the elaborate signature on the back wall, and other factors, shows that it was painted as a legal record of the occasion of the marriage of the couple, complete with witnesses and a witness signature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Arnolfini Portrait",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "or, according to a recent proposal, Giovanni di Nicolao's first wife, Costanza Trenta, who had died perhaps in childbirth by February 1433. In the latter case, this would make the painting partly an unusual memorial portrait, showing one living and one dead person.",
+        "lead": "The woman may be a first wife,",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Arnolfini Portrait",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+          "accessed": "2026-11-14",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-14",
+    "by": "claude-routine"
+  }
+}
