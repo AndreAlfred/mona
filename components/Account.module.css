@@ -1,0 +1,203 @@
+/* The account desk: a museum cloakroom more than a login form. Bare
+   underlined fields, small-caps labels, one oxblood action, and a punched
+   ticket for "signed in as". */
+.desk {
+  max-width: var(--measure);
+  margin: 0 auto;
+  animation: rise 600ms 80ms var(--ease-out) both;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.2rem;
+}
+.field {
+  display: block;
+  width: 100%;
+}
+.label {
+  display: block;
+  margin: 0 0 0.3rem;
+  font-size: 0.9rem;
+  color: var(--ink-3);
+}
+.input {
+  font: inherit;
+  font-size: 1.25rem;
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid var(--ink-3);
+  border-radius: 0;
+  padding: 0.4rem 0;
+  background: transparent;
+  color: var(--ink);
+  transition: border-color 160ms;
+}
+.input:focus {
+  outline: none;
+  border-color: var(--ink);
+}
+/* Six digits set like a catalogue number. */
+.code {
+  font-family: var(--display);
+  font-size: 2.7rem;
+  line-height: 1.1;
+  letter-spacing: 0.42em;
+  padding-left: 0.42em;
+  text-align: center;
+  font-variant-numeric: tabular-nums lining-nums;
+}
+.primary {
+  font-size: 1.05rem;
+  color: var(--accent);
+  border-bottom: 1px solid currentColor;
+  padding: 0.55rem 0 0.1rem;
+  min-height: 44px;
+  transition: color 160ms, opacity 160ms;
+}
+.primary:disabled {
+  color: var(--ink-3);
+  cursor: default;
+}
+.destroy {
+  color: var(--accent);
+}
+.quiet {
+  font-size: 0.92rem;
+  color: var(--ink-2);
+  padding: 0.55rem 0 0.1rem;
+  min-height: 44px;
+}
+.quiet:disabled {
+  color: var(--ink-3);
+  cursor: default;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2rem 1.6rem;
+  margin: 0;
+}
+.note {
+  margin: 0;
+  color: var(--ink-2);
+  line-height: 1.5;
+}
+.minor {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--ink-3);
+}
+.address {
+  font-style: italic;
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+.problem {
+  margin: 0;
+  padding-left: 0.8rem;
+  border-left: 2px solid var(--accent);
+  color: var(--ink);
+  font-size: 0.95rem;
+  animation: rise 300ms var(--ease-out) both;
+}
+
+/* A cloakroom ticket: wash paper, hairline edge, two punched notches. */
+.ticket {
+  position: relative;
+  margin: 0 0 1.4rem;
+  padding: 1.1rem 1.6rem 1rem;
+  background: var(--wash);
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  -webkit-mask:
+    radial-gradient(circle at 0 50%, transparent 0.6rem, #000 calc(0.6rem + 0.5px)) left / 51% 100% no-repeat,
+    radial-gradient(circle at 100% 50%, transparent 0.6rem, #000 calc(0.6rem + 0.5px)) right / 51% 100% no-repeat;
+  mask:
+    radial-gradient(circle at 0 50%, transparent 0.6rem, #000 calc(0.6rem + 0.5px)) left / 51% 100% no-repeat,
+    radial-gradient(circle at 100% 50%, transparent 0.6rem, #000 calc(0.6rem + 0.5px)) right / 51% 100% no-repeat;
+}
+.ticket .address {
+  margin: 0 0 0.7rem;
+  font-family: var(--display);
+  font-size: 1.6rem;
+  line-height: 1.15;
+  font-style: normal;
+}
+.status {
+  display: flex;
+  align-items: baseline;
+  gap: 0.55rem;
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--ink-2);
+}
+.dot {
+  flex: none;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 50%;
+  background: var(--ink);
+  transform: translateY(-0.05rem);
+}
+.status[data-status="syncing"] .dot {
+  background: var(--accent);
+  animation: breathe 1.4s ease-in-out infinite;
+}
+.status[data-status="unreachable"] .dot {
+  background: transparent;
+  box-shadow: inset 0 0 0 1px var(--ink-3);
+}
+.status[data-status="idle"] .dot {
+  background: var(--ink-3);
+}
+.counts {
+  margin: 0.35rem 0 0;
+  font-size: 0.88rem;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.danger {
+  margin-top: 3.2rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--rule);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.back {
+  max-width: var(--measure);
+  margin: 4rem auto 0;
+  display: flex;
+  gap: 1.6rem;
+  font-size: 0.95rem;
+  color: var(--ink-3);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+@keyframes breathe {
+  50% {
+    opacity: 0.25;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .desk,
+  .problem {
+    animation: none;
+  }
+  .status[data-status="syncing"] .dot {
+    animation: none;
+  }
+}
+
+.row + .minor {
+  margin-top: 0.5rem;
+}

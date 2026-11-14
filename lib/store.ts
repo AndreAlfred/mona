@@ -1,7 +1,9 @@
 "use client";
 /**
  * Everything personal lives on this device: history, collection, the feed's
- * random seed, visited artists, the research passphrase. No accounts.
+ * random seed, visited artists, the research passphrase. The device is
+ * always the working copy; signing in to an account (lib/sync.ts) keeps a
+ * copy on the server alongside it and merges in other devices' changes.
  */
 import { useSyncExternalStore } from "react";
 
@@ -31,7 +33,18 @@ export type DeviceState = {
   requestMeta?: Record<string, RequestMeta>;
   /** Finished requests the reader has already looked at (no dot for these). */
   seenDone?: string[];
+  /** When `current` or `lastPeriod` last changed here, so the most recently used device's position wins. */
+  positionAt?: number;
+  /** The account (Supabase user id) this device's data belongs to. Kept after signing out. */
+  syncedUser?: string;
+  /** Server time of the newest row pulled from each table: the next pull asks for rows after these. */
+  lastPull?: { seen?: string; collected?: string; feed?: string };
+  /** When this device last finished a sync with the account. */
+  syncedAt?: number;
 };
+
+/** Fields that describe this device's link to an account, never copied between devices. */
+const LINK_FIELDS = ["syncedUser", "lastPull", "syncedAt", "positionAt"] as const;
 
 export type RequestMeta = { title: string; href: string; thumb?: string; at: number };
 
@@ -65,10 +78,39 @@ export function getState(): DeviceState {
   return cache!;
 }
 
-export function update(fn: (s: DeviceState) => DeviceState) {
-  cache = fn(getState());
+type ChangeHook = (prev: DeviceState, next: DeviceState) => void;
+let changeHook: ChangeHook | null = null;
+
+/** Lets sync see every change, whichever function made it. One hook; returns a function that removes it. */
+export function setChangeHook(fn: ChangeHook) {
+  changeHook = fn;
+  return () => {
+    if (changeHook === fn) changeHook = null;
+  };
+}
+
+function write(next: DeviceState) {
+  cache = next;
   localStorage.setItem(KEY, JSON.stringify(cache));
   listeners.forEach((l) => l());
+}
+
+export function update(fn: (s: DeviceState) => DeviceState) {
+  const prev = getState();
+  let next = fn(prev);
+  if (next === prev) return;
+  if (next.current?.artist !== prev.current?.artist || next.current?.shown !== prev.current?.shown || next.lastPeriod !== prev.lastPeriod) {
+    next = { ...next, positionAt: Date.now() };
+  }
+  write(next);
+  changeHook?.(prev, next);
+}
+
+/** For changes that came from the account: saved and shown, but not queued to be sent back. */
+export function applyRemoteState(fn: (s: DeviceState) => DeviceState) {
+  const prev = getState();
+  const next = fn(prev);
+  if (next !== prev) write(next);
 }
 
 function subscribe(l: () => void) {
@@ -130,13 +172,14 @@ export function exportState() {
 export function importState(json: string) {
   const parsed = JSON.parse(json);
   if (parsed?.v !== 1 || !Array.isArray(parsed.history)) throw new Error("Not a Mona export");
+  for (const f of LINK_FIELDS) delete parsed[f];
   update((s) => ({
     ...s,
     ...parsed,
     // Merge rather than replace lists, so importing never loses anything.
-    history: dedupe([...s.history, ...parsed.history]),
-    collection: dedupe([...s.collection, ...parsed.collection]),
-    visitedArtists: [...new Set([...s.visitedArtists, ...parsed.visitedArtists])],
+    history: dedupe([...s.history, ...parsed.history]).slice(0, 5000),
+    collection: dedupe([...s.collection, ...(parsed.collection ?? [])]),
+    visitedArtists: [...new Set([...s.visitedArtists, ...(parsed.visitedArtists ?? [])])],
   }));
 }
 

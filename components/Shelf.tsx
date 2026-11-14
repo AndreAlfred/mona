@@ -2,7 +2,27 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { exportState, importState, useDevice, type Entry } from "@/lib/store";
+import { accountsEnabled, useAccount } from "@/lib/sync";
 import styles from "./Pages.module.css";
+
+/** Where this shelf is kept, and the way to an account. Hidden while accounts are off. */
+function KeptLine() {
+  const { ready, session } = useAccount();
+  const syncedUser = useDevice((s) => s.syncedUser);
+  const mounted = useMounted();
+  if (!accountsEnabled || !mounted || !ready) return null;
+  if (session && syncedUser === session.user.id)
+    return (
+      <p className={styles.kept}>
+        Kept in your account. <Link href="/account">Account</Link>
+      </p>
+    );
+  return (
+    <p className={styles.kept}>
+      Saved on this phone only. <Link href="/account">Sign in to keep it on any device</Link>
+    </p>
+  );
+}
 
 function Tile({ e, share }: { e: Entry; share?: boolean }) {
   async function doShare() {
@@ -55,6 +75,7 @@ export function CollectionView() {
         <p className={styles.sub}>
           {!mounted ? "" : items.length ? `${items.length} ${items.length === 1 ? "work" : "works"} collected.` : "Nothing collected yet. Tap ◇ Collect on any work."}
         </p>
+        <KeptLine />
       </header>
       {mounted && (
         <ul className={styles.grid}>
@@ -82,6 +103,7 @@ export function HistoryView() {
         <p className={`${styles.kicker} smallcaps`}>Yours</p>
         <h1 className={styles.h1}>History</h1>
         <p className={styles.sub}>{mounted ? `${items.length} works seen.` : ""}</p>
+        <KeptLine />
       </header>
       {mounted &&
         [...days].map(([day, list]) => (

@@ -3,6 +3,7 @@ import { Instrument_Serif, Newsreader } from "next/font/google";
 import "./globals.css";
 import { Masthead } from "@/components/Masthead";
 import { KeepHistory } from "@/components/KeepHistory";
+import { SyncRunner } from "@/components/SyncRunner";
 
 const display = Instrument_Serif({
   variable: "--font-display",
@@ -38,6 +39,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body>
         <Masthead />
         <KeepHistory />
+        <SyncRunner />
         {children}
       </body>
     </html>

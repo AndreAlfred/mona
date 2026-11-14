@@ -175,3 +175,17 @@
 .page .intro {
   padding: 0;
 }
+
+/* "Saved on this phone only" / "Kept in your account" under a shelf's title. */
+.kept {
+  margin: -1.1rem 0 1.8rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--ink-3);
+  animation: rise 500ms 120ms var(--ease-out) both;
+}
+.kept a {
+  font-style: normal;
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}

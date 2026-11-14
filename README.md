@@ -34,7 +34,9 @@ Vercel deploys `main`.
 The feed goes deep before wide: ten works by one artist, then an
 end-of-artist screen where you either keep going or *pull past a stretchy
 point* to leave for someone new. Collection, history and the feed's random
-seed live on your device (export/import on the History page).
+seed live on your device (export/import on the History page). Signing in
+(optional, `/account`) keeps a copy in a Supabase account so it survives a
+cleared browser and follows you between phones.
 
 ## Develop
 
@@ -51,6 +53,28 @@ npm run archive-index  # rebuild content/archive-artists.json (slow, polite)
 Environment (Vercel): `MONA_PASSPHRASE` (shared word for the research
 button), `GITHUB_ISSUES_TOKEN` (fine-grained PAT: Issues read/write on this
 repo only).
+
+## Accounts
+
+Optional sign-in with a 6-digit email code, so history, collection and feed
+position follow a reader between browsers. Supabase (free tier) holds the
+data; row-level security keeps each person to their own rows; codes go out
+through Andrew's Gmail. How it all works, in plain language:
+[`docs/accounts.md`](docs/accounts.md).
+
+- **Switch on:** set `NEXT_PUBLIC_SUPABASE_URL` and
+  `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` (both public by design) on Vercel.
+  Without them, accounts are hidden and Mona works as before.
+- **Add someone:** Supabase → Authentication → Users → Add user → their
+  email, with auto-confirm on. Sign-up is closed; only added addresses get
+  a code.
+- **Schema:** `supabase/migrations/`. Never put the secret key, database
+  password or access token in the repo or a `NEXT_PUBLIC_` variable.
+- **Paused project:** free projects pause after about a week unused. Restore
+  from the Supabase dashboard; nothing is lost, and Mona works offline
+  meanwhile.
+- **Tests:** `npm test` (merge rules); `e2e/accounts-mocked.e2e.ts` runs
+  against a dev server started with any value for both variables.
 
 ## The local worker
 
