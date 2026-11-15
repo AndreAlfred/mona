@@ -1,0 +1,119 @@
+{
+  "id": "cimabue-louvre-maesta",
+  "artist": "cimabue",
+  "title": "Maestà (Madonna and Child in Majesty Surrounded by Angels)",
+  "date": "c. 1300",
+  "year": 1300,
+  "medium": "tempera, fond d'or on poplar panel",
+  "dimensions": "427 × 280 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 254)",
+    "url": "https://www.wikidata.org/wiki/Q1608116"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/La_Vierge_et_l%27Enfant_en_majest%C3%A9_entour%C3%A9s_de_six_anges_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_INV_254_%3B_MR_159.jpg/1280px-La_Vierge_et_l%27Enfant_en_majest%C3%A9_entour%C3%A9s_de_six_anges_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_INV_254_%3B_MR_159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/La_Vierge_et_l%27Enfant_en_majest%C3%A9_entour%C3%A9s_de_six_anges_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_INV_254_%3B_MR_159.jpg/2560px-La_Vierge_et_l%27Enfant_en_majest%C3%A9_entour%C3%A9s_de_six_anges_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_INV_254_%3B_MR_159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1810,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (La Vierge et l'Enfant en majesté entourés de six anges - Cimabue - Musée du Louvre Peintures INV 254 ; MR 159.jpg)"
+  },
+  "archive": {
+    "wd": "Q1608116"
+  },
+  "phase": {
+    "label": "Pisa, c. 1280",
+    "source": {
+      "label": "Wikipedia: “Around 1280, Cimabue painted the Maestà, originally displayed in the church of San Francesco at Pisa”",
+      "url": "https://en.wikipedia.org/wiki/Cimabue"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: Maestà, “Tempera on panel”",
+        "url": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Cimabue)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Vasari: “with many angels round her, also on a ground of gold”",
+        "url": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt"
+      }
+    },
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Crowe and Cavalcaselle: “Originally in San Francesco of Pisa, this altarpiece…”",
+        "url": "https://archive.org/details/historyofpaintin01crowuoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Cimabue having next made for the same church on a large panel the image of Our Lady, with the Child in her arms and with many angels round her, also on a ground of gold, … for this work he was much praised and rewarded by the people of Pisa.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giovanni Cimabue, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "publisher": "Project Gutenberg",
+          "year": "1550",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-15",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is also stylistically earlier to that work, being painted without pseudo-perspective, and having the angels around the Virgin simply placed one above the other, rather than being spatially arranged.",
+        "lead": "Compared with his later Santa Trinita Maestà:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This work established a style that was followed subsequently by numerous artists, including Duccio di Buoninsegna in his Rucellai Madonna (in the past, wrongly attributed to Cimabue) as well as Giotto.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cimabue",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cimabue",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It was acquired by the Louvre in 1813 as part of Napoleonic looting of artworks in Italy, together with Giotto's Saint Francis Receiving the Stigmata, also from the church of San Francesco in Pisa.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maestà (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maest%C3%A0_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

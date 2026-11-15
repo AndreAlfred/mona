@@ -1,0 +1,122 @@
+{
+  "id": "cimabue-pisa-saint-john",
+  "artist": "cimabue",
+  "title": "Christ Enthroned with the Virgin and Saint John (apse mosaic)",
+  "date": "1301",
+  "year": 1301,
+  "dimensions": "385 × 223 cm",
+  "museum": {
+    "name": "Pisa Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q16545739"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Christ_-_Main_vault_of_the_Cathedral_of_Pise_Italy.jpg/1280px-The_Christ_-_Main_vault_of_the_Cathedral_of_Pise_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Christ_-_Main_vault_of_the_Cathedral_of_Pise_Italy.jpg/2560px-The_Christ_-_Main_vault_of_the_Cathedral_of_Pise_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 900,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Christ - Main vault of the Cathedral of Pise Italy.jpg)"
+  },
+  "archive": {
+    "wd": "Q16545739"
+  },
+  "phase": {
+    "label": "Last work, Pisa, 1301–02",
+    "source": {
+      "label": "Wikipedia: Saint John is “the last work by the Italian medieval artist Cimabue”",
+      "url": "https://en.wikipedia.org/wiki/Christ_Enthroned_with_the_Virgin_and_Saint_John"
+    }
+  },
+  "tags": [
+    {
+      "id": "mosaic",
+      "source": {
+        "label": "Wikipedia: “a mosaic in the apse of Pisa Cathedral”",
+        "url": "https://en.wikipedia.org/wiki/Christ_Enthroned_with_the_Virgin_and_Saint_John"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Finally, as a mosaist, he proves himself superior to the artists of the baptistery of Florence and even to Gaddo Gaddi",
+          "source": {
+            "author": "J. A. Crowe and G. B. Cavalcaselle",
+            "title": "A History of Painting in Italy, vol. 1 (ed. Langton Douglas)",
+            "publisher": "John Murray (Internet Archive scan)",
+            "year": "1903",
+            "url": "https://archive.org/details/historyofpaintin01crowuoft",
+            "readAt": "https://archive.org/stream/historyofpaintin01crowuoft/historyofpaintin01crowuoft_djvu.txt",
+            "accessed": "2026-11-15",
+            "tier": 2,
+            "page": "186"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is famous for the depiction of John the Evangelist, the last work by the Italian medieval artist Cimabue. It is also the only work of his which is dated and has historical documentation attributing it to Cimabue.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ Enthroned with the Virgin and Saint John",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_Enthroned_with_the_Virgin_and_Saint_John",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "To the bending figure of the Evangelist he also gives a certain languid reverence peculiarly his own.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 1 (ed. Langton Douglas)",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1903",
+          "url": "https://archive.org/details/historyofpaintin01crowuoft",
+          "readAt": "https://archive.org/stream/historyofpaintin01crowuoft/historyofpaintin01crowuoft_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "186"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Cimabue took over the work on the mosaic after Francesco da Pisa, who completed the figure of Christ.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ Enthroned with the Virgin and Saint John",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_Enthroned_with_the_Virgin_and_Saint_John",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Cimabue worked on the mosaic for 94 days until 19 February 1302 and was specifically stated to have finished the figure of Saint John by that date. The whole mosaic, including the figure of the Virgin, was only completed by a third artist, Vincino da Pistoia, in 1321, … almost 20 years after Cimabue's death.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ Enthroned with the Virgin and Saint John",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_Enthroned_with_the_Virgin_and_Saint_John",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "cimabue-assisi-crucifixion",
+  "artist": "cimabue",
+  "title": "Crucifixion (left transept, Upper Basilica)",
+  "date": "1277",
+  "year": 1277,
+  "medium": "fresco",
+  "museum": {
+    "name": "Upper Basilica of San Francesco, Assisi",
+    "url": "https://www.wikidata.org/wiki/Q16545904"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cimabue%2C_crocifissione_del_transetto_sinistro.jpg/1280px-Cimabue%2C_crocifissione_del_transetto_sinistro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 863,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cimabue, crocifissione del transetto sinistro.jpg)"
+  },
+  "archive": {
+    "wd": "Q16545904"
+  },
+  "phase": {
+    "label": "Assisi, the Upper Church, c. 1288–92",
+    "source": {
+      "label": "Wikipedia: “the frescoes of Basilica superiore di San Francesco d'Assisi of c. 1288–1292”",
+      "url": "https://en.wikipedia.org/wiki/Santa_Trinita_Maest%C3%A0"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Vasari: “he began by his own self to paint the upper church in fresco”",
+        "url": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the freshness of the colours in the flesh shows that painting began to make great progress in fresco work through the labours of Cimabue.",
+          "lead": "Vasari, on the Assisi vaults:",
+          "source": {
+            "author": "Giorgio Vasari",
+            "title": "Life of Giovanni Cimabue, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+            "publisher": "Project Gutenberg",
+            "year": "1550",
+            "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+            "accessed": "2026-11-15",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This work, truly very great and rich and most excellently executed, must have, in my judgment, amazed the world in those times, seeing, above all, that painting had lain so long in such great darkness; and to me, who saw it again in the year 1563, it appeared very beautiful, thinking how in so great darkness Cimabue could see so great light.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giovanni Cimabue, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "publisher": "Project Gutenberg",
+          "year": "1550",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-15",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The paintings are now in poor condition because of oxidation of the brighter colours that were used by the artist.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cimabue",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cimabue",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "till I saw Cimabue's own work at Assisi; in which he shows himself, at heart, as independent of his gold as Giotto,--even more intense, capable of higher things than Giotto, though of none, perhaps, so keen or sweet.",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Mornings in Florence",
+          "publisher": "Project Gutenberg",
+          "year": "1875",
+          "readAt": "https://www.gutenberg.org/cache/epub/7227/pg7227.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "But to this day, among all the Mater Dolorosas of Christianity, Cimabue's at Assisi is the noblest",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Mornings in Florence",
+          "publisher": "Project Gutenberg",
+          "year": "1875",
+          "readAt": "https://www.gutenberg.org/cache/epub/7227/pg7227.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

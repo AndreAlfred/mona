@@ -1,0 +1,34 @@
+{
+  "id": "mosaic",
+  "kind": "technique",
+  "name": "Mosaic",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A mosaic (/moʊ.ˈzeɪ.ɪk/) is a pattern or image made of small regular or irregular pieces of colored stone, glass or ceramic, held in place by plaster/mortar, and covering a surface.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Mosaic",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Mosaic",
+        "accessed": "2026-11-15",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Traditional mosaics are made of small cubes of roughly square pieces of stone or hand made glass enamel of different colours, known as tesserae.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Mosaic",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Mosaic",
+        "accessed": "2026-11-15",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "mosaic"
+}
