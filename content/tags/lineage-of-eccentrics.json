@@ -1,0 +1,33 @@
+{
+  "id": "lineage-of-eccentrics",
+  "kind": "movement",
+  "name": "Lineage of Eccentrics (Kisō-ha)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In 1970, Nobuo Tsuji … published a book entitled Kisō no Keifu … which focused on painters of the \"Lineage of Eccentrics\" who broke with tradition, such as Iwasa Matabei, Kanō Sansetsu, Itō Jakuchū, Soga Shōhaku, Nagasawa Rosetsu, and Utagawa Kuniyoshi.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Japanese painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Japanese_painting",
+        "accessed": "2026-11-15",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "This work has revolutionized the way Japanese art history is viewed, and Edo period painting has become one of the most popular areas of Japanese art in Japan.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Japanese painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Japanese_painting",
+        "accessed": "2026-11-15",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

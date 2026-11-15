@@ -1,0 +1,92 @@
+{
+  "id": "cimabue",
+  "name": "Cimabue",
+  "born": 1240,
+  "died": 1302,
+  "active": "c. 1270–1302",
+  "nationality": "Italian",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "maniera-greca",
+      "source": {
+        "label": "Wikipedia: Cimabue and Duccio “were both trained and highly skilled in the Italo-Byzantine style”",
+        "url": "https://en.wikipedia.org/wiki/Italo-Byzantine"
+      }
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Wikipedia: Cimabue “is generally regarded as one of the first great Italian painters to break from the Italo-Byzantine style”",
+        "url": "https://en.wikipedia.org/wiki/Cimabue"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "giotto",
+      "name": "Giotto di Bondone",
+      "source": {
+        "label": "Vasari: “He left many disciples, and among others Giotto”",
+        "url": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt"
+      }
+    },
+    {
+      "id": "duccio",
+      "name": "Duccio di Buoninsegna",
+      "source": {
+        "label": "Wikipedia: Cimabue’s Louvre Maestà set a style followed by “Duccio di Buoninsegna in his Rucellai Madonna”",
+        "url": "https://en.wikipedia.org/wiki/Cimabue"
+      }
+    }
+  ],
+  "wikidata": "Q15790",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "in the city of Florence, in the year 1240, there was born, to give the first light to the art of painting, Giovanni, surnamed Cimabue, of the family, noble in those times, of Cimabue.",
+      "lead": "Vasari opens his Lives of the artists with him:",
+      "source": {
+        "author": "Giorgio Vasari",
+        "title": "Life of Giovanni Cimabue, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+        "publisher": "Project Gutenberg",
+        "year": "1550",
+        "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+        "accessed": "2026-11-15",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Though he did not raise the standard of art to a very high level, he certainly infused new life into old and worn conceptions. He threw a new energy and individuality into the empty forms of the older guildsmen",
+      "source": {
+        "author": "J. A. Crowe and G. B. Cavalcaselle",
+        "title": "A History of Painting in Italy, vol. 1 (ed. Langton Douglas)",
+        "publisher": "John Murray (Internet Archive scan)",
+        "year": "1903",
+        "url": "https://archive.org/details/historyofpaintin01crowuoft",
+        "readAt": "https://archive.org/stream/historyofpaintin01crowuoft/historyofpaintin01crowuoft_djvu.txt",
+        "accessed": "2026-11-15",
+        "tier": 2,
+        "page": "179"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In painting Cimabue thought that he / Should hold the field, now Giotto has the cry, / So that the other’s fame is growing dim.",
+      "lead": "Dante, a generation later, on how quickly fame passes:",
+      "source": {
+        "author": "Dante Alighieri",
+        "title": "Purgatorio, Canto XI (trans. Henry Wadsworth Longfellow)",
+        "publisher": "Project Gutenberg",
+        "readAt": "https://www.gutenberg.org/cache/epub/1002/pg1002.txt",
+        "accessed": "2026-11-15",
+        "tier": 3
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

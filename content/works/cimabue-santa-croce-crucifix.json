@@ -1,0 +1,147 @@
+{
+  "id": "cimabue-santa-croce-crucifix",
+  "artist": "cimabue",
+  "title": "Crucifix (Santa Croce, Florence)",
+  "date": "1272",
+  "year": 1272,
+  "medium": "tempera on wood",
+  "dimensions": "433 × 390 cm",
+  "museum": {
+    "name": "Museo dell'Opera di Santa Croce, Florence",
+    "url": "https://www.wikidata.org/wiki/Q3698260"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cimabue_025.jpg/1280px-Cimabue_025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1377,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cimabue 025.jpg)"
+  },
+  "archive": {
+    "wd": "Q3698260"
+  },
+  "phase": {
+    "label": "Florence, the Franciscan commissions",
+    "source": {
+      "label": "Crowe and Cavalcaselle: “The antiquated character of the painting may point to the master's early time”",
+      "url": "https://archive.org/details/historyofpaintin01crowuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “a very large wooden crucifix, painted in distemper”",
+        "url": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: “The gilding and monumentality of the cross link it to the Byzantine tradition”",
+        "url": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)"
+      }
+    },
+    {
+      "id": "proto-renaissance",
+      "source": {
+        "label": "Wikipedia: “one of the first Italian artworks to break from the late medieval Byzantine style”",
+        "url": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Cimabue, being summoned again after this work by the same Prior who had caused him to make the works in S. Croce, made him a large Crucifix on wood, which is still seen to-day in the church; which work was the reason, it appearing to the Prior that he had been well served, that he took him to S. Francesco in Pisa",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giovanni Cimabue, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "publisher": "Project Gutenberg",
+          "year": "1550",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-15",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The work surpasses Cimabue's c. 1268 Arezzo crucifix in several ways. It is more human and less reliant on idealised facial types, … and the anatomy is more convincing.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Santa Croce)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "From about 1240, painters favoured the Christus patiens (\"Suffering Christ\") style: a saviour who shared the burden and pain of humanity. The Santa Croce Crucifix is one of the earliest and best-known examples of the type.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Santa Croce)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "You know the great Cimabue Crucifixion? I always think of that as a worm crawling down the cross.",
+        "lead": "Seven centuries later, the painter Francis Bacon:",
+        "source": {
+          "author": "Francis Bacon",
+          "title": "Interviews with Francis Bacon (with David Sylvester), as quoted in Wikipedia: Crucifix (Cimabue, Santa Croce)",
+          "publisher": "Wikipedia",
+          "year": "1975",
+          "page": "14",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)",
+          "accessed": "2026-11-15",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "During the event thousands of artworks were damaged or destroyed and the Crucifix lost 60% of its paint.",
+        "lead": "When the Arno flooded Florence in November 1966:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Santa Croce)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The tiny specks of pigment floating around the piece were recovered with pliers by staff wading in the water after the torrents had subsided.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Santa Croce)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

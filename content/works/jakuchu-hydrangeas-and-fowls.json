@@ -1,0 +1,120 @@
+{
+  "id": "jakuchu-hydrangeas-and-fowls",
+  "artist": "ito-jakuchu",
+  "title": "Rooster and Hen with Hydrangeas",
+  "date": "1759",
+  "year": 1759,
+  "dimensions": "142.9 × 79.7 cm",
+  "museum": {
+    "name": "Museum of the Imperial Collections",
+    "url": "https://www.wikidata.org/wiki/Q112304102"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/It%C5%8D_Jakuch%C5%AB_-_Rooster_and_Hen_with_Hydrangeas_%28Colorful_Realm_of_Living_Beings%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2152,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - Rooster and Hen with Hydrangeas (Colorful Realm of Living Beings).jpg)"
+  },
+  "archive": {
+    "wd": "Q112304102"
+  },
+  "phase": {
+    "label": "Colorful Realm of Living Beings, 1757–65",
+    "source": {
+      "label": "Wikipedia: the set was “begun around 1757 and not finished until 1765”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: “a series of paintings depicting various animals and plants”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The composition [is] skilful, the colouring of the [hydrangea] harmonious, and the feathers of the fowls [lifelike]. The elegance of the whole picture makes [it] truly decorative.",
+          "source": {
+            "author": "Nippon Bukkyō Shinbi Kyōkai",
+            "title": "Shinbi taikan: Selected Relics of Japanese Art, vol. XIII",
+            "publisher": "Nippon Bukkyō Shinbi Kyōkai",
+            "year": "1906",
+            "url": "https://archive.org/details/shinbitaikan13taji",
+            "readAt": "https://archive.org/stream/shinbitaikan13taji/shinbitaikan13taji_djvu.txt",
+            "accessed": "2026-11-15",
+            "tier": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Morrison: “Especially he favoured cocks and hens as a subject”",
+        "url": "https://archive.org/details/paintersjapan2morr"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: the Colorful Realm is “a set of thirty hanging scrolls”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A very common theme among his work is birds, in particular hens and roosters, though several of his more famous paintings depict cranes, cockatoos, parrots, and phoenixes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[Kōrin’s] taste rather turned to [flowers] and herbage for subject while [Jakuchū] took animals: and while they are not alike in the use of the brush, in colour scheme, or in their tastes, yet they are a pair of master-hands in the school of decorative painters.",
+        "source": {
+          "author": "Nippon Bukkyō Shinbi Kyōkai",
+          "title": "Shinbi taikan: Selected Relics of Japanese Art, vol. XIII",
+          "publisher": "Nippon Bukkyō Shinbi Kyōkai",
+          "year": "1906",
+          "url": "https://archive.org/details/shinbitaikan13taji",
+          "readAt": "https://archive.org/stream/shinbitaikan13taji/shinbitaikan13taji_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He held strong ties to Zen Buddhist ideals, and was considered a lay brother (koji); but he was also keenly aware of his role within a Kyoto society that was becoming increasingly commercial.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

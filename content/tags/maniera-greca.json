@@ -1,0 +1,36 @@
+{
+  "id": "maniera-greca",
+  "kind": "style",
+  "name": "Maniera greca (Italo-Byzantine)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Maniera greca (\"Greek style/manner\") was the Italian term used at the time, and by Vasari and others; it is one of the first post-classical European terms for style in art.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Italo-Byzantine",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Italo-Byzantine",
+        "accessed": "2026-11-15",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "They brought over the Byzantine types of form and colour, the long lean limbs of the saints, the dark-visaged Madonnas, the blood-streaming crucifixes; and these patterns were followed more or less servilely by the native Italian painters who studied under them.",
+      "lead": "Anna Jameson on the Greek painters who came west after 1204:",
+      "source": {
+        "author": "Anna Jameson",
+        "title": "Memoirs of Early Italian Painters",
+        "publisher": "John Murray (Internet Archive scan)",
+        "year": "1868",
+        "url": "https://archive.org/details/memoirsofearlyit00jamerich",
+        "readAt": "https://archive.org/stream/memoirsofearlyit00jamerich/memoirsofearlyit00jamerich_djvu.txt",
+        "accessed": "2026-11-15",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "Byzantine"
+}

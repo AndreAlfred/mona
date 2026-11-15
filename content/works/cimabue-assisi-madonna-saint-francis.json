@@ -1,0 +1,111 @@
+{
+  "id": "cimabue-assisi-madonna-saint-francis",
+  "artist": "cimabue",
+  "title": "Madonna Enthroned with the Child, Saint Francis and Four Angels",
+  "date": "1278",
+  "year": 1278,
+  "medium": "fresco",
+  "dimensions": "320 × 340 cm",
+  "museum": {
+    "name": "Lower Basilica of San Francesco, Assisi",
+    "url": "https://www.wikidata.org/wiki/Q3843027"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cimabue_-_Maesta-di-assisi.jpg/1280px-Cimabue_-_Maesta-di-assisi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 900,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cimabue - Maesta-di-assisi.jpg)"
+  },
+  "archive": {
+    "wd": "Q3843027"
+  },
+  "phase": {
+    "label": "Assisi, the Lower Church",
+    "source": {
+      "label": "Crowe and Cavalcaselle: “In the Lower Church … Cimabue probably adorned the right transept”",
+      "url": "https://archive.org/details/historyofpaintin02crowuoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: “in the transept of the Lower Basilica of San Francesco, he created a fresco”",
+        "url": "https://en.wikipedia.org/wiki/Cimabue"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Surrounded by the works of Giotto, on the right hand of that part of the building, is one of an earlier date … a colossal Virgin and Child between four angels.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 2 (ed. Langton Douglas)",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1903",
+          "url": "https://archive.org/details/historyofpaintin02crowuoft",
+          "readAt": "https://archive.org/stream/historyofpaintin02crowuoft/historyofpaintin02crowuoft_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "2"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Placed above the altar of the Conception, and much damaged by restoring, it reveals the manner of Cimabue.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 2 (ed. Langton Douglas)",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1903",
+          "url": "https://archive.org/details/historyofpaintin02crowuoft",
+          "readAt": "https://archive.org/stream/historyofpaintin02crowuoft/historyofpaintin02crowuoft_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "2"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "At Assisi, in the transept of the Lower Basilica of San Francesco, he created a fresco named Madonna with Child Enthroned, Four Angels and St Francis. The left portion of this fresco is lost, but it may have shown St Anthony of Padua (the authorship of the painting has been recently disputed for technical and stylistic reasons).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cimabue",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cimabue",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "During the pontificate of Pope Nicholas IV, the first Franciscan pope, … Cimabue worked in Assisi.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cimabue",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cimabue",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Francis had died in 1226, roughly two generations before this fresco, so Cimabue never saw him. The saint stands at the edge of a heavenly court, in the church built over his tomb."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

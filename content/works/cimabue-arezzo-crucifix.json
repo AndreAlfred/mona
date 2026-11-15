@@ -1,0 +1,148 @@
+{
+  "id": "cimabue-arezzo-crucifix",
+  "artist": "cimabue",
+  "title": "Crucifix (San Domenico, Arezzo)",
+  "date": "1268",
+  "year": 1268,
+  "medium": "tempera on wood",
+  "dimensions": "336 × 267 cm",
+  "museum": {
+    "name": "San Domenico, Arezzo",
+    "url": "https://www.wikidata.org/wiki/Q3698254"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20%2C_2010-Perspective_correction%2C_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg/1280px-CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20%2C_2010-Perspective_correction%2C_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20%2C_2010-Perspective_correction%2C_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg/2560px-CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20%2C_2010-Perspective_correction%2C_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1480,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (CrocifissoCimabue-Arezzo-Photo taken by Senet. April 20, 2010-Perspective correction, crop and blackframe with GIMP by Paolo Villa 2019.jpg)"
+  },
+  "archive": {
+    "wd": "Q3698254"
+  },
+  "phase": {
+    "label": "Early work, c. 1267–71",
+    "source": {
+      "label": "Wikipedia: “Art historians have established it as probably one of Cimabue's earliest works”",
+      "url": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “a large wooden crucifix painted in distemper, with gold leaf”",
+        "url": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: “The panels are brightly painted and gilded”",
+        "url": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)"
+      }
+    },
+    {
+      "id": "maniera-greca",
+      "source": {
+        "label": "Wikipedia: “the stylistic innovations and departure from some of the prevailing Byzantine conventions”",
+        "url": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "They brought over the Byzantine types of form and colour, the long lean limbs of the saints, the dark-visaged Madonnas, the blood-streaming crucifixes",
+          "lead": "Anna Jameson on the models Cimabue grew up with:",
+          "source": {
+            "author": "Anna Jameson",
+            "title": "Memoirs of Early Italian Painters",
+            "publisher": "John Murray (Internet Archive scan)",
+            "year": "1868",
+            "url": "https://archive.org/details/memoirsofearlyit00jamerich",
+            "readAt": "https://archive.org/stream/memoirsofearlyit00jamerich/memoirsofearlyit00jamerich_djvu.txt",
+            "accessed": "2026-11-15",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The art historian Pietro Toesca attributed the Crucifixion in the church of San Domenico in Arezzo to Cimabue, dating around 1270, making it the earliest known attributed work that departs from the Byzantine style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cimabue",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cimabue",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Its importance lies, in part, in the stylistic innovations and departure from some of the prevailing Byzantine conventions of the time, towards greater expressionism (especially in its portrayal of the agonies of death by crucifixion), empathy and humanism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Arezzo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is closely modeled on the crucifix by Giunta Pisano, now in the Basilica of San Domenico, Bologna. … However, Cimabue goes further, especially in its portrayal of Christ's agony invoked by the contortions of his body.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Arezzo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It displays the dying Christ on the cross, his eyes closed, his head resting on his shoulder, as his body buckles to the left. The sway of his rigid body indicates contortions brought about by pain.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Arezzo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Art historian Christopher Kleinhenz believes the move away from the Byzantine style was motivated by a desire to emphasise the \"immediate, accessible, and human aspects of the deity\", in line with the doctrines of piety emerging from both the Dominican and Franciscan orders.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Crucifix (Cimabue, Arezzo)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Arezzo)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

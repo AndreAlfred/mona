@@ -1,0 +1,137 @@
+{
+  "id": "cimabue-mocking-of-christ",
+  "artist": "cimabue",
+  "title": "The Mocking of Christ",
+  "date": "c. 1280",
+  "year": 1280,
+  "medium": "paint, gold on poplar panel",
+  "dimensions": "25.8 × 20.3 cm",
+  "museum": {
+    "name": "Musée du Louvre (RFML.PE.2023.33.1)",
+    "url": "https://www.wikidata.org/wiki/Q68496636"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/La_D%C3%A9rision_du_Christ_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_RFML.PE.2023.33.1_-_apr%C3%A8s_restauration.jpg/1280px-La_D%C3%A9rision_du_Christ_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_RFML.PE.2023.33.1_-_apr%C3%A8s_restauration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/La_D%C3%A9rision_du_Christ_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_RFML.PE.2023.33.1_-_apr%C3%A8s_restauration.jpg/2560px-La_D%C3%A9rision_du_Christ_-_Cimabue_-_Mus%C3%A9e_du_Louvre_Peintures_RFML.PE.2023.33.1_-_apr%C3%A8s_restauration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1524,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (La Dérision du Christ - Cimabue - Musée du Louvre Peintures RFML.PE.2023.33.1 - après restauration.jpg)"
+  },
+  "archive": {
+    "wd": "Q68496636"
+  },
+  "phase": {
+    "label": "The Diptych of Devotion, 1280s",
+    "source": {
+      "label": "Wikipedia: the Diptych of Devotion was “painted in the 1280s by Cimabue”",
+      "url": "https://en.wikipedia.org/wiki/Diptych_of_Devotion"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “painted with egg tempera on a gold leaf background”",
+        "url": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: buildings “frame the scene under a luminous gold sky”",
+        "url": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is the only known small-scale work by Cimabue to use the same techniques to depict a crowd of figures seen in other, larger-scale works, such as his frescoes at Assisi.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mocking of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The panel is thought to be part of a diptych with four painted scenes on each wing, depicting the passion of Christ, sometimes known as the Diptych of Devotion.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mocking of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The National Gallery describes the polyptych as representing \"a crucial moment in the history of art\" as it comes from a time when Italian painters began to move away from the Byzantine tradition towards a more naturalistic representation of events.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mocking of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He is impassive, with arms limp and a sorrowful expression, among a crowd of slightly shorter men who are angrily striking Christ with rods, a sheathed sword, or their bare hands; one appears to be reaching up to remove Christ's halo.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mocking of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting was discovered hanging above the hotplate in the kitchen of an elderly woman living in Compiègne, northern France.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mocking of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The owner and her family recognised the Mocking of Christ only as an old religious icon and thought it had little value.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mocking of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

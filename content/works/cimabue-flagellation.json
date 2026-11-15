@@ -1,0 +1,97 @@
+{
+  "id": "cimabue-flagellation",
+  "artist": "cimabue",
+  "title": "The Flagellation of Christ",
+  "date": "c. 1280",
+  "year": 1280,
+  "medium": "tempera on poplar panel",
+  "dimensions": "24.7 × 20 cm",
+  "museum": {
+    "name": "The Frick Collection (1950.1.159)",
+    "url": "http://collections.frick.org/view/objects/asitem/items$0040:380"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cimabue_-_Flagellation.jpg/1280px-Cimabue_-_Flagellation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1512,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cimabue - Flagellation.jpg)"
+  },
+  "archive": {
+    "wd": "Q16556250"
+  },
+  "phase": {
+    "label": "The Diptych of Devotion, 1280s",
+    "source": {
+      "label": "Wikipedia: the Diptych of Devotion was “painted in the 1280s by Cimabue”",
+      "url": "https://en.wikipedia.org/wiki/Diptych_of_Devotion"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “in egg tempera and gold leaf on a poplar panel”",
+        "url": "https://en.wikipedia.org/wiki/The_Flagellation_of_Christ_(Cimabue)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: “in egg tempera and gold leaf on a poplar panel”",
+        "url": "https://en.wikipedia.org/wiki/The_Flagellation_of_Christ_(Cimabue)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The figure of Christ is heavily influenced by that in Cimabue's Santa Croce Crucifix, while the torturers in bright clothing recall the Sienese School and the stylised background buildings the Roman school",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Flagellation of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Flagellation_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was initially attributed it to the Sienese artist Duccio, but others suggested Cimabue or his workshop. The uncertainty was resolved after the discovery and attribution of the similarly sized Virgin and Child with Two Angels, definitively attributed to Cimabue, which led to a reattribution of the Flagellation of Christ from Duccio to Cimabue.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Flagellation of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Flagellation_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the painting, Christ, naked but for a loincloth, is bound to a marble column that rises up the centre of the scene, dividing it into two halves. He is being flogged by two figures, one to either side, in clothing of jarringly cheerful colours. The anguished Christ regards the viewer calmly.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Flagellation of Christ (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Flagellation_of_Christ_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

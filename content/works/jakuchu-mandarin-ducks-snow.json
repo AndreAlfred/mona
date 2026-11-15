@@ -1,0 +1,100 @@
+{
+  "id": "jakuchu-mandarin-ducks-snow",
+  "artist": "ito-jakuchu",
+  "title": "Mandarin ducks in the snow",
+  "date": "1759",
+  "year": 1759,
+  "dimensions": "141.8 × 79 cm",
+  "museum": {
+    "name": "Museum of the Imperial Collections",
+    "url": "https://www.wikidata.org/wiki/Q113632250"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/It%C5%8D_Jakuch%C5%AB_-_Mandarin_ducks_in_the_snow_%28Colorful_Realm_of_Living_Beings%29.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_Mandarin_ducks_in_the_snow_%28Colorful_Realm_of_Living_Beings%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2061,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - Mandarin ducks in the snow (Colorful Realm of Living Beings).jpg)"
+  },
+  "archive": {
+    "wd": "Q113632250"
+  },
+  "phase": {
+    "label": "Colorful Realm of Living Beings, 1757–65",
+    "source": {
+      "label": "Wikipedia: the set was “begun around 1757 and not finished until 1765”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Shinbi taikan reproduces it as “A Pair of Mandarin Ducks and Willows”, one of the thirty",
+        "url": "https://archive.org/details/shinbitaikan15taji"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: the Colorful Realm is “a set of thirty hanging scrolls”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "These are pictures of birds, flowers, swimming fish, aquatic plants and shells, of the utmost beauty of colour and decorative composition.",
+        "source": {
+          "author": "Arthur Morrison",
+          "title": "The Painters of Japan, vol. II",
+          "publisher": "T. C. & E. C. Jack (Internet Archive scan)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintersjapan2morr",
+          "readAt": "https://archive.org/stream/paintersjapan2morr/paintersjapan2morr_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "81–82"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His colouring, rich and opaque, reminds one of some of the earlier Ming painters, such as Liu Ch'i. His design is not quite like that of any other Japanese, though it has certain affinities with that of Korin.",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold, 2nd edition (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "they were done by the artist with a veritable pouring out of his might and ability. He did not wish to have these pictures pass into the hands of ordinary people, and so he donated them to a certain famous temple, because he desired to have them preserved as mementos long after his death.",
+        "source": {
+          "author": "Nippon Bukkyō Shinbi Kyōkai",
+          "title": "Shinbi taikan: Selected Relics of Japanese Art, vol. XV",
+          "publisher": "Nippon Bukkyō Shinbi Kyōkai",
+          "year": "1907",
+          "url": "https://archive.org/details/shinbitaikan15taji",
+          "readAt": "https://archive.org/stream/shinbitaikan15taji/shinbitaikan15taji_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

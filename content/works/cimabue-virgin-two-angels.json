@@ -1,0 +1,131 @@
+{
+  "id": "cimabue-virgin-two-angels",
+  "artist": "cimabue",
+  "title": "The Virgin and Child Enthroned with Two Angels",
+  "date": "1280",
+  "year": 1280,
+  "medium": "tempera, gold on panel",
+  "dimensions": "25.6 × 20.8 cm",
+  "museum": {
+    "name": "National Gallery, London (NG6583)",
+    "url": "https://www.wikidata.org/wiki/Q15974342"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cimabue%2C_The_Virgin_and_Child_Enthroned_with_Two_Angels.jpg/1280px-Cimabue%2C_The_Virgin_and_Child_Enthroned_with_Two_Angels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cimabue%2C_The_Virgin_and_Child_Enthroned_with_Two_Angels.jpg/2560px-Cimabue%2C_The_Virgin_and_Child_Enthroned_with_Two_Angels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1507,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cimabue, The Virgin and Child Enthroned with Two Angels.jpg)"
+  },
+  "archive": {
+    "wd": "Q15974342"
+  },
+  "phase": {
+    "label": "The Diptych of Devotion, 1280s",
+    "source": {
+      "label": "Wikipedia: the Diptych of Devotion was “painted in the 1280s by Cimabue”",
+      "url": "https://en.wikipedia.org/wiki/Diptych_of_Devotion"
+    }
+  },
+  "tags": [
+    {
+      "id": "maniera-greca",
+      "source": {
+        "label": "Wikipedia: “The composition is based on Byzantine models, but modified for a Western European audience”",
+        "url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Two_Angels_(Cimabue)"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “in egg tempera on a poplar panel”",
+        "url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Two_Angels_(Cimabue)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: Virgin and Child with Two Angels, “Tempera and gold leaf on poplar panel”",
+        "url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Two_Angels_(Cimabue)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is one of three known panels from a polyptych depicting the Passion of Christ. From its physical characteristics, it was the top left of four panels on the left leaf of a diptych",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin and Child with Two Angels (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Two_Angels_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The skill of Cimabue cannot be extolled too highly; but no Madonna by his hand could ever have rejoiced the soul of Italy, unless for a thousand years before, many a nameless Greek and nameless Goth had adorned the traditions, and lived in the love, of the Virgin.",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Mornings in Florence",
+          "publisher": "Project Gutenberg",
+          "year": "1875",
+          "readAt": "https://www.gutenberg.org/cache/epub/7227/pg7227.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The composition is based on Byzantine models, but modified for a Western European audience: the throne has become three-dimensional, and the figures of the Virgin and Child are more human and less stylised than similar traditional Byzantine icons such as the Hodegetria.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin and Child with Two Angels (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Two_Angels_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The panel was rediscovered at Benacre Hall near Lowestoft in Suffolk in 2000, after the death of Sir John Gooch, 12th Baronet, as the contents of the house were being prepared for an auction sale.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin and Child with Two Angels (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Two_Angels_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It may have been acquired in Florence in the early 19th century by his ancestor, Sir Edward Gooch, 6th Baronet, and survived a fire at the house in the 1920s.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin and Child with Two Angels (Cimabue)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Two_Angels_(Cimabue)",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

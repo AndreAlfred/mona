@@ -1,0 +1,162 @@
+{
+  "id": "cimabue-santa-trinita-maesta",
+  "artist": "cimabue",
+  "title": "Santa Trinita Maestà",
+  "date": "c. 1290",
+  "year": 1290,
+  "medium": "tempera on panel",
+  "dimensions": "384 × 223 cm",
+  "museum": {
+    "name": "Uffizi Gallery (00134049)",
+    "url": "https://www.uffizi.it/en/online-exhibitions/between-human-and-divine-cimabue-and-the-santa-trinita-maesta"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg/1280px-Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2149,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Cimabue - Maestà di Santa Trinita - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q1569622"
+  },
+  "phase": {
+    "label": "Mature work, c. 1290–1300",
+    "source": {
+      "label": "Wikipedia: “placed by recent critics in the mature phase of Cimabue, between c. 1290 and 1300”",
+      "url": "https://en.wikipedia.org/wiki/Santa_Trinita_Maest%C3%A0"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Vasari: the panel “was placed by these monks over the high-altar of the said church”",
+        "url": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: Santa Trinita Maestà, “Tempera on panel”",
+        "url": "https://en.wikipedia.org/wiki/Santa_Trinita_Maest%C3%A0"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Vasari: “with many angels round her in adoration, on a gold ground”",
+        "url": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "he showed in that work (using therein great diligence, so as to rise equal to the esteem which had already been conceived of him) better inventions and a beautiful method in the attitude of a Madonna, whom he made with the Child in her arms and with many angels round her in adoration, on a gold ground",
+        "lead": "Vasari on the panel for the monks of Vallombrosa:",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Giovanni Cimabue, in Lives of the Most Eminent Painters, Sculptors and Architects (trans. Gaston du C. de Vere)",
+          "publisher": "Project Gutenberg",
+          "year": "1550",
+          "readAt": "https://www.gutenberg.org/cache/epub/25326/pg25326.txt",
+          "accessed": "2026-11-15",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting demonstrates the mature style of Cimabue, in which the artist overcomes the more rigid Byzantine styles with forms that are more loose and humanistic.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Santa Trinita Maestà",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Santa_Trinita_Maest%C3%A0",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The altarpiece of the Academy of Arts may rank high as regards composition and the study of nature; but the old types are too obstinately maintained in it",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 1 (ed. Langton Douglas)",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1903",
+          "url": "https://archive.org/details/historyofpaintin01crowuoft",
+          "readAt": "https://archive.org/stream/historyofpaintin01crowuoft/historyofpaintin01crowuoft_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "183"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Despite these improvements, there is a certain resistance to the stylistic innovations and techniques of Duccio and Giotto.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Santa Trinita Maestà",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Santa_Trinita_Maest%C3%A0",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "to his heads of prophets, patriarchs, and apostles, whether introduced into his great pictures of the Madonna or in other sacred subjects, he gave a certain grandeur of expression and largeness of form",
+        "source": {
+          "author": "Anna Jameson",
+          "title": "Memoirs of Early Italian Painters",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1868",
+          "url": "https://archive.org/details/memoirsofearlyit00jamerich",
+          "readAt": "https://archive.org/stream/memoirsofearlyit00jamerich/memoirsofearlyit00jamerich_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Below, at the sides of the throne, Jeremiah and Isaiah gaze up towards the child as if to confirm the prophecies written in their documents on the miraculous virgin birth of Jesus.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Santa Trinita Maestà",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Santa_Trinita_Maest%C3%A0",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "But a wild energy characterises the two prophets in the central niche.",
+        "source": {
+          "author": "J. A. Crowe and G. B. Cavalcaselle",
+          "title": "A History of Painting in Italy, vol. 1 (ed. Langton Douglas)",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1903",
+          "url": "https://archive.org/details/historyofpaintin01crowuoft",
+          "readAt": "https://archive.org/stream/historyofpaintin01crowuoft/historyofpaintin01crowuoft_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "183"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}
