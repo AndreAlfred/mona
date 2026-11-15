@@ -1,0 +1,124 @@
+{
+  "id": "jakuchu-peonies-and-butterflies",
+  "artist": "ito-jakuchu",
+  "title": "Herbaceous peonies and butterflies",
+  "date": "c. 1758",
+  "year": 1758,
+  "dimensions": "142.1 × 79.7 cm",
+  "museum": {
+    "name": "Museum of the Imperial Collections",
+    "url": "https://www.wikidata.org/wiki/Q113632072"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/It%C5%8D_Jakuch%C5%AB_-_Herbaceous_peonies_and_butterflies_%28Colorful_Realm_of_Living_Beings%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2139,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - Herbaceous peonies and butterflies (Colorful Realm of Living Beings).jpg)"
+  },
+  "archive": {
+    "wd": "Q113632072"
+  },
+  "phase": {
+    "label": "Colorful Realm of Living Beings, 1757–65",
+    "source": {
+      "label": "Wikipedia: the set was “begun around 1757 and not finished until 1765”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: “a series of paintings depicting various animals and plants”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: the Colorful Realm is “a set of thirty hanging scrolls”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "They depict a number of animal subjects in monumental scale and with an according degree of detail. The paintings are composed using different colored pigments on silk.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Many of the productions of our artist have come down to us, but there is no other besides this set on such a large scale and so carefully treated.",
+        "source": {
+          "author": "Nippon Bukkyō Shinbi Kyōkai",
+          "title": "Shinbi taikan: Selected Relics of Japanese Art, vol. IX",
+          "publisher": "Nippon Bukkyō Shinbi Kyōkai",
+          "year": "1903",
+          "url": "https://archive.org/details/shinbitaikan9taji",
+          "readAt": "https://archive.org/stream/shinbitaikan9taji/shinbitaikan9taji_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Other than the Rinpa school, Maruyama Ōkyo and Itō Jakuchū are famous for their realistic painting techniques. They produced their works under the patronage of wealthy merchants newly emerging from the economic development of this period.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edo period",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edo_period",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1758, when he was forty-two years old, he began to paint Doshoku Sai-e … a series of paintings depicting various animals and plants, as a memorial to his parents and youngest brother, who had died prematurely, and as a wish for his own future.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "in the hope that they will always be utilized as objects of solemn reference.",
+        "lead": "Jakuchū’s deed of gift says he gave the scrolls to the temple",
+        "source": {
+          "author": "Itō Jakuchū",
+          "title": "Deed of gift of the Dōshoku sai-e to Shōkoku-ji, as quoted in “Itō Jakuchū”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 1,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

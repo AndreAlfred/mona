@@ -1,0 +1,134 @@
+{
+  "id": "jakuchu-black-rooster-nandin",
+  "artist": "ito-jakuchu",
+  "title": "Black rooster and nandin",
+  "date": "c. 1763",
+  "year": 1763,
+  "museum": {
+    "name": "Museum of the Imperial Collections",
+    "url": "https://www.wikidata.org/wiki/Q113632280"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/It%C5%8D_Jakuch%C5%AB_-_Black_rooster_and_nandin_%28Colorful_Realm_of_Living_Beings%29.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_Black_rooster_and_nandin_%28Colorful_Realm_of_Living_Beings%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2074,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - Black rooster and nandin (Colorful Realm of Living Beings).jpg)"
+  },
+  "archive": {
+    "wd": "Q113632280"
+  },
+  "phase": {
+    "label": "Colorful Realm of Living Beings, 1757–65",
+    "source": {
+      "label": "Wikipedia: the set was “begun around 1757 and not finished until 1765”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Binyon: he “was especially fond of cocks and hens”",
+        "url": "https://archive.org/details/paintinginfareas00binyuoft"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Though a number of his paintings depict exotic or fantastic creatures, such as tigers and phoenixes, it is evident from the detail and lifelike appearance of his paintings of chickens and other animals that he based his work on actual observation.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Itō Jakuchū",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+            "accessed": "2026-11-15",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: “a series of paintings depicting various animals and plants”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: the Colorful Realm is “a set of thirty hanging scrolls”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Assimilating these elements, he formed a style of his own in which bold design and beautiful colour are peculiarly noticeable. Especially he favoured cocks and hens as a subject, and he kept a number of the birds for first-hand study.",
+        "source": {
+          "author": "Arthur Morrison",
+          "title": "The Painters of Japan, vol. II",
+          "publisher": "T. C. & E. C. Jack (Internet Archive scan)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintersjapan2morr",
+          "readAt": "https://archive.org/stream/paintersjapan2morr/paintersjapan2morr_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "81–82"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Tradition tells us that he burnt up all his albums containing copies of the model paintings by the older masters, and [turned] his attention to studies from life, [in] which [field] of art he created an original style.",
+        "source": {
+          "author": "Nippon Bukkyō Shinbi Kyōkai",
+          "title": "Shinbi taikan: Selected Relics of Japanese Art, vol. IX",
+          "publisher": "Nippon Bukkyō Shinbi Kyōkai",
+          "year": "1903",
+          "url": "https://archive.org/details/shinbitaikan9taji",
+          "readAt": "https://archive.org/stream/shinbitaikan9taji/shinbitaikan9taji_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "These serve as the best of material for the study of the work of [Jakuchū], and of the Japanese school of realists.",
+        "source": {
+          "author": "Nippon Bukkyō Shinbi Kyōkai",
+          "title": "Shinbi taikan: Selected Relics of Japanese Art, vol. IX",
+          "publisher": "Nippon Bukkyō Shinbi Kyōkai",
+          "year": "1903",
+          "url": "https://archive.org/details/shinbitaikan9taji",
+          "readAt": "https://archive.org/stream/shinbitaikan9taji/shinbitaikan9taji_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "However, he did not seem to be accustomed to the strict teachings of the Kano school, and he honed his skills on his own by observing and sketching the things around him, such as the vegetables sold at his father's shop, the fish in the Nishiki market, and the chickens in his garden, and by using Chinese paintings as a reference.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ito-jakuchu",
+  "name": "Itō Jakuchū",
+  "born": 1716,
+  "died": 1800,
+  "active": "c. 1750–1800",
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "lineage-of-eccentrics",
+      "source": {
+        "label": "Wikipedia: Tsuji’s “Lineage of Eccentrics” includes Itō Jakuchū",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "maruyama-okyo",
+      "name": "Maruyama Ōkyo",
+      "source": {
+        "label": "Wikipedia: his realistic style “made him very popular along with Maruyama Ōkyo”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "soga-shohaku",
+      "name": "Soga Shōhaku",
+      "source": {
+        "label": "Wikipedia: Tsuji’s “Lineage of Eccentrics” groups him with Soga Shōhaku",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "nagasawa-rosetsu",
+      "name": "Nagasawa Rosetsu",
+      "source": {
+        "label": "Wikipedia: Tsuji’s “Lineage of Eccentrics” groups him with Nagasawa Rosetsu",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "ike-taiga",
+      "name": "Ike Taiga",
+      "source": {
+        "label": "Wikipedia: the inscription on Jakuchū’s Hanshan and Shide is attributed to Ike Taiga",
+        "url": "https://en.wikipedia.org/wiki/Hanshan_and_Shide"
+      }
+    }
+  ],
+  "wikidata": "Q1240575",
+  "archive": {
+    "aic": 35098
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "A longer-lived contemporary of Buson was Ito Jakuchiu, famous as a painter of birds. He is said to have begun life as a vegetable seller in the streets of Kyoto, but from childhood painting was his delight.",
+      "source": {
+        "author": "Arthur Morrison",
+        "title": "The Painters of Japan, vol. II",
+        "publisher": "T. C. & E. C. Jack (Internet Archive scan)",
+        "year": "1911",
+        "url": "https://archive.org/details/paintersjapan2morr",
+        "readAt": "https://archive.org/stream/paintersjapan2morr/paintersjapan2morr_djvu.txt",
+        "accessed": "2026-11-15",
+        "tier": 2,
+        "page": "81–82"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Jakuchiu was another contemporary of marked independence, also not without his eccentricities. He too was poor and careless of worldly success.",
+      "source": {
+        "author": "Laurence Binyon",
+        "title": "Painting in the Far East",
+        "publisher": "Edward Arnold, 2nd edition (Internet Archive scan)",
+        "year": "1913",
+        "url": "https://archive.org/details/paintinginfareas00binyuoft",
+        "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+        "accessed": "2026-11-15",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Itō Jakuchū … was a Japanese painter of the mid-Edo period, when Japan had isolated itself from the outside world. … Many of his otherwise traditional works display a great degree of experimentation with perspective, and with other very modern stylistic elements.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Itō Jakuchū",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+        "accessed": "2026-11-15",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

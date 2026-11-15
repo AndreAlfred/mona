@@ -1,0 +1,112 @@
+{
+  "id": "jakuchu-roosters-hen-chicks",
+  "artist": "ito-jakuchu",
+  "title": "Roosters, Hen, and Chicks [right of a pair]",
+  "date": "1795",
+  "year": 1795,
+  "museum": {
+    "name": "Minneapolis Institute of Art (2013.29.311.2)",
+    "url": "https://www.wikidata.org/wiki/Q112196396"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/It%C5%8D_Jakuch%C5%AB_-_Roosters%2C_Hen%2C_and_Chicks_%28right_of_a_pair%29_-_2013.29.311.2_-_Minneapolis_Institute_of_Art.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_Roosters%2C_Hen%2C_and_Chicks_%28right_of_a_pair%29_-_2013.29.311.2_-_Minneapolis_Institute_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/It%C5%8D_Jakuch%C5%AB_-_Roosters%2C_Hen%2C_and_Chicks_%28right_of_a_pair%29_-_2013.29.311.2_-_Minneapolis_Institute_of_Art.jpg/2560px-It%C5%8D_Jakuch%C5%AB_-_Roosters%2C_Hen%2C_and_Chicks_%28right_of_a_pair%29_-_2013.29.311.2_-_Minneapolis_Institute_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2304,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - Roosters, Hen, and Chicks (right of a pair) - 2013.29.311.2 - Minneapolis Institute of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q112196396"
+  },
+  "phase": {
+    "label": "Late years after the Tenmei fire, 1788–1800",
+    "source": {
+      "label": "Wikipedia: in his seventies he lost his house in the Great Tenmei Fire and “began to paint actively again”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Morrison: “Especially he favoured cocks and hens as a subject”",
+        "url": "https://archive.org/details/paintersjapan2morr"
+      }
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Binyon: “He painted birds and fish”",
+        "url": "https://archive.org/details/paintinginfareas00binyuoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He painted birds and fish, and was especially fond of cocks and hens, rejoicing in their vigorous [plumage] and variegated mottlings.",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold, 2nd edition (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His realistic style of painting made him very popular along with Maruyama Ōkyo, and he was listed as the second painter after Ōkyo in the second and third editions of the Heian Jinbutsushi",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It was not until he was in his 70s that he began to paint actively again. He lost his house in the Great Tenmei Fire around this time and moved to Osaka to seek support from a cultural figure named Kimura Kenkado … but his passion for painting did not wane, and he painted many large works",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For money he cared nothing, but since he required rice for his support, he would exchange a picture for one to—a little less than half a bushel—of the grain, and many extant works bear an inscription from his hand showing that this was the original price.",
+        "source": {
+          "author": "Arthur Morrison",
+          "title": "The Painters of Japan, vol. II",
+          "publisher": "T. C. & E. C. Jack (Internet Archive scan)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintersjapan2morr",
+          "readAt": "https://archive.org/stream/paintersjapan2morr/paintersjapan2morr_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "81–82"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

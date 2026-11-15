@@ -1,0 +1,110 @@
+{
+  "id": "jakuchu-plum-blossoms-moon",
+  "artist": "ito-jakuchu",
+  "title": "White Plum Blossoms and Moon",
+  "date": "1755",
+  "year": 1755,
+  "museum": {
+    "name": "Metropolitan Museum of Art (2015.300.213)",
+    "url": "https://www.metmuseum.org/art/collection/search/53408"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/It%C5%8D_Jakuch%C5%AB_-_White_Plum_Blossoms_and_Moon_-_2015.300.213_-_Metropolitan_Museum_of_Art.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_White_Plum_Blossoms_and_Moon_-_2015.300.213_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/It%C5%8D_Jakuch%C5%AB_-_White_Plum_Blossoms_and_Moon_-_2015.300.213_-_Metropolitan_Museum_of_Art.jpg/2560px-It%C5%8D_Jakuch%C5%AB_-_White_Plum_Blossoms_and_Moon_-_2015.300.213_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1601,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - White Plum Blossoms and Moon - 2015.300.213 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78759658"
+  },
+  "phase": {
+    "label": "Grocer and self-taught painter, before 1756",
+    "source": {
+      "label": "Wikipedia: in 1756, at forty, he gave up managing the grocery store to devote himself to painting",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: he is said to have studied under Ōoka Shunboku, “known for his bird and flower paintings”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He learned the elements of the art from an obscure Kano painter, and afterward on his own account studied the Chinese styles of Yuen and Ming. In the matter of colour he was a great admirer of Korin, and added a study of that painter’s methods to his earlier education.",
+        "source": {
+          "author": "Arthur Morrison",
+          "title": "The Painters of Japan, vol. II",
+          "publisher": "T. C. & E. C. Jack (Internet Archive scan)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintersjapan2morr",
+          "readAt": "https://archive.org/stream/paintersjapan2morr/paintersjapan2morr_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "81–82"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[Ito] Jakuchiu, who became a pupil in the Kano and Korin schools, but subsequently adopted a modified Chinese style",
+        "source": {
+          "author": "William Anderson",
+          "title": "The Pictorial Arts of Japan",
+          "publisher": "Sampson Low, Marston, Searle & Rivington (Internet Archive scan)",
+          "year": "1886",
+          "url": "https://archive.org/details/pictorialartsofj00ande",
+          "readAt": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "103"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Jakuchū built a two-story studio on the west bank of the Kamo River in his late thirties. He called it Shin'en-kan (… Villa of the Detached Heart …), after a phrase from a poem by the ancient Chinese poet Tao Qian.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1756, when he was forty years old, he gave up managing the grocery store, retired, and moved to Shōkoku-ji to devote himself to painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "jakuchu-fish-and-octopus",
+  "artist": "ito-jakuchu",
+  "title": "Fish and octopus",
+  "date": "c. 1765",
+  "year": 1765,
+  "museum": {
+    "name": "Museum of the Imperial Collections",
+    "url": "https://www.wikidata.org/wiki/Q113631997"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/It%C5%8D_Jakuch%C5%AB_-_Fish_and_octopus_%28Colorful_Realm_of_Living_Beings%29.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_Fish_and_octopus_%28Colorful_Realm_of_Living_Beings%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2066,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - Fish and octopus (Colorful Realm of Living Beings).jpg)"
+  },
+  "archive": {
+    "wd": "Q113631997"
+  },
+  "phase": {
+    "label": "Colorful Realm of Living Beings, 1757–65",
+    "source": {
+      "label": "Wikipedia: the set was “begun around 1757 and not finished until 1765”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Morrison: the thirty are “pictures of birds, flowers, swimming fish, aquatic plants and shells”",
+        "url": "https://archive.org/details/paintersjapan2morr"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: the Colorful Realm is “a set of thirty hanging scrolls”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Doshoku Sai-e is now designated as a National Treasure and is considered one of the greatest masterpieces not only by Jakuchū but also in the history of Japanese painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "At the age of fifty-one, he completed 30 Doshoku Sai-e and three Shaka Sanzon-zu … and donated them to Shōkoku-ji. These works were very popular at the time and spread Jakuchu's fame.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Itō Jakuchū was the eldest son of Itō Genzaemon, a Kyoto grocer whose shop, called Masuya, lay in the center of downtown, in the Nishiki food district.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

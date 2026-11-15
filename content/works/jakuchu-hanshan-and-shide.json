@@ -1,0 +1,135 @@
+{
+  "id": "jakuchu-hanshan-and-shide",
+  "artist": "ito-jakuchu",
+  "title": "Hanshan and Shide (Japanese: Kanzan and Jittoku)",
+  "date": "1783",
+  "year": 1783,
+  "museum": {
+    "name": "Metropolitan Museum of Art (2015.300.215)",
+    "url": "https://www.metmuseum.org/art/collection/search/670929"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/It%C5%8D_Jakuch%C5%AB_-_Hanshan_and_Shide_%28Japanese%2C_Kanzan_and_Jittoku%29_-_2015.300.215_-_Metropolitan_Museum_of_Art.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_Hanshan_and_Shide_%28Japanese%2C_Kanzan_and_Jittoku%29_-_2015.300.215_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/It%C5%8D_Jakuch%C5%AB_-_Hanshan_and_Shide_%28Japanese%2C_Kanzan_and_Jittoku%29_-_2015.300.215_-_Metropolitan_Museum_of_Art.jpg/2560px-It%C5%8D_Jakuch%C5%AB_-_Hanshan_and_Shide_%28Japanese%2C_Kanzan_and_Jittoku%29_-_2015.300.215_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1601,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Itō Jakuchū - Hanshan and Shide (Japanese, Kanzan and Jittoku) - 2015.300.215 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78620511"
+  },
+  "phase": {
+    "label": "Fifties and sixties: prints and ink paintings",
+    "source": {
+      "label": "Wikipedia: “In his fifties and sixties he produced prints and ink paintings”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "lineage-of-eccentrics",
+      "source": {
+        "label": "Wikipedia: Tsuji’s “Lineage of Eccentrics” includes Itō Jakuchū",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His rendition is more abstract than any of the aforementioned paintings. The figures are depicted embracing and in opposites – one in a black robe and one in a white robe, with a scroll at their feet and a broom rising up. There is no background, placing the focus on the figures themselves.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hanshan and Shide",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hanshan_and_Shide",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I have never heard of a landscape of his painting, and the rarest of his existing works are his figure-pieces",
+        "source": {
+          "author": "Arthur Morrison",
+          "title": "The Painters of Japan, vol. II",
+          "publisher": "T. C. & E. C. Jack (Internet Archive scan)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintersjapan2morr",
+          "readAt": "https://archive.org/stream/paintersjapan2morr/paintersjapan2morr_djvu.txt",
+          "accessed": "2026-11-15",
+          "tier": 2,
+          "page": "81–82"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Representations of Hanshan and Shide remained very popular in Japan in the 16th, 17th, and 18th centuries, and well into the 19th century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hanshan and Shide",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hanshan_and_Shide",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One is the Bodhisattva of the Great Path, The other is the Patriarch of the Great Buddha. What evidence is there? A broken broom, a tattered scripture, and unrhymed verse.",
+        "lead": "The inscription above the figures, attributed to the painter Ike Taiga:",
+        "source": {
+          "author": "Ike Taiga",
+          "title": "Inscription on Jakuchū’s Hanshan and Shide, as translated in “Hanshan and Shide”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hanshan_and_Shide",
+          "accessed": "2026-11-15",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Hanshan, whose name means \"Cold Mountain,\" is believed to be an eccentric Zen poet from the Tang Dynasty (618–907) who lived on the Tiantang Mountain in Zhejiang Province. Shide, whose name means \"foundling\" or \"pickup,\" was a kitchen worker at the nearby Guoqing Temple.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hanshan and Shide",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hanshan_and_Shide",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Their carefree attitude symbolizes their knowledge that \"the things which most men strive for are illusions, and that what really counts is not rank or riches but their own Buddha nature.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hanshan and Shide",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hanshan_and_Shide",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

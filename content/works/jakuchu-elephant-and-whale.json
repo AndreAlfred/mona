@@ -1,0 +1,119 @@
+{
+  "id": "jakuchu-elephant-and-whale",
+  "artist": "ito-jakuchu",
+  "title": "Elephant and Whale",
+  "date": "1795",
+  "year": 1795,
+  "medium": "washi, inkstick",
+  "dimensions": "159.4 × 354 cm",
+  "museum": {
+    "name": "Miho Museum",
+    "url": "https://www.miho.jp/booth/html/artcon/00006482.htm"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Elephant_and_Whale_Screens_by_Ito_Jakuchu_%28Miho_Museum%29R.jpg/1280px-Elephant_and_Whale_Screens_by_Ito_Jakuchu_%28Miho_Museum%29R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 547,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Elephant and Whale Screens by Ito Jakuchu (Miho Museum)R.jpg)"
+  },
+  "archive": {
+    "wd": "Q140078414"
+  },
+  "phase": {
+    "label": "Last phase: painted at eighty, 1795",
+    "source": {
+      "label": "Wikipedia: “the last phase of Jakuchū's painting career, painted when he was eighty years old”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "lineage-of-eccentrics",
+      "source": {
+        "label": "Wikipedia: “eccentric designs such as this one were especially popular”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Tsuji speculated that a wealthy merchant may have commissioned this work from Jakuchū in order to show it to a large crowds, since it was common for wealthy merchants to show (byōbu) to large crowds during the Gion Festival, and eccentric designs such as this one were especially popular for this purpose.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Itō Jakuchū",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+            "accessed": "2026-11-15",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Wikipedia: an elephant and a whale, painted on a pair of screens",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikidata: made of washi and inkstick",
+        "url": "https://www.wikidata.org/wiki/Q140078414"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This large work, the last phase of Jakuchū's painting career, painted when he was eighty years old, was discovered in an old house in the Hokuriku region in 2008 and attracted much attention in Japan.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Although elephants do not live in Japan, in 1728 two elephants were brought from Vietnam to Nagasaki to be shown to Shogun Tokugawa Yoshimune, and they were paraded around Edo and Kyoto, which was a great hit with many Japanese at the time.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to Nobuo Tsuji, an authority on Jakuchū who authenticated this work as a genuine work by Jakuchū, it is possible that Jakuchū saw the elephants in Kyoto when he was fourteen years old.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}

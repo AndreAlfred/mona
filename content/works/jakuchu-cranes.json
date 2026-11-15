@@ -1,0 +1,114 @@
+{
+  "id": "jakuchu-cranes",
+  "artist": "ito-jakuchu",
+  "title": "Cranes, one of a pair",
+  "date": "1800",
+  "year": 1800,
+  "medium": "ink on paper",
+  "dimensions": "233 × 83.2 cm",
+  "museum": {
+    "name": "Freer Gallery of Art (F1997.25.2)",
+    "url": "http://www.asia.si.edu/collections/edan/object.php?q=fsg_F1997.25.2"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Jakuchu_-_Cranes_%281%29_-_Google_Art_Project.jpg/1280px-Jakuchu_-_Cranes_%281%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2448,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Jakuchu - Cranes (1) - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18686052"
+  },
+  "phase": {
+    "label": "Final years at Sekihōji, to 1800",
+    "source": {
+      "label": "Wikipedia: he “retired towards the end of his life to Sekihōji Temple”",
+      "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Freer Gallery of Art record via Wikidata: ink on paper",
+        "url": "https://www.wikidata.org/wiki/Q18686052"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "When he painted in ink, as he occasionally did, Jakuchiu exhibited certain [characteristics] of the Southern style.",
+          "source": {
+            "author": "Arthur Morrison",
+            "title": "The Painters of Japan, vol. II",
+            "publisher": "T. C. & E. C. Jack (Internet Archive scan)",
+            "year": "1911",
+            "url": "https://archive.org/details/paintersjapan2morr",
+            "readAt": "https://archive.org/stream/paintersjapan2morr/paintersjapan2morr_djvu.txt",
+            "accessed": "2026-11-15",
+            "tier": 2,
+            "page": "81–82"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: “several of his more famous paintings depict cranes”",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A very common theme among his work is birds, in particular hens and roosters, though several of his more famous paintings depict cranes, cockatoos, parrots, and phoenixes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Jakuchū's painting style is influenced by Shen Nanping (Shen Quan c. 1682–1760). His crane subjects prove this, being part of traditional Japanese legacy, but also the neutral background and the 'cut' given to the scene composition, with always a careful and detailed flora and fauna decorative style of painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Jakuchū was always strongly religious, and retired towards the end of his life to Sekihōji Temple … a Manpuku-ji branch temple on the southern outskirts of Kyoto. There, he gathered a number of followers, such as his friend Matsumoto Hōji, and continued to paint until his death at the age of eighty-four.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Itō Jakuchū",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+          "accessed": "2026-11-15",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-15",
+    "by": "claude-routine"
+  }
+}
