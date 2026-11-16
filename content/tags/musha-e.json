@@ -1,0 +1,34 @@
+{
+  "id": "musha-e",
+  "kind": "subject",
+  "name": "Musha-e (warrior prints)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Musha-e (武者絵), a type of Japanese art developed in the late 18th century, is a genre of the ukiyo-e woodblock printing technique. It represents images of warriors and samurai from Japanese history and mythology.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Musha-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Musha-e",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "As the ukiyo-e technique thrived during the 19th century, musha-e became more popular. Kuniyoshi, a famous printmaker, specialized in warrior images and produced a series of prints known as the 108 Heroes of the Suikoden.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Musha-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Musha-e",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "musha-e"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "yakusha-e",
+  "kind": "subject",
+  "name": "Yakusha-e (actor prints)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Yakusha-e (役者絵), often referred to as \"actor prints\" in English, are Japanese woodblock prints or, rarely, paintings, of kabuki actors, particularly those done in the ukiyo-e style popular through the Edo period (1603–1867) and into the beginnings of the 20th century.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Yakusha-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Yakusha-e",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Ukiyo-e images were almost exclusively images of urban life; the vast majority that were not landscapes were devoted to depicting courtesans, sumo, or kabuki.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Yakusha-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Yakusha-e",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "actor"
+}

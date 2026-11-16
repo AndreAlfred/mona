@@ -1,0 +1,164 @@
+{
+  "id": "yoshitoshi-onoe-kikugoro-memorial",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "A Memorial Portrait of Onoe Kikugorō IV",
+  "date": "1860, seventh month",
+  "year": 1860,
+  "medium": "Color woodblock print; one sheet of a diptych",
+  "dimensions": "36.2 × 25 cm",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.2006.136.274)",
+    "url": "https://www.wikidata.org/wiki/Q62003528"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/A_Memorial_Portrait_of_Onoe_Kikugoro_IV_LACMA_M.2006.136.274.jpg/1280px-A_Memorial_Portrait_of_Onoe_Kikugoro_IV_LACMA_M.2006.136.274.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1742,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (A Memorial Portrait of Onoe Kikugoro IV LACMA M.2006.136.274.jpg)"
+  },
+  "archive": {
+    "wd": "Q62003528"
+  },
+  "phase": {
+    "label": "Apprenticeship with Kuniyoshi, 1850–61",
+    "source": {
+      "label": "Wikipedia: “In 1850, when he was 11 years old, Yoshitoshi was apprenticed to Kuniyoshi”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "yakusha-e",
+      "source": {
+        "label": "Wikidata (museum record): genre yakusha-e",
+        "url": "https://www.wikidata.org/wiki/Q62003528"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "this intimacy between actor and artist became even closer as time went on, down to the period of Yoshitoshi, the last master of Ukiyoye (he died as late as 1892), who was frequently consulted by the two most famous actors of the day, Danjuro and Kikugoro.",
+          "source": {
+            "author": "Basil Stewart",
+            "title": "Japanese Colour-Prints and the Subjects They Illustrate",
+            "publisher": "Kegan Paul, Trench, Trubner (Internet Archive scan)",
+            "year": "1920",
+            "url": "https://archive.org/details/japanesecolourpr00stew",
+            "readAt": "https://archive.org/stream/japanesecolourpr00stew/japanesecolourpr00stew_djvu.txt",
+            "accessed": "2026-11-16",
+            "tier": 2,
+            "license": "Public domain",
+            "page": "204"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shini-e",
+      "source": {
+        "label": "LACMA title via Wikimedia Commons: “A Memorial Portrait of Onoe Kikugorō IV”",
+        "url": "https://commons.wikimedia.org/wiki/File:A_Memorial_Portrait_of_Onoe_Kikugoro_IV_LACMA_M.2006.136.274.jpg"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q62003528"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He became Kuniyoshi's pupil in the autumn of 1850, but does not appear to have produced prints till some ten years later.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "url": "https://archive.org/details/japanesecolourpr00biny_2",
+          "readAt": "https://archive.org/stream/japanesecolourpr00biny_2/japanesecolourpr00biny_2_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "During his training, Yoshitoshi concentrated on refining his draftsmanship skills and copying his mentor's sketches. Kuniyoshi emphasized drawing from real life, which was unusual in Japanese training because the artist's goal was to communicate the essence of the subject matter rather than to furnish a literal representation of it.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "When a kabuki actor died, memorial portraits shini-e were conventionally published with his farewell poem and posthumous name.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shini-e",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shini-e",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although his life was hard after Kuniyoshi's death in 1861, he did manage to produce some work, 44 prints of his being known from 1862. In the next two years he had sixty-three of his designs, mostly kabuki prints, published.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He produced his first signed print when he was 14 and became an independent artist at age 20.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: General Tamichi, from the series A Mirror of Famous Japanese Generals",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/102077",
+          "readAt": "https://api.artic.edu/api/v1/artworks/102077?fields=id,title,description",
+          "accessed": "2026-11-16",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Kuniyoshi gave his apprentice the new artist's name \"Yoshitoshi\", denoting lineage in the Utagawa School. Although he was not seen as Kuniyoshi's successor during his lifetime, he is now recognized as the most important pupil of Kuniyoshi.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

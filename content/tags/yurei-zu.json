@@ -1,0 +1,34 @@
+{
+  "id": "yurei-zu",
+  "kind": "subject",
+  "name": "Yūrei-zu (ghost pictures)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Yūrei-zu (幽霊図) are a genre of Japanese art consisting of painted or woodblock print images of ghosts, demons and other supernatural beings.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Yūrei-zu",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Scholars link the \"persistent popularity\" of the occult to the \"unsettled social conditions\" prevailing during the late Edo, which included the oppressive Tokugawa regime, the beginnings of westernization, and a number of natural disasters.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Yūrei-zu",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "ghost"
+}

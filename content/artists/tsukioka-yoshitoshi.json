@@ -1,0 +1,112 @@
+{
+  "id": "tsukioka-yoshitoshi",
+  "name": "Tsukioka Yoshitoshi",
+  "born": 1839,
+  "died": 1892,
+  "active": "1853–1892",
+  "nationality": "Japanese",
+  "period": "modern-life",
+  "movements": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: “the last great master of the ukiyo-e genre”",
+        "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "utagawa-kuniyoshi",
+      "name": "Utagawa Kuniyoshi",
+      "source": {
+        "label": "Wikipedia: Yoshitoshi was apprenticed to Kuniyoshi in 1850",
+        "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+      }
+    },
+    {
+      "id": "utagawa-yoshiiku",
+      "name": "Utagawa Yoshiiku",
+      "source": {
+        "label": "Wikipedia: Yoshitoshi and Yoshiiku each designed 14 of the Twenty-Eight Famous Murders",
+        "url": "https://en.wikipedia.org/wiki/Twenty-Eight_Famous_Murders_with_Verse"
+      }
+    },
+    {
+      "id": "toyohara-kunichika",
+      "name": "Toyohara Kunichika",
+      "source": {
+        "label": "Wikipedia: in 1869 Kunichika did a series jointly with Yoshitoshi",
+        "url": "https://en.wikipedia.org/wiki/Toyohara_Kunichika"
+      }
+    },
+    {
+      "id": "kobayashi-kiyochika",
+      "name": "Kobayashi Kiyochika",
+      "source": {
+        "label": "Wikipedia: “Kiyochika's contemporary Yoshitoshi”",
+        "url": "https://en.wikipedia.org/wiki/Kobayashi_Kiyochika"
+      }
+    },
+    {
+      "id": "tsukioka-kogyo",
+      "name": "Tsukioka Kōgyo",
+      "source": {
+        "label": "Wikipedia: Kōgyo was a student and adopted son of Yoshitoshi",
+        "url": "https://en.wikipedia.org/wiki/Tsukioka_K%C5%8Dgyo"
+      }
+    }
+  ],
+  "wikidata": "Q467337",
+  "archive": {
+    "aic": 37401
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "holding back the night / with its increasing brilliance / the summer moon",
+      "lead": "His death poem, 1892:",
+      "source": {
+        "author": "Tsukioka Yoshitoshi",
+        "title": "Death poem (translated by John Stevenson), quoted in “Tsukioka Yoshitoshi”",
+        "publisher": "Wikipedia",
+        "year": "1892",
+        "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+        "accessed": "2026-11-16",
+        "tier": 1,
+        "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Yoshitoshi's courage, vision and force of character gave ukiyo-e another generation of life, and illuminated it with one last burst of glory.",
+      "source": {
+        "author": "John Stevenson",
+        "title": "Yoshitoshi's One Hundred Aspects of the Moon (1992), quoted in “Tsukioka Yoshitoshi”",
+        "publisher": "Wikipedia",
+        "year": "1992",
+        "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+        "accessed": "2026-11-16",
+        "tier": 2,
+        "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "His career spanned two eras – the last years of Edo period Japan, and the first years of modern Japan following the Meiji Restoration. Like many Japanese, Yoshitoshi was interested in new things from the rest of the world, but over time he became increasingly concerned with the loss of many aspects of traditional Japanese culture, among them traditional woodblock printing.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Tsukioka Yoshitoshi",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

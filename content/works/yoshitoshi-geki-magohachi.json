@@ -1,0 +1,157 @@
+{
+  "id": "yoshitoshi-geki-magohachi",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "Geki Magohachi in Smoke and Rifle Fire, from the series One Hundred Warriors in Battle Selected by Yoshitoshi",
+  "date": "1868",
+  "year": 1868,
+  "medium": "Color woodblock print",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.84.31.241)",
+    "url": "https://www.wikidata.org/wiki/Q61950051"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Geki_Magohachi_in_Smoke_and_Rifle_Fire_LACMA_M.84.31.241.jpg/1280px-Geki_Magohachi_in_Smoke_and_Rifle_Fire_LACMA_M.84.31.241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1757,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Geki Magohachi in Smoke and Rifle Fire LACMA M.84.31.241.jpg)"
+  },
+  "archive": {
+    "wd": "Q61950051"
+  },
+  "phase": {
+    "label": "War prints after the Battle of Ueno, 1868",
+    "source": {
+      "label": "Wikipedia: “In 1868, following the Battle of Ueno, Yoshitoshi made the series Kaidai hyaku sensō”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "musha-e",
+      "source": {
+        "label": "LACMA series via Wikimedia Commons: One Hundred Warriors in Battle",
+        "url": "https://commons.wikimedia.org/wiki/File:Geki_Magohachi_in_Smoke_and_Rifle_Fire_LACMA_M.84.31.241.jpg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "During the late Edo period, censorship laws passed by the Tokugawa Shogunate made the creation of musha-e more difficult. Artists and publishers therefore often changed the names of characters or events depicted.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Musha-e",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Musha-e",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "muzan-e",
+      "source": {
+        "label": "Wikidata (museum record): genre muzan-e",
+        "url": "https://www.wikidata.org/wiki/Q61950051"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q61950051"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1868, following the Battle of Ueno, Yoshitoshi made the series Kaidai hyaku sensō in which he portrays contemporary soldiers as historical figures in a semi-western style, using close-up and unusual angles, often shown in the heat of battle with desperate expressions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Yoshitoshi also learned the elements of western drawing techniques and perspective through studying Kuniyoshi's collection of foreign prints and engravings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[The Battle of Ueno] was a battle of the Boshin War, which occurred on 4 July 1868",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Battle of Ueno",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Battle_of_Ueno",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With the country at war, Yoshitoshi's images allowed those who were not directly involved in the fighting to experience it vicariously through his designs.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The public was attracted to Yoshitoshi's work not only for his superior composition and draftsmanship, but also his passion and intense involvement with his subject matter.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "By 1869, Yoshitoshi was regarded as one of the best woodblock artists in Japan. However, shortly thereafter, he ceased to receive commissions, perhaps because the public were tired of scenes of violence.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}
