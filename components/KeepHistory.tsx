@@ -17,6 +17,7 @@
  * the reader has seen a few works.
  */
 import { useEffect, useState } from "react";
+import { androidBrowserLink, detectPlatform, type Platform } from "@/lib/browser";
 import { useDevice } from "@/lib/store";
 import styles from "./KeepHistory.module.css";
 
@@ -24,9 +25,6 @@ type Hint = "in-app" | "install" | "ios-home";
 
 const DISMISS_KEY = "mona:hint-dismissed";
 const QUIET_DAYS = 14;
-
-/** Built-in browsers of other apps. Chat apps that use Chrome Custom Tabs share Chrome's storage and aren't listed. */
-const IN_APP = /\bFBAN|\bFBAV|FB_IAB|Instagram|\bLine\/|Snapchat|musical_ly|Bytedance|TikTok|Pinterest|LinkedInApp|Twitter|; wv\)/i;
 
 type InstallPrompt = Event & { prompt: () => Promise<void>; userChoice: Promise<{ outcome: string }> };
 
@@ -46,32 +44,18 @@ function dismiss(h: Hint) {
   } catch {}
 }
 
-/** An Android intent link that hands this page to the phone's default browser. */
-function androidBrowserLink() {
-  const { host, pathname, search, href, protocol } = window.location;
-  return `intent://${host}${pathname}${search}#Intent;scheme=${protocol.replace(":", "")};action=android.intent.action.VIEW;S.browser_fallback_url=${encodeURIComponent(href)};end`;
-}
-
 export function KeepHistory() {
   const seen = useDevice((s) => s.history.length);
   const [hint, setHint] = useState<Hint | null>(null);
   const [install, setInstall] = useState<InstallPrompt | null>(null);
   const [persisted, setPersisted] = useState<boolean | null>(null);
-  const [platform, setPlatform] = useState<{ android: boolean; ios: boolean; safari: boolean; inApp: boolean; standalone: boolean } | null>(null);
+  const [platform, setPlatform] = useState<Platform | null>(null);
 
   // Ask once per visit for storage the browser won't clear on its own. Chrome
   // decides silently (it grants installed and frequently used sites); it
   // never shows a prompt.
   useEffect(() => {
-    const ua = navigator.userAgent;
-    const ios = /iPhone|iPad|iPod/.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-    setPlatform({
-      android: /Android/.test(ua),
-      ios,
-      safari: ios && /Safari\//.test(ua) && !/CriOS|FxiOS|EdgiOS/.test(ua),
-      inApp: IN_APP.test(ua) || (ios && !/Safari\//.test(ua)),
-      standalone: matchMedia("(display-mode: standalone)").matches || (navigator as { standalone?: boolean }).standalone === true,
-    });
+    setPlatform(detectPlatform());
     const storage = navigator.storage;
     if (!storage?.persisted) return setPersisted(false);
     storage

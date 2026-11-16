@@ -32,9 +32,9 @@ import {
   type Outbox,
   type SeenRow,
 } from "./sync-merge";
-import { accountsEnabled, supabase } from "./supabase";
+import { accountsEnabled, emailCodes, supabase } from "./supabase";
 
-export { accountsEnabled };
+export { accountsEnabled, emailCodes };
 
 const OUTBOX_KEY = "mona:outbox";
 const BATCH = 100;
@@ -396,6 +396,59 @@ export async function verifyCode(email: string, token: string): Promise<{ sessio
     return { session: data.session };
   } catch {
     return { error: "unreachable" };
+  }
+}
+
+// ------------------------------------------------------------- google
+
+export type GoogleProblem = "not-invited" | "failed" | "unreachable";
+
+/** Sends the browser to Google. It comes back to /account, where finishSignIn takes over. */
+export async function signInWithGoogle(): Promise<GoogleProblem | null> {
+  const p = supabase();
+  if (!p) return "unreachable";
+  try {
+    const sb = await p;
+    const { error } = await sb.auth.signInWithOAuth({ provider: "google", options: { redirectTo: `${location.origin}/account` } });
+    return error ? "unreachable" : null;
+  } catch {
+    return "unreachable";
+  }
+}
+
+/** True on the page load that is the return trip from Google. */
+export function returningFromGoogle() {
+  const q = new URLSearchParams(location.search);
+  return q.has("code") || q.has("error") || location.hash.includes("error=");
+}
+
+/**
+ * Back from Google, the URL carries either a one-time `code` (traded here for
+ * a session, using the secret this browser kept when it left) or an error.
+ * Sign-up is closed, so a Google account whose email Andrew hasn't added
+ * comes back with "Signups not allowed".
+ */
+export async function finishSignIn(): Promise<GoogleProblem | null> {
+  const q = new URLSearchParams(location.search);
+  const h = new URLSearchParams(location.hash.slice(1));
+  const code = q.get("code");
+  const err = [q.get("error"), q.get("error_code"), h.get("error"), h.get("error_code"), q.get("error_description"), h.get("error_description")]
+    .filter(Boolean)
+    .join(" ");
+  // Keep the code out of the address bar, history and bookmarks.
+  history.replaceState(history.state, "", location.pathname);
+  if (err) return /signup/i.test(err) ? "not-invited" : "failed";
+  if (!code) return null;
+  const p = supabase();
+  if (!p) return "unreachable";
+  try {
+    const sb = await p;
+    const { data, error } = await sb.auth.exchangeCodeForSession(code);
+    if (error || !data.session) return error?.name === "AuthRetryableFetchError" ? "unreachable" : "failed";
+    setAccount({ session: data.session });
+    return null;
+  } catch {
+    return "unreachable";
   }
 }
 

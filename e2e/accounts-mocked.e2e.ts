@@ -7,14 +7,14 @@ import { expect, test, type Page, type Route } from "@playwright/test";
  *
  * Needs a build with accounts switched on. Any URL works, since nothing
  * reaches it:
- *   NEXT_PUBLIC_SUPABASE_URL=http://127.0.0.1:54321 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_test npm run dev
+ *   NEXT_PUBLIC_SUPABASE_URL=http://127.0.0.1:54321 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_test NEXT_PUBLIC_SIGN_IN_EMAIL_CODES=1 npm run dev
  * Skips itself when accounts are off.
  */
 
 const USER = { id: "11111111-1111-4111-8111-111111111111", email: "friend@example.com" };
 const OTHER = "22222222-2222-4222-8222-222222222222";
 
-type Calls = { rpc: Record<string, unknown[]>; otp: unknown[]; verify: unknown[] };
+type Calls = { rpc: Record<string, unknown[]>; otp: unknown[]; verify: unknown[]; authorize: Record<string, string>[]; token: unknown[] };
 
 function session() {
   const now = Math.floor(Date.now() / 1000);
@@ -29,8 +29,12 @@ function session() {
 }
 
 /** Fakes Supabase's auth and data API. `remote` is what the "account" holds. */
-async function fakeSupabase(page: Page, remote: { seen?: unknown[]; feed?: unknown } = {}, opts: { otp?: (r: Route) => Promise<void> } = {}) {
-  const calls: Calls = { rpc: {}, otp: [], verify: [] };
+async function fakeSupabase(
+  page: Page,
+  remote: { seen?: unknown[]; feed?: unknown } = {},
+  opts: { otp?: (r: Route) => Promise<void>; google?: "ok" | "not-invited" } = {},
+) {
+  const calls: Calls = { rpc: {}, otp: [], verify: [], authorize: [], token: [] };
   await page.route(
     (u) => /\/(auth|rest)\/v1\//.test(u.pathname),
     async (route) => {
@@ -45,6 +49,24 @@ async function fakeSupabase(page: Page, remote: { seen?: unknown[]; feed?: unkno
       if (path.endsWith("/auth/v1/verify")) {
         calls.verify.push(body);
         return (body as { token?: string }).token === "123456" ? json(200, session()) : json(403, { code: "otp_expired", msg: "Token has expired or is invalid" });
+      }
+      // Google: the browser is sent to /authorize, and Supabase (after Google)
+      // sends it back to redirect_to, with a one-time code or an error.
+      if (path.endsWith("/auth/v1/authorize")) {
+        const u = new URL(req.url());
+        calls.authorize.push(Object.fromEntries(u.searchParams));
+        const back = new URL(u.searchParams.get("redirect_to")!);
+        if (opts.google === "not-invited") {
+          back.searchParams.set("error", "access_denied");
+          back.searchParams.set("error_code", "signup_disabled");
+          back.searchParams.set("error_description", "Signups not allowed for this instance");
+        } else back.searchParams.set("code", "test-auth-code");
+        return route.fulfill({ status: 302, headers: { location: back.toString() } });
+      }
+      if (path.endsWith("/auth/v1/token")) {
+        calls.token.push(body);
+        const b = body as { auth_code?: string; code_verifier?: string };
+        return b.auth_code === "test-auth-code" && b.code_verifier ? json(200, session()) : json(400, { code: "bad_code_verifier", msg: "invalid flow state" });
       }
       if (path.endsWith("/auth/v1/logout")) return route.fulfill({ status: 204 });
       const rpc = path.match(/\/rest\/v1\/rpc\/(\w+)$/);
@@ -88,7 +110,7 @@ async function signIn(page: Page) {
 
 test.beforeEach(async ({ page }) => {
   await page.goto("/account");
-  const on = page.getByText("Your email");
+  const on = page.getByRole("button", { name: "Continue with Google" }).or(page.getByText("Google won’t sign you in"));
   const off = page.getByText("Accounts aren’t switched on yet");
   await expect(on.or(off)).toBeVisible({ timeout: 15_000 });
   test.skip(await off.isVisible(), "accounts are off in this build");
@@ -101,6 +123,45 @@ test("History says it's only on this phone, and links to sign in", async ({ page
   await expect(page.getByText("Saved on this phone only.")).toBeVisible();
   await page.getByRole("link", { name: "Sign in to keep it on any device" }).click();
   await expect(page).toHaveURL(/\/account$/);
+});
+
+test("Continue with Google goes to Google, comes back signed in, and uploads this phone's history", async ({ page }) => {
+  const calls = await fakeSupabase(page, {}, { google: "ok" });
+  await seed(page, { history: [seenEntry("w/a", 5)] });
+  await page.goto("/account");
+  await page.getByRole("button", { name: "Continue with Google" }).click();
+  await expect(page.getByText(USER.email)).toBeVisible({ timeout: 10_000 });
+  await expect(page.getByText(/Synced just now/)).toBeVisible({ timeout: 10_000 });
+
+  expect(calls.authorize[0]).toMatchObject({ provider: "google", code_challenge_method: "s256" });
+  expect(calls.authorize[0].redirect_to).toMatch(/\/account$/);
+  expect(calls.token).toHaveLength(1); // the code is traded once
+  expect(new URL(page.url()).search).toBe(""); // and taken out of the address bar
+  const seen = (calls.rpc.push_seen ?? []).flatMap((b) => (b as { items: { key: string }[] }).items.map((i) => i.key));
+  expect(seen).toEqual(["w/a"]);
+  expect((await device(page)).syncedUser).toBe(USER.id);
+});
+
+test("a Google account Andrew hasn't added is told to ask him", async ({ page }) => {
+  await fakeSupabase(page, {}, { google: "not-invited" });
+  await page.goto("/account");
+  await page.getByRole("button", { name: "Continue with Google" }).click();
+  await expect(page.locator("p[role=alert]")).toContainText("That Google account isn’t on Mona’s list yet");
+  await expect(page.getByRole("button", { name: "Continue with Google" })).toBeEnabled();
+  expect(new URL(page.url()).search).toBe("");
+});
+
+test.describe("inside Instagram's built-in browser", () => {
+  test.use({
+    userAgent:
+      "Mozilla/5.0 (Linux; Android 14; Pixel 7 Build/UQ1A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.0.0 Mobile Safari/537.36 Instagram 360.0.0.0 Android",
+  });
+  test("Google sign-in is replaced by a way out to the phone's browser", async ({ page }) => {
+    await page.goto("/account");
+    await expect(page.getByText("Google won’t sign you in inside another app’s browser")).toBeVisible();
+    await expect(page.getByRole("button", { name: "Continue with Google" })).toHaveCount(0);
+    await expect(page.getByRole("main").getByRole("link", { name: "Open in your browser" })).toHaveAttribute("href", /^intent:\/\//);
+  });
 });
 
 test("an address Andrew hasn't added is told to ask him", async ({ page }) => {

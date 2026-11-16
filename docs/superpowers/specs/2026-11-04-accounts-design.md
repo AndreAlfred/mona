@@ -2,6 +2,30 @@
 
 Status: draft for Andrew's approval · 2026-11-04
 
+## Amendment, 2026-11-15: Google sign-in
+
+Andrew ruled out the Gmail app password: a Google account of his was once
+banned after he made one for an AI tool. Other senders needed a paid
+domain (Resend) or rewrote the sender address and risked spam (Brevo).
+So people sign in with **Google** instead, through Supabase's Google
+provider:
+
+- One tap for the friend, whose Android phone is already signed in to
+  Google. No email is sent, and no Gmail account is logged in to anything.
+- Sign-up stays closed. Andrew adds each person's Google address as a user;
+  Supabase links the Google sign-in to that user by email. Anyone else
+  comes back with "Signups not allowed" and is told to ask Andrew.
+- PKCE flow: the one-time code in the return URL only works in the browser
+  that started the sign-in.
+- Google refuses to sign in inside other apps' built-in browsers, so there
+  the account page says so and offers "Open in your browser" instead.
+- The emailed-code path below stays in the code, off unless
+  `NEXT_PUBLIC_SIGN_IN_EMAIL_CODES=1` (for if a domain and sender are set
+  up later).
+
+The rest of this document is unchanged; where it says "email code", read
+"Google" for what shipped.
+
 ## Why
 
 Everything personal in Mona (history, collection, where you are in the

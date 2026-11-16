@@ -22,15 +22,15 @@ back.
  phone (Mona in the browser)                     Supabase (hosted)
  ┌──────────────────────────────┐               ┌──────────────────────────┐
  │ localStorage "mona:v1"       │  push_seen()  │ Auth: who you are        │
- │   history, collection, feed  │ ────────────▶ │   emails the 6-digit code│
+ │   history, collection, feed  │ ────────────▶ │   asks Google who you are│
  │ localStorage "mona:outbox"   │  select ...   │ Postgres database        │
  │   changes not yet sent       │ ◀──────────── │   seen, collected,       │
  │ localStorage "mona:auth"     │               │   feed_state             │
  │   your sign-in (a token)     │               │   + row-level security   │
  └──────────────────────────────┘               └──────────────────────────┘
-                                                   │ sends email through
+                                                   │ "is this really them?"
                                                    ▼
-                                                 Andrew's Gmail (SMTP)
+                                                 Google sign-in
 ```
 
 ### Postgres: the database
@@ -59,8 +59,8 @@ them in the repo means the database's design is versioned with the code.
 
 Supabase is a hosted Postgres with extras:
 
-- **Auth.** It keeps the list of people (`auth.users`), emails sign-in codes,
-  checks them, and hands the browser a **token**: a signed note saying
+- **Auth.** It keeps the list of people (`auth.users`), checks who someone
+  is (here, by asking Google), and hands the browser a **token**: a signed note saying
   "this is user 1234, valid for an hour", which the browser then sends
   with every request. The token renews itself in the background.
 - **A web API over the database (PostgREST).** The browser can run
@@ -92,18 +92,34 @@ couldn't leak one person's rows to another.
 The keys that *can* bypass RLS (the "secret" or "service role" key, the
 database password) are never in Mona's code, the repo, or Vercel.
 
-### Sign-in with an emailed code
+### Sign-in with Google
 
-1. You type your email. Mona asks Supabase to send a code
-   (`signInWithOtp`, with `shouldCreateUser: false`, so only addresses
-   Andrew has added can get one; strangers are told to ask him).
-2. Supabase emails a 6-digit code through Andrew's Gmail (custom SMTP; Mona
-   never sees the Gmail password).
-3. You type the code. Mona sends it back (`verifyOtp`) and receives the
-   token, kept in `localStorage` under `mona:auth`.
+1. You tap **Continue with Google**. Mona first stores a random secret in
+   this browser, then sends you to Google (by way of Supabase).
+2. Google asks you to choose your account (on Android, you're usually
+   already signed in) and tells Supabase who you are.
+3. Supabase looks for a user with that email address. Sign-up is closed,
+   so if Andrew hasn't added the address, it stops there and Mona says
+   "Ask Andrew to add you". If he has, the Google sign-in is attached to
+   that user.
+4. Supabase sends you back to `/account?code=…`. Mona trades the code,
+   plus the secret from step 1, for the token, kept in `localStorage`
+   under `mona:auth` (`finishSignIn` in `lib/sync.ts`).
 
-A code works even inside another app's built-in browser, where a "magic
-link" would open in a different browser.
+The secret in step 1 is called **PKCE** ("proof key"). Without it, anyone
+who saw the code (in browser history, say) could use it. With it, the code
+only works in the browser that started the sign-in.
+
+Mona never sees your Google password, and Google tells Supabase only your
+name, email and picture.
+
+**Inside another app's browser** (Instagram, Facebook, TikTok…), Google
+refuses to sign anyone in. There the account page says so and offers
+**Open in your browser**. That's the right fix anyway, since those
+browsers are the ones that forget history.
+
+Emailed 6-digit codes are built too (`requestCode` and `verifyCode`), but
+switched off: they need an email sender set up in Supabase. See the README.
 
 ### Sync: the outbox and the pull
 
@@ -148,12 +164,19 @@ again.
 - **The project paused.** Free Supabase projects pause after about a week
   with no activity. Data is kept. Restore it from the Supabase dashboard
   (the project page shows a Restore button); it takes a few minutes.
-- **No code arrives.** Check spam. Then, in Supabase: Authentication →
-  Users (is the address there?) and the Auth logs. A Gmail app password
-  can stop working if the Google account's password changes; make a new
-  one and paste it into Supabase's SMTP settings.
-- **Adding someone.** Supabase → Authentication → Users → Add user → their
-  email, "Auto confirm user" on. No password needed.
+- **"That Google account isn't on Mona's list".** The person chose a
+  Google account whose email isn't in Supabase → Authentication → Users.
+  Add it, or have them pick the other account on Google's screen.
+- **"Signing in with Google didn't finish".** Usually the sign-in started
+  in one browser and came back in another (the code only works where it
+  started), or they backed out on Google's screen. Try again from the
+  same browser. Supabase's Auth logs say more.
+- **Google says the app is unverified or blocked.** Check Google Cloud →
+  Google Auth Platform → Audience: it should be External and In
+  production.
+- **Adding someone.** Supabase → Authentication → Users → Add user → the
+  email of their Google account, "Auto confirm user" on. If it asks for a
+  password, any long random one will do; nobody uses it.
 - **Removing someone.** Delete the user there. Their rows go with them
   (`on delete cascade`).
 
@@ -164,8 +187,10 @@ again.
 | `supabase/migrations/*_accounts.sql` | Tables, RLS policies, the `push_*` and `clear_my_data` functions |
 | `lib/supabase.ts` | The connection; accounts are off unless both env vars are set |
 | `lib/sync-merge.ts` | The merge rules, as pure functions (tested in `tests/sync-merge.test.ts`) |
-| `lib/sync.ts` | Outbox, send, pull, sign-in, sign-out, delete |
+| `lib/sync.ts` | Outbox, send, pull, Google sign-in, sign-out, delete |
+| `lib/browser.ts` | Spots other apps' built-in browsers |
 | `lib/store.ts` | The device's state; `update()` reports every change to sync |
 | `components/AccountView.tsx` | The `/account` page |
 | `components/SyncRunner.tsx` | Starts background sync on every page |
-| `e2e/accounts-mocked.e2e.ts` | Browser tests with a stand-in Supabase |
+| `e2e/accounts-mocked.e2e.ts` | Browser tests with a stand-in Supabase and Google |
+| `scripts/check-rls.ts` | Privacy check against the real project |

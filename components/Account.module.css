@@ -201,3 +201,13 @@
 .row + .minor {
   margin-top: 0.5rem;
 }
+
+/* Google first; with email codes on, the email form sits below a hairline. */
+.google + .form {
+  margin-top: 1.8rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--rule);
+}
+a.primary {
+  text-decoration: none;
+}

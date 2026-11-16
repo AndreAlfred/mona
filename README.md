@@ -56,25 +56,30 @@ repo only).
 
 ## Accounts
 
-Optional sign-in with a 6-digit email code, so history, collection and feed
-position follow a reader between browsers. Supabase (free tier) holds the
-data; row-level security keeps each person to their own rows; codes go out
-through Andrew's Gmail. How it all works, in plain language:
-[`docs/accounts.md`](docs/accounts.md).
+Optional sign-in with Google, so history, collection and feed position
+follow a reader between browsers. Supabase (free tier) holds the data;
+row-level security keeps each person to their own rows. How it all works,
+in plain language: [`docs/accounts.md`](docs/accounts.md).
 
 - **Switch on:** set `NEXT_PUBLIC_SUPABASE_URL` and
   `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` (both public by design) on Vercel.
   Without them, accounts are hidden and Mona works as before.
-- **Add someone:** Supabase → Authentication → Users → Add user → their
-  email, with auto-confirm on. Sign-up is closed; only added addresses get
-  a code.
+- **Add someone:** Supabase → Authentication → Users → Add user → the email
+  address of their Google account, with auto-confirm on. Sign-up is closed;
+  a Google account whose email isn't on the list is turned away.
+- **Emailed codes** (6 digits) are built too, but need an email sender in
+  Supabase (custom SMTP). With one set up, add
+  `NEXT_PUBLIC_SIGN_IN_EMAIL_CODES=1` to show them.
+- **Privacy check:** `scripts/check-rls.ts` has two throwaway users try to
+  read and change each other's rows on the real project, then deletes them.
 - **Schema:** `supabase/migrations/`. Never put the secret key, database
   password or access token in the repo or a `NEXT_PUBLIC_` variable.
 - **Paused project:** free projects pause after about a week unused. Restore
   from the Supabase dashboard; nothing is lost, and Mona works offline
   meanwhile.
 - **Tests:** `npm test` (merge rules); `e2e/accounts-mocked.e2e.ts` runs
-  against a dev server started with any value for both variables.
+  against a dev server started with any value for both variables and
+  `NEXT_PUBLIC_SIGN_IN_EMAIL_CODES=1` (the command is at the top of the file).
 
 ## The local worker
 

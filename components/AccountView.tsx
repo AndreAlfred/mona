@@ -1,24 +1,32 @@
 "use client";
 /**
  * Signing in keeps a reader's history, collection and place in the feed on
- * every browser they use. No password: Mona emails a 6-digit code, and only
- * to addresses Andrew has added.
+ * every browser they use. No password: people sign in with Google, and only
+ * Google accounts whose email Andrew has added get in (sign-up is closed).
+ * Emailed 6-digit codes are built too, but stay off until an email sender is
+ * set up (emailCodes in lib/supabase.ts).
  */
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+import { androidBrowserLink, detectPlatform, type Platform } from "@/lib/browser";
 import { useDevice } from "@/lib/store";
 import {
   accountsEnabled,
   deleteMyData,
+  emailCodes,
+  finishSignIn,
   holdsSomeoneElses,
   linkDevice,
   requestCode,
+  returningFromGoogle,
+  signInWithGoogle,
   signOut,
   syncNow,
   useAccount,
   verifyCode,
   wakeAccounts,
   type CodeError,
+  type GoogleProblem,
 } from "@/lib/sync";
 import pages from "./Pages.module.css";
 import styles from "./Account.module.css";
@@ -32,6 +40,12 @@ const PROBLEM: Record<CodeError, string> = {
   unreachable: "Mona couldn’t reach accounts just now. Check your connection and try again in a minute.",
 };
 
+const GOOGLE_PROBLEM: Record<GoogleProblem, string> = {
+  "not-invited": "That Google account isn’t on Mona’s list yet. Ask Andrew to add its email address, then try again.",
+  failed: "Signing in with Google didn’t finish. Try again.",
+  unreachable: PROBLEM.unreachable,
+};
+
 type Step = { at: "email" } | { at: "code"; email: string };
 
 export function AccountView() {
@@ -39,10 +53,22 @@ export function AccountView() {
   const syncedUser = useDevice((s) => s.syncedUser);
   const [mounted, setMounted] = useState(false);
   const [step, setStep] = useState<Step>({ at: "email" });
+  const [finishing, setFinishing] = useState(false);
+  const [googleProblem, setGoogleProblem] = useState<GoogleProblem | null>(null);
+  const finished = useRef(false);
 
   useEffect(() => {
     setMounted(true);
     wakeAccounts();
+    // Back from Google: trade the code for a session, once (React may run
+    // this effect twice in development).
+    if (finished.current || !returningFromGoogle()) return;
+    finished.current = true;
+    setFinishing(true);
+    void finishSignIn().then((problem) => {
+      setGoogleProblem(problem);
+      setFinishing(false);
+    });
   }, []);
 
   // Signed in, but this phone's saved history belongs to another account.
@@ -51,7 +77,9 @@ export function AccountView() {
   let body: React.ReactNode = null;
   let sub = "";
   if (!mounted || !ready) body = null;
-  else if (!accountsEnabled) {
+  else if (finishing) {
+    sub = "Signing you in…";
+  } else if (!accountsEnabled) {
     sub = "Accounts aren’t switched on yet. Your history and collection are saved on this phone.";
   } else if (session && mismatch) {
     sub = "One more thing before you’re signed in.";
@@ -71,8 +99,15 @@ export function AccountView() {
       />
     );
   } else {
-    sub = "Keep your history and collection on every phone and browser you use. No password: Mona emails you a code.";
-    body = <EmailStep onSent={(email) => setStep({ at: "code", email })} />;
+    sub = `Keep your history and collection on every phone and browser you use. No password: ${
+      emailCodes ? "sign in with Google, or have Mona email you a code" : "sign in with your Google account"
+    }.`;
+    body = (
+      <>
+        <GoogleStep problem={googleProblem} />
+        {emailCodes && <EmailStep onSent={(email) => setStep({ at: "code", email })} />}
+      </>
+    );
   }
 
   return (
@@ -89,6 +124,69 @@ export function AccountView() {
           <Link href="/collection">Collection</Link>
         </p>
       )}
+    </div>
+  );
+}
+
+function GoogleStep({ problem }: { problem: GoogleProblem | null }) {
+  const [busy, setBusy] = useState(false);
+  const [err, setErr] = useState(problem);
+  const [platform, setPlatform] = useState<Platform | null>(null);
+
+  useEffect(() => setPlatform(detectPlatform()), []);
+  useEffect(() => setErr(problem), [problem]);
+  // Back from Google's page with the Back button, the browser may show this
+  // page exactly as it was left, still saying "Opening Google…".
+  useEffect(() => {
+    const onShow = (e: PageTransitionEvent) => e.persisted && setBusy(false);
+    window.addEventListener("pageshow", onShow);
+    return () => window.removeEventListener("pageshow", onShow);
+  }, []);
+
+  if (!platform) return null;
+  // Google refuses to sign anyone in inside another app's built-in browser.
+  if (platform.inApp)
+    return (
+      <div className={`${styles.form} ${styles.google}`}>
+        <p className={styles.note}>
+          Google won’t sign you in inside another app’s browser. Open Mona in your phone’s browser first
+          {platform.ios ? ": tap ··· or the share button and choose Open in Safari." : "."}
+        </p>
+        {platform.android && (
+          <>
+            <a className={`${styles.primary} smallcaps`} href={androidBrowserLink()}>
+              Open in your browser
+            </a>
+            <p className={styles.minor}>If nothing happens, tap ⋮ and choose Open in browser.</p>
+          </>
+        )}
+      </div>
+    );
+
+  return (
+    <div className={`${styles.form} ${styles.google}`}>
+      {err && (
+        <p className={styles.problem} role="alert">
+          {GOOGLE_PROBLEM[err]}
+        </p>
+      )}
+      <button
+        className={`${styles.primary} smallcaps`}
+        disabled={busy}
+        onClick={async () => {
+          setBusy(true);
+          setErr(null);
+          const e = await signInWithGoogle();
+          // On success the browser is already on its way to Google.
+          if (e) {
+            setBusy(false);
+            setErr(e);
+          }
+        }}
+      >
+        {busy ? "Opening Google…" : "Continue with Google"}
+      </button>
+      <p className={styles.minor}>Use the Google account whose email address Andrew added.</p>
     </div>
   );
 }
