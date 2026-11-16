@@ -1,0 +1,33 @@
+{
+  "id": "primitivism",
+  "kind": "movement",
+  "name": "Primitivism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In the arts of the Western world, Primitivism is a mode of aesthetic idealization that means to recreate the experience of the primitive time, place, and person, either by emulation or by re-creation.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Primitivism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Primitivism",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "As a genre of Western art, Primitivism reproduced and perpetuated racist stereotypes, such as the \"noble savage\", with which colonialists justified white colonial rule over the non-white other in Asia, Africa, and Australasia.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Primitivism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Primitivism",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

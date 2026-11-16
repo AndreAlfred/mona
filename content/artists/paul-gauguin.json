@@ -1,0 +1,175 @@
+{
+  "id": "paul-gauguin",
+  "name": "Paul Gauguin",
+  "born": 1848,
+  "died": 1903,
+  "active": "1873–1903",
+  "nationality": "French",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: work primarily associated with the Post-Impressionist and Symbolist movements",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "synthetism",
+      "source": {
+        "label": "Wikipedia: recognized for his experimental use of color and Synthetist style",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "cloisonnism",
+      "source": {
+        "label": "Wikipedia: under the influence of folk art and Japanese prints, his work evolved towards Cloisonnism",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: Gauguin among the Symbolist painters",
+        "url": "https://en.wikipedia.org/wiki/Symbolism_(movement)"
+      }
+    },
+    {
+      "id": "primitivism",
+      "source": {
+        "label": "Wikipedia: the first artist to systematically use these effects and achieve broad public success was Paul Gauguin",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Wikipedia: he exhibited with the Impressionists in the early 1880s",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "camille-pissarro",
+      "name": "Camille Pissarro",
+      "source": {
+        "label": "Wikipedia: Pissarro took on a mentor role for Gauguin",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "edgar-degas",
+      "name": "Edgar Degas",
+      "source": {
+        "label": "Wikipedia: Degas was Gauguin's most admired contemporary artist",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "vincent-van-gogh",
+      "name": "Vincent van Gogh",
+      "source": {
+        "label": "Wikipedia: nine weeks painting together at the Yellow House in Arles, 1888",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "emile-bernard",
+      "name": "Émile Bernard",
+      "source": {
+        "label": "Wikipedia: Gauguin was very appreciative of Bernard's art",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "paul-cezanne",
+      "name": "Paul Cézanne",
+      "source": {
+        "label": "Wikipedia: he painted with Pissarro and occasionally Paul Cézanne",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "pierre-puvis-de-chavannes",
+      "name": "Pierre Puvis de Chavannes",
+      "source": {
+        "label": "Fletcher (1921): Puvis, Cézanne and Degas “had… become syntheticists”",
+        "url": "https://www.gutenberg.org/cache/epub/38848/pg38848.txt"
+      }
+    },
+    {
+      "id": "odilon-redon",
+      "name": "Odilon Redon",
+      "source": {
+        "label": "Wikipedia: Gauguin wrote to Odilon Redon of “not death in life but life in death”",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    },
+    {
+      "id": "maurice-denis",
+      "name": "Maurice Denis",
+      "source": {
+        "label": "Huneker (1910): Maurice Denis among the associates of Gauguin's Pont-Aven school",
+        "url": "https://www.gutenberg.org/cache/epub/13296/pg13296.txt"
+      }
+    }
+  ],
+  "wikidata": "Q37693",
+  "archive": {
+    "aic": 34611,
+    "cma": [
+      1776
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "You have long known what I have tried to establish: the right to dare everything; yet the difficulty I have had finding enough money to live on has been too great, and my capacities have not produced a very big result but the mechanism has got underway nevertheless. … the painters who benefit from that freedom today do owe me something.",
+      "lead": "Taking stock from the Marquesas, months before his death:",
+      "source": {
+        "author": "Paul Gauguin",
+        "title": "Letter to Georges-Daniel de Monfreid, Marquesas Islands, October 1902, in The Writings of a Savage (1996), p. 214, quoted on Wikiquote",
+        "publisher": "Wikiquote",
+        "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+        "accessed": "2026-11-16",
+        "tier": 1,
+        "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+        "year": "1902"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Eugène Henri Paul Gauguin … was a French painter, sculptor, printmaker, ceramist, and writer, whose work has been primarily associated with the Post-Impressionist and Symbolist movements. He was also an influential practitioner of wood engraving and woodcuts as art forms. While only moderately successful during his lifetime, Gauguin has since been recognized for his experimental use of color and Synthetist style that were distinct from Impressionism.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Paul Gauguin",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He is Gauguin, the savage, who hates a whimpering civilization, a sort of Titan who, jealous of the Creator, makes in his leisure hours his own little creation",
+      "lead": "The playwright August Strindberg, 1895:",
+      "source": {
+        "author": "August Strindberg",
+        "title": "Letter to Gauguin (1895), reprinted in Paul Gauguin's Intimate Journals",
+        "publisher": "Paul Gauguin's Intimate Journals, trans. Van Wyck Brooks (1923), Internet Archive scan",
+        "url": "https://archive.org/details/intimatejournals0000paul",
+        "readAt": "https://archive.org/stream/intimatejournals0000paul/intimatejournals0000paul_djvu.txt",
+        "accessed": "2026-11-16",
+        "tier": 3,
+        "year": "1895"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

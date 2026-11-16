@@ -1,0 +1,34 @@
+{
+  "id": "synthetism",
+  "kind": "style",
+  "name": "Synthetism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Synthetist artists aimed to synthesize three features: The outward appearance of natural forms. The artist's feelings about their subject. The purity of the aesthetic considerations of line, colour and form.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Synthetism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Synthetism",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It is well to remember that a picture before being a battle horse, a nude woman, or some anecdote, is essentially a flat surface covered with colours assembled in a certain order.",
+      "lead": "Maurice Denis, summing up its goals in 1890:",
+      "source": {
+        "author": "Maurice Denis",
+        "title": "Statement of 1890, quoted in “Synthetism”",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Synthetism",
+        "accessed": "2026-11-16",
+        "tier": 3,
+        "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+      }
+    }
+  ]
+}

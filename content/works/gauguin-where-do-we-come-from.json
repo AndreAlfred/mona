@@ -1,0 +1,169 @@
+{
+  "id": "gauguin-where-do-we-come-from",
+  "artist": "paul-gauguin",
+  "title": "Where Do We Come From? What Are We? Where Are We Going? (D’où venons nous? Que sommes nous? Où allons nous?)",
+  "date": "1897",
+  "year": 1897,
+  "medium": "oil paint on canvas",
+  "dimensions": "139.1 × 374.6 cm",
+  "museum": {
+    "name": "Museum of Fine Arts Boston (36.270)",
+    "url": "https://www.wikidata.org/wiki/Q890678"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg/1280px-Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg/2560px-Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 442,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Gauguin - Where Do We Come From? What Are We? Where Are We Going? (1897-98).jpg)"
+  },
+  "archive": {
+    "wd": "Q890678"
+  },
+  "phase": {
+    "label": "Second stay in Tahiti, 1895–1901",
+    "source": {
+      "label": "Wikipedia: “The painting was created in Tahiti”",
+      "url": "https://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F"
+    }
+  },
+  "tags": [
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: “an accentuation of Gauguin's trailblazing Post-Impressionistic style”",
+        "url": "https://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F"
+      }
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: Gauguin among the Symbolist painters",
+        "url": "https://en.wikipedia.org/wiki/Symbolism_(movement)"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "But before I died I wished to paint a large canvas that I had in mind, and I worked day and night that whole month in an incredible fever. … It is all done straight from the brush on sackcloth full of knots and wrinkles … I believe that this canvas not only surpasses all my preceding ones, but that I shall never do anything better, or even like it.",
+        "lead": "To Monfreid, February 1898:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Georges-Daniel de Monfreid, Tahiti, February 1898",
+          "publisher": "The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (Dodd, Mead, 1922), Internet Archive scan",
+          "year": "1898",
+          "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+          "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "page": "94"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "An idol, its arms mysteriously raised in a sort of rhythm, seems to indicate the Beyond. … At her feet a strange white bird, holding a lizard in its claws, represents the futility of words.",
+        "lead": "Walking his friend through the figures:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Georges-Daniel de Monfreid, Tahiti, February 1898",
+          "publisher": "The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (Dodd, Mead, 1922), Internet Archive scan",
+          "year": "1898",
+          "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+          "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "page": "95"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1898, Gauguin sent the painting to Georges-Daniel de Monfreid in Paris. Monfreid passed it to Ambroise Vollard along with eight other thematically related pictures shipped earlier. They went on view at the Galerie Vollard from November 17 to December 10, 1898. The exhibition was a success, although D'où Venons Nous? received mixed reviews.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Where Do We Come From? What Are We? Where Are We Going?",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "My eyes close and uncomprehendingly see the dream in the infinite space that stretches away, elusive, before me.",
+        "lead": "Answering the critic André Fontainas's review, March 1899:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to André Fontainas, March 1899, in The Writings of a Savage (1996), pp. 184–185, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1899"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "From one of many letters to his friend, Daniel de Monfreid, Gauguin disclosed his plan to commit suicide in December 1897. Before he did, however, he wanted to paint a large canvas that would be known as the grand culmination of his thoughts.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Where Do We Come From? What Are We? Where Are We Going?",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I went into the mountains, where my body would have been devoured by the ants. I had no revolver, but I had arsenic, which I had saved up while I was so ill with eczema.",
+        "lead": "What followed, as he told Monfreid:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Georges-Daniel de Monfreid, Tahiti, February 1898",
+          "publisher": "The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (Dodd, Mead, 1922), Internet Archive scan",
+          "year": "1898",
+          "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+          "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "page": "93"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "these questions from Dupanloup's catechism had lodged in his mind, and \"where?\" became the key question that Gauguin asked in his art.",
+        "lead": "The title's questions went back to his Catholic schooling:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Where Do We Come From? What Are We? Where Are We Going?",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

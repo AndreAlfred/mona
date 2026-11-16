@@ -1,0 +1,155 @@
+{
+  "id": "gauguin-study-of-a-nude",
+  "artist": "paul-gauguin",
+  "title": "Study of a Nude (Étude de nu)",
+  "date": "1879",
+  "year": 1879,
+  "medium": "oil paint on canvas",
+  "dimensions": "114.5 × 79.5 cm",
+  "museum": {
+    "name": "Ny Carlsberg Glyptotek (MIN smk-3453)",
+    "url": "https://collection.smk.dk/#/en/detail/KMS3453"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Paul_Gauguin_001.jpg/1280px-Paul_Gauguin_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1731,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Paul Gauguin 001.jpg)"
+  },
+  "archive": {
+    "wd": "Q4528214"
+  },
+  "phase": {
+    "label": "Sunday painter among the Impressionists, 1879–82",
+    "source": {
+      "label": "Wikipedia: Gauguin showed paintings in Impressionist exhibitions held in 1881 and 1882",
+      "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+    }
+  },
+  "tags": [
+    {
+      "id": "impressionism",
+      "source": {
+        "label": "Fletcher (1921): Gauguin took part in the exhibitions of the Impressionist group in 1880 and 1881",
+        "url": "https://www.gutenberg.org/cache/epub/38848/pg38848.txt"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He formed a friendship with Camille Pissarro and visited him on Sundays to paint in his garden. Pissarro introduced him to various other artists.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Paul Gauguin",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Study of a Nude, oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/Study_of_a_Nude"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Mention has already been made of his appearance in 1880 among the Impressionists and of the praise bestowed by Huysmans on one of his pictures for its frank realism. This very nude, however, shows Gauguin massing his shadows, making them heavy and dark, which was the direct contrary to Impressionist practice.",
+        "source": {
+          "author": "John Gould Fletcher",
+          "title": "Paul Gauguin, His Life and Art",
+          "publisher": "Nicholas L. Brown (Project Gutenberg)",
+          "year": "1921",
+          "url": "https://www.gutenberg.org/ebooks/38848",
+          "readAt": "https://www.gutenberg.org/cache/epub/38848/pg38848.txt",
+          "accessed": "2026-11-16",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painting depicts a young, nude woman who is arranging a garment. The scene is set in a bedroom with the woman sitting on an unmade bed against a mauve wall that is decorated with a mandolin and a tapestry. … He depicts her body realistically, without idealisation.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Study of a Nude",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Study_of_a_Nude",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "My Dear Mr. Pissarro; - I accept with pleasure the invitation that you and Mr. Degas were kind enough to extend to me. And naturally in that case I shall abide by all the rules that govern your Societe.",
+        "lead": "Accepting the Impressionists' invitation to exhibit with them:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Camille Pissarro, 3 April 1879, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1879"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Gauguin heard of Impressionism and became a devout follower of its theories. He painted pictures in the manner of Camille Pissarro",
+        "source": {
+          "author": "John Gould Fletcher",
+          "title": "Paul Gauguin, His Life and Art",
+          "publisher": "Nicholas L. Brown (Project Gutenberg)",
+          "year": "1921",
+          "url": "https://www.gutenberg.org/ebooks/38848",
+          "readAt": "https://www.gutenberg.org/cache/epub/38848/pg38848.txt",
+          "accessed": "2026-11-16",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1879 he was earning 30,000 francs a year (about $145,000 in 2019 US dollars) as a stockbroker, and as much again in his dealings in the art market.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Paul Gauguin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Despite the impact the painting had on the Impressionist exhibition, Gauguin was unable to sell it. His wife, Mette, refused to hang the painting in their home.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Study of a Nude",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Study_of_a_Nude",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

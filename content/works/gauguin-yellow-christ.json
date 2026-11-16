@@ -1,0 +1,165 @@
+{
+  "id": "gauguin-yellow-christ",
+  "artist": "paul-gauguin",
+  "title": "The Yellow Christ (Le Christ jaune)",
+  "date": "1889",
+  "year": 1889,
+  "medium": "oil paint on canvas",
+  "dimensions": "92.07 × 73.34 cm",
+  "museum": {
+    "name": "Buffalo AKG Art Museum (1946:4)",
+    "url": "https://buffaloakg.org/artworks/19464-le-christ-jaune-yellow-christ"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg/1280px-Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg/2560px-Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1510,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Paul Gauguin - The Yellow Christ (Le Christ jaune) 1889.jpg)"
+  },
+  "archive": {
+    "wd": "Q500951"
+  },
+  "phase": {
+    "label": "Pont-Aven, 1889",
+    "source": {
+      "label": "Wikipedia: “executed by Paul Gauguin in 1889 in Pont-Aven”",
+      "url": "https://en.wikipedia.org/wiki/The_Yellow_Christ"
+    }
+  },
+  "tags": [
+    {
+      "id": "cloisonnism",
+      "source": {
+        "label": "Wikipedia: “often cited as a quintessential cloisonnist work”",
+        "url": "https://en.wikipedia.org/wiki/Cloisonnism"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Cloissonism, as the name indicates, was borrowed from the Japanese. But as a method of painting, it had been derived less from cloisonné enamel than from the technique of the Japanese color-print artists.",
+          "source": {
+            "author": "John Gould Fletcher",
+            "title": "Paul Gauguin, His Life and Art",
+            "publisher": "Nicholas L. Brown (Project Gutenberg)",
+            "year": "1921",
+            "url": "https://www.gutenberg.org/ebooks/38848",
+            "readAt": "https://www.gutenberg.org/cache/epub/38848/pg38848.txt",
+            "accessed": "2026-11-16",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: “considered to be one of the key works of Symbolist painting”",
+        "url": "https://en.wikipedia.org/wiki/The_Yellow_Christ"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: The Yellow Christ, oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/The_Yellow_Christ"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In Gauguin's The Yellow Christ (1889), often cited as a quintessential Cloisonnist work, the image was reduced to areas of pure colour separated by heavy black outlines. In such works Gauguin paid little attention to classical perspective and boldly eliminated subtle gradations of colour, thereby dispensing with the two most characteristic principles of post-Renaissance painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Paul Gauguin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Bernard's argument leaves unexplained why it was not he, but Gauguin, who after 1888 painted those magnificent pictures Le Christ Jaune, Le Christ Vert and La Vision après le Sermon",
+        "lead": "On Émile Bernard's claim to have invented the style first:",
+        "source": {
+          "author": "John Gould Fletcher",
+          "title": "Paul Gauguin, His Life and Art",
+          "publisher": "Nicholas L. Brown (Project Gutenberg)",
+          "year": "1921",
+          "url": "https://www.gutenberg.org/ebooks/38848",
+          "readAt": "https://www.gutenberg.org/cache/epub/38848/pg38848.txt",
+          "accessed": "2026-11-16",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was only for a short visit in summer 1889 to Paris to see the Exposition universelle and to arrange the Volpini Exhibition that Gauguin interrupted this sojourn. Soon after his return to Pont-Aven he painted The Yellow Christ.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Yellow Christ",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Yellow_Christ",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "What was nicknamed the School of Pont-Aven was the outcome of Gauguin's imperious personality. A decorative impulse, a largeness of style, and a belief that everything in daily life should be beautiful and characteristic sent the painters to modelling, to ceramics and decoration.",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist",
+          "publisher": "Charles Scribner's Sons (Project Gutenberg)",
+          "year": "1910",
+          "url": "https://www.gutenberg.org/ebooks/13296",
+          "readAt": "https://www.gutenberg.org/cache/epub/13296/pg13296.txt",
+          "accessed": "2026-11-16",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The painting is a symbolic piece that shows the crucifixion of Jesus Christ taking place in 19th-century northern France as Breton women are gathered in prayer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Yellow Christ",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Yellow_Christ",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With this painting, I tried to make everything breathe faith, quiet suffering, religious and primitive style and great nature with its scream.",
+        "lead": "Of its companion piece, The Green Christ, that autumn:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Theo van Gogh, 20 November 1889, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1889"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

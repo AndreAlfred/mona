@@ -1,0 +1,147 @@
+{
+  "id": "gauguin-the-call",
+  "artist": "paul-gauguin",
+  "title": "The Call (L'appel)",
+  "date": "1902",
+  "year": 1902,
+  "medium": "oil paint on canvas",
+  "dimensions": "131.3 × 89.5 cm",
+  "museum": {
+    "name": "Cleveland Museum of Art (1943.392)",
+    "url": "https://clevelandart.org/art/1943.392"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Call_%281902%29_by_Paul_Gauguin._Original_from_The_Cleveland_Museum_of_Art._Digitally_enhanced_by_rawpixel._%2850623698536%29.jpg/1280px-The_Call_%281902%29_by_Paul_Gauguin._Original_from_The_Cleveland_Museum_of_Art._Digitally_enhanced_by_rawpixel._%2850623698536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Call_%281902%29_by_Paul_Gauguin._Original_from_The_Cleveland_Museum_of_Art._Digitally_enhanced_by_rawpixel._%2850623698536%29.jpg/2560px-The_Call_%281902%29_by_Paul_Gauguin._Original_from_The_Cleveland_Museum_of_Art._Digitally_enhanced_by_rawpixel._%2850623698536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1778,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Call (1902) by Paul Gauguin. Original from The Cleveland Museum of Art. Digitally enhanced by rawpixel. (50623698536).jpg)"
+  },
+  "archive": {
+    "wd": "Q60024293"
+  },
+  "phase": {
+    "label": "Last years in the Marquesas, 1901–03",
+    "source": {
+      "label": "Wikipedia: “Gauguin settled in Atuona on the island of Hiva-Oa, arriving 16 September 1901”",
+      "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: oil on canvas",
+        "url": "https://clevelandart.org/art/1943.392"
+      }
+    },
+    {
+      "id": "post-impressionism",
+      "source": {
+        "label": "Wikipedia: Gauguin's work is primarily associated with the Post-Impressionist movement",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Painted on a remote island in Polynesia a year before the artist's death, The Call belongs to a series of late works that explore the mysteries of life and death. Two women stand with bare feet, as if on sacred ground. One woman gestures to someone outside the picture, perhaps responding to a \"call\" from fate or destiny.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: The Call",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1943.392",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/1943.392",
+          "accessed": "2026-11-16",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Many people say that I don't know how to draw because I don't draw particular forms. When will they understand that execution, drawing and color (in other words, style) must be in harmony with the poem?",
+        "lead": "To the poet Charles Morice, July 1901:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Charles Morice, July 1901, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1901"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Although known as one of the founders of modern art, Gauguin found inspiration in ancient Greek, Roman, and Egyptian art. The woman with the pointing finger on the right side of this painting was taken from a figure on the Parthenon frieze.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: The Call",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1943.392",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/1943.392",
+          "accessed": "2026-11-16",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "At present you are a unique and legendary artist, sending to us from the remote South Seas disconcerting and inimitable works which are the definitive creations of a great man who, in a way, has already gone from this world. … You are already as unassailable as all the great dead; you already belong to the history of art.",
+        "lead": "Daniel de Monfreid, urging him not to come back to Europe, 1902:",
+        "source": {
+          "author": "George Daniel Monfreid",
+          "title": "Letter to Paul Gauguin, c. October 1902, quoted in “Paul Gauguin”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 3,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "My Brittany pictures are now rose-water because of Tahiti; Tahiti will become eau de Cologne because of the Marquesas.",
+        "lead": "On the eve of leaving for the Marquesas, 1901:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Georges-Daniel de Monfreid, Tahiti, June 1901",
+          "publisher": "The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (Dodd, Mead, 1922), Internet Archive scan",
+          "year": "1901",
+          "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+          "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "page": "138"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is so small a thing, the life of a man, and yet there is time to do great things, fragments of the common task.",
+        "lead": "From the memoir he finished in Atuona months before his death:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Avant et après (1903), translated as Paul Gauguin's Intimate Journals",
+          "publisher": "Paul Gauguin's Intimate Journals, trans. Van Wyck Brooks (1923), Internet Archive scan",
+          "url": "https://archive.org/details/intimatejournals0000paul",
+          "readAt": "https://archive.org/stream/intimatejournals0000paul/intimatejournals0000paul_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "year": "1903"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}
