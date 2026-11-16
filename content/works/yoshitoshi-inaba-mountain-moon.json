@@ -1,0 +1,146 @@
+{
+  "id": "yoshitoshi-inaba-mountain-moon",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "Inaba Mountain Moon (Inabayama no tsuki), from the series One Hundred Aspects of the Moon",
+  "date": "1885, twelfth month",
+  "year": 1885,
+  "medium": "Color woodblock print",
+  "museum": {
+    "name": "Impression in the National Diet Library, Tokyo (via Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/File:YoshiClimber.jpg"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/YoshiClimber.jpg/1280px-YoshiClimber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/YoshiClimber.jpg/2560px-YoshiClimber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1738,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (YoshiClimber.jpg)"
+  },
+  "archive": {
+    "wd": "Q62580641"
+  },
+  "phase": {
+    "label": "One Hundred Aspects of the Moon, 1885–92",
+    "source": {
+      "label": "Wikipedia: One Hundred Aspects of the Moon, printed “starting in 1885 until 1892”",
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Aspects_of_the_Moon"
+    }
+  },
+  "tags": [
+    {
+      "id": "musha-e",
+      "source": {
+        "label": "Wikipedia: “The young Toyotomi Hideyoshi leads a small group assaulting the castle on Inaba Mountain”",
+        "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q62580641"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: “100 ōban-size ukiyo-e woodblock prints”",
+        "url": "https://en.wikipedia.org/wiki/One_Hundred_Aspects_of_the_Moon"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "One Hundred Aspects of the Moon, or Tsuki no Hyakushi (月百姿) in Japanese, is a collection of 100 ōban-size ukiyo-e woodblock prints by Japanese artist Tsukioka Yoshitoshi printed in batches, starting in 1885 until 1892.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "One Hundred Aspects of the Moon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/One_Hundred_Aspects_of_the_Moon",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Yoshitoshi's most celebrated work is his series entitled Tsuki Hiak'ushi (\"The Hundred Moons\"), which occupied him over five years to complete.",
+        "source": {
+          "author": "Basil Stewart",
+          "title": "Japanese Colour-Prints and the Subjects They Illustrate",
+          "publisher": "Kegan Paul, Trench, Trubner (Internet Archive scan)",
+          "year": "1920",
+          "url": "https://archive.org/details/japanesecolourpr00stew",
+          "readAt": "https://archive.org/stream/japanesecolourpr00stew/japanesecolourpr00stew_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "298"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The subjects are drawn from various sources in Japanese and Chinese history and literature, Kabuki and Noh theatre, and even contemporary Edo (modern Tokyo), linked only by the presence of the Moon in each print.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "One Hundred Aspects of the Moon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/One_Hundred_Aspects_of_the_Moon",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This was the most successful and still the most famous of Yoshitoshi's print series. People would queue before dawn to buy each new design and still find the edition sold out.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "One Hundred Aspects of the Moon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/One_Hundred_Aspects_of_the_Moon",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Nobunaga's young retainer Kinoshita Tōkichirō (later known as Toyotomi Hideyoshi) played an important role in attaining the victory at Inabayama.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Siege of Inabayama Castle",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Siege_of_Inabayama_Castle",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Horio Yoshiharu then guided Kinoshita Hideyoshi and the small assault force around to the back of the mountain, where they climbed the steep slopes by the light of a full moon.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Siege of Inabayama Castle",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Siege_of_Inabayama_Castle",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

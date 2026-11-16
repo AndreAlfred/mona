@@ -1,0 +1,34 @@
+{
+  "id": "symbolism",
+  "kind": "movement",
+  "name": "Symbolism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Symbolism was a late 19th-century art movement of French and Belgian origin in poetry and other arts seeking to represent absolute truths symbolically through language and metaphorical images, mainly as a reaction against naturalism and realism.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Symbolism (movement)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Symbolism_(movement)",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "There were several rather dissimilar groups of Symbolist painters and visual artists, which included Paul Gauguin, Gustave Moreau, Gustav Klimt",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Symbolism (movement)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Symbolism_(movement)",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Symbolism"
+}

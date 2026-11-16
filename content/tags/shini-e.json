@@ -1,0 +1,33 @@
+{
+  "id": "shini-e",
+  "kind": "subject",
+  "name": "Shini-e (memorial portraits)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Shini-e (死絵, \"Memorial prints\"), also called \"death pictures\" or \"death portraits\", are Japanese woodblock prints, particularly those done in the ukiyo-e style popular through the Edo period (1603–1867) and into the beginnings of the 20th century.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Shini-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Shini-e",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "When a kabuki actor died, memorial portraits shini-e were conventionally published with his farewell poem and posthumous name.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Shini-e",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Shini-e",
+        "accessed": "2026-11-16",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

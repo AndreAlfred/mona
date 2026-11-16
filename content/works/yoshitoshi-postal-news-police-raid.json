@@ -1,0 +1,146 @@
+{
+  "id": "yoshitoshi-postal-news-police-raid",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "A Sudden Police Raid on Unlicensed Prostitutes, from The Postal News, no. 425",
+  "date": "April 1875",
+  "year": 1875,
+  "medium": "Color woodblock print",
+  "dimensions": "34.7 × 23.4 cm",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.84.31.174)",
+    "url": "https://www.wikidata.org/wiki/Q63111904"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A_Sudden_Police_Raid_on_Unlicensed_Prostitutes_LACMA_M.84.31.174.jpg/1280px-A_Sudden_Police_Raid_on_Unlicensed_Prostitutes_LACMA_M.84.31.174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1860,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (A Sudden Police Raid on Unlicensed Prostitutes LACMA M.84.31.174.jpg)"
+  },
+  "archive": {
+    "wd": "Q63111904"
+  },
+  "phase": {
+    "label": "News prints for the Meiji papers, mid-1870s",
+    "source": {
+      "label": "Wikipedia: “Yoshitoshi was recruited to produce ‘news nishikie’”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e shinbun",
+        "url": "https://www.wikidata.org/wiki/Q63111904"
+      }
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "LACMA record via Wikimedia Commons: color woodblock print",
+        "url": "https://commons.wikimedia.org/wiki/File:A_Sudden_Police_Raid_on_Unlicensed_Prostitutes_LACMA_M.84.31.174.jpg"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikidata (museum record): genre ukiyo-e",
+        "url": "https://www.wikidata.org/wiki/Q63111904"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Newspapers sprung up in the modernization drive, and Yoshitoshi was recruited to produce \"news nishikie\". These were woodblock prints designed as full-page illustrations to accompany articles, usually on lurid and sensationalized subjects such as \"true crime\" stories.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[Yoshitoshi] was the last artist of the old Ukiyoye school, and his long life (1839-1892) embraced the period which saw the extinction of the old school and the establishment of the new. In his prime (c. 1875) he was easily the foremost artist, and enjoyed wide popularity.",
+        "source": {
+          "author": "Basil Stewart",
+          "title": "Japanese Colour-Prints and the Subjects They Illustrate",
+          "publisher": "Kegan Paul, Trench, Trubner (Internet Archive scan)",
+          "year": "1920",
+          "url": "https://archive.org/details/japanesecolourpr00stew",
+          "readAt": "https://archive.org/stream/japanesecolourpr00stew/japanesecolourpr00stew_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "18"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The rapid Westernization of the Meiji period that followed saw woodblock printing turn its services to journalism, and face competition from photography.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ukiyo-e",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ukiyo-e",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In July 1874, the magazine Shinbun hentai said that: \"Color woodcuts are one of the specialties of Tokyo, and that Kyôsai, Yoshitoshi, Yoshiiku, Kunichika, and Ginkô are the experts in this area.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Toyohara Kunichika",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Toyohara_Kunichika",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Yoshitoshi's financial condition was still precarious, however, and in 1876, his mistress Okoto, in a gesture of devotion, sold herself to a brothel to help him.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With the Satsuma Rebellion of 1877, in which the old feudal order made one last attempt to stop the new Japan, newspaper circulation soared, and woodblock artists were in demand, with Yoshitoshi earning much attention.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

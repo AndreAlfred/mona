@@ -1,0 +1,161 @@
+{
+  "id": "yoshitoshi-fujiwara-no-yasumasa",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "Fujiwara no Yasumasa Playing the Flute by Moonlight",
+  "date": "1883",
+  "year": 1883,
+  "medium": "Triptych; color woodblock prints",
+  "dimensions": "36.0 × 71.4 cm (image)",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.84.31.137a-c)",
+    "url": "https://www.wikidata.org/wiki/Q62004097"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Fujiwara_no_Yasumasa_Playing_the_Flute_by_Moonlight_LACMA_M.84.31.137a-c.jpg/1280px-Fujiwara_no_Yasumasa_Playing_the_Flute_by_Moonlight_LACMA_M.84.31.137a-c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 634,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Fujiwara no Yasumasa Playing the Flute by Moonlight LACMA M.84.31.137a-c.jpg)"
+  },
+  "archive": {
+    "wd": "Q62004097"
+  },
+  "phase": {
+    "label": "Security and acclaim, the 1880s",
+    "source": {
+      "label": "Wikipedia: “it was not until 1882 that he was secure”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "musha-e",
+      "source": {
+        "label": "Wikidata (museum record): genre musha-e",
+        "url": "https://www.wikidata.org/wiki/Q62004097"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Nationalism grew considerably, and the epic history of Japanese warfare was brought to a new light. Artist Yoshitoshi Tsukioka produced several musha-e depicting generals and heroes of Japan.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Musha-e",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Musha-e",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q62004097"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: “an ukiyo-e, based on an original drawing”",
+        "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1883, Yoshitoshi published \"Fujiwara no Yasumasa Gekka Roteki zu\" (Fujiwara no Yasumasa Playing the Flute) an ukiyo-e, based on an original drawing which was exhibited at the previous year's exhibition of Japanese paintings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This work is regarded as one of Yoshitoshi's best.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In November 1890 a reporter for the newspaper Yomiuri Shimbun wrote about the specializations of artists of the Utagawa school: \"Yoshitoshi was the specialist for warrior prints, Kunichika the woodblock artist known for portraits of actors, and Chikanobu for court ladies.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Toyohara Kunichika",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Toyohara_Kunichika",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Fujiwara no Yasumasa’s windblown robes contrast sharply with the strong, fixed pose of the robber Hakamadare Yasusuke in this woodblock print.",
+        "lead": "On another impression of the triptych:",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Fujiwara no Yasumasa Playing His Flute in the Moonlight",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/102619",
+          "readAt": "https://api.artic.edu/api/v1/artworks/102619?fields=id,title,description",
+          "accessed": "2026-11-16",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to legend, Yasumasa, a renowned poet and flutist who lived during the Heian period (740–1185), so charmed the would-be thief with his music and confident bearing that the outlaw meekly followed him home.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Fujiwara no Yasumasa Playing His Flute in the Moonlight",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/102619",
+          "readAt": "https://api.artic.edu/api/v1/artworks/102619?fields=id,title,description",
+          "accessed": "2026-11-16",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1880, he met another woman, a former geisha with two children, Sakamaki Taiko. They were married in 1884, and while he continued to philander, her gentle and patient temperament seems to have helped stabilize his behavior.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "yoshitoshi-priest-raigo",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "The Wicked Thoughts of the Priest Raigo of Miidera Transform Him into a Rat, from the series New Forms of Thirty-six Ghosts",
+  "date": "1891",
+  "year": 1891,
+  "medium": "Color woodblock print",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.84.31.124)",
+    "url": "https://www.wikidata.org/wiki/Q62584484"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Wicked_Thoughts_of_the_Priest_Raigo_of_Miidera_Transform_Him_into_a_Rat_LACMA_M.84.31.124.jpg/1280px-The_Wicked_Thoughts_of_the_Priest_Raigo_of_Miidera_Transform_Him_into_a_Rat_LACMA_M.84.31.124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1760,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Wicked Thoughts of the Priest Raigo of Miidera Transform Him into a Rat LACMA M.84.31.124.jpg)"
+  },
+  "archive": {
+    "wd": "Q62584484"
+  },
+  "phase": {
+    "label": "Last years: New Forms of Thirty-six Ghosts, 1889–92",
+    "source": {
+      "label": "Wikipedia: “Later years: the eclipse of ukiyo-e”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "yurei-zu",
+      "source": {
+        "label": "Wikipedia (Yūrei-zu): Yoshitoshi's final print series, New Forms of 36 Ghosts",
+        "url": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Another major producer of yūrei-zu was Tsukioka Yoshitoshi who reputedly had personal encounters with ghosts in 1865 and 1880.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Yūrei-zu",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q62584484"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikidata (museum record): genre ukiyo-e",
+        "url": "https://www.wikidata.org/wiki/Q62584484"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His final print series, New Forms of 36 Ghosts (Shinkei sanjūrokuten), was \"so freakishly popular\", according to Sarah Fensom, \"that the blocks from which it was printed wore out.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Yūrei-zu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His last years were among his most productive, with his great series One Hundred Aspects of the Moon (1885–1892), and New Forms of Thirty-Six Ghosts (1889–1892), as well as some masterful triptychs of kabuki theatre actors and scenes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Kuniyoshi's pupil, Yoshitoshi, has only just died, the acknowledged head of Ukioyeshi.",
+        "lead": "Fenollosa, writing in 1896:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "The Masters of Ukioye",
+          "publisher": "W. H. Ketcham, New York (Internet Archive scan)",
+          "year": "1896",
+          "url": "https://archive.org/details/mastersukioyeac00ketcgoog",
+          "readAt": "https://archive.org/stream/mastersukioyeac00ketcgoog/mastersukioyeac00ketcgoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "But the leader of it, Yoshitoshi, a pupil of Kuniyoshi, died in 1892. He kept the old traditions for a long while ; but with that marvellous versatility which seems the strongest characteristic of the whole nation, seems to have abandoned them without a struggle.",
+        "source": {
+          "author": "Edward F. Strange",
+          "title": "The Colour-Prints of Japan",
+          "publisher": "Siegle, Hill & Co. (Internet Archive scan)",
+          "year": "1904",
+          "url": "https://archive.org/details/colourprintsofja00strauoft",
+          "readAt": "https://archive.org/stream/colourprintsofja00strauoft/colourprintsofja00strauoft_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "60–62"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "… the grudges of Raigō became a giant rat and ate away at the sacred books in Enryaku-ji.",
+        "lead": "The legend:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tesso",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tesso",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In his last years, his mental problems started to recur. In early 1891 he invited friends to a gathering of artists that did not actually exist, but rather turned out to be a delusion.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He died three weeks later in a rented room, on June 9, 1892, from a cerebral hemorrhage. He was 53 years old.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

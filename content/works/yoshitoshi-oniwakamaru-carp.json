@@ -1,0 +1,152 @@
+{
+  "id": "yoshitoshi-oniwakamaru-carp",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "Saitō Oniwakamaru on a Carp, from the series Notes by Yoshitoshi (Ikkai zuihitsu)",
+  "date": "April 1873",
+  "year": 1873,
+  "medium": "Color woodblock print",
+  "dimensions": "35.5 × 22.8 cm (image)",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.84.31.432)",
+    "url": "https://www.wikidata.org/wiki/Q61851896"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Saito_Oniwakamaru_on_a_Carp_LACMA_M.84.31.432.jpg/1280px-Saito_Oniwakamaru_on_a_Carp_LACMA_M.84.31.432.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1745,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Saito Oniwakamaru on a Carp LACMA M.84.31.432.jpg)"
+  },
+  "archive": {
+    "wd": "Q61851896"
+  },
+  "phase": {
+    "label": "Breakdown and “great resurrection”, 1871–73",
+    "source": {
+      "label": "Wikipedia: “The middle years: hard times and resurrection”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "musha-e",
+      "source": {
+        "label": "Wikipedia: Benkei, the warrior-monk, was nicknamed Oniwakamaru in his youth",
+        "url": "https://en.wikipedia.org/wiki/Benkei"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q61851896"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The art of colour-printing in Japan reached its lowest point between 1870 and 1880. The old colours had by then been entirely abandoned for cheaper importations, and these did not lend themselves easily to the old processes of printing.",
+          "source": {
+            "author": "Edward F. Strange",
+            "title": "The Colour-Prints of Japan",
+            "publisher": "Siegle, Hill & Co. (Internet Archive scan)",
+            "year": "1904",
+            "url": "https://archive.org/details/colourprintsofja00strauoft",
+            "readAt": "https://archive.org/stream/colourprintsofja00strauoft/colourprintsofja00strauoft_djvu.txt",
+            "accessed": "2026-11-16",
+            "tier": 2,
+            "license": "Public domain",
+            "page": "60–62"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikidata (museum record): genre ukiyo-e",
+        "url": "https://www.wikidata.org/wiki/Q61851896"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the following year his fortunes turned, when his mood improved, and he started to produce more prints. Prior to 1873, he had signed most of his prints as \"Ikkaisai Yoshitoshi\". However, as a form of self-affirmation, he at this time changed his artist name to \"Taiso\" (meaning \"great resurrection\").",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Cheaper and more consistent synthetic aniline dyes arrived from the West in 1864. The colours were harsher and brighter than traditional pigments. The Meiji government promoted their use as part of broader policies of Westernization.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ukiyo-e",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ukiyo-e",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Yoshitoshi, another pupil of Kuniyoshi, has worked up to the seventies, and displays the lowest depth to which the old manner fell, as well as the beginning of that ghost of it now produced.",
+        "lead": "Edward F. Strange, writing in 1897:",
+        "source": {
+          "author": "Edward F. Strange",
+          "title": "Japanese Illustration",
+          "publisher": "George Bell & Sons (Internet Archive scan)",
+          "year": "1897",
+          "url": "https://archive.org/details/japaneseillustr00stragoog",
+          "readAt": "https://archive.org/stream/japaneseillustr00stragoog/japaneseillustr00stragoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "101"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "By 1871, Yoshitoshi became severely depressed, and his personal life became one of great turmoil, which was to continue sporadically until his death. He lived in appalling conditions with his devoted mistress, Okoto, who sold off her clothes and possessions to support him. At one point they were reduced to burning the floor-boards from the house for warmth.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In his youth, Benkei was purportedly nicknamed Oniwakamaru (鬼若丸)—\"demon/ogre child\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Benkei",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Benkei",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

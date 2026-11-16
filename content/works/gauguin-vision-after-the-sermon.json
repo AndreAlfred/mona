@@ -1,0 +1,179 @@
+{
+  "id": "gauguin-vision-after-the-sermon",
+  "artist": "paul-gauguin",
+  "title": "Vision After the Sermon",
+  "date": "1888",
+  "year": 1888,
+  "medium": "oil paint on canvas",
+  "dimensions": "72.2 × 91 cm",
+  "museum": {
+    "name": "National Galleries Scotland (NG 1643)",
+    "url": "https://www.wikidata.org/wiki/Q1764395"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1280px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/2560px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 958,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (La vision après le sermon (Paul Gauguin).jpg)"
+  },
+  "archive": {
+    "wd": "Q1764395"
+  },
+  "phase": {
+    "label": "Pont-Aven, Brittany, 1888",
+    "source": {
+      "label": "Wikipedia: “It was painted in Pont-Aven, Brittany, France.”",
+      "url": "https://en.wikipedia.org/wiki/Vision_after_the_Sermon"
+    }
+  },
+  "tags": [
+    {
+      "id": "synthetism",
+      "source": {
+        "label": "Wikipedia: with this picture he “became recognized as the leader of a new style called Synthetism”",
+        "url": "https://en.wikipedia.org/wiki/Vision_after_the_Sermon"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "How do you see this tree? Is it really green? Use green, then, the most beautiful green on your palette. And that shadow, rather blue? Don't be afraid to paint it as blue as possible.",
+          "lead": "Gauguin's lesson to the young Paul Sérusier at Pont-Aven that autumn:",
+          "source": {
+            "author": "Paul Gauguin",
+            "title": "Advice to Paul Sérusier at Pont-Aven, 1888, as recalled by Maurice Denis, “L'influence de Paul Gauguin” (1903), quoted on Wikiquote",
+            "publisher": "Wikiquote",
+            "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+            "accessed": "2026-11-16",
+            "tier": 1,
+            "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+            "year": "1888"
+          }
+        }
+      ]
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Wikipedia: inspired by the Japanese woodblock prints of Hiroshige and Hokusai that he owned",
+        "url": "https://en.wikipedia.org/wiki/Vision_after_the_Sermon"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Vision after the Sermon, oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/Vision_after_the_Sermon"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In my figures … I have achieved a great simplicity, which is both rustic and superstitious … In this picture the landscape and the struggle … exist only in the imagination of the people whom the sermon has moved to prayer.",
+        "lead": "Describing the picture to Vincent van Gogh:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Vincent van Gogh, 1888, in The Writings of a Savage, ed. Daniel Guérin, trans. Eleanor Levieux (1996), p. 24, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1888"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Following Bernard's example but developing it further, Gauguin painted Vision After the Sermon, which marked his interest in interpreting religious subject matter in a highly personal way. He became recognized as the leader of a new style called Synthetism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vision after the Sermon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Vision_after_the_Sermon",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Far, very far away on a mysterious little hill-top, whose soil is of shining vermilion, is the biblical struggle of Jacob and the Angel.",
+        "lead": "The Symbolist critic Albert Aurier:",
+        "source": {
+          "author": "G.-Albert Aurier",
+          "title": "Article on Gauguin in the Mercure de France, quoted in The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (1922)",
+          "publisher": "Internet Archive scan",
+          "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+          "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Finding inspiration in Japanese woodblock prints from Hiroshige and Hokusai, which he owned, Gauguin developed the idea of non-naturalistic landscapes. He applies large areas of flat color to the composition, and the red ground departs from the conventional representation of earth, field, or grass.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vision after the Sermon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Vision_after_the_Sermon",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "What I dislike is that he copied these elements from the Japanese, the Byzantine painters and others. I criticize him for not applying his synthesis to our modern philosophy which is absolutely social, anti-authoritarian",
+        "lead": "His old mentor Camille Pissarro was not persuaded:",
+        "source": {
+          "author": "Camille Pissarro",
+          "title": "Letter of 20 April 1891, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 3,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1891"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I love Brittany; I find wildness and primitiveness there. When my wooden shoes ring on this granite, I hear the muffled, dull, and powerful tone which I try to achieve in painting.",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to a friend, in The Writings of a Savage, ed. Daniel Guérin, trans. Eleanor Levieux (1996), p. 109, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the early part of his career as a painter, Gauguin had painted primarily landscapes en plein air in the Impressionist manner. By 1888, he had become dissatisfied with Impressionism, which did not satisfy his enthusiasm for archaic and primitive forms or his interest in the mystical.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vision after the Sermon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Vision_after_the_Sermon",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

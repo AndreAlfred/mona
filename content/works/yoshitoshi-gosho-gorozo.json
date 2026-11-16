@@ -1,0 +1,158 @@
+{
+  "id": "yoshitoshi-gosho-gorozo",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "Gosho Gorozō Battling a Shadow, from the series Twenty-Eight Famous Murders with Verse",
+  "date": "December 1866",
+  "year": 1866,
+  "medium": "Color woodblock print",
+  "dimensions": "36.2 × 24 cm",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.84.31.220)",
+    "url": "https://www.wikidata.org/wiki/Q62007481"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gosho_Gorozo_Battling_a_Shadow_LACMA_M.84.31.220.jpg/1280px-Gosho_Gorozo_Battling_a_Shadow_LACMA_M.84.31.220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1828,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Gosho Gorozo Battling a Shadow LACMA M.84.31.220.jpg)"
+  },
+  "archive": {
+    "wd": "Q62007481"
+  },
+  "phase": {
+    "label": "The “bloody prints”, 1866–68",
+    "source": {
+      "label": "Wikipedia: “The ‘Bloody Prints’: capturing the public imagination”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "muzan-e",
+      "source": {
+        "label": "Wikipedia: Twenty-Eight Famous Murders is “a masterpiece and defining piece of the so-called ‘cruel pictures’ (muzan-e)”",
+        "url": "https://en.wikipedia.org/wiki/Twenty-Eight_Famous_Murders_with_Verse"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Muzan translates from Japanese as cruelty or atrocity, and the works were said to spread a general panic amongst the populace at the time of publishing, with the extreme violence depicted in the paintings taken as a sign of social and moral decline.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Muzan-e",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Muzan-e",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q62007481"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikidata (museum record): genre ukiyo-e",
+        "url": "https://www.wikidata.org/wiki/Q62007481"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Between 1866 and 1868 Yoshitoshi created disturbing images, notably in the series Eimei nijūhasshūku (\"Twenty-eight famous murders with verse\"). These prints show killings in very graphic detail, such as decapitations of women with bloody handprints on their robes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Twenty-Eight Famous Murders with Verse … is a series of ukiyo-e woodblock prints by Tsukioka Yoshitoshi and Utagawa Yoshiiku, with each artist creating 14 prints. It was published from 1866 to 1867",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Twenty-Eight Famous Murders with Verse",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Twenty-Eight_Famous_Murders_with_Verse",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Many of Yoshitoshi's prints of the 1860s are depictions of graphic violence and death. These themes were partly inspired by the death of Yoshitoshi's father in 1863 and by the lawlessness and violence of the Japan surrounding him",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Most of the works are based on acts of murder or torture based on historical events which were later depicted in kabuki and noh theatre.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Twenty-Eight Famous Murders with Verse",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Twenty-Eight_Famous_Murders_with_Verse",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The term \"eimei nijūhasshūku\" is based on the Buddhist \"Twenty-Eight Mansions\", and the word \"shūku\" (衆句, \"a collection of poems\") is a pun on \"shuku\" (衆苦, meaning \"mass suffering\".)",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Twenty-Eight Famous Murders with Verse",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Twenty-Eight_Famous_Murders_with_Verse",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Besides the demands of woodblock print publishers and consumers, Yoshitoshi was also trying to exorcise the demons of horror that he and his fellow countrymen were experiencing.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "gauguin-oviri",
+  "artist": "paul-gauguin",
+  "title": "Oviri",
+  "date": "1894",
+  "year": 1894,
+  "medium": "terracotta",
+  "dimensions": "75 × 19 cm",
+  "museum": {
+    "name": "Musée d'Orsay (OAO 1114)",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/19409"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Paul_Gauguin%2C_1894%2C_Oviri_%28Sauvage%29%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/1280px-Paul_Gauguin%2C_1894%2C_Oviri_%28Sauvage%29%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2013,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Paul Gauguin, 1894, Oviri (Sauvage), partially glazed stoneware, 75 x 19 x 27 cm, Musée d'Orsay, Paris.jpg)"
+  },
+  "archive": {
+    "wd": "Q3358957"
+  },
+  "phase": {
+    "label": "Paris, winter 1894, between the two Tahitian stays",
+    "source": {
+      "label": "Wikipedia: “He completed Oviri in the winter of 1894, during his return from Tahiti”",
+      "url": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)"
+    }
+  },
+  "tags": [
+    {
+      "id": "ceramics",
+      "source": {
+        "label": "Wikipedia: Oviri, partially glazed stoneware",
+        "url": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Gauguin was foremost a painter; he came to ceramics around 1886, when he was taught by the French sculptor and ceramist Ernest Chaplet.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Oviri (Gauguin)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "And certainly, to say nothing of the sculpture, the Chaplet ceramics are better than the Delaherche.",
+          "lead": "Defending the price of “the ceramic statue” to Monfreid, 1901:",
+          "source": {
+            "author": "Paul Gauguin",
+            "title": "Letter to Georges-Daniel de Monfreid, Tahiti, January 1901",
+            "publisher": "The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (Dodd, Mead, 1922), Internet Archive scan",
+            "year": "1901",
+            "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+            "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+            "accessed": "2026-11-16",
+            "tier": 1,
+            "page": "132"
+          }
+        }
+      ]
+    },
+    {
+      "id": "primitivism",
+      "source": {
+        "label": "Wikipedia: Sweetman on “the element of the primitive” in Oviri and the woodcuts",
+        "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Oviri (Tahitian for savage or wild) is an 1894 ceramic sculpture by the French artist Paul Gauguin. In Tahitian mythology, Oviri was the goddess of mourning and is shown with long pale hair and wild eyes, smothering a wolf with her feet while clutching a cub in her arms.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Oviri (Gauguin)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I believe that my large statue in ceramic, the Tueuse (\"The Murderess\"), is an exceptional piece such as no ceramist has made until now",
+        "lead": "To the dealer Ambroise Vollard, 1897:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Ambroise Vollard, 1897, quoted in “Oviri (Gauguin)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The association between the woman and a wolf stems from a remark Edgar Degas made defending Gauguin's work at the poorly received 1893 Durand-Ruel exhibition, when Degas quoted La Fontaine's fable The Dog and the Wolf, which is usually taken as implying that freedom should not be exchanged for comfort or financial gain: \"You see, Gauguin is the wolf.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Oviri (Gauguin)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Oviri was exhibited at the 1906 Salon d'Automne (no. 57) where it influenced Pablo Picasso, who based one of the figures in Les Demoiselles d'Avignon on it.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Oviri (Gauguin)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The large ceramic figure that did not find a purchaser … [I should like] to have it here for the decoration of my garden and to put upon my tomb in Tahiti.",
+        "lead": "Writing to Monfreid from Tahiti, 1900:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Letter to Georges-Daniel de Monfreid, Tahiti, October 1900",
+          "publisher": "The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (Dodd, Mead, 1922), Internet Archive scan",
+          "year": "1900",
+          "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+          "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "page": "131"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1973, a bronze cast of his Oviri figure was placed on his grave, as he had indicated was his wish.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Paul Gauguin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

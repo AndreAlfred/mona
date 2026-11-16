@@ -1,0 +1,146 @@
+{
+  "id": "yoshitoshi-lonely-house-adachi-moor",
+  "artist": "tsukioka-yoshitoshi",
+  "title": "The Lonely House on Adachi Moor in Northern Japan",
+  "date": "September 1885",
+  "year": 1885,
+  "medium": "Diptych; color woodblock prints",
+  "dimensions": "71.6 × 24.1 cm (image)",
+  "museum": {
+    "name": "Los Angeles County Museum of Art (M.84.31.138a-b)",
+    "url": "https://www.wikidata.org/wiki/Q62004550"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Lonely_House_on_Adachi_Moor_in_Northern_Japan_LACMA_M.84.31.138a-b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 3505,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Lonely House on Adachi Moor in Northern Japan LACMA M.84.31.138a-b.jpg)"
+  },
+  "archive": {
+    "wd": "Q62004550"
+  },
+  "phase": {
+    "label": "Security and acclaim, the 1880s",
+    "source": {
+      "label": "Wikipedia: “The Lonely House on Adachi Moor … appeared in 1885”",
+      "url": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi"
+    }
+  },
+  "tags": [
+    {
+      "id": "muzan-e",
+      "source": {
+        "label": "Wikidata (museum record): genre muzan-e",
+        "url": "https://www.wikidata.org/wiki/Q62004550"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "This tradition continued through the centuries, providing a foundation for yūrei-zu, as well as for violent chimidoro-e (血みどろ絵, \"bloody pictures\") and muzan-e (無残絵, \"cruel pictures\"), which were to become popular in Edo Japan.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Yūrei-zu",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikidata (museum record): genre nishiki-e",
+        "url": "https://www.wikidata.org/wiki/Q62004550"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikidata (museum record): genre ukiyo-e",
+        "url": "https://www.wikidata.org/wiki/Q62004550"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Yoshitoshi's notorious, yet compelling, \"Oshu adachigahara hitotsuya no zu\" (The Lonely House on Adachi Moor) appeared in 1885. This work depicts the legend of kijo in Kurozuka written in \"Shūi Wakashū\", which was compiled in the 11th century, and Kurozuka is also performed in noh, kabuki and jōruri.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This color print was banned by the Meiji government for \"disturbing public morals.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kurozuka",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kurozuka",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "An 1885 issue of the art and fashion magazine \"Tokyo Hayari Hosomiki\" ranked Yoshitoshi as the number-one ukiyo-e artist, ahead of his Meiji contemporaries such as Utagawa Yoshiiku and Toyohara Kunichika. Thus he had achieved great popularity and critical acclaim.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "However, Yūkei opened the shutter out of curiosity, and when he peeked inside, there was a mountain of human bones piled up inside. Dumbfounded by this sight, Yūkei recalled a rumor of an onibaba at Adachigahara who would kill travelers and devour their blood and meat",
+        "lead": "The legend behind the print:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kurozuka",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kurozuka",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "By this point, the woodblock industry was in severe straits. All the great woodblock artists of the early part of the century—Hiroshige, Kunisada, and Kuniyoshi—had died decades earlier, and the woodblock print as an art form was dying in the confusion of modernizing Japan.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tsukioka Yoshitoshi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tsukioka_Yoshitoshi",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}

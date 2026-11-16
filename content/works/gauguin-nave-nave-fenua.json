@@ -1,0 +1,179 @@
+{
+  "id": "gauguin-nave-nave-fenua",
+  "artist": "paul-gauguin",
+  "title": "Nave Nave Fenua (Fragrant Isle)",
+  "date": "1893–94",
+  "year": 1893,
+  "medium": "color woodcut",
+  "dimensions": "Sheet: 38.5 x 22.8 cm (15 3/16 x 9 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1933.444"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1933.444/1933.444_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1933.444/1933.444_print.jpg",
+    "width": 525,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of The Print Club of Cleveland"
+  },
+  "archive": {
+    "cma": 114196
+  },
+  "phase": {
+    "label": "Paris, the Noa Noa woodcuts, 1893–94",
+    "source": {
+      "label": "Wikipedia: “The start of 1894 found him preparing woodcuts using an experimental technique for his proposed travelogue Noa Noa”",
+      "url": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art record: color woodcut",
+        "url": "https://clevelandart.org/art/1933.444"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Instead of incising his blocks with the intent of making a detailed illustration, Gauguin initially chiseled his blocks in a manner similar to wood sculpture, followed by finer tools to create detail and tonality within his bold contours.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Paul Gauguin",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+            "accessed": "2026-11-16",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "I am sure that in time my wood-engravings, which are so different from all the engraving being done now, will have a certain value.",
+          "lead": "Writing to Monfreid about his woodcuts, 1901:",
+          "source": {
+            "author": "Paul Gauguin",
+            "title": "Letter to Georges-Daniel de Monfreid, Tahiti, August 1901",
+            "publisher": "The Letters of Paul Gauguin to Georges Daniel de Monfreid, trans. Ruth Pielkovo (Dodd, Mead, 1922), Internet Archive scan",
+            "year": "1901",
+            "url": "https://archive.org/details/letterspaulgaug00gauggoog",
+            "readAt": "https://archive.org/stream/letterspaulgaug00gauggoog/letterspaulgaug00gauggoog_djvu.txt",
+            "accessed": "2026-11-16",
+            "tier": 1,
+            "page": "142"
+          }
+        }
+      ]
+    },
+    {
+      "id": "primitivism",
+      "source": {
+        "label": "Cleveland Museum of Art: he went to Tahiti “seeking a more authentic style of art making than the conservatism he rejected in Western culture”",
+        "url": "https://clevelandart.org/art/1933.444"
+      }
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Cleveland Museum of Art record: color woodcut",
+        "url": "https://clevelandart.org/art/1933.444"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "After returning to Paris in 1893, he began working on Noa Noa, an illustrated book that explained and illustrated his experiences abroad. Although the project was never completed, this print is one of its illustrations. Gauguin depicted a lush landscape by chiseling roughly into a woodblock, a technique meant to suggest relief sculpture he viewed in Tahiti.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Nave Nave Fenua (Fragrant Isle)",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1933.444",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/114196",
+          "accessed": "2026-11-16",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He carved each image roughly into a woodblock and printed them himself, giving the prints a rough quality that he hoped would enhance their subject matter.",
+        "lead": "The museum on the Noa Noa suite as a whole:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Noa Noa: The Devil Speaks (Mahna No Varua Ino)",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/2008.149.a",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/166200",
+          "accessed": "2026-11-16",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His first masterpieces of printing were from the Noa Noa Suite of 1893–94 where he was one of a number of artists reinventing the technique of the woodcut, bringing it into the modern era.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Paul Gauguin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Gauguin's emerging preference for the woodcut was not only a natural extension of his wood reliefs and sculpture, but may have also been provoked by its historical significance to medieval artisans and the Japanese.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Paul Gauguin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A mingled perfume, half animal, half vegetable emanated from them; the perfume of their blood and of the gardenia taitensis, which they wore in their hair",
+        "lead": "Noa noa means “fragrant”; Gauguin first used it of Tahitian women:",
+        "source": {
+          "author": "Paul Gauguin",
+          "title": "Noa Noa, quoted in “Oviri (Gauguin)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)",
+          "accessed": "2026-11-16",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikipedia transcription)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On his return to Paris in 1893, Gauguin was apprehensive about exhibiting his Tahitian works. Noa Noa was to provide the context necessary for the public to comprehend the new motifs presented at his Durand-Ruel exhibition.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Oviri (Gauguin)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Oviri_(Gauguin)",
+          "accessed": "2026-11-16",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-16",
+    "by": "claude-routine"
+  }
+}
