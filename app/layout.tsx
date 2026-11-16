@@ -4,6 +4,7 @@ import "./globals.css";
 import { Masthead } from "@/components/Masthead";
 import { KeepHistory } from "@/components/KeepHistory";
 import { SyncRunner } from "@/components/SyncRunner";
+import { PAPER, THEME_SCRIPT } from "@/lib/theme";
 
 const display = Instrument_Serif({
   variable: "--font-display",
@@ -27,7 +28,10 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#ffffff",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: PAPER.light },
+    { media: "(prefers-color-scheme: dark)", color: PAPER.dark },
+  ],
   width: "device-width",
   initialScale: 1,
   viewportFit: "cover",
@@ -35,7 +39,11 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${display.variable} ${text.variable}`}>
+    // The script sets data-theme before React starts, hence suppressHydrationWarning.
+    <html lang="en" className={`${display.variable} ${text.variable}`} suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
+      </head>
       <body>
         <Masthead />
         <KeepHistory />

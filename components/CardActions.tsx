@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import { shareWork } from "@/lib/browser";
 import type { CardModel } from "@/lib/cards";
 import { toggleCollected, useDevice } from "@/lib/store";
 import styles from "./CardActions.module.css";
@@ -13,18 +14,8 @@ export function CardActions({ card }: { card: CardModel }) {
   const [shared, setShared] = useState<string | null>(null);
 
   async function share() {
-    const url = `${location.origin}/${card.key}`;
-    const text = `${card.title} — ${card.artist.name}`;
-    try {
-      if (navigator.share) {
-        await navigator.share({ title: text, text, url });
-        return;
-      }
-      await navigator.clipboard.writeText(url);
-      setShared("Link copied");
-    } catch {
-      /* dismissed */
-    }
+    if ((await shareWork(entryFor(card))) !== "copied") return;
+    setShared("Link copied");
     setTimeout(() => setShared(null), 1800);
   }
 

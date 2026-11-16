@@ -20,6 +20,25 @@ export function detectPlatform(): Platform {
   };
 }
 
+/**
+ * Share a work through the phone's share sheet, or copy its link where there
+ * isn't one. Says which happened; null if it was dismissed or refused.
+ */
+export async function shareWork(w: { key: string; title: string; artist: string }): Promise<"shared" | "copied" | null> {
+  const url = `${location.origin}/${w.key}`;
+  const text = `${w.title} — ${w.artist}`;
+  try {
+    if (navigator.share) {
+      await navigator.share({ title: text, text, url });
+      return "shared";
+    }
+    await navigator.clipboard.writeText(url);
+    return "copied";
+  } catch {
+    return null;
+  }
+}
+
 /** An Android intent link that hands this page to the phone's default browser. */
 export function androidBrowserLink() {
   const { host, pathname, search, href, protocol } = window.location;

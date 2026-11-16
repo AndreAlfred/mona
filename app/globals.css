@@ -7,6 +7,10 @@
   --accent: #8c2f1b; /* oxblood, used sparingly: tier marks, links on hover */
   --ai: #3f5a6b; /* slate, only for Mona's (AI) notes */
   --wash: #f6f3ec;
+  /* The shadow a picture casts on the wall. */
+  --shadow-edge: rgba(22, 20, 15, 0.04);
+  --shadow-deep: rgba(22, 20, 15, 0.45);
+  color-scheme: light;
 
   --display: var(--font-display), "Iowan Old Style", "Palatino Linotype", serif;
   --text: var(--font-text), "Iowan Old Style", Georgia, serif;
@@ -14,6 +18,23 @@
   --measure: 34rem;
   --gutter: clamp(1.1rem, 5vw, 2.5rem);
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* The gallery after closing: warm near-black walls, parchment type, and the
+   oxblood lifted to terracotta so it still reads. The pictures themselves are
+   left exactly as they are. Switched by lib/theme.ts. */
+:root[data-theme="dark"] {
+  --paper: #15130f;
+  --ink: #ece7dc;
+  --ink-2: #b9b2a3;
+  --ink-3: #8b8577;
+  --rule: #2f2b24;
+  --accent: #e08a6c;
+  --ai: #94b4c7;
+  --wash: #1e1b16;
+  --shadow-edge: rgba(0, 0, 0, 0.5);
+  --shadow-deep: rgba(0, 0, 0, 0.9);
+  color-scheme: dark;
 }
 
 * {

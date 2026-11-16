@@ -1,7 +1,9 @@
 "use client";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { shareWork } from "@/lib/browser";
 import { exportState, importState, useDevice, type Entry } from "@/lib/store";
+import { normName } from "@/lib/util";
 import { accountsEnabled, useAccount } from "@/lib/sync";
 import styles from "./Pages.module.css";
 
@@ -24,12 +26,47 @@ function KeptLine() {
   );
 }
 
+/** A shelf this long gets a field to find things in. */
+const FIND_FROM = 12;
+
+/**
+ * Narrow a shelf to the entries that mention every word typed, in the title,
+ * artist or date. Accents and capitals don't matter: "durer" finds Dürer.
+ */
+function useFind(items: Entry[]) {
+  const [query, setQuery] = useState("");
+  const words = normName(query).split(" ").filter(Boolean);
+  const found = words.length
+    ? items.filter((e) => {
+        const text = normName(`${e.title} ${e.artist} ${e.date ?? ""}`);
+        return words.every((w) => text.includes(w));
+      })
+    : items;
+  const field = items.length >= FIND_FROM && (
+    <label className={styles.find}>
+      <span className="visually-hidden">Find a work or artist</span>
+      <input
+        type="search"
+        placeholder="Find a work or artist"
+        enterKeyHint="search"
+        autoCapitalize="none"
+        autoCorrect="off"
+        spellCheck={false}
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+      />
+    </label>
+  );
+  const none = words.length > 0 && !found.length && <p className={styles.none}>Nothing here matches “{query.trim()}”.</p>;
+  return { found, finding: words.length > 0, field, none };
+}
+
 function Tile({ e, share }: { e: Entry; share?: boolean }) {
+  const [copied, setCopied] = useState(false);
   async function doShare() {
-    const url = `${location.origin}/${e.key}`;
-    const text = `${e.title} — ${e.artist}`;
-    if (navigator.share) await navigator.share({ title: text, text, url }).catch(() => {});
-    else await navigator.clipboard.writeText(url);
+    if ((await shareWork(e)) !== "copied") return;
+    setCopied(true);
+    setTimeout(() => setCopied(false), 1800);
   }
   return (
     <li>
@@ -51,7 +88,7 @@ function Tile({ e, share }: { e: Entry; share?: boolean }) {
       </Link>
       {share && (
         <button className={`${styles.share} smallcaps`} onClick={doShare}>
-          Share
+          {copied ? "Link copied" : "Share"}
         </button>
       )}
     </li>
@@ -67,19 +104,28 @@ function useMounted() {
 export function CollectionView() {
   const items = useDevice((s) => s.collection);
   const mounted = useMounted();
+  const { found, finding, field, none } = useFind(items);
   return (
     <div className={styles.page}>
       <header className={styles.intro}>
         <p className={`${styles.kicker} smallcaps`}>Yours</p>
         <h1 className={styles.h1}>Collection</h1>
         <p className={styles.sub}>
-          {!mounted ? "" : items.length ? `${items.length} ${items.length === 1 ? "work" : "works"} collected.` : "Nothing collected yet. Tap ◇ Collect on any work."}
+          {!mounted
+            ? ""
+            : finding
+              ? `${found.length} of ${items.length} works collected.`
+              : items.length
+                ? `${items.length} ${items.length === 1 ? "work" : "works"} collected.`
+                : "Nothing collected yet. Tap ◇ Collect on any work."}
         </p>
         <KeptLine />
+        {mounted && field}
       </header>
+      {mounted && none}
       {mounted && (
         <ul className={styles.grid}>
-          {items.map((e) => (
+          {found.map((e) => (
             <Tile key={e.key} e={e} share />
           ))}
         </ul>
@@ -92,8 +138,9 @@ export function CollectionView() {
 export function HistoryView() {
   const items = useDevice((s) => s.history);
   const mounted = useMounted();
+  const { found, finding, field, none } = useFind(items);
   const days = new Map<string, Entry[]>();
-  for (const e of items) {
+  for (const e of found) {
     const d = new Date(e.at).toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
     days.set(d, [...(days.get(d) ?? []), e]);
   }
@@ -102,9 +149,13 @@ export function HistoryView() {
       <header className={styles.intro}>
         <p className={`${styles.kicker} smallcaps`}>Yours</p>
         <h1 className={styles.h1}>History</h1>
-        <p className={styles.sub}>{mounted ? `${items.length} works seen.` : ""}</p>
+        <p className={styles.sub}>
+          {!mounted ? "" : finding ? `${found.length} of ${items.length} works seen.` : `${items.length} works seen.`}
+        </p>
         <KeptLine />
+        {mounted && field}
       </header>
+      {mounted && none}
       {mounted &&
         [...days].map(([day, list]) => (
           <section key={day}>

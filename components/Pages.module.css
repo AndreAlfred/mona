@@ -80,6 +80,38 @@
   font-size: 0.85rem;
   margin-top: 0.15rem;
 }
+/* The field for finding a work on a long shelf. */
+.find {
+  display: block;
+  max-width: 22rem;
+}
+.find input {
+  font: inherit;
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid var(--ink-3);
+  border-radius: 0;
+  padding: 0.4rem 0;
+  background: transparent;
+  color: var(--ink);
+  appearance: none;
+  -webkit-appearance: none;
+  transition: border-color 160ms;
+}
+.find input::placeholder {
+  color: var(--ink-3);
+  font-style: italic;
+  opacity: 1;
+}
+.find input:focus {
+  outline: none;
+  border-color: var(--ink);
+}
+.none {
+  font-style: italic;
+  color: var(--ink-2);
+  margin: 0 0 2rem;
+}
 .tools {
   display: flex;
   flex-wrap: wrap;

@@ -25,7 +25,7 @@
   opacity: 0;
   filter: saturate(0.25) brightness(1.06);
   transition: opacity 900ms var(--ease-out), filter 1400ms var(--ease-out);
-  box-shadow: 0 1px 0 rgba(22, 20, 15, 0.04), 0 18px 40px -28px rgba(22, 20, 15, 0.45);
+  box-shadow: 0 1px 0 var(--shadow-edge), 0 18px 40px -28px var(--shadow-deep);
 }
 .plate img.loaded {
   opacity: 1;

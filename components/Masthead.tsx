@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { RequestsLink } from "./RequestsLink";
+import { ThemeToggle } from "./ThemeToggle";
 import styles from "./Masthead.module.css";
 
 export function Masthead() {
@@ -12,6 +13,7 @@ export function Masthead() {
         <Link href="/collection">Collection</Link>
         <Link href="/history">History</Link>
         <RequestsLink />
+        <ThemeToggle />
       </nav>
     </header>
   );
