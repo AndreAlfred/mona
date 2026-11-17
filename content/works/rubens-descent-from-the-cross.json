@@ -1,0 +1,134 @@
+{
+  "id": "rubens-descent-from-the-cross",
+  "artist": "peter-paul-rubens",
+  "title": "The Descent from the Cross",
+  "date": "1611",
+  "year": 1611,
+  "medium": "oil paint on panel",
+  "dimensions": "421 × 622 cm",
+  "museum": {
+    "name": "Onze-Lieve-Vrouwekathedraal (315)",
+    "url": "https://topstukken.vlaanderen.be/topstukken/topstuk/d1684ba6-4ba4-4071-877d-dfea97f7d12c"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Peter_Paul_Rubens_-_Descent_from_the_Cross_-_WGA20212.jpg/1280px-Peter_Paul_Rubens_-_Descent_from_the_Cross_-_WGA20212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Peter_Paul_Rubens_-_Descent_from_the_Cross_-_WGA20212.jpg/2560px-Peter_Paul_Rubens_-_Descent_from_the_Cross_-_WGA20212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 703,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Peter Paul Rubens - Descent from the Cross - WGA20212.jpg)"
+  },
+  "archive": {
+    "wd": "Q2667782"
+  },
+  "phase": {
+    "label": "Return to Antwerp, 1609–1614",
+    "source": {
+      "label": "Wikipedia: altarpieces “particularly important in establishing Rubens as Flanders' leading painter shortly after his return”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: “Altarpieces such as … The Descent from the Cross (1611–1614) for the Cathedral of Our Lady”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata (museum record): oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q2667782"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Rubens is “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "One of its feet, livid and scarred with the nails, touches at the foot of the cross the naked shoulder of the Magdalen. It does not bear upon, it lightly brushes it. The contact cannot be perceived ; it is divined rather than seen.",
+        "lead": "On the body of Christ:",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Old Masters of Belgium and Holland (Les Maîtres d'autrefois), trans. Mary C. Robbins",
+          "publisher": "Houghton, Mifflin (1883), via Internet Archive",
+          "year": "1876",
+          "readAt": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Altarpieces such as The Raising of the Cross (1610) and The Descent from the Cross (1611–1614) for the Cathedral of Our Lady in Antwerp were particularly important in establishing Rubens as Flanders' leading painter shortly after his return.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Peter Paul Rubens",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rubens, by a somewhat subtle extension of the Greek name Christophoros … determined to introduce into his picture all the persons who … had borne Christ during the course of his earthly existence.",
+        "lead": "Commissioned by the Guild of Arquebusiers, whose patron was St Christopher:",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 1, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is probable that this fair girl with the dark eyes, firm look, and clean-cut profile is a portrait … one of Isabel Brandt, whom he had married two years before",
+        "lead": "On the Magdalen:",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Old Masters of Belgium and Holland (Les Maîtres d'autrefois), trans. Mary C. Robbins",
+          "publisher": "Houghton, Mifflin (1883), via Internet Archive",
+          "year": "1876",
+          "readAt": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the deans paid three visits to the painter's studio, not only to see the progress the work was making, but also to satisfy themselves of the quality of the panels employed, to make sure that the wood was quite “sound and free from sap.” … According to custom, the Guild presented Isabella Brant with a pair of gloves",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 1, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

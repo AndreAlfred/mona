@@ -1,0 +1,145 @@
+{
+  "id": "utamaro-hideyoshi-five-wives",
+  "artist": "kitagawa-utamaro",
+  "title": "A View of the Pleasures of the Taikō and His Five Wives at Rakutō (Taikō gosai rakutō yūkan no zu)",
+  "date": "1804",
+  "year": 1804,
+  "medium": "washi, pigment",
+  "dimensions": "38.1 × 76.2 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (photograph via Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%96%A4%E4%BA%94%E5%A6%BB%E6%B4%9B%E6%9D%B1%E9%81%8A%E8%A6%B3%E4%B9%8B%E5%9B%B3-A_View_of_the_Pleasures_of_the_Taiko_and_His_Five_Wives_at_Rakut%C5%8D_MET_DP144589.jpg"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E5%A4%AA%E9%96%A4%E4%BA%94%E5%A6%BB%E6%B4%9B%E6%9D%B1%E9%81%8A%E8%A6%B3%E4%B9%8B%E5%9B%B3-A_View_of_the_Pleasures_of_the_Taiko_and_His_Five_Wives_at_Rakut%C5%8D_MET_DP144589.jpg/1280px-%E5%A4%AA%E9%96%A4%E4%BA%94%E5%A6%BB%E6%B4%9B%E6%9D%B1%E9%81%8A%E8%A6%B3%E4%B9%8B%E5%9B%B3-A_View_of_the_Pleasures_of_the_Taiko_and_His_Five_Wives_at_Rakut%C5%8D_MET_DP144589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E5%A4%AA%E9%96%A4%E4%BA%94%E5%A6%BB%E6%B4%9B%E6%9D%B1%E9%81%8A%E8%A6%B3%E4%B9%8B%E5%9B%B3-A_View_of_the_Pleasures_of_the_Taiko_and_His_Five_Wives_at_Rakut%C5%8D_MET_DP144589.jpg/2560px-%E5%A4%AA%E9%96%A4%E4%BA%94%E5%A6%BB%E6%B4%9B%E6%9D%B1%E9%81%8A%E8%A6%B3%E4%B9%8B%E5%9B%B3-A_View_of_the_Pleasures_of_the_Taiko_and_His_Five_Wives_at_Rakut%C5%8D_MET_DP144589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 609,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (太閤五妻洛東遊観之図-A View of the Pleasures of the Taiko and His Five Wives at Rakutō MET DP144589.jpg)"
+  },
+  "archive": {
+    "wd": "Q141807688"
+  },
+  "phase": {
+    "label": "Censorship and arrest, 1804",
+    "source": {
+      "label": "Wikipedia: “Utamaro was imprisoned in 1804”",
+      "url": "https://en.wikipedia.org/wiki/Utamaro"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Wikipedia: “Utamaro prints censored in 1804”",
+        "url": "https://en.wikipedia.org/wiki/Utamaro"
+      }
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "Strange (1913): the print “was interpreted as a libel on the Shogun”",
+        "url": "https://archive.org/stream/japanesecolourpr00stra/japanesecolourpr00stra_djvu.txt"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: prints based on the Ehon Taikōki “in the disparaged ukiyo-e style”",
+        "url": "https://en.wikipedia.org/wiki/Utamaro"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The famous Taiko triptych, hitherto assumed to be the cause of Utamaro’s punishment, is of no great interest, except for historical reasons, but it betrays no enfeeblement",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This last displays the names of each consort while placing them in the typical poses of courtesans at a Yoshiwara party.",
+        "lead": "Of Hideyoshi and his five consorts viewing the cherry blossoms:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Utamaro",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Utamaro",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Ehon Taikōki … published from 1797 to 1802, detailed the life of the 16th-century military ruler, Toyotomi Hideyoshi. The work was widely adapted, such as for kabuki and bunraku theatre. When artists and writers put out prints and books based on the Ehon Taikōki in the disparaged ukiyo-e style, it attracted reprisals from the government.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Utamaro",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Utamaro",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In probably the most famous case of censorship of the Edo period, Utamaro was imprisoned in 1804, after which he was manacled along with Tsukimaro, Toyokuni, Shuntei, Shun'ei, and Jippensha Ikku for fifty days and their publishers subjected to heavy fines.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Utamaro",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Utamaro",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Consequent upon the publication of the well-known triptych representing the ancient Shogun Hideyoshi entertaining his five concubines in the eastern quarter of the capital, the ruling Shogun … took umbrage at the salacious disrespect to his ancestor and the delicately implied allusion to himself",
+        "source": {
+          "author": "Arthur Davison Ficke",
+          "title": "Chats on Japanese Prints",
+          "publisher": "Frederick A. Stokes, via Internet Archive",
+          "year": "1915",
+          "readAt": "https://archive.org/stream/chatsonjapanese00fick/chatsonjapanese00fick_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His productions after this time were not comparable with his earlier work. In the year 1806 he died, and with him died the great days of the Japanese print.",
+        "source": {
+          "author": "Arthur Davison Ficke",
+          "title": "Chats on Japanese Prints",
+          "publisher": "Frederick A. Stokes, via Internet Archive",
+          "year": "1915",
+          "readAt": "https://archive.org/stream/chatsonjapanese00fick/chatsonjapanese00fick_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

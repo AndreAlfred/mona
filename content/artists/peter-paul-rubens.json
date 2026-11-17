@@ -1,0 +1,105 @@
+{
+  "id": "peter-paul-rubens",
+  "name": "Peter Paul Rubens",
+  "born": 1577,
+  "died": 1640,
+  "active": "1598–1640",
+  "nationality": "Flemish",
+  "period": "baroque",
+  "movements": [
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "anthony-van-dyck",
+      "name": "Anthony van Dyck",
+      "source": {
+        "label": "Wikipedia: “His most famous pupil was the young Anthony van Dyck”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    },
+    {
+      "id": "titian",
+      "name": "Titian",
+      "source": {
+        "label": "Wikipedia: “his later, mature style was profoundly influenced by Titian”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    },
+    {
+      "id": "caravaggio",
+      "name": "Caravaggio",
+      "source": {
+        "label": "Wikipedia: “Rubens came in Rome also under the spell of the recent, highly naturalistic paintings by Caravaggio”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    },
+    {
+      "id": "jacob-jordaens",
+      "name": "Jacob Jordaens",
+      "source": {
+        "label": "Fromentin: Jordaens, Rubens's “old companion of the studio”",
+        "url": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q5599",
+  "archive": {
+    "aic": 36487,
+    "cma": [
+      1251
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "I confess myself to be, by a natural instinct, better fitted to execute works of the largest size rather than little curiosities. Every one according to his gifts. My endowments are of such a nature that I have never wanted courage to undertake any design however vast in size or diversified in subject.",
+      "lead": "Writing to an English agent in 1621:",
+      "source": {
+        "author": "Peter Paul Rubens",
+        "title": "Letter to William Trumbull, September 1621, in W. Noël Sainsbury, Original Unpublished Papers Illustrative of the Life of Sir Peter Paul Rubens",
+        "publisher": "Bradbury & Evans (1859), via Internet Archive",
+        "year": "1621",
+        "readAt": "https://archive.org/stream/originalunpublis00sain/originalunpublis00sain_djvu.txt",
+        "tier": 1,
+        "accessed": "2026-11-17"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Rubens is a lyric, and the most lyrical of all painters.",
+      "source": {
+        "author": "Eugène Fromentin",
+        "title": "The Old Masters of Belgium and Holland (Les Maîtres d'autrefois), trans. Mary C. Robbins",
+        "publisher": "Houghton, Mifflin (1883), via Internet Archive",
+        "year": "1876",
+        "readAt": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt",
+        "tier": 3,
+        "accessed": "2026-11-17"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Sir Peter Paul Rubens … was a Flemish artist and diplomat. He is considered the most influential artist of the Flemish Baroque tradition. Rubens's highly charged compositions reference erudite aspects of classical and Christian history. His unique and immensely popular Baroque style emphasised movement, colour, and sensuality",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Peter Paul Rubens",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-17"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

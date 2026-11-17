@@ -1,0 +1,167 @@
+{
+  "id": "utamaro-coquettish-type",
+  "artist": "kitagawa-utamaro",
+  "title": "Ten physiognomic types of women, Coquettish type",
+  "date": "c. 1792–93",
+  "year": 1792,
+  "dimensions": "377 × 244 mm",
+  "museum": {
+    "name": "Tokyo National Museum (A-10569-542)",
+    "url": "https://www.wikidata.org/wiki/Q28797985"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kitagawa_Utamaro_-_Ten_physiognomic_types_of_women%2C_Coquettish_type_-_Google_Art_Project.jpg/1280px-Kitagawa_Utamaro_-_Ten_physiognomic_types_of_women%2C_Coquettish_type_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kitagawa_Utamaro_-_Ten_physiognomic_types_of_women%2C_Coquettish_type_-_Google_Art_Project.jpg/2560px-Kitagawa_Utamaro_-_Ten_physiognomic_types_of_women%2C_Coquettish_type_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1849,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kitagawa Utamaro - Ten physiognomic types of women, Coquettish type - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q28797985"
+  },
+  "phase": {
+    "label": "Rise to fame: bust portraits of the early 1790s",
+    "source": {
+      "label": "Wikipedia: “In 1793 he achieved recognition as an artist”",
+      "url": "https://en.wikipedia.org/wiki/Utamaro"
+    }
+  },
+  "tags": [
+    {
+      "id": "okubi-e",
+      "source": {
+        "label": "Wikipedia: “ōkubi bijin-ga \"large-head\" bust portraits”",
+        "url": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin"
+      }
+    },
+    {
+      "id": "kirazuri",
+      "source": {
+        "label": "Wikipedia: among the earliest of his works to use kirazuri",
+        "url": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "They are amongst the earliest of Utamaro's ōkubi bijin-ga, and amongst the earliest of his works to use kirazuri—the application of mica dust to the backgrounds to create a glittering effect.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Fujin Sōgaku Jittai and Fujo Ninsō Juppin",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bijin-ga",
+      "source": {
+        "label": "Wikipedia: “ōkubi bijin-ga”",
+        "url": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikipedia: “The multicolour nishiki-e prints were published c. 1792–93”",
+        "url": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "These prints are of singular beauty, and among them are things which, in their own kind, the half-length figure, … Utamaro never surpassed",
+        "lead": "On the two physiognomy series:",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The prints are considered some of the best representations of Utamaro's work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Fujin Sōgaku Jittai and Fujo Ninsō Juppin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This has to do with Sōgaku, a pseudoscience by which it was believed an analysis of facial features (\"physignomy\") could reveal personality traits. Texts were published at the time on these analyses.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Fujin Sōgaku Jittai and Fujo Ninsō Juppin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Utamaro's interest in character as expressed in the features is constant throughout his career. His nature was fastidious and critical, and he was inclined to moralize.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In Uwaki no Sō (浮気之相) a young woman—most likely in her 20s—is dressed carelessly in a yukata, with her head turned behind her, looking outside the picture. She is probably returning from a sentō bath.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Fujin Sōgaku Jittai and Fujo Ninsō Juppin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Utamaro's time the word referred to a flighty personality apt to follow fads and fashions.",
+        "lead": "On the title's “uwaki”:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Fujin Sōgaku Jittai and Fujo Ninsō Juppin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

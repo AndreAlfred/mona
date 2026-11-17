@@ -1,0 +1,137 @@
+{
+  "id": "utamaro-insect-book",
+  "artist": "kitagawa-utamaro",
+  "title": "Selected Insects (Ehon mushi erami)",
+  "date": "1788",
+  "year": 1788,
+  "museum": {
+    "name": "Metropolitan Museum of Art (2013.852a, b)",
+    "url": "http://dl.ndl.go.jp/info:ndljp/pid/1288345"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/MET_2013_852_a_b_a_01.jpg/1280px-MET_2013_852_a_b_a_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/MET_2013_852_a_b_a_01.jpg/2560px-MET_2013_852_a_b_a_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 801,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (MET 2013 852 a b a 01.jpg)"
+  },
+  "archive": {
+    "wd": "Q60570674"
+  },
+  "phase": {
+    "label": "Picture books for Tsutaya, 1780s",
+    "source": {
+      "label": "Wikipedia: “He seems to have become a principal artist for the Tsutaya firm”",
+      "url": "https://en.wikipedia.org/wiki/Utamaro"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Strange (1913): the Book of Insects “was engraved by Fuji Kazumune”",
+        "url": "https://archive.org/stream/japanesecolourpr00stra/japanesecolourpr00stra_djvu.txt"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "von Seidlitz (1910): “the splendid book of insects, printed in colours”",
+        "url": "https://archive.org/stream/historyofjapanes00seiduoft/historyofjapanes00seiduoft_djvu.txt"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "During Temmei perhaps the finest, certainly the most distinctive, work of Utamaro's is to be found in the wonderful Book of Insects and Flowers , published in 1788. The originality and felicity of the designs are matched by the exquisite truth of the drawing, the inconceivable delicacy of the printing.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "These two works, dominated by a scientific realism that was new to Ukioye, may serve as an indication of the growth of that naturalistic spirit whose effect upon the stylistic ideals of the art was later to be so destructive.",
+        "lead": "On the shell book of 1780 and the Insect Book of 1788:",
+        "source": {
+          "author": "Arthur Davison Ficke",
+          "title": "Chats on Japanese Prints",
+          "publisher": "Frederick A. Stokes, via Internet Archive",
+          "year": "1915",
+          "readAt": "https://archive.org/stream/chatsonjapanese00fick/chatsonjapanese00fick_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Of the others, the Book of Insects (of which a copy is in the Museum) was engraved by Fuji Kazumune, and published by Tsutaya Juzaburo in 1788, with a preface by Toriyama Sekiyen",
+        "source": {
+          "author": "Edward F. Strange",
+          "title": "Japanese Colour Prints (Victoria and Albert Museum handbook)",
+          "publisher": "Victoria and Albert Museum (H.M. Stationery Office), via Internet Archive",
+          "year": "1913",
+          "readAt": "https://archive.org/stream/japanesecolourpr00stra/japanesecolourpr00stra_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Utamaro was able to add a new element to what had already been achieved, by further development in the direction of a keenly observant naturalism",
+        "source": {
+          "author": "Woldemar von Seidlitz",
+          "title": "A History of Japanese Colour-Prints (English translation)",
+          "publisher": "William Heinemann, via Internet Archive",
+          "year": "1910",
+          "readAt": "https://archive.org/stream/historyofjapanes00seiduoft/historyofjapanes00seiduoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "To form pictures … of living things in the mind and then to transfer them to paper with the brush is the true art of Painting.",
+        "lead": "His teacher, in the book's postscript:",
+        "source": {
+          "author": "Toriyama Sekiyen",
+          "title": "Postscript to Ehon mushi erabi (1788), translated in Binyon and Sexton, Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1788",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I remember how Uta-shi in his childhood acquired the habit of observing the most minute details of living creatures ; and I used to notice how absorbed he would become when playing with a dragon-fly tied to a string or with a cricket held in the palm of his hand.",
+        "source": {
+          "author": "Toriyama Sekiyen",
+          "title": "Postscript to Ehon mushi erabi (1788), translated in Binyon and Sexton, Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1788",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

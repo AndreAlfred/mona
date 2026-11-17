@@ -1,0 +1,145 @@
+{
+  "id": "rubens-duke-of-lerma",
+  "artist": "peter-paul-rubens",
+  "title": "Equestrian Portrait of the Duke of Lerma",
+  "date": "1603",
+  "year": 1603,
+  "medium": "oil paint on canvas",
+  "dimensions": "290.5 × 207.5 cm",
+  "museum": {
+    "name": "Museo del Prado (P003137)",
+    "url": "https://www.wikidata.org/wiki/Q16038514"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Retrato_ecuestre_del_duque_de_Lerma_%28Rubens%29.jpg/1280px-Retrato_ecuestre_del_duque_de_Lerma_%28Rubens%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1682,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Retrato ecuestre del duque de Lerma (Rubens).jpg)"
+  },
+  "archive": {
+    "wd": "Q16038514"
+  },
+  "phase": {
+    "label": "Italy and Spain, 1600–1608",
+    "source": {
+      "label": "Wikipedia: “Rubens travelled to Spain on a diplomatic mission in 1603”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “He also painted an equestrian portrait of the Duke of Lerma”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata (museum record): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q16038514"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Rubens is “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "asked Rubens to paint him on horseback and in armour. The artist set bravely to work.",
+        "lead": "Philip III's chief minister, the Duke of Lerma,",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 1, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He also painted an equestrian portrait of the Duke of Lerma during his stay (Prado, Madrid) that demonstrates the influence of works like Titian's Charles V at Mühlberg (1548; Museo del Prado, Madrid).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Peter Paul Rubens",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Rubens travelled to Spain on a diplomatic mission in 1603, delivering gifts from the Gonzagas to the court of Philip III of Spain. While there, he studied the extensive collections of Raphael and Titian that had been collected by Philip II.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Peter Paul Rubens",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[The Duke of Lerma] showed himself entirely satisfied with the excellence, and the number of the pictures, which, thanks to skilful repainting, had acquired, through the damage they had suffered, the appearance of old works, so that they were in a great measure accepted as originals … although on our side we said nothing to foster such a belief.",
+        "lead": "On the Mantuan gifts, some damaged on the voyage:",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Annibale Chieppio, 17 July 1603, quoted in Émile Michel, Rubens: His Life, His Work, and His Time, vol. 1",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1603",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The days passed for the painter in an inaction which, with his love of work, he found particularly disagreeable.",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 1, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This journey marked the first of many during his career that combined art and diplomacy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Peter Paul Rubens",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

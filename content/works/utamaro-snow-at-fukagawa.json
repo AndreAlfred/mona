@@ -1,0 +1,158 @@
+{
+  "id": "utamaro-snow-at-fukagawa",
+  "artist": "kitagawa-utamaro",
+  "title": "Fukagawa no Yuki (Snow in Fukagawa)",
+  "date": "c. 1801–04",
+  "year": 1801,
+  "dimensions": "199 × 341 cm",
+  "museum": {
+    "name": "Okada Museum of Art",
+    "url": "https://www.wikidata.org/wiki/Q28941252"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Utamaro_%28c._1788%E2%80%9391%29_Fukagawa_no_Yuki.jpg/1280px-Utamaro_%28c._1788%E2%80%9391%29_Fukagawa_no_Yuki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 719,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Utamaro (c. 1788–91) Fukagawa no Yuki.jpg)"
+  },
+  "archive": {
+    "wd": "Q28941252"
+  },
+  "phase": {
+    "label": "Late paintings, early 1800s",
+    "source": {
+      "label": "Wikipedia: “It is believed Utamaro made the painting in c. 1801–1804”",
+      "url": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: “a hanging scroll in coloured pigments on eight joined sheets of Xuan paper”",
+        "url": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki"
+      }
+    },
+    {
+      "id": "bijin-ga",
+      "source": {
+        "label": "Wikipedia: “extravagantly-dressed women such as courtesans and geisha”",
+        "url": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: “the Japanese ukiyo-e artist Kitagawa Utamaro”",
+        "url": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The paintings have a reputation as Utamaro's most ambitious works. They are unusually large, and were executed in high-quality coloured pigments on imported Chinese Xuan paper.",
+        "lead": "On the snow, moon and flowers set:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The snow—moon—flowers paintings are extraordinary even amongst Utamaro's nikuhitsu-ga paintings.",
+        "source": {
+          "author": "Shūgō Asano",
+          "title": "Quoted in “Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki",
+          "tier": 2,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Utamaro is less known for his paintings (nikuhitsu-ga) than for the large number of woodblock prints he produced, of which about 2,000 are known. 53 of his paintings are known, many of which have been discovered only in the 21st century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The paintings were commissioned by the prominent merchant Zenno Ihē (善野 伊兵衛) of Shimotsuke Province (roughly modern Tochigi Prefecture).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Edo-period Japan had not developed the skill to make it, and as the Japanese government maintained a policy of isolation with severely restricted foreign trade, Zenno may have obtained the paper for Utamaro in secret.",
+        "lead": "On the Chinese paper:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "With the exception of the young boy who reaches out at a cat in the lower left, all the figures are women, though in real life the guests of a pleasure house would be men.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Several women lean over the rails to check the snow. A woman in the bottom left stops and looks down behind her at a cat tugging at her kimono; the kimono bears the Zenno family's kumaizasa crest on the shoulder.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fukagawa_no_Yuki",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  },
+  "medium": "Hanging scroll; coloured pigments on eight joined sheets of Xuan paper"
+}

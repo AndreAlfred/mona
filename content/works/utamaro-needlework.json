@@ -1,0 +1,128 @@
+{
+  "id": "utamaro-needlework",
+  "artist": "kitagawa-utamaro",
+  "title": "Hari-shigoto (Needlework), centre sheet of a triptych",
+  "date": "c. 1794–95",
+  "year": 1794,
+  "museum": {
+    "name": "British Museum",
+    "url": "https://www.wikidata.org/wiki/Q60367159"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Utamaro_%28c._1794%E2%80%9395%29_Hari-shigoto_%28centre_of_3%2C_BM%2C_cropped%29.jpg/1280px-Utamaro_%28c._1794%E2%80%9395%29_Hari-shigoto_%28centre_of_3%2C_BM%2C_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1796,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Utamaro (c. 1794–95) Hari-shigoto (centre of 3, BM, cropped).jpg)"
+  },
+  "archive": {
+    "wd": "Q60367159"
+  },
+  "phase": {
+    "label": "Scenes of daily life, mid-1790s",
+    "source": {
+      "label": "Wikipedia: “He set many prints in scenes of daily life”",
+      "url": "https://en.wikipedia.org/wiki/Hari-shigoto"
+    }
+  },
+  "tags": [
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: women working with cloth at home, a scene of daily life",
+        "url": "https://en.wikipedia.org/wiki/Hari-shigoto"
+      }
+    },
+    {
+      "id": "bijin-ga",
+      "source": {
+        "label": "Wikipedia: Utamaro's individuated beauties in scenes of daily life",
+        "url": "https://en.wikipedia.org/wiki/Hari-shigoto"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikipedia: “The set of three multicolour nishiki-e prints forms a triptych”",
+        "url": "https://en.wikipedia.org/wiki/Hari-shigoto"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "To 1793 or 1794 we may assign Utamaro's superb triptych of women cutting and measuring stuff for dresses. … the whole triptych is designed with complete mastery, and the other two sheets add a rosy red to the colour-scheme, which with the wonderful blacks and greys and the ground of full yellow is light and strong at once.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the centre sits an older woman with shaved eyebrows, indicating she is married. She holds one end of a red obi sash decorated with a hemp-leaf pattern; a young woman in the right print holds the other end. They fold it as they take measurements.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hari-shigoto",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hari-shigoto",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Utamaro's individuated beauties were in contrast to the stereotyped, idealized images that had been the norm. He set many prints in scenes of daily life and depicted a wider variety of women in a greater range of situations than was usual in ukiyo-e, often including scenes of mothers with their children.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Hari-shigoto",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Hari-shigoto",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The design gives a sense of something significant to what is ostensibly a most ordinary household scene. … it is the sheer beauty of natural movements in people who are absorbed in what they are doing which takes us captive.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The artist is in particular inexhaustible in the depiction of the joys of motherhood.",
+        "source": {
+          "author": "Woldemar von Seidlitz",
+          "title": "A History of Japanese Colour-Prints (English translation)",
+          "publisher": "William Heinemann, via Internet Archive",
+          "year": "1910",
+          "readAt": "https://archive.org/stream/historyofjapanes00seiduoft/historyofjapanes00seiduoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

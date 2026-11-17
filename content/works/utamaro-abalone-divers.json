@@ -1,0 +1,155 @@
+{
+  "id": "utamaro-abalone-divers",
+  "artist": "kitagawa-utamaro",
+  "title": "Awabi-tori (Abalone Divers), triptych",
+  "date": "c. 1797–98",
+  "year": 1797,
+  "museum": {
+    "name": "Museum of Fine Arts, Boston (photograph via Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1797%E2%80%9398)_Awabi-tori.jpg"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Utamaro_%28c._1797%E2%80%9398%29_Awabi-tori.jpg/1280px-Utamaro_%28c._1797%E2%80%9398%29_Awabi-tori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 632,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Utamaro (c. 1797–98) Awabi-tori.jpg)"
+  },
+  "archive": {
+    "wd": "Q30590580"
+  },
+  "phase": {
+    "label": "The great triptychs, late 1790s",
+    "source": {
+      "label": "Wikipedia: the second Awabi-tori triptych, “published c. 1797–98”",
+      "url": "https://en.wikipedia.org/wiki/Utamaro%27s_pictures_of_abalone_divers"
+    }
+  },
+  "tags": [
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikipedia: “The prints are nishiki-e \"brocade prints\"”",
+        "url": "https://en.wikipedia.org/wiki/Utamaro%27s_pictures_of_abalone_divers"
+      }
+    },
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Wikipedia: “multicolour woodblock prints made with pigments on hand-made washi paper”",
+        "url": "https://en.wikipedia.org/wiki/Utamaro%27s_pictures_of_abalone_divers"
+      }
+    },
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: ama divers in ukiyo-e pictures",
+        "url": "https://en.wikipedia.org/wiki/Utamaro%27s_pictures_of_abalone_divers"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the same kind of vein, with a feeling of the elemental in its forms, is conceived the triptych which stands supreme among all the triptychs of Utamaro … the central part of which is occupied by the half-naked fisherwoman suckling her child.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[His famous triptych of Awabi Fishers] is one of the great and rare classics of colour-printing. It holds its own with Greek design.",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold, via Internet Archive",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/paintinginfarea00biny/paintinginfarea00biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Ama were known for their coarse manners, and their work coarsened their skin. This was in great contrast to the geishas and courtesans who were normally the subject of ukiyo-e art",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Utamaro's pictures of abalone divers",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Utamaro%27s_pictures_of_abalone_divers",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It has been speculated such prints of women who appeared nude in broad daylight may have arisen in reaction to government suppression of shunga.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Utamaro's pictures of abalone divers",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Utamaro%27s_pictures_of_abalone_divers",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The awabi (shell-fish) girls (diving girls) ; a print for which 1050 francs was paid at the Burty sale, 1871, and 1300 francs at the Goncourt sale, 1897.",
+        "lead": "Its price in Paris:",
+        "source": {
+          "author": "Woldemar von Seidlitz",
+          "title": "A History of Japanese Colour-Prints (English translation)",
+          "publisher": "William Heinemann, via Internet Archive",
+          "year": "1910",
+          "readAt": "https://archive.org/stream/historyofjapanes00seiduoft/historyofjapanes00seiduoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The group of nearly nude forms, with unbound hair, on the rocks, with infinite sea beyond them, yield a sense of latent and mysterious powers, as if they shared in the secrets of the deep waters which they are used to plunge in",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He draws them naturalistically, without elongation or other distortions that ukiyo-e artists typically employed to present ideal models of beauty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Utamaro's pictures of abalone divers",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Utamaro%27s_pictures_of_abalone_divers",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

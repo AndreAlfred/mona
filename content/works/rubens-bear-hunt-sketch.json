@@ -1,0 +1,151 @@
+{
+  "id": "rubens-bear-hunt-sketch",
+  "artist": "peter-paul-rubens",
+  "title": "Study for \"The Bear Hunt\" (for the Alcázar, Madrid)",
+  "date": "c. 1639",
+  "year": 1634,
+  "medium": "oil on wood",
+  "dimensions": "Framed: 70.5 x 40.6 x 7.6 cm (27 3/4 x 16 x 3 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1983.69"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1983.69/1983.69_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1983.69/1983.69_print.jpg",
+    "width": 1263,
+    "height": 605,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 151517
+  },
+  "phase": {
+    "label": "The last decade, 1630–1640",
+    "source": {
+      "label": "Wikipedia: “Rubens's last decade was spent in and around Antwerp”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-sketch",
+      "source": {
+        "label": "Cleveland Museum of Art: “one of seven surviving studies”",
+        "url": "https://clevelandart.org/art/1983.69"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Especially in the case of oil sketches, many modelli are greatly valued in their own right, as they may show a freedom in execution and freshness of inspiration missing in the final work",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Modello",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Modello",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: oil on wood",
+        "url": "https://clevelandart.org/art/1983.69"
+      }
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “a bear attacks a hunter”",
+        "url": "https://clevelandart.org/art/1983.69"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Bear Hunt is one of seven surviving studies out of the original eighteen.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Study for “The Bear Hunt”",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1983.69",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/151517",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "he made his pictures as he would have made war, with as much coolness as ardor, combining skilfully",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Old Masters of Belgium and Holland (Les Maîtres d'autrefois), trans. Mary C. Robbins",
+          "publisher": "Houghton, Mifflin (1883), via Internet Archive",
+          "year": "1876",
+          "readAt": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "On June 22, 1639, King Philip IV of Spain received a letter from his younger brother Ferdinand (1609–1641). The letter explained that the artist Peter Paul Rubens had recently completed all of the sketches for a series of paintings that were to hang in the halls of the Alcázar Palace in Madrid.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Study for “The Bear Hunt”",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1983.69",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/151517",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The sketch was completed in the last year Rubens's life, and the paintings for the series were never completed.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Study for “The Bear Hunt”",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1983.69",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/151517",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[Were I] not detained here by age and by the gout which renders me useless, I should go there to enjoy with my own eyes and admire the perfection of such worthy works",
+        "lead": "Writing to the sculptor François Duquesnoy in Rome:",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to François Duquesnoy, c. 1640, as quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "year": "1640",
+          "readAt": "https://en.wikiquote.org/wiki/Peter_Paul_Rubens",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikiquote transcription)",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

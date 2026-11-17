@@ -1,0 +1,148 @@
+{
+  "id": "rubens-isabella-brant",
+  "artist": "peter-paul-rubens",
+  "title": "Portrait of Isabella Brant",
+  "date": "c. 1620–25",
+  "year": 1620,
+  "medium": "oil on wood",
+  "dimensions": "Framed: 83 x 73.5 x 9 cm (32 11/16 x 28 15/16 x 3 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1947.207"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1947.207/1947.207_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1947.207/1947.207_print.jpg",
+    "width": 756,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund"
+  },
+  "archive": {
+    "cma": 125247
+  },
+  "phase": {
+    "label": "The Antwerp workshop, 1610s–1620s",
+    "source": {
+      "label": "Wikipedia: “his studio produced dozens for aristocratic patrons in the 1610s and 1620s”",
+      "url": "https://en.wikipedia.org/wiki/The_Hippopotamus_and_Crocodile_Hunt"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Cleveland Museum of Art: “This intimate portrait”",
+        "url": "https://clevelandart.org/art/1947.207"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: oil on wood",
+        "url": "https://clevelandart.org/art/1947.207"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Rubens is “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This intimate portrait, painted at least five years before her death, suggests the close relationship between the painter and sitter through the warm palette, the luscious brushstrokes, and her lively expression.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Portrait of Isabella Brant",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1947.207",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/125247",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "From the first to the last, a tenacious type seemed to be lodged in the heart of Rubens, a fixed ideal haunted his amorous and constant imagination.",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Old Masters of Belgium and Holland (Les Maîtres d'autrefois), trans. Mary C. Robbins",
+          "publisher": "Houghton, Mifflin (1883), via Internet Archive",
+          "year": "1876",
+          "readAt": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Isabella Brant was Rubens’s first wife. He painted her many times in many different ways before she died at the age of 35",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Portrait of Isabella Brant",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1947.207",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/125247",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Isabella Brant, the daughter of Jan Brant, the City registrar, and of Clara de Moy, the eldest sister of Philip's wife, Maria, was eighteen years old, and in addition to her outward charms, possessed a gentle, loving, and loyal nature.",
+        "lead": "When they married in 1609,",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 1, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In truth I have lost an excellent companion, and one worthy of all affection, for she had none of the faults of her sex. Never displaying bitterness or weakness, her kindness and loyalty were perfect … she alone still fills my henceforth empty house, she alone lies by my side on my desolate couch",
+        "lead": "After her death in 1626:",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Pierre Dupuy, 15 July 1626, quoted in Émile Michel, Rubens: His Life, His Work, and His Time, vol. 2",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1626",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Isabella died on June 20th, 1626. In her the great artist lost the beloved companion who had endowed his home with joy and dignity.",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

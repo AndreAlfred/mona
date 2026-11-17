@@ -1,0 +1,133 @@
+{
+  "id": "rubens-het-pelsken",
+  "artist": "peter-paul-rubens",
+  "title": "Helena Fourment in a Fur Robe (Het pelsken)",
+  "date": "1638",
+  "year": 1638,
+  "medium": "oil paint on panel",
+  "dimensions": "1760 × 830 mm",
+  "museum": {
+    "name": "Kunsthistorisches Museum (GG_688)",
+    "url": "https://www.wikidata.org/wiki/Q3788158"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Peter_Paul_Rubens_019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2529,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Peter Paul Rubens 019.jpg)"
+  },
+  "archive": {
+    "wd": "Q3788158"
+  },
+  "phase": {
+    "label": "The last decade, 1630–1640",
+    "source": {
+      "label": "Wikipedia: “Rubens's last decade was spent in and around Antwerp”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “a c. 1636–1638 portrait by Peter Paul Rubens of his second wife Helena Fourment”",
+        "url": "https://en.wikipedia.org/wiki/Het_Pelsken"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata (museum record): oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q3788158"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Rubens is “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "There Helena is represented standing, coming from the bath, half wrapped in the fur-trimmed cloak that gives its name to the … picture, and imperfectly hides her comely nudity.",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Neither simply a portrait nor purely an image of a mythological deity, this intensely private work has ironically become one of the most celebrated erotic images in Western art.",
+        "source": {
+          "author": "Andrew Morrall",
+          "title": "Rubens (History & Techniques of the Great Masters, 2003), quoted in “Het Pelsken”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Het_Pelsken",
+          "tier": 2,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)",
+          "year": "2003",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Her pose recalls the Venus pudica … of Graeco-Roman sculpture, in which the goddess is shown nude as she prepares to bathe, discarding her drapery with one hand, while modestly shielding herself with the other. Another antecedent is Titian's Girl in a Fur, which Rubens knew.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Het Pelsken",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Het_Pelsken",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I have taken a young wife of honest but middle-class family although everyone tried to persuade me to make a court marriage. But I feared pride, that inherent vice of the nobility, particularly in that sex, and that is why I chose one who would not blush to see me take my brushes in hand.",
+        "lead": "On marrying Helena Fourment, aged sixteen, in 1630:",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Nicolas-Claude Fabri de Peiresc, c. 1635, as quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "year": "1635",
+          "readAt": "https://en.wikiquote.org/wiki/Peter_Paul_Rubens",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikiquote transcription)",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the husband felt that so truthful a portrait ought not to leave the privacy of the studio, and his will directed that it should not be included in the pictures to be sold after his death.",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}
