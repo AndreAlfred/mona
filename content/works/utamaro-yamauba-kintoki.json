@@ -1,0 +1,135 @@
+{
+  "id": "utamaro-yamauba-kintoki",
+  "artist": "kitagawa-utamaro",
+  "title": "Yamauba blackening Her teeth and Kintoki",
+  "date": "c. 1795",
+  "year": 1795,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1996.463)",
+    "url": "https://www.metmuseum.org/art/collection/search/40244"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/MET_DP144022.jpg/1280px-MET_DP144022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1776,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (MET DP144022.jpg)"
+  },
+  "archive": {
+    "wd": "Q60628584"
+  },
+  "phase": {
+    "label": "Mothers and children, later 1790s",
+    "source": {
+      "label": "Binyon and Sexton (1923): the Yama-uba series, “at the very end of the century”",
+      "url": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: “Ukiyo-e of yama-uba with blackened teeth and Kintarō”",
+        "url": "https://en.wikipedia.org/wiki/Utamaro"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the sets of prints illustrating that favourite subject of his, the life of the strong boy Kintoki and his wild mother of the mountains, Utamaro is at his most original, soars highest above the common world",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold, via Internet Archive",
+          "year": "1908",
+          "readAt": "https://archive.org/stream/paintinginfarea00biny/paintinginfarea00biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Utamaro created as many as 50 designs depicting the intimate relationship between mother and child.",
+        "lead": "On another print from the series:",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Yamauba Holding Chestnuts while Kintaro Reaches for Them",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/77446",
+          "readAt": "https://api.artic.edu/api/v1/artworks/77446?fields=id,title,description",
+          "tier": 4,
+          "license": "CC BY 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He struck away from the world of Ukiyo-ye into the world of legend ; and he chose the story of the savage mountain-fairy who fostered and brought up in the wilds with a more than mother's devotion",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Japanese mythology, Yamauba is typically shown as a witch, but here Kitagawa Utamaro transformed her into a beautiful woman. She cares for her infant son, the legendary strong boy Kintarō.",
+        "lead": "On another print from the series:",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Yamauba Holding Chestnuts while Kintaro Reaches for Them",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/77446",
+          "readAt": "https://api.artic.edu/api/v1/artworks/77446?fields=id,title,description",
+          "tier": 4,
+          "license": "CC BY 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Here was the maternal passion isolated and removed from all the dainty and delicate refinements of a city-life and home ; just the primitive, jealous, animal intensity of that love ; this alone could satisfy Utamaro's imagination.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Utamaro was married although little is known about his wife and there is no record of their having had children. However, his works include many prints of tender and intimate domestic scenes featuring the same woman and child over several years.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Utamaro",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Utamaro",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "utamaro-three-beauties",
+  "artist": "kitagawa-utamaro",
+  "title": "Three Beauties of the Present Day",
+  "date": "c. 1792–93",
+  "year": 1792,
+  "dimensions": "37.9 × 24.9 cm",
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q18210019"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kitagawa_Utamaro_-_Toji_san_bijin_%28Three_Beauties_of_the_Present_Day%29From_Bijin-ga_%28Pictures_of_Beautiful_Women%29%2C_published_by_Tsutaya_Juzaburo_-_Google_Art_Project.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kitagawa_Utamaro_-_Toji_san_bijin_%28Three_Beauties_of_the_Present_Day%29From_Bijin-ga_%28Pictures_of_Beautiful_Women%29%2C_published_by_Tsutaya_Juzaburo_-_Google_Art_Project.jpg/2560px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1757,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kitagawa Utamaro - Toji san bijin (Three Beauties of the Present Day)From Bijin-ga (Pictures of Beautiful Women), published by Tsutaya Juzaburo - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18210019"
+  },
+  "phase": {
+    "label": "Rise to fame: bust portraits of the early 1790s",
+    "source": {
+      "label": "Wikipedia: “In 1793 he achieved recognition as an artist”",
+      "url": "https://en.wikipedia.org/wiki/Utamaro"
+    }
+  },
+  "tags": [
+    {
+      "id": "okubi-e",
+      "source": {
+        "label": "Wikipedia: the image falls under the genres of bijin-ga and ōkubi-e",
+        "url": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The image falls under the genres of bijin-ga (\"portraits of beauties\") and ōkubi-e (\"big-headed pictures\"), the latter a genre Utamaro pioneered and was strongly associated with.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Three Beauties of the Present Day",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bijin-ga",
+      "source": {
+        "label": "Wikipedia: the image falls under the genres of bijin-ga and ōkubi-e",
+        "url": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day"
+      }
+    },
+    {
+      "id": "kirazuri",
+      "source": {
+        "label": "Wikipedia: “the background is dusted with muscovite, a variety of mica”",
+        "url": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day"
+      }
+    },
+    {
+      "id": "nishiki-e",
+      "source": {
+        "label": "Wikipedia: “a nishiki-e colour woodblock print”",
+        "url": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "To this time (1790) belong the beautiful bust-portraits of beauties of the tea-houses, O Kita of Naniwa-ya, O Hisa of Takashima, or of the Green Houses, like Hana-ogi of Ogi-ya, or chanters of joruri like Toyohina, which were printed on mica ground. These portraits with their novel beauty of printing no doubt made a stir in Yedo, and they were imitated by other artists.",
+        "source": {
+          "author": "Laurence Binyon and J. J. O'Brien Sexton",
+          "title": "Japanese Colour Prints",
+          "publisher": "Charles Scribner's Sons, via Internet Archive",
+          "year": "1923",
+          "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The three models in Three Beauties of the Present Day were frequent subjects of Utamaro's portraiture.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Three Beauties of the Present Day",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Utamaro began producing the first bijin ōkubi-e portraits, adapting ōkubi-e to the bijin-ga genre. Their popularity restored Tsutaya's fortunes and made Utamaro's in the 1790s.",
+        "lead": "After the government fined his publisher in 1791:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Three Beauties of the Present Day",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Fumito Kondō considered the print revolutionary; such expressive, individualized faces are not seen in the stereotyped figures in the works of Utamaro's predecessors such as Harunobu and Kiyonaga, and it was the first time in ukiyo-e history that the beauties were drawn from the general urban population rather than the pleasure quarters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Three Beauties of the Present Day",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Records indicate Kita was rated highly in teahouse rankings, and that curious fans flooded her father's teahouse; it is said this caused her to become arrogant and cease to serve tea unless called for. Hisa ranked lower, though still appears to have been quite popular—a wealthy merchant offered 1500 ryō for her, but her parents refused and she continued to work at the teahouse.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Three Beauties of the Present Day",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Three_Beauties_of_the_Present_Day",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

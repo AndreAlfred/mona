@@ -1,0 +1,34 @@
+{
+  "id": "kirazuri",
+  "kind": "technique",
+  "name": "Kirazuri (mica ground)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Kirazuri (雲母摺り) is a method used in Japanese woodblock printmaking using mica powder, or 雲母 (kira) to add sparkle.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Kirazuri",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kirazuri",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-17"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Utamaro used the white mica grounds from 1790, four years before Sharaku's debut.",
+      "source": {
+        "author": "Laurence Binyon and J. J. O'Brien Sexton",
+        "title": "Japanese Colour Prints",
+        "publisher": "Charles Scribner's Sons, via Internet Archive",
+        "year": "1923",
+        "readAt": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-17"
+      }
+    }
+  ],
+  "archiveTerm": "mica"
+}

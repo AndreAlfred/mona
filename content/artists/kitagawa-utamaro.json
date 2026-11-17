@@ -1,0 +1,112 @@
+{
+  "id": "kitagawa-utamaro",
+  "name": "Kitagawa Utamaro",
+  "born": 1753,
+  "died": 1806,
+  "active": "1775–1806",
+  "nationality": "Japanese",
+  "period": "romantic",
+  "movements": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia: “one of the most highly regarded designers of ukiyo-e woodblock prints”",
+        "url": "https://en.wikipedia.org/wiki/Utamaro"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "torii-kiyonaga",
+      "name": "Torii Kiyonaga",
+      "source": {
+        "label": "Wikipedia: Kiyonaga's tall, graceful beauties “had a great influence on Utamaro”",
+        "url": "https://en.wikipedia.org/wiki/Utamaro"
+      }
+    },
+    {
+      "id": "chobunsai-eishi",
+      "name": "Chōbunsai Eishi",
+      "source": {
+        "label": "Binyon (1908): Yeishi, Utamaro and Toyokuni “worked as rivals”",
+        "url": "https://archive.org/stream/paintinginfarea00biny/paintinginfarea00biny_djvu.txt"
+      }
+    },
+    {
+      "id": "utagawa-toyokuni-i",
+      "name": "Utagawa Toyokuni I",
+      "source": {
+        "label": "Binyon (1908): Yeishi, Utamaro and Toyokuni “worked as rivals”",
+        "url": "https://archive.org/stream/paintinginfarea00biny/paintinginfarea00biny_djvu.txt"
+      }
+    },
+    {
+      "id": "kitao-shigemasa",
+      "name": "Kitao Shigemasa",
+      "source": {
+        "label": "Wikipedia: a guest at Utamaro's 1782 banquet for his new name",
+        "url": "https://en.wikipedia.org/wiki/Utamaro"
+      }
+    },
+    {
+      "id": "suzuki-harunobu",
+      "name": "Suzuki Harunobu",
+      "source": {
+        "label": "Binyon and Sexton (1923): a sweetness “such as had hardly appeared in Ukiyo-ye since Harunobu”",
+        "url": "https://archive.org/stream/japanesecolourpr01biny/japanesecolourpr01biny_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q272045",
+  "archive": {
+    "aic": 37074,
+    "cma": [
+      23355
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "His graceful, sinuous women are the images that come most readily to the minds of many people at the mention of Japanese prints.",
+      "source": {
+        "author": "Arthur Davison Ficke",
+        "title": "Chats on Japanese Prints",
+        "publisher": "Frederick A. Stokes, via Internet Archive",
+        "year": "1915",
+        "readAt": "https://archive.org/stream/chatsonjapanese00fick/chatsonjapanese00fick_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-17"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It is true that he consecrated his worship to a class of woman that stands outside the pale of society and, despite the splendour that surrounds her, is one of the most unfortunate of all creatures ; but he did not depict her as she appears in reality, but formed of her an ideal of nobility and loveliness that stamps her as a goddess.",
+      "source": {
+        "author": "Woldemar von Seidlitz",
+        "title": "A History of Japanese Colour-Prints (English translation)",
+        "publisher": "William Heinemann, via Internet Archive",
+        "year": "1910",
+        "readAt": "https://archive.org/stream/historyofjapanes00seiduoft/historyofjapanes00seiduoft_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-17"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He produced over 2000 known prints and was one of the few ukiyo-e artists to achieve fame throughout Japan in his lifetime. In 1804 he was arrested and manacled for fifty days for making illegal prints depicting the 16th-century military ruler Toyotomi Hideyoshi, and died two years later.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Utamaro",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Utamaro",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-17"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}
