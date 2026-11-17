@@ -1,0 +1,147 @@
+{
+  "id": "rubens-disembarkation-at-marseilles",
+  "artist": "peter-paul-rubens",
+  "title": "The Disembarkation at Marseilles (Disembarkation of Marie de Medici at Marseilles)",
+  "date": "1622",
+  "year": 1622,
+  "medium": "oil paint on canvas",
+  "dimensions": "394 × 295 cm",
+  "museum": {
+    "name": "Department of Paintings of the Louvre (INV 1774)",
+    "url": "https://www.wikidata.org/wiki/Q2843410"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Le_D%C3%A9barquement_de_la_reine_%C3%A0_Marseille%2C_le_3_novembre_1600_-_Pierre_Paul_Rubens_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1774_%3B_MR_965.jpg/1280px-Le_D%C3%A9barquement_de_la_reine_%C3%A0_Marseille%2C_le_3_novembre_1600_-_Pierre_Paul_Rubens_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1774_%3B_MR_965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1510,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Le Débarquement de la reine à Marseille, le 3 novembre 1600 - Pierre Paul Rubens - Musée du Louvre Peintures INV 1774 ; MR 965.jpg)"
+  },
+  "archive": {
+    "wd": "Q2843410"
+  },
+  "phase": {
+    "label": "Painter-diplomat, 1621–1630",
+    "source": {
+      "label": "Wikipedia: “Between 1627 and 1630, Rubens was very active as a diplomat”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: Rubens used “allegorical representations to both glorify the mundane aspects and sensitively illustrate the less favorable events in Marie's life”",
+        "url": "https://en.wikipedia.org/wiki/Marie_de%27_Medici_cycle"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata (museum record): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q2843410"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Rubens is “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Rubens has again, turned something ordinary into something of unprecedented magnificence. He depicts her leaving the ship down a gangplank (she actually walked up, not down, but was illustrated this way by Rubens to create a diagonal element).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Marie de' Medici cycle",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Marie_de%27_Medici_cycle",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Consider, for example, the Disembarkation at Marseilles, where everyone has eyes only for the voluptuous Naiads, to the disadvantage of the queen who is being received with open arms by France",
+        "source": {
+          "author": "Roger Avermaete",
+          "title": "Rubens and His Times (1968), quoted in “Marie de' Medici cycle”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Marie_de%27_Medici_cycle",
+          "tier": 2,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)",
+          "year": "1968",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "What you call exaggeration is the splendid dexterity that makes the painted objects more real than real ones.",
+        "lead": "Defending Rubens, the critic Roger de Piles:",
+        "source": {
+          "author": "Roger de Piles",
+          "title": "Dialogue sur le coloris (1673), quoted in Émile Michel, Rubens: His Life, His Work, and His Time, vol. 2",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1673",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For what, pray, have Cupid, Hymen, Mercury, the Graces, Tritons, and Nereids to do with the history of Henry IV. and Marie de’ Medici ?",
+        "lead": "His opponent, André Félibien:",
+        "source": {
+          "author": "André Félibien",
+          "title": "Entretiens sur les vies et sur les ouvrages des plus excellents peintres, quoted in Émile Michel, Rubens: His Life, His Work, and His Time, vol. 2",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1666",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "the princess landed at Marseilles with her splendid … retinue, she was greatly disappointed to find that her husband had not come to meet her, but had sent his chancellor in his stead.",
+        "lead": "In 1600, after a proxy wedding in Florence,",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Those events were already somewhat far off, and there was no danger in representing their more favourable side, even at the expense of the truth.",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

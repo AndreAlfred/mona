@@ -1,0 +1,161 @@
+{
+  "id": "rubens-elevation-of-the-cross",
+  "artist": "peter-paul-rubens",
+  "title": "The Elevation of the Cross",
+  "date": "1609",
+  "year": 1609,
+  "medium": "oil paint on oakwood, panel",
+  "dimensions": "460 × 640 cm",
+  "museum": {
+    "name": "Onze-Lieve-Vrouwekathedraal (10012)",
+    "url": "http://www.rubensonline.be/showdetail.asp?artworkID=100298"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Peter_Paul_Rubens_-_Raising_of_the_Cross_%28Cathedral_of_Antwerp%29.jpg/1280px-Peter_Paul_Rubens_-_Raising_of_the_Cross_%28Cathedral_of_Antwerp%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 885,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Peter Paul Rubens - Raising of the Cross (Cathedral of Antwerp).jpg)"
+  },
+  "archive": {
+    "wd": "Q2653851"
+  },
+  "phase": {
+    "label": "Return to Antwerp, 1609–1614",
+    "source": {
+      "label": "Wikipedia: altarpieces “particularly important in establishing Rubens as Flanders' leading painter shortly after his return”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: “a large triptych … for the high altar of the St. Walburga Church”",
+        "url": "https://en.wikipedia.org/wiki/The_Elevation_of_the_Cross"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: “The triptych introduced large-scale Baroque painting in Flemish art”",
+        "url": "https://en.wikipedia.org/wiki/The_Elevation_of_the_Cross"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The triptych introduced large-scale Baroque painting in Flemish art and established Rubens's reputation as a leading painter in Flanders.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Elevation of the Cross",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Elevation_of_the_Cross",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata (museum record): oil paint on oak panel",
+        "url": "https://www.wikidata.org/wiki/Q2653851"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "the Elevation of the Cross conveys much more of the originality of Rubens … his audacity, his happy hits, — in a word, more of the fermentation of that mind full of fervor for novelties and projects.",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Old Masters of Belgium and Holland (Les Maîtres d'autrefois), trans. Mary C. Robbins",
+          "publisher": "Houghton, Mifflin (1883), via Internet Archive",
+          "year": "1876",
+          "readAt": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was by this original and masculine picture, that this young man, having been absent ever since the first year of the century, signalized his return from Italy.",
+        "source": {
+          "author": "Eugène Fromentin",
+          "title": "The Old Masters of Belgium and Holland (Les Maîtres d'autrefois), trans. Mary C. Robbins",
+          "publisher": "Houghton, Mifflin (1883), via Internet Archive",
+          "year": "1876",
+          "readAt": "https://archive.org/stream/oldmastersofbelg00fromuoft/oldmastersofbelg00fromuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The general arrangement of the bold diagonal of the cross traversing the composition, is inspired by … Tintoretto's great picture in the Scuola di San Rocco ; it also contains some well-known figures, notably, that of the terrified woman throwing herself on the ground, taken by Rubens from Raphael",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 1, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For the muscular figures and their poses Rubens drew inspiration from the Antique sculptures of the (Laocoön, Niobids, Farnese Bull) which he studied and drew during his stays in Rome.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Elevation of the Cross",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Elevation_of_the_Cross",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The light falls so unfavorably on the altar that one can hardly discern the figures or enjoy the beauty of color and the delicacy of the heads and draperies which I executed with great care from nature",
+        "lead": "Two years earlier, in Rome, he had complained:",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Annibale Chieppio, 2 February 1608, on his Roman altarpiece for the Chiesa Nuova, as quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "year": "1608",
+          "readAt": "https://en.wikiquote.org/wiki/Peter_Paul_Rubens",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikiquote transcription)",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "in order to make sure from the first of the light in which the picture would hang, he worked in the choir of the church itself. … The Admiralty lent a large sail to protect the artist from draughts, and from the gaze of the curious.",
+        "lead": "So in Antwerp,",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 1, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis01michuoft/rubenshislifehis01michuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

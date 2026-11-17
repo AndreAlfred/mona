@@ -1,0 +1,146 @@
+{
+  "id": "rubens-minerva-protects-pax",
+  "artist": "peter-paul-rubens",
+  "title": "Minerva Protects Pax from Mars",
+  "date": "1629",
+  "year": 1629,
+  "medium": "oil paint on canvas",
+  "dimensions": "203.5 × 298 cm",
+  "museum": {
+    "name": "National Gallery (NG46)",
+    "url": "https://www.wikidata.org/wiki/Q611583"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rubens_peace-war.jpg/1280px-Rubens_peace-war.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rubens_peace-war.jpg/2560px-Rubens_peace-war.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 816,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Rubens peace-war.jpg)"
+  },
+  "archive": {
+    "wd": "Q611583"
+  },
+  "phase": {
+    "label": "Painter-diplomat, 1621–1630",
+    "source": {
+      "label": "Wikipedia: “Between 1627 and 1630, Rubens was very active as a diplomat”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “the Allegory of Peace and War (1629; National Gallery London)”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata (museum record): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q611583"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Rubens is “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "By clothing the figures personifying war in sombre colours, and relegating them to the second plane, Rubens sought to bring out the bright tones in which he painted the Plenty and the Benefits of Peace … It was a fresh argument invented by him in favour of “the fair masterpiece of peace.”",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "An important work from this period is the Allegory of Peace and War (1629; National Gallery London). It illustrates the artist's lively concern for peace, and was given to Charles I as a gift.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Peter Paul Rubens",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Between 1627 and 1630, Rubens was very active as a diplomat. He travelled between the courts of Spain and England in an attempt to bring about peace between the Catholic Spanish Netherlands and the Protestant Dutch Republic.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Peter Paul Rubens",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Rubens was raised by Philip IV of Spain to the nobility in 1624 and knighted by Charles I of England in 1630.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Peter Paul Rubens",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "We are exhausted [in Antwerp] and have endured so much that this war seems without purpose",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Pierre Dupuy, autumn 1627, as quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "year": "1627",
+          "readAt": "https://en.wikiquote.org/wiki/Peter_Paul_Rubens",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikiquote transcription)",
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "We notice in the front of the picture, a young girl and two little children, whose types occur in a large family group known to us now only from MacArdell’s engraving, which represents Balthasar Gerbier’s wife and four children.",
+        "lead": "Rubens stayed with Gerbier, his English counterpart, in London:",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}

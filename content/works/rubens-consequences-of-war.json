@@ -1,0 +1,133 @@
+{
+  "id": "rubens-consequences-of-war",
+  "artist": "peter-paul-rubens",
+  "title": "Consequences of War",
+  "date": "c. 1637",
+  "year": 1637,
+  "medium": "oil paint on canvas",
+  "dimensions": "206 × 305 cm",
+  "museum": {
+    "name": "Galleria Palatina (86)",
+    "url": "https://www.wikidata.org/wiki/Q3687201"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Los_horrores_de_la_guerra.jpg/1280px-Los_horrores_de_la_guerra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 719,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Los horrores de la guerra.jpg)"
+  },
+  "archive": {
+    "wd": "Q3687201"
+  },
+  "phase": {
+    "label": "The last decade, 1630–1640",
+    "source": {
+      "label": "Wikipedia: “Rubens's last decade was spent in and around Antwerp”",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Michel: “an allegorical scene representing the Horrors of War”",
+        "url": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata (museum record): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3687201"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: Rubens is “the most influential artist of the Flemish Baroque tradition”",
+        "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The principal figure is Mars, who, issuing from the open temple of Janus (which, according to the Roman custom was closed in time of peace), marches forward with a shield and bloody sword, threatening the people with great misfortunes.",
+        "lead": "Rubens explained the picture himself:",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Justus Sustermans, 12 March 1638, quoted in Émile Michel, Rubens: His Life, His Work, and His Time, vol. 2",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1638",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "only the seductive genius of a Rubens could have treated it in such a fashion, only he could have animated the God of War with such fury",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The choice of subject was left to the artist, who, true to his love of peace, suggested an allegorical scene representing the Horrors of War.",
+        "lead": "Painted for Florence, through the Flemish painter Justus Sustermans:",
+        "source": {
+          "author": "Émile Michel",
+          "title": "Rubens: His Life, His Work, and His Time, vol. 2, trans. Elizabeth Lee",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1899",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-17"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This mourning woman, dressed in black, her veil rent, despoiled of her jewels and ornaments, is unhappy Europe, who has suffered for such long years from rapine, outrage … the ravages of which defy description.",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Justus Sustermans, 12 March 1638, quoted in Émile Michel, Rubens: His Life, His Work, and His Time, vol. 2",
+          "publisher": "William Heinemann (1899), via Internet Archive",
+          "year": "1638",
+          "readAt": "https://archive.org/stream/rubenshislifehis00mich/rubenshislifehis00mich_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-17"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[T]here is also a mother with a child in her arms indicating that fecundity, procreation and charity are thwarted by War, which corrupts and destroys everything.",
+        "source": {
+          "author": "Peter Paul Rubens",
+          "title": "Letter to Justus Sustermans, 1638, as quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "year": "1638",
+          "readAt": "https://en.wikiquote.org/wiki/Peter_Paul_Rubens",
+          "tier": 1,
+          "license": "CC BY-SA 4.0 (Wikiquote transcription)",
+          "accessed": "2026-11-17"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-17",
+    "by": "claude-routine"
+  }
+}
