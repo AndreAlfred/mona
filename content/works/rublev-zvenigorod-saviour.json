@@ -1,0 +1,161 @@
+{
+  "id": "rublev-zvenigorod-saviour",
+  "artist": "andrei-rublev",
+  "title": "Christ the Redeemer (Христос Вседержитель)",
+  "date": "1420",
+  "year": 1420,
+  "medium": "tempera on panel",
+  "dimensions": "158 × 106 cm",
+  "museum": {
+    "name": "Tretyakov Gallery",
+    "url": "https://www.wikidata.org/wiki/Q5109001"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Andrey_Rublev_-_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%92%D1%81%D0%B5%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_-_Google_Art_Project.jpg/1280px-Andrey_Rublev_-_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%92%D1%81%D0%B5%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Andrey_Rublev_-_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%92%D1%81%D0%B5%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_-_Google_Art_Project.jpg/2560px-Andrey_Rublev_-_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%92%D1%81%D0%B5%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1822,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Andrey Rublev - Христос Вседержитель - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q5109001"
+  },
+  "phase": {
+    "label": "The Zvenigorod Deesis, 1410s–1420s",
+    "source": {
+      "label": "Wikipedia: attributed to Rublev, “painted for one of Zvenigorod cathedrals in the 1420s”",
+      "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(icon)"
+    }
+  },
+  "tags": [
+    {
+      "id": "icon-painting",
+      "source": {
+        "label": "Wikipedia: “Christ the Redeemer is a Russian icon”",
+        "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(icon)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "As time passed, the Russians—notably Andrei Rublev and Dionisius—widened the vocabulary of iconic types and styles far beyond anything found elsewhere.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Icon",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Icon",
+            "accessed": "2026-11-18",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikidata (museum record): tempera on panel",
+        "url": "https://www.wikidata.org/wiki/Q5109001"
+      }
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Wikipedia: the Moscow school’s flourishing “is associated with Theophanes the Greek, Andrei Rublev and Daniel Chorny”",
+        "url": "https://en.wikipedia.org/wiki/Moscow_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He was no mere craftsman but a true artist and his special style brought life back to the Byzantine type, face, hands and body, drapery and general composition, drawing as well as colouring.",
+        "source": {
+          "author": "N. P. Kondakov",
+          "title": "The Russian Icon, trans. Ellis H. Minns",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/bwb_P8-BIM-707",
+          "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Christ the Redeemer is a Russian icon discovered by accident in a dilapidated woodshed near Zvenigorod in 1919. With several other icons stored nearby, it was attributed as the work of Andrei Rublev, painted for one of Zvenigorod cathedrals in the 1420s.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ the Redeemer (icon)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(icon)",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Zvenigorod rose to prominence in the late 14th century after it was bequeathed by Dmitry Donskoy to his second son Yuri, who founded his residence on the steep bank of the Moskva River. … The cathedral's interior features frescoes attributed to Andrei Rublev.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Zvenigorod",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Zvenigorod",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The flourishing of the Moscow school in the late 14th and early 15th centuries is associated with Theophanes the Greek, Andrei Rublev and Daniel Chorny. Andrei Rublev led the school in the early 15th century and became one of the most celebrated Russian icon painters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Moscow school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Moscow_school",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The wonderful icons and frescoes of Andrey Rublev offered a harmonious and colorful expression of the spirit of complete serenity and humility. For the Russian people these icons became the finest achievement of religious art and the highest expression of Russian spirituality",
+        "source": {
+          "author": "Serge A. Zenkovsky",
+          "title": "Medieval Russia’s Epics, Chronicles, and Tales, quoted in “Andrei Rublev”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Andrei_Rublev",
+          "accessed": "2026-11-18",
+          "tier": 2,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)",
+          "year": "1963"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "At the turn of the 19th and 20th century, Russian iconography was \"discovered\" by art historians as a form of art. Icons were taken out of the rizas that used to cover them almost completely except for faces and hands, and then cleaned.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Trinity (Andrei Rublev)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

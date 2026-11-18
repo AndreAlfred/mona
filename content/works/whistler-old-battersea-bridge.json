@@ -1,0 +1,171 @@
+{
+  "id": "whistler-old-battersea-bridge",
+  "artist": "james-mcneill-whistler",
+  "title": "Nocturne: Blue and Gold – Old Battersea Bridge",
+  "date": "c. 1872–75",
+  "year": 1872,
+  "medium": "oil paint on canvas",
+  "dimensions": "51.2 × 68.3 cm",
+  "museum": {
+    "name": "Tate (N01959)",
+    "url": "http://www.tate.org.uk/art/artworks/whistler-nocturne-blue-and-gold-old-battersea-bridge-n01959"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/James_Abbot_McNeill_Whistler_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1585,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (James Abbot McNeill Whistler 006.jpg)"
+  },
+  "archive": {
+    "wd": "Q589002"
+  },
+  "phase": {
+    "label": "The Thames Nocturnes, 1870s",
+    "source": {
+      "label": "Wikipedia: “he painted several more nocturnes over the next ten years, many of the River Thames”",
+      "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+    }
+  },
+  "tags": [
+    {
+      "id": "nocturne",
+      "source": {
+        "label": "Wikipedia: “Whistler's Nocturne series, of which this painting was a part”",
+        "url": "https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In his maritime nocturnes, Whistler used highly thinned paint as a ground with lightly flicked color to suggest ships, lights, and shore line.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "James McNeill Whistler",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+            "accessed": "2026-11-18",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Tate record (via Wikidata): oil on canvas",
+        "url": "https://www.wikidata.org/wiki/Q589002"
+      }
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Wikipedia: “compositional and thematic similarities with the Japanese prints of Hiroshige”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "tonalism",
+      "source": {
+        "label": "Wikipedia: “The blue tonality of the work is characteristic of Whistler's style at this time”",
+        "url": "https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "I did not intend it to be a ‘correct’ portrait of the bridge. It is only a moonlight scene, and the pier in the centre of the picture may not be like the piers at Battersea Bridge as you know them in broad daylight.",
+        "lead": "Asked in court in 1878 whether the picture was a correct representation of Battersea Bridge:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "The Gentle Art of Making Enemies (“The Action”: transcript of Whistler v. Ruskin, 1878)",
+          "publisher": "G. P. Putnam’s Sons (Internet Archive scan, Cornell copy)",
+          "year": "1890",
+          "url": "https://archive.org/details/cu31924008743159",
+          "readAt": "https://archive.org/stream/cu31924008743159/cu31924008743159_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In painting his Nocturnes, Whistler created his own medium, a mixture consisting of copal, turpentine, and linseed oil that was so runny he often had to lay the canvas flat in order to keep the mixture from running off the surface.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nocturne: Blue and Gold – Old Battersea Bridge",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The blue mystery that veils the world from dusk to dawn is in the colour-prints of Hiroshige. But the wood block cannot give the depth of the darkness … Hiroshige saw and felt the beauty, and invented a wonderful scheme by which to suggest it on the block, but he could not render the night as Whistler rendered it on canvas.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Often the very high or very low horizon, the line of a bridge over a river, the spray of foliage across the foreground, the golden curve of the falling rocket, the placing of the figure on the shore, the signature in its oblong panel, will show how much he learned from them.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "And when the evening mist clothes the riverside with poetry, as with a veil, and the poor buildings lose themselves in the dim sky, and the tall chimneys become campanili, and the warehouses are palaces in the night, and the whole city hangs in the heavens, and fairy-land is before us—then the wayfarer hastens home",
+        "lead": "From his “Ten O’Clock” lecture, 1885:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "“Ten O’Clock” (lecture first delivered 20 February 1885)",
+          "publisher": "Houghton, Mifflin and Company (Internet Archive scan)",
+          "year": "1888",
+          "url": "https://archive.org/details/tenoclock00whisa",
+          "readAt": "https://archive.org/stream/tenoclock00whisa/tenoclock00whisa_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Whistler would stare at his chosen scene and then, upon turning his back, would recite the arrangement to a listener who would correct any mistake. Whistler would then go to bed, and if the image remained in his head in the morning, he painted it.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nocturne: Blue and Gold – Old Battersea Bridge",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

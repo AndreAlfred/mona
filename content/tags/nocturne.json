@@ -1,0 +1,35 @@
+{
+  "id": "nocturne",
+  "kind": "subject",
+  "name": "Nocturne",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "In America, James Abbott McNeill Whistler titled works as nocturnes to identify those paintings with a \"dreamy, pensive mood\" by applying the musical term",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Night in paintings (Western art)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Nocturne_(painting)",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The title Nocturne was suggested by the artist’s patron, Frederick Leyland, an enthusiastic amateur pianist who was especially fond of Chopin, whose nocturnes were regarded as the epitome of Romantic mood music—particularly appropriate for Whistler’s moonlit marine views.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Nocturne (1878)",
+        "publisher": "Cleveland Museum of Art",
+        "url": "https://clevelandart.org/art/1941.89",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/121103",
+        "accessed": "2026-11-18",
+        "tier": 4,
+        "license": "CC0"
+      }
+    }
+  ],
+  "archiveTerm": "nocturne"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "icon-painting",
+  "kind": "technique",
+  "name": "Icon painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Most Russian icons are painted using egg tempera on specially prepared wooden panels, or on cloth glued onto wooden panels. Gold leaf is frequently used for halos and background areas",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Russian icons",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Russian_icons",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Because icons in Orthodoxy must follow traditional standards and are essentially copies, Orthodoxy never developed the reputation of the individual artist as Western Christianity did, and the names of even the finest icon painters are seldom recognized except by some Eastern Orthodox or art historians.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Russian icons",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Russian_icons",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "icon"
+}

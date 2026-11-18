@@ -1,0 +1,143 @@
+{
+  "id": "whistler-black-lion-wharf",
+  "artist": "james-mcneill-whistler",
+  "title": "Black Lion Wharf",
+  "date": "1859",
+  "year": 1859,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1940.808"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1940.808/1940.808_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1940.808/1940.808_print.jpg",
+    "width": 1263,
+    "height": 866,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of James Parmelee"
+  },
+  "archive": {
+    "cma": 120019
+  },
+  "phase": {
+    "label": "London and the Thames Set, 1859–61",
+    "source": {
+      "label": "Wikipedia: “he produced a set of etchings in 1860 called Thames Set”",
+      "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art collection record: etching",
+        "url": "https://clevelandart.org/art/1940.808"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "they included etchings like Black Lion Wharf, Tyzac, Whiteley and Co., which he never excelled at any period; and in each the warehouses or bridges, the docks or ships, or whatever incidents of river life appealed to him by the way, are worked out with a mass and marvel of detail.",
+          "source": {
+            "author": "Elizabeth Robins Pennell and Joseph Pennell",
+            "title": "The Life of James McNeill Whistler, vol. 1",
+            "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+            "year": "1908",
+            "url": "https://archive.org/details/lifejamesmcneil1penn",
+            "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: Whistler adopted “his adopted circle's banner of the Realism art movement”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He saw the river as no one had seen it before, in all its grime and glitter, with its forest of shipping, its endless procession of barges, its grim warehouses, its huge docks, its little waterside inns.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "After a year in London, he produced a set of etchings in 1860 called Thames Set, as counterpoint to his 1858 French set, as well as some early impressionistic work including The Thames in Ice.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "For Hamerton and others, the father of the British Etching Revival was Francis Seymour Haden, the surgeon etcher, who, with his brother-in-law, the American, James McNeill Whistler, produced a body of work starting around 1860 that still stands as one of the highpoints of etching history.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Etching revival",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Etching_revival",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This etching is the framed print seen on the back wall of Arrangement in Grey and Black No. 1, though its identification would only have been possible for those intimately familiar with Whistler’s printed oeuvre. It is believed that Whistler did indeed have a framed impression of this work installed in his house in London on Lindsey Row, where his mother sat for him.",
+        "lead": "The Art Institute of Chicago, on its impression of the print:",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Black Lion Wharf, from A Series of Sixteen Etchings of Scenes on the Thames (the “Thames Set”)",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/50837",
+          "readAt": "https://api.artic.edu/api/v1/artworks/50837?fields=id,title,description",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It therefore serves as a reference to the space itself, the artist’s studio, as well as his early acclaim in the field of printmaking.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Black Lion Wharf, from A Series of Sixteen Etchings of Scenes on the Thames (the “Thames Set”)",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/50837",
+          "readAt": "https://api.artic.edu/api/v1/artworks/50837?fields=id,title,description",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

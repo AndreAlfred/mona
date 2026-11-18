@@ -1,0 +1,147 @@
+{
+  "id": "rublev-st-peter",
+  "artist": "andrei-rublev",
+  "title": "St Peter. From Deisus Tier",
+  "date": "1408",
+  "year": 1408,
+  "medium": "tempera on wood",
+  "dimensions": "3110 × 1040 mm",
+  "museum": {
+    "name": "Russian Museum (ДРЖ-2134)",
+    "url": "https://www.wikidata.org/wiki/Q18683114"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Andrei_Rublev_-_St_Peter._From_Deisus_Tier_-_Google_Art_Project.jpg/1280px-Andrei_Rublev_-_St_Peter._From_Deisus_Tier_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 3604,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Andrei Rublev - St Peter. From Deisus Tier - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18683114"
+  },
+  "phase": {
+    "label": "Vladimir, with Daniil Chorny, 1408",
+    "source": {
+      "label": "Wikipedia: “together with Daniel Chorny he painted the Dormition Cathedral, Vladimir in 1408”",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Rublev"
+    }
+  },
+  "tags": [
+    {
+      "id": "icon-painting",
+      "source": {
+        "label": "Wikipedia: Rublev’s Deesis row for the Dormition Cathedral, Vladimir",
+        "url": "https://en.wikipedia.org/wiki/Deesis"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikidata (museum record): tempera on wood",
+        "url": "https://www.wikidata.org/wiki/Q18683114"
+      }
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Wikipedia: Rublev and Daniel Chorny in the Moscow school",
+        "url": "https://en.wikipedia.org/wiki/Moscow_school"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "in opposition to the Novgorod scheme of drawing, simplified to the last degree and executed roughly and carelessly, we now have drawing of extraordinary [refinement], complicated and even rather fantastic in its draperies.",
+          "source": {
+            "author": "N. P. Kondakov",
+            "title": "The Russian Icon, trans. Ellis H. Minns",
+            "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+            "year": "1927",
+            "url": "https://archive.org/details/bwb_P8-BIM-707",
+            "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "we can see it in the elegant draperies of the ‘ apostolic vesture ’, often blown about and restless, but having, so to speak, their own expression as they are penetrated by the artist’s desire to express his reverence for the holy personage that they drape.",
+        "source": {
+          "author": "N. P. Kondakov",
+          "title": "The Russian Icon, trans. Ellis H. Minns",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/bwb_P8-BIM-707",
+          "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Together with his companion Andrei Rublev and other painters, Chorny worked at the Dormition Cathedral in Vladimir (1408) and the Trinity Cathedral in the Trinity Lavra of St. Sergius (1420s). Some icons for these cathedrals are believed to have been painted by Chorny.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Daniel Chorny",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Daniel_Chorny",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "After the development of the full iconostasis screen there was room for a larger \"Deesis row\" or \"Great Deesis\" of full-length figures, and the number of figures expanded, both in Byzantium and in Russia.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Deesis",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Deesis",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The icons of the Assumption Cathedral are currently displayed at the Tretyakov Gallery in Moscow and the Russian Museum in Saint Petersburg.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Daniel Chorny",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Daniel_Chorny",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The iconostasis does not separate the nave from the Holy of Holies; rather, it is seen as bringing them together. … Icons are seen as windows and bridges to heaven.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Iconostasis",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Iconostasis",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

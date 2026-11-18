@@ -1,0 +1,188 @@
+{
+  "id": "whistler-falling-rocket",
+  "artist": "james-mcneill-whistler",
+  "title": "Nocturne in Black and Gold – The Falling Rocket",
+  "date": "c. 1875",
+  "year": 1875,
+  "medium": "oil paint on panel",
+  "dimensions": "60.3 × 46.4 cm",
+  "museum": {
+    "name": "Detroit Institute of Arts (46.309)",
+    "url": "https://whistlerpaintings.gla.ac.uk/catalogue/display/?mid=y170"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Whistler-Nocturne_in_black_and_gold.jpg/1280px-Whistler-Nocturne_in_black_and_gold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Whistler-Nocturne_in_black_and_gold.jpg/2560px-Whistler-Nocturne_in_black_and_gold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1594,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Whistler-Nocturne in black and gold.jpg)"
+  },
+  "archive": {
+    "wd": "Q646337"
+  },
+  "phase": {
+    "label": "The last London Nocturne, c. 1875",
+    "source": {
+      "label": "Wikipedia: “it is the last of the London Nocturnes”",
+      "url": "https://en.wikipedia.org/wiki/Nocturne_in_Black_and_Gold_%E2%80%93_The_Falling_Rocket"
+    }
+  },
+  "tags": [
+    {
+      "id": "nocturne",
+      "source": {
+        "label": "Wikipedia: “One of his many works from his series of Nocturnes”",
+        "url": "https://en.wikipedia.org/wiki/Nocturne_in_Black_and_Gold_%E2%80%93_The_Falling_Rocket"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The picture represents a distant view of Cremorne with a falling rocket and other fireworks. It occupied two days, and is a finished picture.",
+          "lead": "Under cross-examination, 1878:",
+          "source": {
+            "author": "James McNeill Whistler",
+            "title": "The Gentle Art of Making Enemies (“The Action”: transcript of Whistler v. Ruskin, 1878)",
+            "publisher": "Internet Archive scan (University of Toronto copy)",
+            "year": "1890",
+            "url": "https://archive.org/details/gentleartofmakin00whisuoft",
+            "readAt": "https://archive.org/stream/gentleartofmakin00whisuoft/gentleartofmakin00whisuoft_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Detroit Institute of Arts record (via Wikidata): oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q646337"
+      }
+    },
+    {
+      "id": "aestheticism",
+      "source": {
+        "label": "Wikipedia: “The painting exemplified the art for art's sake movement”",
+        "url": "https://en.wikipedia.org/wiki/Nocturne_in_Black_and_Gold_%E2%80%93_The_Falling_Rocket"
+      }
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Wikipedia: the signature “was clearly influenced by Japanese prints”",
+        "url": "https://en.wikipedia.org/wiki/Nocturne_in_Black_and_Gold_%E2%80%93_The_Falling_Rocket"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "“Oh, two days! The labour of two days, then, is that for which you ask two hundred guineas!” “No;—I ask it for the knowledge of a lifetime.”",
+        "lead": "Cross-examined by the Attorney-General at the libel trial, November 1878:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "The Gentle Art of Making Enemies (“The Action”: transcript of Whistler v. Ruskin, 1878)",
+          "publisher": "Internet Archive scan (University of Toronto copy)",
+          "year": "1890",
+          "url": "https://archive.org/details/gentleartofmakin00whisuoft",
+          "readAt": "https://archive.org/stream/gentleartofmakin00whisuoft/gentleartofmakin00whisuoft_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One of his many works from his series of Nocturnes, it is the last of the London Nocturnes and is now widely acknowledged to be the high point of Whistler's middle period.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nocturne in Black and Gold – The Falling Rocket",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nocturne_in_Black_and_Gold_%E2%80%93_The_Falling_Rocket",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "I have seen, and heard, much of Cockney impudence before now; but never expected to hear a coxcomb ask two hundred guineas for flinging a pot of paint in the public's face.",
+        "lead": "John Ruskin, reviewing the Grosvenor Gallery exhibition in Fors Clavigera, July 1877:",
+        "source": {
+          "author": "John Ruskin",
+          "title": "Fors Clavigera, Letter 79 (July 1877)",
+          "publisher": "George Allen (Internet Archive scan)",
+          "year": "1877",
+          "url": "https://archive.org/details/forsclavigeralet07rusk",
+          "readAt": "https://archive.org/stream/forsclavigeralet07rusk/forsclavigeralet07rusk_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He looked at The Falling Rocket, and was blind to the beauty and to the mastery of the painter.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nonetheless, the jury reached a verdict in favor of Whistler, but a farthing—the smallest unit of currency—was awarded in nominal damages, and the court costs were split.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "No! Do you know I fear it would be as hopeless as for the musician to pour his notes into the ear of a deaf man.",
+        "lead": "Asked whether he could make the Attorney-General see the beauty of the picture:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "The Gentle Art of Making Enemies (“The Action”: transcript of Whistler v. Ruskin, 1878)",
+          "publisher": "Internet Archive scan (University of Toronto copy)",
+          "year": "1890",
+          "url": "https://archive.org/details/gentleartofmakin00whisuoft",
+          "readAt": "https://archive.org/stream/gentleartofmakin00whisuoft/gentleartofmakin00whisuoft_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The cost of the case, together with huge debts from building his residence (\"The White House\" in Tite Street, Chelsea, designed with E. W. Godwin, 1877–8), bankrupted him by May 1879, resulting in an auction of his work, collections, and house.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

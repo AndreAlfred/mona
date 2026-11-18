@@ -1,0 +1,34 @@
+{
+  "id": "tonalism",
+  "kind": "movement",
+  "name": "Tonalism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "American artists began to paint landscape forms with an overall tone of colored atmosphere or mist. Between 1880 and 1915, dark, neutral hues such as gray, brown or blue, often dominated compositions by artists associated with the style.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Tonalism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Tonalism",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "During the late 1890s, American art critics began to use the term \"tonal\" to describe these works, as well as the lesser-known synonyms Quietism and Intimism. Two of the leading associated painters were George Inness and James McNeill Whistler.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Tonalism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Tonalism",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "tonalism"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "rublev-last-judgment",
+  "artist": "andrei-rublev",
+  "title": "The Last Judgment (fresco)",
+  "date": "1408",
+  "year": 1408,
+  "medium": "fresco",
+  "museum": {
+    "name": "Dormition Cathedral, Vladimir",
+    "url": "https://www.wikidata.org/wiki/Q19947518"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Rublev_fresco%2C_Vladimir_cathedral_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 796,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Rublev fresco, Vladimir cathedral 02.jpg)"
+  },
+  "archive": {
+    "wd": "Q19947518"
+  },
+  "phase": {
+    "label": "Vladimir, with Daniil Chorny, 1408",
+    "source": {
+      "label": "Wikipedia: “together with Daniel Chorny he painted the Dormition Cathedral, Vladimir in 1408”",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Rublev"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: “The only remaining fresco painted by Andrei Rublev, inside the Dormition Cathedral in Vladimir”",
+        "url": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The interior was painted in the 12th century and then repainted by Andrei Rublev and Daniil Chernyi in 1408.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Dormition Cathedral, Vladimir",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Dormition_Cathedral,_Vladimir",
+            "accessed": "2026-11-18",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Wikipedia: the Moscow school’s flourishing “is associated with Theophanes the Greek, Andrei Rublev and Daniel Chorny”",
+        "url": "https://en.wikipedia.org/wiki/Moscow_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The only remaining fresco painted by Andrei Rublev, inside the Dormition Cathedral in Vladimir.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Trinity (Andrei Rublev)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The wall-paintings of the [Dormition Cathedral] at Vladimir designed by Rublév were only exposed in 1919, too late for me to see.",
+        "source": {
+          "author": "N. P. Kondakov",
+          "title": "The Russian Icon, trans. Ellis H. Minns",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/bwb_P8-BIM-707",
+          "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Of course the frescoes were not painted by Rublév himself but by his pupils or assistant [craftsmen]",
+        "lead": "Kondakov, from photographs, doubted how much was by Rublev’s own hand:",
+        "source": {
+          "author": "N. P. Kondakov",
+          "title": "The Russian Icon, trans. Ellis H. Minns",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/bwb_P8-BIM-707",
+          "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The theme of the Last Judgment is important in Orthodoxy. Traditionally, an Orthodox church will have a fresco or mosaic of the Last Judgment on the back (western) wall so that the faithful, as they leave the services, are reminded that they will be judged by what they do during earthly life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Last Judgment",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Last_Judgment",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The image in Eastern Orthodox icons has a similar composition, but usually less space is devoted to hell, and there are often a larger number of scenes",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Last Judgment",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Last_Judgment",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Together with his companion Andrei Rublev and other painters, Chorny worked at the Dormition Cathedral in Vladimir (1408) and the Trinity Cathedral in the Trinity Lavra of St. Sergius (1420s).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Daniel Chorny",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Daniel_Chorny",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Andrei confides to Daniil that the task disgusts him and that he is unable to paint a subject such as the Last Judgement, as he does not want to terrify people into submission.",
+        "lead": "In Tarkovsky’s film Andrei Rublev (1966), whose fifth episode is set in Vladimir in 1408:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Andrei Rublev (film)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Andrei_Rublev_(film)",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

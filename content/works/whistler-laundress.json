@@ -1,0 +1,160 @@
+{
+  "id": "whistler-laundress",
+  "artist": "james-mcneill-whistler",
+  "title": "The Laundress: La Blanchisseuse de la place Dauphine",
+  "date": "1894",
+  "year": 1894,
+  "medium": "transfer lithograph",
+  "dimensions": "Image: 23 x 15.7 cm (9 1/16 x 6 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1924.17"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1924.17/1924.17_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1924.17/1924.17_print.jpg",
+    "width": 611,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. Ralph King"
+  },
+  "archive": {
+    "cma": 106056
+  },
+  "phase": {
+    "label": "Paris and lithography, 1890s",
+    "source": {
+      "label": "Wikipedia: “Around this time … Whistler experimented … with lithography”",
+      "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Cleveland Museum of Art collection record: transfer lithograph",
+        "url": "https://clevelandart.org/art/1924.17"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He had found at Belfont’s or Lemercier’s some thin textureless transfer paper, thin as tissue paper, which delighted him, though it was difficult to work on.",
+          "lead": "Joseph Pennell, watching Whistler at work on lithographs in Paris in 1892:",
+          "source": {
+            "author": "Elizabeth Robins Pennell and Joseph Pennell",
+            "title": "The Life of James McNeill Whistler, vol. 2",
+            "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+            "year": "1908",
+            "url": "https://archive.org/details/lifejamesmcneil2penn",
+            "readAt": "https://archive.org/stream/lifejamesmcneil2penn/lifejamesmcneil2penn_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “laundresses are seen through a doorway, their sleeves pushed up for work”",
+        "url": "https://clevelandart.org/art/1924.17"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "During this period, he produced also a large number of lithographs, excellently catalogued by Mr. T. R. Way, who printed most of them for him",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 2",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil2penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil2penn/lifejamesmcneil2penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This print is one of several in which James McNeill Whistler depicted a laundry shop on Paris’s historic place Dauphine, near Notre Dame cathedral. As an American expatriate, Whistler was fascinated by the city’s storefronts and recorded them often.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Laundress: La Blanchisseuse de la place Dauphine",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1924.17",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106056",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The subject reflects a practice that Edgar Degas himself favored and which had become recognizable in his work",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Laundress: La Blanchisseuse de la place Dauphine",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1924.17",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106056",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He felt welcomed by his old Paris friends Monet, Auguste Rodin, Henri de Toulouse-Lautrec, as well as Stéphane Mallarmé, and he set himself up a large studio.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Art happens—no hovel is safe from it, no Prince may depend upon it, the vastest intelligence cannot bring it about",
+        "lead": "From his “Ten O’Clock” lecture, 1885:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "“Ten O’Clock” (lecture first delivered 20 February 1885)",
+          "publisher": "Houghton, Mifflin and Company (Internet Archive scan)",
+          "year": "1888",
+          "url": "https://archive.org/details/tenoclock00whisa",
+          "readAt": "https://archive.org/stream/tenoclock00whisa/tenoclock00whisa_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Here, he presents a scene that captivated many urban dwellers at the time: laundresses are seen through a doorway, their sleeves pushed up for work.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Laundress: La Blanchisseuse de la place Dauphine",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1924.17",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106056",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

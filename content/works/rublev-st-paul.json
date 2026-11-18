@@ -1,0 +1,163 @@
+{
+  "id": "rublev-st-paul",
+  "artist": "andrei-rublev",
+  "title": "St Paul. From Deisus Tier",
+  "date": "1408",
+  "year": 1408,
+  "medium": "tempera on wood",
+  "dimensions": "3110 × 1040 mm",
+  "museum": {
+    "name": "Russian Museum (ДРЖ-2722)",
+    "url": "https://www.wikidata.org/wiki/Q18683113"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Andrei_Rublev_-_St_Paul._From_Deisus_Tier_-_Google_Art_Project.jpg/1280px-Andrei_Rublev_-_St_Paul._From_Deisus_Tier_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 3615,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Andrei Rublev - St Paul. From Deisus Tier - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18683113"
+  },
+  "phase": {
+    "label": "Vladimir, with Daniil Chorny, 1408",
+    "source": {
+      "label": "Wikipedia: “together with Daniel Chorny he painted the Dormition Cathedral, Vladimir in 1408”",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Rublev"
+    }
+  },
+  "tags": [
+    {
+      "id": "icon-painting",
+      "source": {
+        "label": "Wikipedia: “Andrei Rublev's row for the Cathedral of the Dormition in Vladimir”",
+        "url": "https://en.wikipedia.org/wiki/Deesis"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Andrei Rublev's row for the Cathedral of the Dormition in Vladimir was 3.14 metres (over ten feet) high.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Deesis",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Deesis",
+            "accessed": "2026-11-18",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikidata (museum record): tempera on wood",
+        "url": "https://www.wikidata.org/wiki/Q18683113"
+      }
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Cleveland Museum of Art catalogue (1931): “SAINT PAUL. Attributed to Andrew Rublev, Moscow School”",
+        "url": "https://archive.org/details/RussianIcons"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The first of these, which is of gigantic size, shows us Rublev’s monumental style. It almost produces the effect of a fresco painting; for Rublev knows how to sacrifice all minor details to the general effect.",
+        "lead": "On the Apostle Paul, shown in London in 1929:",
+        "source": {
+          "author": "Victoria and Albert Museum",
+          "title": "Ancient Russian Icons from the XIIth to the XIXth Centuries (exhibition catalogue)",
+          "publisher": "Victoria and Albert Museum",
+          "year": "1929",
+          "url": "https://archive.org/details/ancient-russian-icons-london-1929-6134",
+          "readAt": "https://archive.org/stream/ancient-russian-icons-london-1929-6134/Ancient%20Russian%20Icons%20London%201929%20%236134_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[This panel] came from the Deesis Tier of the Iconostas of the Uspenski Cathedral, Vladimir.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Russian Icons (catalogue of the exhibition received from the American Russian Institute)",
+          "publisher": "Cleveland Museum of Art",
+          "year": "1931",
+          "url": "https://archive.org/details/RussianIcons",
+          "readAt": "https://archive.org/stream/RussianIcons/45731-RussianIcons_reduced_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 4
+        },
+        "lead": "The 1931 Cleveland catalogue of the touring exhibition:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Soon seven figures, usually one to a panel, became standard, in order of proximity to Christ in the centre: on the left (Christ's right) Mary, the Archangel Michael and Saint Peter, and on the right John the Baptist, the Archangel Gabriel and Saint Paul.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Deesis",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Deesis",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Emphasizing the succession, princes of Moscow took good care of Vladimir's sacred places.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vladimir-Suzdal",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Vladimir-Suzdal",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the reign of Catherine [II] these ikons were removed from the Cathedral and sold to the peasants of the village of Vasilievskoe (in the Government of Vladimir) ; in 1922 they were brought to Moscow for the purpose of restoration.",
+        "source": {
+          "author": "Victoria and Albert Museum",
+          "title": "Ancient Russian Icons from the XIIth to the XIXth Centuries (exhibition catalogue)",
+          "publisher": "Victoria and Albert Museum",
+          "year": "1929",
+          "url": "https://archive.org/details/ancient-russian-icons-london-1929-6134",
+          "readAt": "https://archive.org/stream/ancient-russian-icons-london-1929-6134/Ancient%20Russian%20Icons%20London%201929%20%236134_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Mary and John, and any other figures, are shown facing towards Christ with their hands raised in supplication on behalf of humanity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Deesis",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Deesis",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

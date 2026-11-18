@@ -1,0 +1,161 @@
+{
+  "id": "rublev-virgin-of-vladimir",
+  "artist": "andrei-rublev",
+  "title": "Virgin of Vladimir (copy)",
+  "date": "early 15th century",
+  "year": 1405,
+  "museum": {
+    "name": "Vladimir-Suzdal Museum, Vladimir",
+    "url": "https://www.wikidata.org/wiki/Q11771530"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Vladimirskaya_by_A.Rublev_%281395-1410s%2C_Vladimir_museum%29.jpg/1280px-Vladimirskaya_by_A.Rublev_%281395-1410s%2C_Vladimir_museum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1822,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Vladimirskaya by A.Rublev (1395-1410s, Vladimir museum).jpg)"
+  },
+  "archive": {
+    "wd": "Q11771530"
+  },
+  "phase": {
+    "label": "Early maturity, c. 1405",
+    "source": {
+      "label": "Wikipedia: “Version of the Theotokos of Vladimir, c. 1405”",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Rublev"
+    }
+  },
+  "tags": [
+    {
+      "id": "icon-painting",
+      "source": {
+        "label": "Wikipedia: “Fifteenth century copy, sometimes attributed to Andrei Rublev”",
+        "url": "https://en.wikipedia.org/wiki/Virgin_of_Vladimir"
+      }
+    },
+    {
+      "id": "byzantine-art",
+      "source": {
+        "label": "Wikipedia: the original is “a 12th-century Byzantine icon depicting the Virgin and Child”",
+        "url": "https://en.wikipedia.org/wiki/Virgin_of_Vladimir"
+      }
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Cleveland Museum of Art catalogue (1931): “from the Suzdal-Moscow School”",
+        "url": "https://archive.org/details/RussianIcons"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "And in Rublév there was something more than artistic skill, there was in him the personal experience and expression of a new religious emotion (umilénie) concentrated upon icons of Our Lady with the Child. Hence the great number of copies and their spreading all the way to Novgorod and Pskov.",
+          "source": {
+            "author": "N. P. Kondakov",
+            "title": "The Russian Icon, trans. Ellis H. Minns",
+            "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+            "year": "1927",
+            "url": "https://archive.org/details/bwb_P8-BIM-707",
+            "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 2
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A copy of the original of Number I [the twelfth-century Vladimir icon], from the Suzdal-Moscow School, made in the fifteenth century and showing the overpainting of the original at that time.",
+        "lead": "Catalogued when it toured Europe and America in 1929–32:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Russian Icons (catalogue of the exhibition received from the American Russian Institute)",
+          "publisher": "Cleveland Museum of Art",
+          "year": "1931",
+          "url": "https://archive.org/details/RussianIcons",
+          "readAt": "https://archive.org/stream/RussianIcons/45731-RussianIcons_reduced_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "How far these two icons do belong to the Suzdal’ type of Our Lady, and, further, how far this type does actually go back to Rublév, we can judge by a series of copies of Our Lady’s Tenderness and in particular of the Vladimir icon preserved in various churches of central Russia",
+        "source": {
+          "author": "N. P. Kondakov",
+          "title": "The Russian Icon, trans. Ellis H. Minns",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/bwb_P8-BIM-707",
+          "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In its nine centuries of existence, the icon has been restored and overpainted at least five times to deal with damage and deterioration, including a fifteenth century restoration thought to have been led by Andrei Rublev.",
+        "lead": "Of the twelfth-century original:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin of Vladimir",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Virgin_of_Vladimir",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the late fourteenth century, the principal object of worship of the \"old\" capital—the icon of the Theotokos of Vladimir—was transferred to Moscow. Vladimir became a model for Muscovy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vladimir-Suzdal",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Vladimir-Suzdal",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is one of the most culturally significant and celebrated pieces of art in Russian history. Many consider it a national palladium with several miracles of historical importance to Russia being attributed to the icon.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Virgin of Vladimir",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Virgin_of_Vladimir",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "There are far more varieties of icons of the Virgin Mary in Russian icon painting and religious use than of any other figure; Marian icons are commonly copies of images considered to be miraculous, of which there are hundreds",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Russian icons",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Russian_icons",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

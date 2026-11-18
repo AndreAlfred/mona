@@ -1,0 +1,34 @@
+{
+  "id": "moscow-school",
+  "kind": "style",
+  "name": "Moscow school",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The basis of the Moscow school of painting was the synthesis of local traditions with Byzantine and South Slavic art. … The flourishing of the Moscow school in the late 14th and early 15th centuries is associated with Theophanes the Greek, Andrei Rublev and Daniel Chorny.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Moscow school",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Moscow_school",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "For a whole century Rublev’s influence determined the destiny of Russian art; but at the end of the 15th century the style which he originated lost its classic severity and tended to mere elegance.",
+      "source": {
+        "author": "Victoria and Albert Museum",
+        "title": "Ancient Russian Icons from the XIIth to the XIXth Centuries (exhibition catalogue)",
+        "publisher": "Victoria and Albert Museum",
+        "year": "1929",
+        "url": "https://archive.org/details/ancient-russian-icons-london-1929-6134",
+        "readAt": "https://archive.org/stream/ancient-russian-icons-london-1929-6134/Ancient%20Russian%20Icons%20London%201929%20%236134_djvu.txt",
+        "accessed": "2026-11-18",
+        "tier": 4
+      }
+    }
+  ]
+}

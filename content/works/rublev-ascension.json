@@ -1,0 +1,147 @@
+{
+  "id": "rublev-ascension",
+  "artist": "andrei-rublev",
+  "title": "Ascension",
+  "date": "1408",
+  "year": 1408,
+  "dimensions": "125 × 92 cm",
+  "museum": {
+    "name": "Tretyakov Gallery (14249)",
+    "url": "https://www.wikidata.org/wiki/Q130564700"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ascension_from_Vasilyevskiy_chin_%2815th_c.%2C_GTG%29_%28ColorEdit%29.jpg/1280px-Ascension_from_Vasilyevskiy_chin_%2815th_c.%2C_GTG%29_%28ColorEdit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1713,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ascension from Vasilyevskiy chin (15th c., GTG) (ColorEdit).jpg)"
+  },
+  "archive": {
+    "wd": "Q130564700"
+  },
+  "phase": {
+    "label": "Vladimir, with Daniil Chorny, 1408",
+    "source": {
+      "label": "Wikipedia: “together with Daniel Chorny he painted the Dormition Cathedral, Vladimir in 1408”",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Rublev"
+    }
+  },
+  "tags": [
+    {
+      "id": "icon-painting",
+      "source": {
+        "label": "Wikidata: “Ascension from Vasilyevskiy chin”, icon by Andrei Rublev",
+        "url": "https://www.wikidata.org/wiki/Q130564700"
+      }
+    },
+    {
+      "id": "byzantine-art",
+      "source": {
+        "label": "Wikipedia: Christ in a mandorla above the Virgin and Apostles “was to remain the standard Byzantine and Eastern Orthodox depiction”",
+        "url": "https://en.wikipedia.org/wiki/Ascension_of_Jesus_in_Christian_art"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The Rabbula Gospels (c. 586) include some of the earliest images of the Crucifixion and Ascension, and in their Ascension depictions the Virgin Mary occupies a central position among the Apostles; Christ appears in a mandorla above, accompanied by angels. This was to remain the standard Byzantine and Eastern Orthodox depiction.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Ascension of Jesus in Christian art",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Ascension_of_Jesus_in_Christian_art",
+            "accessed": "2026-11-18",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Wikipedia: the Moscow school’s flourishing “is associated with Theophanes the Greek, Andrei Rublev and Daniel Chorny”",
+        "url": "https://en.wikipedia.org/wiki/Moscow_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "From the Festival Tier of the Iconostas in the Uspenski Cathedral at Vladimir for which Rublev worked, it passed in xviii c. to Vasilievskoe, near Shuya.",
+        "lead": "The 1929 London catalogue, of a sister icon from the same feast tier:",
+        "source": {
+          "author": "Victoria and Albert Museum",
+          "title": "Ancient Russian Icons from the XIIth to the XIXth Centuries (exhibition catalogue)",
+          "publisher": "Victoria and Albert Museum",
+          "year": "1929",
+          "url": "https://archive.org/details/ancient-russian-icons-london-1929-6134",
+          "readAt": "https://archive.org/stream/ancient-russian-icons-london-1929-6134/Ancient%20Russian%20Icons%20London%201929%20%236134_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 4
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Descent into Hell bears witness to the master’s gift as a pure colourist ; the mere combination of crude colours does not satisfy him; he aims at a particular harmony.",
+        "source": {
+          "author": "Victoria and Albert Museum",
+          "title": "Ancient Russian Icons from the XIIth to the XIXth Centuries (exhibition catalogue)",
+          "publisher": "Victoria and Albert Museum",
+          "year": "1929",
+          "url": "https://archive.org/details/ancient-russian-icons-london-1929-6134",
+          "readAt": "https://archive.org/stream/ancient-russian-icons-london-1929-6134/Ancient%20Russian%20Icons%20London%201929%20%236134_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 4
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Feasts tier contains icons of the twelve Great Feasts of the liturgical year.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Iconostasis",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Iconostasis",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the early fourteenth century, leadership in the northeastern lands was transferred from the Principality of Vladimir to Moscow … Emphasizing the succession, princes of Moscow took good care of Vladimir's sacred places.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vladimir-Suzdal",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Vladimir-Suzdal",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The earthly part of the Ascension depictions do not only represent those believed to have been present at the Ascension, but the entire Church. … In Orthodox icons the Virgin Mary is at the center and Christ can be depicted in a mandorla, supported by angels.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ascension of Jesus in Christian art",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ascension_of_Jesus_in_Christian_art",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

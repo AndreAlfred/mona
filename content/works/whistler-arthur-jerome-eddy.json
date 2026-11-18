@@ -1,0 +1,165 @@
+{
+  "id": "whistler-arthur-jerome-eddy",
+  "artist": "james-mcneill-whistler",
+  "title": "Arrangement in Flesh Color and Brown: Portrait of Arthur Jerome Eddy",
+  "date": "1894",
+  "year": 1894,
+  "medium": "Oil on canvas",
+  "dimensions": "210.7 × 93.3 cm (82 15/16 × 36 3/4 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/8958"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/James_McNeill_Whistler_-_Arrangement_in_Flesh_Color_and_Brown%2C_Portrait_of_Arthur_Jerome_Eddy_-_1931.501_-_Art_Institute_of_Chicago.jpg/1280px-James_McNeill_Whistler_-_Arrangement_in_Flesh_Color_and_Brown%2C_Portrait_of_Arthur_Jerome_Eddy_-_1931.501_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2697,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (James McNeill Whistler - Arrangement in Flesh Color and Brown, Portrait of Arthur Jerome Eddy - 1931.501 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 8958
+  },
+  "phase": {
+    "label": "Late portraits, Paris, 1890s",
+    "source": {
+      "label": "Pennell: “He began a number of large portraits in the Rue Notre-Dame-des-Champs. In 1893, Mr. A. J. Eddy …”",
+      "url": "https://archive.org/details/lifejamesmcneil2penn"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Art Institute of Chicago: “The painting still serves as a portrait”",
+        "url": "https://www.artic.edu/artworks/8958"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It was as if the portrait were hidden within the canvas and the master by passing his wands day after day over the surface evoked the image.",
+          "source": {
+            "author": "Arthur Jerome Eddy",
+            "title": "Recollections and Impressions of James A. McNeill Whistler",
+            "publisher": "J. B. Lippincott Company (Internet Archive scan)",
+            "year": "1903",
+            "url": "https://archive.org/details/cu31924014881241",
+            "readAt": "https://archive.org/stream/cu31924014881241/cu31924014881241_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Art Institute of Chicago collection record: oil on canvas",
+        "url": "https://www.artic.edu/artworks/8958"
+      }
+    },
+    {
+      "id": "aestheticism",
+      "source": {
+        "label": "Art Institute of Chicago: “He called works such as this one an ‘arrangement,’ emphasizing formal elements rather than subject matter”",
+        "url": "https://www.artic.edu/artworks/8958"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He worked with great rapidity and long hours, but he used his colors thin and covered the canvas with innumerable coats of paint.",
+        "lead": "The sitter, Arthur Jerome Eddy, on Whistler’s method:",
+        "source": {
+          "author": "Arthur Jerome Eddy",
+          "title": "Recollections and Impressions of James A. McNeill Whistler",
+          "publisher": "J. B. Lippincott Company (Internet Archive scan)",
+          "year": "1903",
+          "url": "https://archive.org/details/cu31924014881241",
+          "readAt": "https://archive.org/stream/cu31924014881241/cu31924014881241_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "James McNeill Whistler created thinly painted compositions with flat, nearly abstract passages, purposefully subtle in character. He called works such as this one an “arrangement,” emphasizing formal elements rather than subject matter.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Arrangement in Flesh Color and Brown: Portrait of Arthur Jerome Eddy",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/8958",
+          "readAt": "https://api.artic.edu/api/v1/artworks/8958?fields=id,title,description",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting still serves as a portrait—it was commissioned by Chicago attorney Arthur Jerome Eddy, a collector and advocate of modern art. After seeing Whistler’s work at the 1893 World’s Columbian Exposition in the city, Eddy traveled to the artist’s studio in Paris expressly to sit for this portrait.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Arrangement in Flesh Color and Brown: Portrait of Arthur Jerome Eddy",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/8958",
+          "readAt": "https://api.artic.edu/api/v1/artworks/8958?fields=id,title,description",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Whistler was not so successful a portrait painter as the other famous expatriate American John Singer Sargent.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "His description of Mr. Eddy was, “Well, you know, he is the only man who ever did get a picture out of me on time, while I worked and he waited!”",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 2",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil2penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil2penn/lifejamesmcneil2penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The two became lasting friends, and Eddy published a book on Whistler after the artist’s death in 1903.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Arrangement in Flesh Color and Brown: Portrait of Arthur Jerome Eddy",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/8958",
+          "readAt": "https://api.artic.edu/api/v1/artworks/8958?fields=id,title,description",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}
