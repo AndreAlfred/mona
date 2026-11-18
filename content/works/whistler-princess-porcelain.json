@@ -1,0 +1,177 @@
+{
+  "id": "whistler-princess-porcelain",
+  "artist": "james-mcneill-whistler",
+  "title": "The Princess from the Land of Porcelain (La Princesse du pays de la porcelaine)",
+  "date": "1863–65",
+  "year": 1864,
+  "medium": "oil paint on canvas",
+  "dimensions": "201.5 × 116.1 cm",
+  "museum": {
+    "name": "Freer Gallery of Art (F1903.91a-b)",
+    "url": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1903.91a-b/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/James_McNeill_Whistler_-_La_Princesse_du_pays_de_la_porcelaine_-_brighter.jpg/1280px-James_McNeill_Whistler_-_La_Princesse_du_pays_de_la_porcelaine_-_brighter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/James_McNeill_Whistler_-_La_Princesse_du_pays_de_la_porcelaine_-_brighter.jpg/2560px-James_McNeill_Whistler_-_La_Princesse_du_pays_de_la_porcelaine_-_brighter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2120,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (James McNeill Whistler - La Princesse du pays de la porcelaine - brighter.jpg)"
+  },
+  "archive": {
+    "wd": "Q4290303"
+  },
+  "phase": {
+    "label": "The Japanese pictures, 1863–65",
+    "source": {
+      "label": "Pennell, Life of Whistler, contents: “The Japanese Pictures—The Princesse du Pays de la Porcelaine”",
+      "url": "https://archive.org/details/lifejamesmcneil1penn"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Freer Gallery of Art record (via Wikidata): oil on canvas",
+        "url": "https://www.wikidata.org/wiki/Q4290303"
+      }
+    },
+    {
+      "id": "japonisme",
+      "source": {
+        "label": "Wikipedia: “a reflection of the current Anglo-Japanese trend”",
+        "url": "https://en.wikipedia.org/wiki/La_Princesse_du_pays_de_la_porcelaine"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It was not Japan he wanted to paint, but the beautiful colour and form of Japanese detail, as the titles he afterwards found for the pictures explain",
+          "source": {
+            "author": "Elizabeth Robins Pennell and Joseph Pennell",
+            "title": "The Life of James McNeill Whistler, vol. 1",
+            "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+            "year": "1908",
+            "url": "https://archive.org/details/lifejamesmcneil1penn",
+            "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Pennell: “the portrait of Miss Christine Spartali”",
+        "url": "https://archive.org/details/lifejamesmcneil1penn"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Whistler would look at the picture from a distance, then suddenly dash at it, give one stroke, then dash away again.",
+        "lead": "As the sitter’s sister, Marie Spartali Stillman, remembered the sittings:",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Princess is one of several of Whistler's works painted during this period that depict a Western woman in Asian-styled surroundings and Asian-styled costume, a reflection of the current Anglo-Japanese trend and Art Nouveau aesthetic.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La Princesse du pays de la porcelaine",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/La_Princesse_du_pays_de_la_porcelaine",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "the story of the beautiful is already complete—hewn in the marbles of the Parthenon—and broidered, with the birds, upon the fan of Hokusai—at the foot of Fusi-yama.",
+        "lead": "Closing his “Ten O’Clock” lecture, 1885:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "“Ten O’Clock” (lecture first delivered 20 February 1885)",
+          "publisher": "Houghton, Mifflin and Company (Internet Archive scan)",
+          "year": "1888",
+          "url": "https://archive.org/details/tenoclock00whisa",
+          "readAt": "https://archive.org/stream/tenoclock00whisa/tenoclock00whisa_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In a review for the 1865 Paris Salon, Gustave Vattier wrote that the painting was not ready for display, saying that \"a child's breath could blow it over\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La Princesse du pays de la porcelaine",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/La_Princesse_du_pays_de_la_porcelaine",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Princess was painted between 1863 and 1865 by James Abbott McNeill Whistler, with Christine Spartali, the sister of Pre-Raphaelite artist Marie Spartali Stillman, serving as the model",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La Princesse du pays de la porcelaine",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/La_Princesse_du_pays_de_la_porcelaine",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When the portrait was completed, Spartali's father refused to purchase it; Whistler's large signature at the top led another would-be buyer to withdraw. This may have led Whistler to develop his later butterfly-style signature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La Princesse du pays de la porcelaine",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/La_Princesse_du_pays_de_la_porcelaine",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Princess continues to be housed in The Peacock Room at the Freer Gallery, shown hung above the fireplace amidst a rotating stock of Asian ceramics.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "La Princesse du pays de la porcelaine",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/La_Princesse_du_pays_de_la_porcelaine",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "aestheticism",
+  "kind": "movement",
+  "name": "Aestheticism",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Aestheticism (also known as the aesthetic movement) was an art movement in the late 19th century that valued the appearance of literature, music, fonts, and the arts over their functions. According to Aestheticism, art should be produced to be beautiful, rather than to teach a lesson, create a parallel, or perform another didactic purpose, a sentiment expressed in the slogan \"art for art's sake\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Aestheticism",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Aestheticism",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Art has been maligned. She has naught in common with such practices. She is a goddess of dainty thought—reticent of habit, abjuring all obtrusiveness, purposing in no way to better others.",
+      "lead": "Whistler, in his “Ten O’Clock” lecture, 1885:",
+      "source": {
+        "author": "James McNeill Whistler",
+        "title": "“Ten O’Clock” (lecture first delivered 20 February 1885)",
+        "publisher": "Houghton, Mifflin and Company (Internet Archive scan)",
+        "year": "1888",
+        "url": "https://archive.org/details/tenoclock00whisa",
+        "readAt": "https://archive.org/stream/tenoclock00whisa/tenoclock00whisa_djvu.txt",
+        "accessed": "2026-11-18",
+        "tier": 1
+      }
+    }
+  ],
+  "archiveTerm": "aesthetic movement"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "whistler-white-girl",
+  "artist": "james-mcneill-whistler",
+  "title": "Symphony in White, No. 1: The White Girl",
+  "date": "1861–62",
+  "year": 1862,
+  "medium": "oil paint on canvas",
+  "dimensions": "213 × 107.9 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington (1943.6.2)",
+    "url": "https://www.nga.gov/collection/art-object-page.12198.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Whistler_James_Symphony_in_White_no_1_%28The_White_Girl%29_1862.jpg/1280px-Whistler_James_Symphony_in_White_no_1_%28The_White_Girl%29_1862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Whistler_James_Symphony_in_White_no_1_%28The_White_Girl%29_1862.jpg/2560px-Whistler_James_Symphony_in_White_no_1_%28The_White_Girl%29_1862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2406,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Whistler James Symphony in White no 1 (The White Girl) 1862.jpg)"
+  },
+  "archive": {
+    "wd": "Q970968"
+  },
+  "phase": {
+    "label": "First famous work, 1861–62",
+    "source": {
+      "label": "Wikipedia: “In 1861 … Whistler painted his first famous work, Symphony in White, No. 1”",
+      "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "National Gallery of Art record (via Wikidata): oil on canvas",
+        "url": "https://www.wikidata.org/wiki/Q970968"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “The portrait of his mistress and business manager Joanna Hiffernan”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "aestheticism",
+      "source": {
+        "label": "Wikipedia: “he intended to emphasize his ‘art for art's sake’ philosophy”",
+        "url": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Though the painting was originally called The White Girl, Whistler later started calling it Symphony in White, No. 1. By referring to his work in such abstract terms, he intended to emphasize his \"art for art's sake\" philosophy.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Symphony in White, No. 1: The White Girl",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl",
+            "accessed": "2026-11-18",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: “the realism the painting displayed in its original form, a trait he blamed on the influence Courbet had on him”",
+        "url": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "…a woman in a beautiful white cambric dress, standing against a window which filters the light through a transparent white muslin curtain – but the figure receives a strong light from the right and therefore the picture, barring the red hair, is one gorgeous mass of brilliant white.",
+        "lead": "Describing the finished picture to George du Maurier in 1862:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "Letter to George du Maurier, 1862, as quoted in “Symphony in White, No. 1: The White Girl”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl",
+          "accessed": "2026-11-18",
+          "tier": 1,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The White Girl was his first attempt to conform to a principle no one ever put so clearly into words.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This color scheme was a subject he would return to later, in two paintings that would be given the titles of Symphony in White, No. 2 (1864) and Symphony in White, No. 3 (1865–1867).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Symphony in White, No. 1: The White Girl",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was without subject, according to Victorian standards, and the arrangement of white upon white was more bewildering even than the minute detail of the Pre-Raphaelites.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The 1863 Salon des Refusés was the same exhibition where Édouard Manet's Déjeuner sur l'herbe caused a scandal, yet the attention given to Whistler's White Girl was even greater.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Symphony in White, No. 1: The White Girl",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I had no intention whatsoever of illustrating Mr Wilkie Collins' novel. My painting simply represents a girl dressed in white standing in front of a white curtain.",
+        "lead": "Answering a critic who had compared the picture to Wilkie Collins’s The Woman in White:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "Letter to the Athenaeum, 1862, as quoted in “Symphony in White, No. 1: The White Girl”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl",
+          "accessed": "2026-11-18",
+          "tier": 1,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The model is Joanna Hiffernan, the artist's mistress.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Symphony in White, No. 1: The White Girl",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

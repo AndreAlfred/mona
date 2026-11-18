@@ -1,0 +1,177 @@
+{
+  "id": "whistler-nocturne-palaces",
+  "artist": "james-mcneill-whistler",
+  "title": "Nocturne: Palaces",
+  "date": "1879–80",
+  "year": 1879,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.461"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.461/1922.461_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.461/1922.461_print.jpg",
+    "width": 608,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. Ralph King"
+  },
+  "archive": {
+    "cma": 104325
+  },
+  "phase": {
+    "label": "Venice, 1879–80",
+    "source": {
+      "label": "Wikipedia: “During a fourteen-month stay in Venice in 1879 and 1880, Whistler created a series of etchings and pastels”",
+      "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art collection record: etching",
+        "url": "https://clevelandart.org/art/1922.461"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In developing this image, Whistler exploited plate tone (ink left on the unetched surface of the copper plate) to an extraordinary degree. Etched and incised drypoint lines were used as a framework for painterly inking and wiping of the plate, which allowed for endlessly varied impressions. In fact, each example of Nocturne: Palaces is different, conveying distinctive interpretations of light, darkness, and atmosphere.",
+          "lead": "The Art Institute of Chicago, on its impressions of the plate:",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Nocturne: Palaces",
+            "publisher": "Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/29567",
+            "readAt": "https://api.artic.edu/api/v1/artworks/29567?fields=id,title,description",
+            "accessed": "2026-11-18",
+            "tier": 4,
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drypoint",
+      "source": {
+        "label": "Art Institute of Chicago record: “Etched and incised drypoint lines”",
+        "url": "https://www.artic.edu/artworks/29567"
+      }
+    },
+    {
+      "id": "nocturne",
+      "source": {
+        "label": "Cleveland Museum of Art collection record: Nocturne: Palaces",
+        "url": "https://clevelandart.org/art/1922.461"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "But no great artist ever carried the printing of etchings further than he, or ever made such use of printer’s ink as he did in some of these plates.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "And he used it in all sorts of ways on the same plates, to try endless experiments with ever-varying results, even to cover up the rather weak lines of an indifferent design, as in Nocturne—Palaces, prized highly by collectors, but one of his poorest plates.",
+        "lead": "The Pennells, Whistler’s friends and biographers, were not uncritical:",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "After the trial, Whistler received a commission to do twelve etchings in Venice.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "re-energized the way in which artists and photographers interpreted the city—focusing on the back alleys, side canals, entrance ways, and architectural patterns—and capturing the city's unique atmospherics.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Furthermore, Whistler influenced the American art community in Venice, especially Frank Duveneck (and Duveneck's \"boys\") and Robert Blum who emulated Whistler's vision of the city and later spread his methods and influence back to America.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I have learned to know a Venice in Venice that the others never seem to have perceived, and which, if I bring back with me as I propose, will far more than compensate for all annoyances delays & vexations of spirit.",
+        "lead": "Writing to a friend from Venice:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "Letter from Venice, 1880, as quoted in “James McNeill Whistler”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 1,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He did his best to distract himself from the gloom of his financial affairs and the pending sale of all his goods at Sotheby's.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

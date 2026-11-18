@@ -1,0 +1,157 @@
+{
+  "id": "whistler-old-rag-woman",
+  "artist": "james-mcneill-whistler",
+  "title": "The Old Rag Woman, No. 10",
+  "date": "1858",
+  "year": 1858,
+  "medium": "etching with chine collé",
+  "dimensions": "Plate: 20.8 x 14.8 cm (8 3/16 x 5 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.438"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.438/1922.438_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1922.438/1922.438_print.jpg",
+    "width": 647,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. Ralph King"
+  },
+  "archive": {
+    "cma": 104300
+  },
+  "phase": {
+    "label": "Paris and the French Set, 1855–59",
+    "source": {
+      "label": "Cleveland Museum of Art: “Whistler's first set of prints, the so-called French Set”",
+      "url": "https://clevelandart.org/art/1922.438"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art collection record: etching with chine collé",
+        "url": "https://clevelandart.org/art/1922.438"
+      }
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Cleveland Museum of Art: “modern realist trends in French art”",
+        "url": "https://clevelandart.org/art/1922.438"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "His choice of subject and treatment reflected the American ex-patriot's awareness of modern realist trends in French art.",
+          "source": {
+            "author": "Cleveland Museum of Art",
+            "title": "The Old Rag Woman, No. 10",
+            "publisher": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1922.438",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/104300",
+            "accessed": "2026-11-18",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Whistler’s first set of etchings was published in November 1858, when he had been in Paris only a little more than three years.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Whistler's first set of prints, the so-called French Set, included domestic and genre scenes, studies of friends and their children, and glimpses of shadowy figures in backstreets, alleyways, and anonymous interiors.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Old Rag Woman, No. 10",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1922.438",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/104300",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "They were drawn directly from Nature, as can be seen in his portraits of places which are reversed in the prints. So far as we know, he scarcely ever made a preliminary sketch.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Reflecting his adopted circle's banner of the Realism art movement, Whistler painted his first exhibited work, La Mère Gérard in 1858.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He later produced a group of etchings known as \"The French Set\", with the help of French master printer Auguste Delâtre",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This print, made after Whistler's return to Paris from the Rhine, describes an old woman silhouetted in a doorway, thrown into relief by a shadowed interior. Bent with fatigue, she sits among bundles of scavenged rags, gathered by the poor and sold to papermakers. The image resonates with the painful combination of aging and urban poverty.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "The Old Rag Woman, No. 10",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1922.438",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/104300",
+          "accessed": "2026-11-18",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

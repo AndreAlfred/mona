@@ -1,0 +1,183 @@
+{
+  "id": "whistler-mother",
+  "artist": "james-mcneill-whistler",
+  "title": "Whistler's Mother (Portrait of the Artist's Mother)",
+  "date": "1871",
+  "year": 1871,
+  "medium": "oil paint on canvas",
+  "dimensions": "144.3 × 163 cm",
+  "museum": {
+    "name": "Musée d'Orsay (RF 699)",
+    "url": "https://www.photo.rmn.fr/archive/86-001131-2C6NU0HB0TI2.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/1280px-Whistlers_Mother_high_res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/2560px-Whistlers_Mother_high_res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1068,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Whistlers Mother high res.jpg)"
+  },
+  "archive": {
+    "wd": "Q687182"
+  },
+  "phase": {
+    "label": "Mature career: the Arrangements of the early 1870s",
+    "source": {
+      "label": "Wikipedia: “By 1871, Whistler returned to portraits and soon produced his most famous painting”",
+      "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Musée d'Orsay record (via Wikidata): oil on canvas",
+        "url": "https://www.wikidata.org/wiki/Q687182"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “The subject of the painting is Whistler's mother, Anna McNeill Whistler”",
+        "url": "https://en.wikipedia.org/wiki/Whistler%27s_Mother"
+      }
+    },
+    {
+      "id": "aestheticism",
+      "source": {
+        "label": "Wikipedia: “As a proponent of ‘art for art's sake’, Whistler professed to be perplexed”",
+        "url": "https://en.wikipedia.org/wiki/Whistler%27s_Mother"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Take the picture of my mother, exhibited at the Royal Academy as an \"Arrangement in Grey and Black.\" Now that is what it is. To me it is interesting as a picture of my mother; but what can or ought the public to care about the identity of the portrait?",
+          "source": {
+            "author": "James McNeill Whistler",
+            "title": "The Gentle Art of Making Enemies (1890), as quoted in “Whistler's Mother”",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Whistler%27s_Mother",
+            "accessed": "2026-11-18",
+            "tier": 1,
+            "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tonalism",
+      "source": {
+        "label": "Wikipedia: “another Whistler exercise in tonal harmony and composition”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "When Whistler wrote of the Mother to Fantin, he said that if the picture marked any progress, it was in the science of colour, and he made this clear in the title when the portrait was exhibited at the Academy, and called Arrangement in Grey and Black.",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The austere portrait in his normally constrained palette is another Whistler exercise in tonal harmony and composition. The deceptively simple design is in fact a balancing act of differing shapes, particularly the rectangles of curtain, picture on the wall, and floor which stabilize the curve of her face, dress, and chair.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The work was shown at the 104th Exhibition of the Royal Academy of Art in London (1872), after coming within a hair's breadth of rejection by the academy. This episode worsened the rift between Whistler and the British art world",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Whistler's Mother",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Whistler%27s_Mother",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The public reacted negatively to the painting, mostly because of its anti-Victorian simplicity during a time in England when sentimentality and flamboyant decoration were in vogue.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "James McNeill Whistler",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Just think—to go and look at one's own picture hanging on the walls of Luxembourg—remembering how it had been treated in England—to be met everywhere with deference and respect…and to know that all this is … a tremendous slap in the face to the Academy and the rest! Really it is like a dream.",
+        "lead": "On the portrait’s purchase for the Musée du Luxembourg in Paris:",
+        "source": {
+          "author": "James McNeill Whistler",
+          "title": "Letter, as quoted in “Whistler's Mother”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Whistler%27s_Mother",
+          "accessed": "2026-11-18",
+          "tier": 1,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "for some moments Jimmy looked and looked, but he said nothing. … ‘Yes,’ very slowly, and very softly—‘Yes—one does like to make one’s mummy just as nice as possible!’",
+        "lead": "The painter Harper Pennington, standing with Whistler before the portrait years later:",
+        "source": {
+          "author": "Elizabeth Robins Pennell and Joseph Pennell",
+          "title": "The Life of James McNeill Whistler, vol. 1",
+          "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/lifejamesmcneil1penn",
+          "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The image has been used since the Victorian era as an icon for motherhood, affection for parents, and \"family values\" in general, especially in the United States.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Whistler's Mother",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Whistler%27s_Mother",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

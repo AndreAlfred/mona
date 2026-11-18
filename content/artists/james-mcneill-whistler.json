@@ -1,0 +1,145 @@
+{
+  "id": "james-mcneill-whistler",
+  "name": "James McNeill Whistler",
+  "born": 1834,
+  "died": 1903,
+  "active": "1855–1903",
+  "nationality": "American",
+  "period": "modern-life",
+  "wikidata": "Q203643",
+  "archive": {
+    "aic": 37279,
+    "cma": [
+      3330
+    ]
+  },
+  "movements": [
+    {
+      "id": "aestheticism",
+      "source": {
+        "label": "Wikipedia: “Whistler was a leader in the Aesthetic Movement”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "tonalism",
+      "source": {
+        "label": "Wikipedia (Tonalism): “Two of the leading associated painters were George Inness and James McNeill Whistler”",
+        "url": "https://en.wikipedia.org/wiki/Tonalism"
+      }
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: “Reflecting his adopted circle's banner of the Realism art movement”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "henri-fantin-latour",
+      "name": "Henri Fantin-Latour",
+      "source": {
+        "label": "Wikipedia: “his friendship with Henri Fantin-Latour, whom he met at the Louvre”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "gustave-courbet",
+      "name": "Gustave Courbet",
+      "source": {
+        "label": "Wikipedia: “During this period Whistler became close to Gustave Courbet”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "francis-seymour-haden",
+      "name": "Francis Seymour Haden",
+      "source": {
+        "label": "Wikipedia (Etching revival): Haden “with his brother-in-law, the American, James McNeill Whistler”",
+        "url": "https://en.wikipedia.org/wiki/Etching_revival"
+      }
+    },
+    {
+      "id": "edouard-manet",
+      "name": "Édouard Manet",
+      "source": {
+        "label": "Wikipedia: Whistler “also knew Édouard Manet and the Impressionists”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "claude-monet",
+      "name": "Claude Monet",
+      "source": {
+        "label": "Wikipedia: “His close friendships with Monet and poet Stéphane Mallarmé”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "john-singer-sargent",
+      "name": "John Singer Sargent",
+      "source": {
+        "label": "Wikipedia: in Venice Whistler shared a palazzo “with other artists, including John Singer Sargent”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    },
+    {
+      "id": "utagawa-hiroshige",
+      "name": "Utagawa Hiroshige",
+      "source": {
+        "label": "Wikipedia: “similarities with the Japanese prints of Hiroshige”",
+        "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+      }
+    }
+  ],
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "As music is the poetry of sound, so is painting the poetry of sight, and the subject-matter has nothing to do with harmony of sound or of colour.",
+      "lead": "Whistler’s creed, first set out in a letter to the press in 1878:",
+      "source": {
+        "author": "James McNeill Whistler",
+        "title": "The Gentle Art of Making Enemies (1890), first published in a letter to The World, 22 May 1878, as quoted on Wikiquote",
+        "publisher": "Wikiquote",
+        "readAt": "https://en.wikiquote.org/wiki/James_McNeill_Whistler",
+        "accessed": "2026-11-18",
+        "tier": 1,
+        "license": "CC BY-SA 4.0 (Wikiquote transcription)"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It was left to the American youth to do for London what Rembrandt had done for Amsterdam.",
+      "lead": "His biographers on the Thames etchings he made in his mid-twenties:",
+      "source": {
+        "author": "Elizabeth Robins Pennell and Joseph Pennell",
+        "title": "The Life of James McNeill Whistler, vol. 1",
+        "publisher": "William Heinemann / J. B. Lippincott (Internet Archive scan)",
+        "year": "1908",
+        "url": "https://archive.org/details/lifejamesmcneil1penn",
+        "readAt": "https://archive.org/stream/lifejamesmcneil1penn/lifejamesmcneil1penn_djvu.txt",
+        "accessed": "2026-11-18",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He eschewed sentimentality and moral allusion in painting and was a leading proponent of the credo \"art for art's sake\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "James McNeill Whistler",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/James_McNeill_Whistler",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}
