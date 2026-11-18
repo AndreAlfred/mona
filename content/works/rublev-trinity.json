@@ -1,0 +1,214 @@
+{
+  "id": "rublev-trinity",
+  "artist": "andrei-rublev",
+  "title": "Trinity (Троица)",
+  "date": "1420",
+  "year": 1420,
+  "medium": "tempera on wood",
+  "dimensions": "141.5 × 114 cm",
+  "museum": {
+    "name": "Trinity Lavra of St. Sergius",
+    "url": "https://www.wikidata.org/wiki/Q570188"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg/1280px-Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg/2560px-Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1486,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Andrey Rublev - Св. Троица - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q570188"
+  },
+  "phase": {
+    "label": "Trinity Lavra of St Sergius, 1411 or 1425–27",
+    "source": {
+      "label": "Wikipedia: “The official version states 1411 or 1425–27”",
+      "url": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)"
+    }
+  },
+  "tags": [
+    {
+      "id": "icon-painting",
+      "source": {
+        "label": "Wikipedia: “the most famous of all Russian icons”",
+        "url": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The three Angels who ate at the table of the hospitable Abraham came conventionally to represent the earthly image of the Divine Trinity",
+          "source": {
+            "author": "N. P. Kondakov",
+            "title": "The Russian Icon, trans. Ellis H. Minns",
+            "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+            "year": "1927",
+            "url": "https://archive.org/details/bwb_P8-BIM-707",
+            "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+            "accessed": "2026-11-18",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: medium, tempera",
+        "url": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)"
+      }
+    },
+    {
+      "id": "byzantine-art",
+      "source": {
+        "label": "Wikipedia (quoting Lazarev): “His main source was the Byzantine art of the Palaiologos era”",
+        "url": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)"
+      }
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Wikipedia: the Moscow school’s flourishing “is associated with Theophanes the Greek, Andrei Rublev and Daniel Chorny”",
+        "url": "https://en.wikipedia.org/wiki/Moscow_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The most famous is the superb panel of the Old Testament Trinity, which was painted about 1410 for the monastery of the Trinity and St Sergius near Moscow … It shows perhaps more clearly than any other icon the profound religious emotion which characterized Rublev’s work, for it is in every essence a spiritual painting.",
+        "source": {
+          "author": "David Talbot Rice",
+          "title": "Byzantine Art (revised edition)",
+          "publisher": "Penguin Books (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/in.ernet.dli.2015.57216",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.57216/2015.57216.Byzantine-Art_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The three angels silhouetted against the light background, which preserves scattered points of the soft gilding against which they were originally relieved, glow in blue and purple and gold, perfect in composition and in the gathering and play of … graceful line by which every form and feature is expressed.",
+        "lead": "Seeing it in the Lavra’s iconostasis after its cleaning:",
+        "source": {
+          "author": "Sir Martin Conway",
+          "title": "Art Treasures in Soviet Russia",
+          "publisher": "Edward Arnold, London (Internet Archive scan)",
+          "year": "1925",
+          "url": "https://archive.org/details/arttreasuresinso0000conw",
+          "readAt": "https://archive.org/stream/arttreasuresinso0000conw/arttreasuresinso0000conw_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is his most famous work and the most famous of all Russian icons, and it is regarded as one of the highest achievements of Russian art. Scholars believe that it is one of only two works of art (the other being the Dormition Cathedral frescoes in Vladimir) that can be attributed to Rublev with any sort of certainty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Trinity (Andrei Rublev)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In the light of recent analysis we can definitely state that Rublev was not familiar with the works of Italian art and therefore could not borrow anything from that. His main source was the Byzantine art of the Palaiologos era, in particular the paintings created in its capital, Constantinople.",
+        "source": {
+          "author": "Viktor Lazarev",
+          "title": "The Russian Icon, quoted in “Trinity (Andrei Rublev)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 2,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[It] represents the highest peak of Russian panel painting. It is to be distinguished from a Byzantine work by the delicate pastel shades of the colouring, by the subtle, swaying figures, with long necks and tall shoulders, and by a generally more rhythmical composition.",
+        "source": {
+          "author": "David Talbot Rice",
+          "title": "Byzantine Art (revised edition)",
+          "publisher": "Penguin Books (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/in.ernet.dli.2015.57216",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.57216/2015.57216.Byzantine-Art_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In his effort to uncover the doctrine of the Trinity, Rublev abandoned most of the traditional plot elements which were typically included in the paintings of the Abraham and Sarah's Hospitality story. He did not paint Abraham, Sarah, the scene of calf's slaughter, nor did he give any details on the meal.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Trinity (Andrei Rublev)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "At the time of Rublev, the Holy Trinity was the embodiment of spiritual unity, peace, harmony, mutual love and humility.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Trinity (Andrei Rublev)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the icon painter [has] to paint icons from the ancient examples, as did the Greek icon painters, and as did Ondrei [sic] Rublev and other predecessors",
+        "lead": "In 1551 a church council made his Trinity the model for all icon painters:",
+        "source": {
+          "author": "Stoglav Council, Book of One Hundred Chapters",
+          "title": "Decree on icon painting (1551), quoted in “Trinity (Andrei Rublev)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 3,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)",
+          "year": "1551"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Trinity is an outstanding work of art, a national patrimony, which should be available to people of all beliefs regardless of their religion.",
+        "lead": "The historian Valentin Yanin, as the Church sought the icon’s return:",
+        "source": {
+          "author": "Valentin Yanin",
+          "title": "Statement opposing the icon’s transfer to the Church (2008), quoted in “Trinity (Andrei Rublev)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)",
+          "accessed": "2026-11-18",
+          "tier": 2,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)",
+          "year": "2008"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

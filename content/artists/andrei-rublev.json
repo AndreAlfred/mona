@@ -1,0 +1,72 @@
+{
+  "id": "andrei-rublev",
+  "name": "Andrei Rublev",
+  "active": "1405–c. 1430",
+  "nationality": "Russian",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Wikipedia: “Andrei Rublev led the school in the early 15th century”",
+        "url": "https://en.wikipedia.org/wiki/Moscow_school"
+      }
+    },
+    {
+      "id": "byzantine-art",
+      "source": {
+        "label": "Wikipedia (quoting Lazarev): “His main source was the Byzantine art of the Palaiologos era”",
+        "url": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q838",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "The most famous of Russian icon-painters, Andrew Rublév, was a monk of the [Spaso-Andronikov] monastery at Moscow: before that he had apparently been a lay brother in the Trinity Lavra and a pupil of the icon-painter there.",
+      "source": {
+        "author": "N. P. Kondakov",
+        "title": "The Russian Icon, trans. Ellis H. Minns",
+        "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+        "year": "1927",
+        "url": "https://archive.org/details/bwb_P8-BIM-707",
+        "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+        "accessed": "2026-11-18",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Rublév was an artist, a creator, in the full sense of the words : he did not merely hand on the severe design of the Byzantines but added to it his own very characteristic touch, and, most of all, created new religious types with a new expression in them which meant informing religious art with a new spiritual significance.",
+      "source": {
+        "author": "N. P. Kondakov",
+        "title": "The Russian Icon, trans. Ellis H. Minns",
+        "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+        "year": "1927",
+        "url": "https://archive.org/details/bwb_P8-BIM-707",
+        "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+        "accessed": "2026-11-18",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Little information survives about his life; even where he was born is unknown. … The first mention of Rublev is in 1405, when he decorated icons and frescos for the Cathedral of the Annunciation of the Moscow Kremlin, in company with Theophanes the Greek and Prokhor of Gorodets.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Andrei Rublev",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Andrei_Rublev",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

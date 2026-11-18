@@ -1,0 +1,172 @@
+{
+  "id": "rublev-transfiguration",
+  "artist": "andrei-rublev",
+  "title": "Transfiguration",
+  "date": "1405",
+  "year": 1405,
+  "museum": {
+    "name": "Cathedral of the Annunciation, Moscow Kremlin",
+    "url": "https://www.wikidata.org/wiki/Q11828834"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Transfiguration_%28Annunciation_Cathedral%2C_Kremlin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1631,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Transfiguration (Annunciation Cathedral, Kremlin).jpg)"
+  },
+  "archive": {
+    "wd": "Q11828834"
+  },
+  "phase": {
+    "label": "Moscow Kremlin, with Theophanes the Greek, 1405",
+    "source": {
+      "label": "Wikipedia: “The first mention of Rublev is in 1405, when he decorated icons and frescos for the Cathedral of the Annunciation”",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Rublev"
+    }
+  },
+  "tags": [
+    {
+      "id": "icon-painting",
+      "source": {
+        "label": "Wikipedia: the cathedral’s iconostasis “includes … the ones painted by Andrei Rublev, Theophanes the Greek and Prokhor”",
+        "url": "https://en.wikipedia.org/wiki/Cathedral_of_the_Annunciation,_Moscow"
+      }
+    },
+    {
+      "id": "byzantine-art",
+      "source": {
+        "label": "Wikipedia: “Theophanes was an important Byzantine master, who moved to Russia and is considered to have trained Rublev”",
+        "url": "https://en.wikipedia.org/wiki/Andrei_Rublev"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Theophanes was an important Byzantine master, who moved to Russia and is considered to have trained Rublev.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Andrei Rublev",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Andrei_Rublev",
+            "accessed": "2026-11-18",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "moscow-school",
+      "source": {
+        "label": "Wikipedia: the Moscow school’s flourishing “is associated with Theophanes the Greek, Andrei Rublev and Daniel Chorny”",
+        "url": "https://en.wikipedia.org/wiki/Moscow_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "early in the fifteenth century he was associated with Theophanes the Greek on wall paintings in the cathedral of the Annunciation at Moscow",
+        "source": {
+          "author": "David Talbot Rice",
+          "title": "Byzantine Art (revised edition)",
+          "publisher": "Penguin Books (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/in.ernet.dli.2015.57216",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.57216/2015.57216.Byzantine-Art_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The first mention of Rublev is in 1405, when he decorated icons and frescos for the Cathedral of the Annunciation of the Moscow Kremlin, in company with Theophanes the Greek and Prokhor of Gorodets. His name was the last of the list of masters, as the junior both by rank and by age.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Andrei Rublev",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Andrei_Rublev",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Greek Theophanes worked at the wall-paintings : he astonished the Russians by working from memory without anything to copy. He did the Archangel Cathedral, and worked with Andrew Rublév in 1405 in the cathedral of the Annunciation",
+        "source": {
+          "author": "N. P. Kondakov",
+          "title": "The Russian Icon, trans. Ellis H. Minns",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/bwb_P8-BIM-707",
+          "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is hard to believe that Rublév owed nothing to the older artist, to whom Our Lady of the Don and part of the iconostas of the Annunciation are now attributed.",
+        "source": {
+          "author": "Ellis H. Minns",
+          "title": "Translator’s note in N. P. Kondakov, The Russian Icon",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/bwb_P8-BIM-707",
+          "readAt": "https://archive.org/stream/bwb_P8-BIM-707/bwb_P8-BIM-707_djvu.txt",
+          "accessed": "2026-11-18",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Russian painting of the late fourteenth and early fifteenth centuries is characterized by two major influences, namely those of Byzantine artist Feofan Grek and Russian icon-painter Andrei Rublev.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Vladimir-Suzdal",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Vladimir-Suzdal",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In earlier times, every Eastern Orthodox monk who took up icon painting had to start his craft by painting the icon of the Transfiguration, the underlying belief being that this icon is not painted so much with colors, but with the Taboric light and he had to train his eyes to it.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Transfiguration of Jesus in Christian art",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus_in_Christian_art",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Feast of the Transfiguration has been celebrated in the Eastern church since at least the 6th century and it is one of the Twelve Great Feasts of Eastern Orthodoxy, and so is widely depicted, for example on most Russian Orthodox iconostases.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Transfiguration of Jesus in Christian art",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus_in_Christian_art",
+          "accessed": "2026-11-18",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-18",
+    "by": "claude-routine"
+  }
+}

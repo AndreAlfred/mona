@@ -1,0 +1,34 @@
+{
+  "id": "byzantine-art",
+  "kind": "style",
+  "name": "Byzantine art",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Byzantine art comprises the body of artistic products of the Byzantine Empire, as well as the nations and states that inherited culturally from the empire.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Byzantine art",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Byzantine_art",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "the Byzantine cultural heritage had been widely diffused, carried by the spread of Orthodox Christianity, to Bulgaria, Serbia, Romania and, most importantly, to Russia, which became the centre of the Orthodox world following the Ottoman conquest of the Balkans.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Byzantine art",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Byzantine_art",
+        "accessed": "2026-11-18",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Byzantine"
+}
