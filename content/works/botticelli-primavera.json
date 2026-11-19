@@ -1,0 +1,160 @@
+{
+  "id": "botticelli-primavera",
+  "artist": "sandro-botticelli",
+  "title": "Primavera",
+  "date": "c. 1480",
+  "year": 1480,
+  "medium": "tempera, plaster on panel",
+  "dimensions": "203 × 314 cm",
+  "museum": {
+    "name": "Uffizi Gallery (8360)",
+    "url": "https://catalogo.uffizi.it/it/29/ricerca/detailiccd/1185170/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg/1280px-Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg/2560px-Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 797,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sandro Botticelli - La Primavera - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q549847"
+  },
+  "phase": {
+    "label": "The 1480s, his most successful decade",
+    "source": {
+      "label": "Wikipedia: “The 1480s were his most successful decade”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: it “depicts a group of figures from classical mythology in a garden”",
+        "url": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "As depictions of subjects from classical mythology on a very large scale, they were virtually unprecedented in Western art since classical antiquity.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Primavera (Botticelli)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+            "accessed": "2026-11-19",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “a large panel painting in tempera paint”",
+        "url": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "and likewise another Venus, whom the Graces are covering with flowers, as a symbol of spring; and all this he is seen to have expressed very gracefully.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        },
+        "lead": "Vasari saw it at the Medici villa of Castello:"
+      },
+      {
+        "kind": "quote",
+        "text": "There are 500 identified plant species depicted in the painting, with about 190 different flowers",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Primavera (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Most critics agree that the painting is an allegory based on the lush growth of Spring, but accounts of any precise meaning vary, though many involve the Renaissance Neoplatonism which then fascinated intellectual circles in Florence.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Primavera (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is thought that Botticelli had help devising the composition of the painting and whatever meanings it was intended to contain, as it appears that the painting reflects a deep knowledge of classical literature and philosophy that Botticelli is unlikely to have possessed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Primavera (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the second half of the last century scholarship suggested otherwise: the Primavera was painted for Lorenzo di Pierfrancesco's townhouse in Florence, with Pallas and the Centaur as its companion piece.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it is generally agreed that at least at one level the painting is \"an elaborate mythological allegory of the burgeoning fertility of the world.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Primavera (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "botticelli-calumny-of-apelles",
+  "artist": "sandro-botticelli",
+  "title": "Calumny of Apelles",
+  "date": "c. 1494–95",
+  "year": 1494,
+  "medium": "tempera on panel",
+  "dimensions": "62 × 91 cm",
+  "museum": {
+    "name": "Uffizi Gallery (00285580)",
+    "url": "https://www.wikidata.org/wiki/Q1217187"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Sandro_Botticelli_La_calumnia_de_Apeles.jpg/1280px-Sandro_Botticelli_La_calumnia_de_Apeles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Sandro_Botticelli_La_calumnia_de_Apeles.jpg/2560px-Sandro_Botticelli_La_calumnia_de_Apeles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 804,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sandro Botticelli La calumnia de Apeles.jpg)"
+  },
+  "archive": {
+    "wd": "Q1217187"
+  },
+  "phase": {
+    "label": "Late works, 1490s–1500s",
+    "source": {
+      "label": "Wikipedia: “By the 1490s, his style became more personal and to some extent mannered”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “Based on the description of a lost ancient painting by Apelles”",
+        "url": "https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli)"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “a panel painting in tempera”",
+        "url": "https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli)"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It was completed around 1494 or 1495, and is probably the last secular painting of his to survive.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Calumny of Apelles (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "in which there is painted the Calumny of Apelles, as beautiful as any picture could be. Under this panel, which Sandro himself presented to Antonio Segni, who was much his friend, there may now be read the following verses",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Leon Battista Alberti had praised it and recommended it as a subject for artists to recreate in his highly influential De pictura of 1435, and there were four translations of Lucian's Greek into Latin or Italian during the 15th century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Calumny of Apelles (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A number of Botticelli's secular works show an interest in recreating some of the lost glories of Ancient Greek painting, which are recorded in classical literature",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Calumny of Apelles (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is often speculated that Botticelli had a specific slandered individual in mind, perhaps himself, or Savonarola.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Calumny of Apelles (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "of whose sect he was so ardent a partisan that he was thereby induced to desert his painting, and, having no income to live on, fell into very great distress.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        },
+        "lead": "Vasari on Botticelli and Savonarola:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

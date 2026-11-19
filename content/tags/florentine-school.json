@@ -1,0 +1,21 @@
+{
+  "id": "florentine-school",
+  "kind": "movement",
+  "name": "Florentine School",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Florentine painting or the Florentine school refers to artists in, from, or influenced by the naturalistic style developed in Florence in the 14th century, largely through the efforts of Giotto di Bondone, and in the 15th century the leading school of Western painting.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Florentine painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Florentine_painting",
+        "accessed": "2026-11-19",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Florentine"
+}

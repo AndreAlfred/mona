@@ -1,0 +1,138 @@
+{
+  "id": "botticelli-adoration-of-the-magi",
+  "artist": "sandro-botticelli",
+  "title": "Adoration of the Magi",
+  "date": "c. 1475–76",
+  "year": 1475,
+  "medium": "tempera on panel",
+  "dimensions": "111 × 134 cm",
+  "museum": {
+    "name": "Uffizi Gallery (882)",
+    "url": "https://web.archive.org/web/20160920053513/http://www.palazzo-medici.it/mediateca/en/schede.php?id_scheda=318"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Zanobi-Altar.jpg/1280px-Zanobi-Altar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Zanobi-Altar.jpg/2560px-Zanobi-Altar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 980,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Zanobi-Altar.jpg)"
+  },
+  "archive": {
+    "wd": "Q488825"
+  },
+  "phase": {
+    "label": "Independent master in Florence, 1470s",
+    "source": {
+      "label": "Wikipedia: “He was an independent master for all the 1470s, which saw his reputation soar”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: “The altarpiece was commissioned for the altar of Gaspare's funerary chapel”",
+        "url": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Botticelli)"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: it “includes prominent members of the Medici family, as well as the patron”",
+        "url": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Botticelli)"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: medium “Tempera on panel”",
+        "url": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Botticelli)"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "[It] was singled out for praise by Vasari, and was in a much-visited church, so spreading his reputation. It can be thought of as marking the climax of Botticelli's early style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is not possible to describe the beauty that Sandro depicted in the heads that are therein seen, which are drawn in various attitudes, some in full face, some in profile, some in three-quarter face, others bending down, and others, again, in various manners",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Despite being commissioned by a money-changer, or perhaps money-lender, not otherwise known as an ally of the Medici, it contains the portraits of Cosimo de Medici, his sons Piero and Giovanni (all these by now dead), and his grandsons Lorenzo and Giuliano.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The figure who stands at the far right of the painting's foreground wears a yellow and gold-colored cloak and has been accepted by most scholars to be a self-portrait of the artist, Botticelli.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Adoration of the Magi (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "And at that time it brought him such great fame, both in Florence and abroad, that Pope Sixtus IV, having accomplished the building of the chapel of his palace in Rome, and wishing to have it painted, ordained that he should be made head of that work",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

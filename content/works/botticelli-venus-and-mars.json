@@ -1,0 +1,145 @@
+{
+  "id": "botticelli-venus-and-mars",
+  "artist": "sandro-botticelli",
+  "title": "Venus and Mars",
+  "date": "c. 1485",
+  "year": 1485,
+  "medium": "egg tempera, oil paint on poplar panel",
+  "dimensions": "69.2 × 173.4 cm",
+  "museum": {
+    "name": "National Gallery (NG915)",
+    "url": "https://www.wikidata.org/wiki/Q2293953"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Botticelli_-_Venus_and_Mars2.jpeg/1280px-Botticelli_-_Venus_and_Mars2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Botticelli_-_Venus_and_Mars2.jpeg/2560px-Botticelli_-_Venus_and_Mars2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 478,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Botticelli - Venus and Mars2.jpeg)"
+  },
+  "archive": {
+    "wd": "Q2293953"
+  },
+  "phase": {
+    "label": "The 1480s, his most successful decade",
+    "source": {
+      "label": "Wikipedia: “The 1480s were his most successful decade”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: it “shows the Roman gods Venus, goddess of love, and Mars, god of war”",
+        "url": "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "National Gallery record (via Wikidata): egg tempera and oil on poplar",
+        "url": "https://www.wikidata.org/wiki/Q2293953"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A much smaller panel than those discussed before is his Venus and Mars in the National Gallery, London. This was of a size and shape to suggest that it was a spalliera, a painting made to fit into either furniture, or more likely in this case, wall panelling.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Ronald Lightbown describes Mars as \"Botticelli's most perfect male nude\", though there are not really a large number of these",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Venus and Mars (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The usual view of scholars is that the painting was commissioned to celebrate a marriage, and is a relatively uncomplicated representation of sensual pleasure, with an added meaning of love conquering or outlasting war.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Venus and Mars (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His Mars and Venus, painted some ten years earlier, is generally agreed to borrow part of its composition, the infant satyrs playing with Mars' armour, from another ekphrasis by Lucian",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Calumny of Apelles (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The wasps buzzing around Mars' head suggest that it may have been painted for a member of his neighbours the Vespucci family, whose name means \"little wasps\" in Italian, and who featured wasps in their coat of arms.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The face and attitude of that unseductive Venus... opposite her snoring lover, seems to symbolize the indignities which women have to endure from insolent and sottish boys with only youth to recommend them.",
+        "source": {
+          "author": "John Addington Symonds",
+          "title": "Quoted in Wikipedia, “Venus and Mars (Botticelli)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "A Victorian dissenter:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

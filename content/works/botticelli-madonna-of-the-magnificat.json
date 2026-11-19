@@ -1,0 +1,144 @@
+{
+  "id": "botticelli-madonna-of-the-magnificat",
+  "artist": "sandro-botticelli",
+  "title": "Madonna of the Magnificat",
+  "date": "c. 1483",
+  "year": 1483,
+  "medium": "tempera on panel",
+  "museum": {
+    "name": "Uffizi Gallery (1609)",
+    "url": "https://www.wikidata.org/wiki/Q2551625"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sandro_Botticelli_-_Madonna_del_Magnificat_C.jpg/1280px-Sandro_Botticelli_-_Madonna_del_Magnificat_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1200,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sandro Botticelli - Madonna del Magnificat C.jpg)"
+  },
+  "archive": {
+    "wd": "Q2551625"
+  },
+  "phase": {
+    "label": "The 1480s, his most successful decade",
+    "source": {
+      "label": "Wikipedia: “The 1480s were his most successful decade”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "tondo",
+      "source": {
+        "label": "Wikipedia: “a painting of circular or tondo form”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Several Madonnas use this format, usually with a seated Virgin shown down to the knees, and though rectangular pictures of the Madonna outnumber them, Madonnas in tondo form are especially associated with Botticelli.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Sandro Botticelli",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+            "accessed": "2026-11-19",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikidata record: tempera on panel",
+        "url": "https://www.wikidata.org/wiki/Q2551625"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Mary is writing down the Magnificat, a speech from the Gospel of Luke spoken by Mary upon the occasion of her Visitation to her cousin Elizabeth, some months before the birth of Jesus. She holds the baby Jesus, and is surrounded by wingless angels impossible to distinguish from fashionably dressed Florentine youths.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Perhaps you have sometimes wondered why those peevish-looking Madonnas, conformed to no acknowledged or obvious type of beauty, attract you more and more, and often come back to you when the Sistine Madonna and the Virgins of Fra Angelico are forgotten.",
+        "source": {
+          "author": "Walter Pater",
+          "title": "“Sandro Botticelli”, in The Renaissance: Studies in Art and Poetry",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1873",
+          "readAt": "https://archive.org/stream/therenaissancest04060gut/8rnsn11.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Paintings of the Madonna and Child, that is, the Virgin Mary and infant Jesus, were enormously popular in 15th-century Italy in a range of sizes and formats, from large altarpieces of the sacra conversazione type to small paintings for the home.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Conventionally, the Madonna is depicted as a reader rather than a writer. In this painting, Botticelli made the decision to depict her as a writer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna of the Magnificat",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Once, indeed, he guides her hand to transcribe in a book the words of her exaltation, the Ave, and the Magnificat, and the Gaude Maria, and the young angels, glad to rouse her for a moment from her dejection, are eager to hold the inkhorn and to support the book. But the pen almost drops from her hand",
+        "source": {
+          "author": "Walter Pater",
+          "title": "“Sandro Botticelli”, in The Renaissance: Studies in Art and Poetry",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1873",
+          "readAt": "https://archive.org/stream/therenaissancest04060gut/8rnsn11.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

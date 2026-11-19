@@ -1,0 +1,139 @@
+{
+  "id": "botticelli-mystical-nativity",
+  "artist": "sandro-botticelli",
+  "title": "The Mystical Nativity",
+  "date": "c. 1500–1501",
+  "year": 1500,
+  "medium": "oil paint on canvas",
+  "dimensions": "109 × 75 cm",
+  "museum": {
+    "name": "National Gallery (NG1034)",
+    "url": "https://www.wikidata.org/wiki/Q974674"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Mystic_Nativity%2C_Sandro_Botticelli.jpg/1280px-Mystic_Nativity%2C_Sandro_Botticelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Mystic_Nativity%2C_Sandro_Botticelli.jpg/2560px-Mystic_Nativity%2C_Sandro_Botticelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1738,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mystic Nativity, Sandro Botticelli.jpg)"
+  },
+  "archive": {
+    "wd": "Q974674"
+  },
+  "phase": {
+    "label": "Late works, 1490s–1500s",
+    "source": {
+      "label": "Wikipedia: “By the 1490s, his style became more personal and to some extent mannered”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “an unusual iconography for a painting of the Nativity”",
+        "url": "https://en.wikipedia.org/wiki/The_Mystical_Nativity"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It is his only signed work and has an unusual iconography for a painting of the Nativity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mystical Nativity",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mystical_Nativity",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It takes to an extreme the abandonment of consistent scale among the figures that had been a feature of Botticelli's religious paintings for some years, with the Holy Family much larger than the other figures, even those well in front of them in the picture space.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Vasari's assertion that Botticelli produced nothing after coming under the influence of Savonarola is not accepted by modern art historians. The Mystical Nativity, Botticelli's only painting to carry an actual date, if one cryptically expressed, comes from late 1500,",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "infrared reflectography has shown that the original words on those ribbons correspond exactly to Savonarola's twelve privileges of the Virgin.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mystical Nativity",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mystical_Nativity",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This painting, at the end of the year 1500, in the troubles of Italy, I, Alessandro, in the half-time after the time, painted, according to the eleventh [chapter] of Saint John, in the second woe of the Apocalypse, during the release of the devil for three and a half years; then he shall be bound in the twelfth [chapter] and we shall see [him buried] as in this picture",
+        "source": {
+          "author": "Sandro Botticelli",
+          "title": "Greek inscription on The Mystical Nativity (1500), English translation as given on Wikipedia",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mystical_Nativity",
+          "accessed": "2026-11-19",
+          "tier": 1,
+          "license": "CC BY-SA 4.0",
+          "year": "1500"
+        },
+        "lead": "Botticelli’s own inscription across the top of the canvas:"
+      },
+      {
+        "kind": "quote",
+        "text": "Normally Botticelli used wood panels for his paintings. This painting is on canvas. Art historians suggest that perhaps for a painting with a dangerous message, canvas had the advantage that it could be rolled up and hidden.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Mystical Nativity",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Mystical_Nativity",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "botticelli-saint-augustine",
+  "artist": "sandro-botticelli",
+  "title": "Saint Augustine in His Study",
+  "date": "1480",
+  "year": 1480,
+  "medium": "fresco, tempera, plaster",
+  "dimensions": "152 × 112 cm",
+  "museum": {
+    "name": "Ognissanti Church",
+    "url": "https://www.wikidata.org/wiki/Q1114329"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sandro_botticelli%2C_sant%27agostino_nello_studio%2C_1480_circa%2C_dall%27ex-coro_dei_frati_umiliati%2C_01.jpg/1280px-Sandro_botticelli%2C_sant%27agostino_nello_studio%2C_1480_circa%2C_dall%27ex-coro_dei_frati_umiliati%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sandro_botticelli%2C_sant%27agostino_nello_studio%2C_1480_circa%2C_dall%27ex-coro_dei_frati_umiliati%2C_01.jpg/2560px-Sandro_botticelli%2C_sant%27agostino_nello_studio%2C_1480_circa%2C_dall%27ex-coro_dei_frati_umiliati%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1835,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sandro botticelli, sant'agostino nello studio, 1480 circa, dall'ex-coro dei frati umiliati, 01.jpg)"
+  },
+  "archive": {
+    "wd": "Q1114329"
+  },
+  "phase": {
+    "label": "The 1480s, his most successful decade",
+    "source": {
+      "label": "Wikipedia: “The 1480s were his most successful decade”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: “a fresco painting of Augustine of Hippo executed in 1480”",
+        "url": "https://en.wikipedia.org/wiki/Saint_Augustine_in_His_Study_(Botticelli,_Ognissanti)"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "As in other cases, such direct competition \"was always an inducement to Botticelli to put out all his powers\", and the fresco, now his earliest to survive, is regarded as his finest by Ronald Lightbown.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "for in the head of that Saint he depicted the profound meditation and acute subtlety that are found in men of wisdom who are ever concentrated on the investigation of the highest and most difficult matters.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "he painted for the Vespucci a S. Augustine in fresco, with which he took very great pains, seeking to surpass all the painters of his time, and particularly Domenico Ghirlandajo, who had made a S. Jerome on the other side",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "There is known to have been a small painting of Jerome in his study said to have been by Jan van Eyck in the Medici collection, which is now lost.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Augustine in His Study (Botticelli, Ognissanti)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Augustine_in_His_Study_(Botticelli,_Ognissanti)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Botticelli was born in a house on the same street as the church, still called Via Borgo Ognissanti. He was to live within a minute or two's walk of this all his life, and to be buried in the church.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Saint Augustine in His Study (Botticelli, Ognissanti)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Saint_Augustine_in_His_Study_(Botticelli,_Ognissanti)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The open book above the saint contains one of the practical jokes for which Vasari says he was known. Most of the \"text\" is scribbles, but one line reads: \"Where is Brother Martino? He went out. And where did he go? He is outside Porta al Prato\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

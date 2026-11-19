@@ -1,0 +1,145 @@
+{
+  "id": "botticelli-birth-of-venus",
+  "artist": "sandro-botticelli",
+  "title": "The Birth of Venus",
+  "date": "mid-1480s",
+  "year": 1485,
+  "medium": "tempera on canvas",
+  "dimensions": "172.5 × 278.5 cm",
+  "museum": {
+    "name": "Uffizi Gallery (00158551)",
+    "url": "http://www.artchive.com/artchive/B/botticelli/venus_text.jpg.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/2560px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 754,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg)"
+  },
+  "archive": {
+    "wd": "Q151047"
+  },
+  "phase": {
+    "label": "The 1480s, his most successful decade",
+    "source": {
+      "label": "Wikipedia: “The 1480s were his most successful decade”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “a straightforward, if individual, treatment of a traditional scene from Greek mythology”",
+        "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: on canvas, “finished with a ‘cool gray varnish’, probably using egg yolk”",
+        "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "one representing the birth of Venus, with those Winds and Zephyrs that bring her to the earth, with the Cupids",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        },
+        "lead": "Vasari, describing it at Castello in the 1550s:"
+      },
+      {
+        "kind": "quote",
+        "text": "Look, for instance, at Botticelli's \"Venus Rising from the Sea.\" Throughout, the tactile imagination is roused to a keen activity, by itself almost as life heightening as music.",
+        "source": {
+          "author": "Bernard Berenson",
+          "title": "The Florentine Painters of the Renaissance",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1896",
+          "readAt": "https://archive.org/stream/theflorentinepai17408gut/17408.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Having a large standing female nude as the central focus was unprecedented in post-classical Western painting, and certainly drew on the classical sculptures which were coming to light in this period, especially in Rome, where Botticelli had spent 1481–82 working on the walls of the Sistine Chapel.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Birth of Venus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painter and the humanist scholars who probably advised him would have recalled that Pliny the Elder had mentioned a lost masterpiece of the celebrated ancient Greek painter, Apelles, representing Venus Anadyomene (Venus Rising from the Sea).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Birth of Venus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Men go forth to their labours until the evening; but she is awake before them, and you might think that the sorrow in her face was at the thought of the whole long day of love yet to come.",
+        "source": {
+          "author": "Walter Pater",
+          "title": "“Sandro Botticelli”, in The Renaissance: Studies in Art and Poetry",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1873",
+          "readAt": "https://archive.org/stream/therenaissancest04060gut/8rnsn11.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Botticelli's posthumous reputation suffered until the late 19th century, when he was rediscovered by the Pre-Raphaelites who stimulated a reappraisal of his work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}
