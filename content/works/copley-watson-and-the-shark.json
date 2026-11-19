@@ -1,0 +1,180 @@
+{
+  "id": "copley-watson-and-the-shark",
+  "artist": "john-singleton-copley",
+  "title": "Watson and the Shark",
+  "date": "1778",
+  "year": 1778,
+  "medium": "oil paint on canvas",
+  "museum": {
+    "name": "National Gallery of Art, Washington",
+    "url": "https://www.wikidata.org/wiki/Q1787460"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Watsonandtheshark-original.jpg/1280px-Watsonandtheshark-original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Watsonandtheshark-original.jpg/2560px-Watsonandtheshark-original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 952,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Watsonandtheshark-original.jpg)"
+  },
+  "archive": {
+    "wd": "Q1787460"
+  },
+  "phase": {
+    "label": "London, 1774–1815",
+    "source": {
+      "label": "Wikipedia: “he moved to London in 1774, never returning to America”",
+      "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “It was the first of a series of large-scale historical paintings that Copley concentrated on after settling in London”",
+        "url": "https://en.wikipedia.org/wiki/Watson_and_the_Shark"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Following a fashion set by West and others, Copley began to paint historical pieces as well as portraits. His first foray into this genre was Watson and the Shark",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "John Singleton Copley",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/John_Singleton_Copley",
+            "accessed": "2026-11-19",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "In Watson and the Shark (1778) by John Singleton Copley, the main figure could plausibly be shown nude, and the composition is such that of the eight other men shown, only one shows a single breeched leg prominently.",
+          "lead": "On the problem of modern dress in heroic scenes:",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Neoclassicism",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Neoclassicism",
+            "accessed": "2026-11-19",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Watson and the Shark is an oil painting”",
+        "url": "https://en.wikipedia.org/wiki/Watson_and_the_Shark"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It was the first of a series of large-scale historical paintings that Copley concentrated on after settling in London.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Watson and the Shark",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Watson_and_the_Shark",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "only I don't think a Man a perfect Artist who on occation [cannot] Paint History, and who knows but you may have a talent in history like Raphael till you try",
+        "lead": "From Italy in 1775, advising his half-brother:",
+        "source": {
+          "author": "John Singleton Copley",
+          "title": "Copley to Henry Pelham, Parma, 2 July 1775, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1775",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "West, as we have seen, produced, in his \"Death of Wolfe,\" the first historical picture of this species. It is a curious fact, that three Americans in succession painted successfully in this style, and led the way to Europeans.",
+        "source": {
+          "author": "William Dunlap",
+          "title": "A History of the Rise and Progress of the Arts of Design in the United States, vol. 1",
+          "publisher": "George P. Scott (1834), via Internet Archive",
+          "year": "1834",
+          "readAt": "https://archive.org/stream/historyofrisepro01dunl/historyofrisepro01dunl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The figure of Watson is based on the statue of the \"Borghese Gladiator\", by Agasias of Ephesus, in the Louvre. Other apparent influences are Renaissance art, and the ancient statue of Laocoön and His Sons, which Copley may have seen in Rome.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Watson and the Shark",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Watson_and_the_Shark",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The paintings are based on an attack that took place in Havana Harbor in 1749. Brook Watson, then a 14-year-old cabin boy on the Royal Consort, lost his right leg below the knee in the attack",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Watson and the Shark",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Watson_and_the_Shark",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "At his death in 1807, Watson bequeathed the painting to Christ's Hospital, with the hope that it would prove \"a most usefull Lesson to Youth\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Watson and the Shark",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Watson_and_the_Shark",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This individual is memorable as arrayed with our enemies in opposition to our independence, and with the enemies of God and man in opposition to the abolitionists of the slave-trade in the English house of commons.",
+        "lead": "The American painter-historian William Dunlap on Brook Watson, 1834:",
+        "source": {
+          "author": "William Dunlap",
+          "title": "A History of the Rise and Progress of the Arts of Design in the United States, vol. 1",
+          "publisher": "George P. Scott (1834), via Internet Archive",
+          "year": "1834",
+          "readAt": "https://archive.org/stream/historyofrisepro01dunl/historyofrisepro01dunl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

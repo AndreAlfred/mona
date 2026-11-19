@@ -1,0 +1,156 @@
+{
+  "id": "copley-boy-with-squirrel",
+  "artist": "john-singleton-copley",
+  "title": "A Boy with a Flying Squirrel (Henry Pelham)",
+  "date": "1765",
+  "year": 1765,
+  "medium": "oil paint on canvas",
+  "dimensions": "77.15 × 63.82 cm",
+  "museum": {
+    "name": "Museum of Fine Arts Boston (1978.297)",
+    "url": "https://artsandculture.google.com/asset/wd/0wEjGGuy92ad7w"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/John_Singleton_Copley_-_A_Boy_with_a_Flying_Squirrel_%28Henry_Pelham%29_-_Google_Art_Project.jpg/1280px-John_Singleton_Copley_-_A_Boy_with_a_Flying_Squirrel_%28Henry_Pelham%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/John_Singleton_Copley_-_A_Boy_with_a_Flying_Squirrel_%28Henry_Pelham%29_-_Google_Art_Project.jpg/2560px-John_Singleton_Copley_-_A_Boy_with_a_Flying_Squirrel_%28Henry_Pelham%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1451,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singleton Copley - A Boy with a Flying Squirrel (Henry Pelham) - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q20772027"
+  },
+  "phase": {
+    "label": "Boston years, 1753–1774",
+    "source": {
+      "label": "Wikipedia: “After becoming well-established as a portrait painter of the wealthy in colonial New England, he moved to London in 1774”",
+      "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “The painting is a profile portrait of Henry Pelham seated at a table”",
+        "url": "https://en.wikipedia.org/wiki/A_Boy_with_a_Flying_Squirrel"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Medium oil on canvas”",
+        "url": "https://en.wikipedia.org/wiki/A_Boy_with_a_Flying_Squirrel"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "lett it be Painted in oil, and make it a rule to Paint in that way as much as Posible, for Oil Painting has the superiority over all other Painting.",
+          "lead": "Benjamin West, after seeing the picture in London, urged Copley to give up crayons:",
+          "source": {
+            "author": "Benjamin West",
+            "title": "Benjamin West to Copley, London, 4 August 1766, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+            "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+            "year": "1766",
+            "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+            "accessed": "2026-11-19",
+            "tier": 3
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "its excellence as a work of the highest merit established Copley's European reputation more than a century ago",
+        "source": {
+          "author": "Martha Babcock Amory",
+          "title": "The Domestic and Artistic Life of John Singleton Copley, R.A.",
+          "publisher": "Houghton, Mifflin (1882), via Internet Archive",
+          "year": "1882",
+          "readAt": "https://archive.org/stream/domesticartistic00amor/domesticartistic00amor_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The art historian Jennifer Roberts believed A Boy with a Flying Squirrel to be \"the most consequential painting Copley had yet produced in America\". It was Copley's first major noncommissioned work and first exhibition painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "A Boy with a Flying Squirrel",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/A_Boy_with_a_Flying_Squirrel",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He observed a little Hardness in the Drawing, Coldness in the Shades, An over minuteness, all which Example would correct. \"But still,\" he added, \"it is a wonderful Picture to be sent by a Young Man who was never out of New England, and had only some bad Copies to study.\"",
+        "lead": "Captain R. G. Bruce passes on Joshua Reynolds’s verdict from the London exhibition:",
+        "source": {
+          "author": "Joshua Reynolds, as reported by R. G. Bruce",
+          "title": "Captain R. G. Bruce to Copley, London, 4 August 1766, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1766",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was remarkd the Picture was too lind. this I confess I was concious of my self and think with You that it is the natural result of two great presition in the out line",
+        "lead": "Copley accepts the criticism:",
+        "source": {
+          "author": "John Singleton Copley",
+          "title": "Copley to Benjamin West, Boston, 12 November 1766, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1766",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 1
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I confess I am under some apprehension of its not being so much esteem'd as I could wish … I can truly say if I know my own heart I am less anxious to enjoy than deserve applause.",
+        "lead": "Sending the portrait of his half-brother across the Atlantic:",
+        "source": {
+          "author": "John Singleton Copley",
+          "title": "Copley to Captain R. G. Bruce, Boston, 10 September 1765, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1765",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Copley and Pelham held a close and affectionate relationship, as evidenced by a volume of correspondence between the two published in 1914.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "A Boy with a Flying Squirrel",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/A_Boy_with_a_Flying_Squirrel",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

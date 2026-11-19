@@ -1,0 +1,97 @@
+{
+  "id": "john-singleton-copley",
+  "name": "John Singleton Copley",
+  "born": 1738,
+  "died": 1815,
+  "active": "c. 1753–1815",
+  "nationality": "American",
+  "period": "eighteenth-century",
+  "wikidata": "Q316016",
+  "archive": {
+    "aic": 34028,
+    "cma": [
+      2409
+    ]
+  },
+  "movements": [
+    {
+      "id": "neoclassicism",
+      "source": {
+        "label": "Wikipedia (Neoclassicism): “the Americans Copley and Benjamin West led the artists who successfully showed that trousers could be used in heroic scenes”",
+        "url": "https://en.wikipedia.org/wiki/Neoclassicism"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "benjamin-west",
+      "name": "Benjamin West",
+      "source": {
+        "label": "Wikipedia: “what [Benjamin] West and Copley did together was to create a new kind of history painting”",
+        "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+      }
+    },
+    {
+      "id": "gilbert-stuart",
+      "name": "Gilbert Stuart",
+      "source": {
+        "label": "Wikipedia (Portrait painting): “Stuart worked quickly and employed softer, less detailed brush strokes than Copley”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_painting"
+      }
+    },
+    {
+      "id": "peter-paul-rubens",
+      "name": "Peter Paul Rubens",
+      "source": {
+        "label": "Wikipedia (Watson and the Shark): the composition “shows hints of Peter Paul Rubens's Jonah Thrown into the Sea”",
+        "url": "https://en.wikipedia.org/wiki/Watson_and_the_Shark"
+      }
+    }
+  ],
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "I think myself peculiarly unlucky in Liveing in a place into which there has not been one portrait brought that is worthy to be call'd a Picture within my memory",
+      "lead": "Writing from Boston to Benjamin West in London, 1766:",
+      "source": {
+        "author": "John Singleton Copley",
+        "title": "Copley to Benjamin West, Boston, 12 November 1766, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+        "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+        "year": "1766",
+        "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+        "accessed": "2026-11-19",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "According to art historian Paul Staiti, Copley was the greatest and most influential painter in colonial America, producing about 350 works of art. With his startling likenesses of persons and things, he came to define a realist art tradition in America.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "John Singleton Copley",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/John_Singleton_Copley",
+        "accessed": "2026-11-19",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "In London, he met considerable success as a portraitist for the next two decades, and also painted a number of large history paintings, which were innovative in their readiness to depict modern subjects and modern dress. His later years were less successful, and he died heavily in debt.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "John Singleton Copley",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/John_Singleton_Copley",
+        "accessed": "2026-11-19",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "copley-family",
+  "artist": "john-singleton-copley",
+  "title": "The Copley Family",
+  "date": "1776",
+  "year": 1776,
+  "medium": "oil paint on canvas",
+  "dimensions": "184.1 × 229.2 cm",
+  "museum": {
+    "name": "National Gallery of Art, Washington (1961.7.1)",
+    "url": "https://www.nga.gov/collection/art-object-page.46098.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/John_Singleton_Copley_-_The_Copley_Family_-_Google_Art_Project.jpg/1280px-John_Singleton_Copley_-_The_Copley_Family_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/John_Singleton_Copley_-_The_Copley_Family_-_Google_Art_Project.jpg/2560px-John_Singleton_Copley_-_The_Copley_Family_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 961,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Singleton Copley - The Copley Family - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q20178802"
+  },
+  "phase": {
+    "label": "London, 1774–1815",
+    "source": {
+      "label": "Wikipedia: “he moved to London in 1774, never returning to America”",
+      "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “A group portrait, it features a self-portrait of the artist with his wife Susanna and children”",
+        "url": "https://en.wikipedia.org/wiki/The_Copley_Family"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a 1777 oil on canvas portrait painting”",
+        "url": "https://en.wikipedia.org/wiki/The_Copley_Family"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A group portrait, it features a self-portrait of the artist with his wife Susanna and children and his father-in-law Richard Clarke, [a] Loyalist merchant.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Copley Family",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Copley_Family",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was placed, by his own hand, in the position it retained for nearly a century, over the fire-place in the dining-room in George Street, drawing away the eye from the social party around his hospitable table to the beautiful group over the family hearth.",
+        "source": {
+          "author": "Martha Babcock Amory",
+          "title": "The Domestic and Artistic Life of John Singleton Copley, R.A.",
+          "publisher": "Houghton, Mifflin (1882), via Internet Archive",
+          "year": "1882",
+          "readAt": "https://archive.org/stream/domesticartistic00amor/domesticartistic00amor_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "with the introduction in many cases of a bird, a squirrel, a dog, and indeed often of a child at the mother's knee, but no entire \"Family Group\" is known.",
+        "lead": "Of Copley’s Boston portraits, his granddaughter wrote that they came",
+        "source": {
+          "author": "Martha Babcock Amory",
+          "title": "The Domestic and Artistic Life of John Singleton Copley, R.A.",
+          "publisher": "Houghton, Mifflin (1882), via Internet Archive",
+          "year": "1882",
+          "readAt": "https://archive.org/stream/domesticartistic00amor/domesticartistic00amor_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The work was displayed at the Royal Academy's Summer Exhibition of 1777 at Pall Mall in London.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Copley Family",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Copley_Family",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I am also apprehensive that in the Winter, if the Frost should be severe and the Harbour froze, that the Town of Boston will be exposed to an attack",
+        "lead": "From Italy, fearing for the family he had left in Boston:",
+        "source": {
+          "author": "John Singleton Copley",
+          "title": "Copley to Henry Pelham, Parma, 22 August 1775, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1775",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This anxiety was groundless, for Mrs. Copley and the children had already sailed on May 27, 1775, from Marblehead in a ship crowded with refugees.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Singleton Copley",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Singleton_Copley",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

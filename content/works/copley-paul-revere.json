@@ -1,0 +1,137 @@
+{
+  "id": "copley-paul-revere",
+  "artist": "john-singleton-copley",
+  "title": "Paul Revere",
+  "date": "1768",
+  "year": 1768,
+  "medium": "oil paint on canvas",
+  "dimensions": "89.22 × 72.39 cm",
+  "museum": {
+    "name": "Museum of Fine Arts Boston (30.781)",
+    "url": "https://www.wikidata.org/wiki/Q20772166"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/J_S_Copley_-_Paul_Revere.jpg/1280px-J_S_Copley_-_Paul_Revere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1449,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (J S Copley - Paul Revere.jpg)"
+  },
+  "archive": {
+    "wd": "Q20772166"
+  },
+  "phase": {
+    "label": "Boston years, 1753–1774",
+    "source": {
+      "label": "Wikipedia: “After becoming well-established as a portrait painter of the wealthy in colonial New England, he moved to London in 1774”",
+      "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “Portrait of Paul Revere is a painting by John Singleton Copley of American silversmith and revolutionary Paul Revere”",
+        "url": "https://en.wikipedia.org/wiki/Portrait_of_Paul_Revere"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record (Museum of Fine Arts, Boston): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q20772166"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "For the portrait, Revere did not dress formally and did not apply hair texture powder, a fashion symbol of the time. Instead, he resumed his work on the teapot depicted in the painting while Copley painted.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Paul Revere",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Paul_Revere",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the United States, John Singleton Copley, schooled in the refined British manner, became the leading painter of full-size and miniature portraits, with his hyper-realistic pictures of Samuel Adams and Paul Revere especially well-regarded.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_painting",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The people generally regard it no more than any other usefull trade, as they somtimes term it … of a Carpenter tailor or shew maker, not as one of the most noble Arts in the World. Which is not a little Mortifiing to me.",
+        "lead": "Copley on how Boston regarded painting:",
+        "source": {
+          "author": "John Singleton Copley",
+          "title": "Copley to Benjamin West or Captain R. G. Bruce, Boston, [1767?], in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1767",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The portrait depicted manual labor, a rarity for the time.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Paul Revere",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Paul_Revere",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Copley and Revere were good friends, with Copley often purchasing frames from Revere. … Copley is believed to have painted the portrait for Revere to absolve his debts.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Paul Revere",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Paul_Revere",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Though Revere was not known for his revolutionary efforts at the time it was painted, his depiction in it – namely his facial expression – was described by Carol Strickland and John Boswell as having \"summed up the revolution's call for independence\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait of Paul Revere",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_of_Paul_Revere",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}
