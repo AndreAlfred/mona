@@ -1,0 +1,141 @@
+{
+  "id": "copley-mrs-thomas-gage",
+  "artist": "john-singleton-copley",
+  "title": "Portrait of Mrs. Thomas Gage",
+  "date": "1771",
+  "year": 1771,
+  "medium": "oil paint",
+  "dimensions": "50 × 40",
+  "museum": {
+    "name": "Timken Museum of Art (1984:001)",
+    "url": "https://www.timkenmuseum.org/collection/mrs-thomas-gage/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Margaret_Kemble_Gage.jpg/1280px-Margaret_Kemble_Gage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Margaret_Kemble_Gage.jpg/2560px-Margaret_Kemble_Gage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1459,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Margaret Kemble Gage.jpg)"
+  },
+  "archive": {
+    "wd": "Q99541009"
+  },
+  "phase": {
+    "label": "New York visit, 1771",
+    "source": {
+      "label": "Wikipedia: “between June 1771 and January 1772, painted thirty-seven portraits in New York”",
+      "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “The portrait depicts Margaret Kemble Gage”",
+        "url": "https://en.wikipedia.org/wiki/Mrs._Thomas_Gage"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a 1771 oil painting on canvas”",
+        "url": "https://en.wikipedia.org/wiki/Mrs._Thomas_Gage"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "it is I think beyand Compare the best Lady's portrait I ever Drew; but [Matthew Pratt] says of it, It will be flesh and Blood these 200 years to come, that every Part and line in it is Butifull, that I must get my Ideas from Heaven",
+        "lead": "Writing home from New York:",
+        "source": {
+          "author": "John Singleton Copley",
+          "title": "Copley to Henry Pelham, New York, 6 November 1771, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1771",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The work was displayed at the Society of Artists Exhibition of 1772 in London.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mrs. Thomas Gage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Mrs._Thomas_Gage",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "the portrait of Mrs. Gage as a picture has received every praise from the lovers of arts, her Friends did not think the likeness so favourable as they could wish, but Honour'd it as a pice of art.",
+        "lead": "Benjamin West on its London reception:",
+        "source": {
+          "author": "Benjamin West",
+          "title": "Benjamin West to Copley, London, 6 January 1773, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1773",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Sir Joshua Reynold and other artists of distinguished merrit have the Highest esteem for you and your works.",
+        "source": {
+          "author": "Benjamin West",
+          "title": "Benjamin West to Copley, London, 6 January 1773, in Letters & Papers of John Singleton Copley and Henry Pelham, 1739–1776",
+          "publisher": "Massachusetts Historical Society (1914), via Internet Archive",
+          "year": "1773",
+          "readAt": "https://archive.org/stream/letterspapersofj00copl/letterspapersofj00copl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "She was an American, and her family's prestige and wealth lent her social standing equal to that of her husband, whose officers were even known to call her \"Duchess\". She did not make a secret of her divided loyalties and said that \"she hoped her husband would never be the instrument of sacrificing the lives of her countrymen\".",
+        "lead": "The sitter, wife of the British commander in North America:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Margaret Kemble Gage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Margaret_Kemble_Gage",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Though the evidence is circumstantial, some historians strongly suspect that the informant was Margaret Kemble Gage.",
+        "lead": "On who warned the patriots before Lexington and Concord in 1775:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Margaret Kemble Gage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Margaret_Kemble_Gage",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tondo",
+  "kind": "style",
+  "name": "Tondo",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "[A tondo] is a Renaissance term for a circular work of art, either a painting or a sculpture. The word derives from the Italian rotondo, \"round\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Tondo (art)",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Tondo_(art)",
+        "accessed": "2026-11-19",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The perfectly round form, called a tondo, became popular during the 1440s, especially in Florence. Made for domestic settings instead of churches, the circular format challenged the artist to create a harmonious, balanced composition within this more difficult shape.",
+      "source": {
+        "author": "Cleveland Museum of Art",
+        "title": "Collection description: Virgin and Child with the Young Saint John the Baptist (Botticelli and workshop)",
+        "publisher": "Cleveland Museum of Art",
+        "url": "https://clevelandart.org/art/1970.160",
+        "readAt": "https://openaccess-api.clevelandart.org/api/artworks/144966",
+        "accessed": "2026-11-19",
+        "tier": 4,
+        "license": "CC0"
+      }
+    }
+  ],
+  "archiveTerm": "tondo"
+}

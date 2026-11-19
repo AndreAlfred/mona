@@ -1,0 +1,89 @@
+{
+  "id": "sandro-botticelli",
+  "name": "Sandro Botticelli",
+  "born": 1445,
+  "died": 1510,
+  "active": "c. 1467–1505",
+  "nationality": "Italian",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "leonardo-da-vinci",
+      "name": "Leonardo da Vinci",
+      "source": {
+        "label": "Wikipedia: “The rising star Leonardo da Vinci, who scoffed at Botticelli's landscapes”",
+        "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+      }
+    },
+    {
+      "id": "perugino",
+      "name": "Perugino",
+      "source": {
+        "label": "Wikipedia: in the Sistine Chapel, “Pietro Perugino, the first artist to be employed, was given this role, if anyone was”",
+        "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+      }
+    }
+  ],
+  "wikidata": "Q5669",
+  "archive": {
+    "aic": 33710,
+    "cma": [
+      2053
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Thereupon, devoting himself heart and soul to that art, Sandro followed and imitated his master so well that Fra Filippo, growing to love him, taught him very thoroughly, so that he soon rose to such a rank as none would have expected for him.",
+      "source": {
+        "author": "Giorgio Vasari",
+        "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+        "publisher": "Project Gutenberg text, via Internet Archive",
+        "year": "1568",
+        "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+        "accessed": "2026-11-19",
+        "tier": 2
+      },
+      "lead": "Vasari on his apprenticeship to Fra Filippo Lippi:"
+    },
+    {
+      "kind": "quote",
+      "text": "He was an independent master for all the 1470s, which saw his reputation soar. The 1480s were his most successful decade, the one in which his large mythological paintings were completed along with many of his most famous Madonnas.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Sandro Botticelli",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+        "accessed": "2026-11-19",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Never pretty, scarcely ever charming or even attractive; rarely correct in drawing, and seldom satisfactory in colour; in types, ill-favoured; in feeling acutely intense and even dolorous--what is it then that makes Sandro Botticelli so irresistible that nowadays we may have no alternative but to worship or abhor him?",
+      "source": {
+        "author": "Bernard Berenson",
+        "title": "The Florentine Painters of the Renaissance",
+        "publisher": "Project Gutenberg text, via Internet Archive",
+        "year": "1896",
+        "readAt": "https://archive.org/stream/theflorentinepai17408gut/17408.txt",
+        "accessed": "2026-11-19",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

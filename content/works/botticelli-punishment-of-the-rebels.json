@@ -1,0 +1,144 @@
+{
+  "id": "botticelli-punishment-of-the-rebels",
+  "artist": "sandro-botticelli",
+  "title": "Punishment of the Rebels (Punishment of the Sons of Korah)",
+  "date": "1481–82",
+  "year": 1481,
+  "medium": "fresco",
+  "dimensions": "348.5 × 570 cm",
+  "museum": {
+    "name": "Sistine Chapel",
+    "url": "https://www.wikidata.org/wiki/Q2268688"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Botticcelli%2C_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg/1280px-Botticcelli%2C_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 755,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Botticcelli, Sandro - The Punishment of Korah and the Stoning of Moses and Aaron - 1481-82.jpg)"
+  },
+  "archive": {
+    "wd": "Q2268688"
+  },
+  "phase": {
+    "label": "Sistine Chapel, Rome, 1481–82",
+    "source": {
+      "label": "Wikipedia: his only significant time away from Florence included “the Sistine Chapel in Rome in 1481–82”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "fresco",
+      "source": {
+        "label": "Wikipedia: Botticelli was summoned “to fresco the walls of the newly completed Sistine Chapel”",
+        "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+      }
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: it “tells of a rebellion by the Israelites against Moses and Aaron”",
+        "url": "https://en.wikipedia.org/wiki/Punishment_of_the_Sons_of_Korah"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Botticelli differs from his colleagues in imposing a more insistent triptych-like composition, dividing each of his scenes into a main central group with two flanking groups at the sides, showing different incidents.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Punishment of the Sons of Corah contains what was for Botticelli an unusually close, if not exact, copy of a classical work. This is the rendering in the centre of the north side of the Arch of Constantine in Rome",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1481, Pope Sixtus IV summoned Botticelli and other prominent Florentine and Umbrian artists to fresco the walls of the newly completed Sistine Chapel. … The Florentine contribution is thought to be part of a peace deal between Lorenzo Medici and the papacy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The theme of the decoration was a parallel between the lives of Moses and Christ, as a sign of continuity between the Old and the New Testament.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Punishment of the Sons of Korah",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Punishment_of_the_Sons_of_Korah",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "he received from the Pope a good sum of money, the whole of which he consumed and squandered in a moment during his residence in Rome, where he lived in haphazard fashion, as was his wont.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        },
+        "lead": "Vasari’s version of the Roman months:"
+      },
+      {
+        "kind": "quote",
+        "text": "On 17 February 1482 his contract was renewed, including the other scenes to complete the chapel's decoration. However, on the 20th of the same month, his father died: he returned to Florence, where he remained.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Punishment of the Sons of Korah",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Punishment_of_the_Sons_of_Korah",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

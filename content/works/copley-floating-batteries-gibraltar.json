@@ -1,0 +1,136 @@
+{
+  "id": "copley-floating-batteries-gibraltar",
+  "artist": "john-singleton-copley",
+  "title": "The Defeat of the Floating Batteries at Gibraltar, September 1782",
+  "date": "1783",
+  "year": 1783,
+  "medium": "oil paint",
+  "dimensions": "134.6 × 189.9 cm",
+  "museum": {
+    "name": "Guildhall Art Gallery, London",
+    "url": "https://www.wikidata.org/wiki/Q7729569"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_Siege_and_Relief_of_Gibraltar_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 846,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Siege and Relief of Gibraltar (2).jpg)"
+  },
+  "archive": {
+    "wd": "Q7729569"
+  },
+  "phase": {
+    "label": "London, 1774–1815",
+    "source": {
+      "label": "Wikipedia: “he moved to London in 1774, never returning to America”",
+      "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “It depicts a coastal view of the naval action of the Great Siege of Gibraltar”",
+        "url": "https://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a 1791 oil-on-canvas painting”",
+        "url": "https://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "At over 42.5 square metres (458 square feet), his picture is one of Britain's largest oil paintings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Defeat of the Floating Batteries at Gibraltar, September 1782",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His next subject was a much more magnificent one, but too vast and varied perhaps — the repulse and defeat of the Spanish floating batteries at Gibraltar.",
+        "source": {
+          "author": "Allan Cunningham",
+          "title": "Lives of the Most Eminent British Painters (1829–33), as quoted in William Dunlap, A History of the Rise and Progress of the Arts of Design in the United States (1834)",
+          "publisher": "via Internet Archive",
+          "year": "1832",
+          "readAt": "https://archive.org/stream/historyofrisepro01dunl/historyofrisepro01dunl_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 3
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Copley was sent to Hanover to take the portraits of four of the generals of that country, who, with those of England, had won their laurels on that sea-washed \"Rock.\"",
+        "source": {
+          "author": "Martha Babcock Amory",
+          "title": "The Domestic and Artistic Life of John Singleton Copley, R.A.",
+          "publisher": "Houghton, Mifflin (1882), via Internet Archive",
+          "year": "1882",
+          "readAt": "https://archive.org/stream/domesticartistic00amor/domesticartistic00amor_djvu.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Several years after Copley began work on his canvas, fellow American painter John Trumbull began work on a painting of a different scene of the Great Siege, The Sortie Made by the Garrison of Gibraltar.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Defeat of the Floating Batteries at Gibraltar, September 1782",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It depicts the Governor General George Augustus Eliott, riding to the edge of the battlements to direct the rescue of the defeated Spanish sailors by the British.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Defeat of the Floating Batteries at Gibraltar, September 1782",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It was later taken down and taken out of London to be stored in safety during The Blitz in April 1941, three weeks before the Gallery was destroyed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Defeat of the Floating Batteries at Gibraltar, September 1782",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

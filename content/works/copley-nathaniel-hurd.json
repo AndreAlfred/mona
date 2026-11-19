@@ -1,0 +1,141 @@
+{
+  "id": "copley-nathaniel-hurd",
+  "artist": "john-singleton-copley",
+  "title": "Nathaniel Hurd",
+  "date": "c. 1765",
+  "year": 1760,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 90.5 x 78 x 6.5 cm (35 5/8 x 30 11/16 x 2 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1915.534"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/John_Singleton_Copley_-_Nathaniel_Hurd_-_1915.534_-_Cleveland_Museum_of_Art.tiff/lossy-page1-1280px-John_Singleton_Copley_-_Nathaniel_Hurd_-_1915.534_-_Cleveland_Museum_of_Art.tiff.jpg",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/John_Singleton_Copley_-_Nathaniel_Hurd_-_1915.534_-_Cleveland_Museum_of_Art.tiff/lossy-page1-1280px-John_Singleton_Copley_-_Nathaniel_Hurd_-_1915.534_-_Cleveland_Museum_of_Art.tiff.jpg",
+    "width": 1200,
+    "height": 1432,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust; photograph via Wikimedia Commons"
+  },
+  "archive": {
+    "cma": 94979
+  },
+  "phase": {
+    "label": "Boston years, 1753–1774",
+    "source": {
+      "label": "Wikipedia: “After becoming well-established as a portrait painter of the wealthy in colonial New England, he moved to London in 1774”",
+      "url": "https://en.wikipedia.org/wiki/John_Singleton_Copley"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Cleveland Museum of Art: “his portrait by Copley”",
+        "url": "https://clevelandart.org/art/1915.534"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: oil on canvas",
+        "url": "https://clevelandart.org/art/1915.534"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Hurd's open-collared shirt, as well as the rakishly tilted turban that covers his shaved head in place of a ceremonial powdered wig, create an air of informality that is unusual for a portrait of this time.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Nathaniel Hurd",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1915.534",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/94979",
+          "accessed": "2026-11-19",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Hurd's initial depiction was likely meant to show an artisan at his workstation, which was an uncommon style in portraiture, but perhaps also why the painting was not completed.",
+        "lead": "Copley also left an unfinished portrait of Hurd, now in Rochester:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Unfinished portrait of Nathaniel Hurd",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Unfinished_portrait_of_Nathaniel_Hurd",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "is recognized as the first American engraver and a silversmith in Boston, Massachusetts, in the 18th century.",
+        "lead": "Nathaniel Hurd (1730–1777)",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nathaniel Hurd",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nathaniel_Hurd",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Many of Copley's other subjects were depicted to impress, with mannerisms, ornate clothing and an enlightened background creating the image of a modern, respectable elite.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Unfinished portrait of Nathaniel Hurd",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Unfinished_portrait_of_Nathaniel_Hurd",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Hurd was a prominent silversmith and engraver in Boston, and the warm gaze and unforced smile in his portrait by Copley suggest the friendship between the two artists.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Nathaniel Hurd",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1915.534",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/94979",
+          "accessed": "2026-11-19",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "During the economic crisis that lead to the American Revolution, Hurd struggled financially and succumbed to an illness in 1777.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Unfinished portrait of Nathaniel Hurd",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Unfinished_portrait_of_Nathaniel_Hurd",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}

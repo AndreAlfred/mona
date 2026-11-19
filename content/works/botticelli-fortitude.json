@@ -1,0 +1,137 @@
+{
+  "id": "botticelli-fortitude",
+  "artist": "sandro-botticelli",
+  "title": "Fortitude",
+  "date": "1470",
+  "year": 1470,
+  "medium": "tempera on panel",
+  "dimensions": "167 × 87 cm",
+  "museum": {
+    "name": "Uffizi Gallery (1606)",
+    "url": "https://web.archive.org/web/20171110203014/http://members.efn.org/~acd/vite/VasariBott.html"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Sandro_Botticelli_-_Fortitudo_-_Uffizi.jpg/1280px-Sandro_Botticelli_-_Fortitudo_-_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2307,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Sandro Botticelli - Fortitudo - Uffizi.jpg)"
+  },
+  "archive": {
+    "wd": "Q1109340"
+  },
+  "phase": {
+    "label": "Independent master in Florence, 1470s",
+    "source": {
+      "label": "Wikipedia: “He was an independent master for all the 1470s, which saw his reputation soar”",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikipedia: “produced with tempera paint on a wood panel”",
+        "url": "https://en.wikipedia.org/wiki/Fortitude_(Botticelli)"
+      }
+    },
+    {
+      "id": "florentine-school",
+      "source": {
+        "label": "Wikipedia (Florentine painting): “Some of the best known painters of the earlier Florentine School are Fra Angelico, Botticelli…”",
+        "url": "https://en.wikipedia.org/wiki/Florentine_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Tommaso Soderini, a close ally of Lorenzo, obtained the commission for the figure of Fortitude of 1470 which is Botticelli's earliest securely dated painting, completing a series of the Seven Virtues left unfinished by Piero del Pollaiuolo.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "While still quite young, he painted a figure of Fortitude in the Mercatanzia of Florence, among the pictures of Virtues that were wrought by Antonio and Piero del Pollaiuolo.",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Sandro Botticelli, in Lives of the Most Eminent Painters, Sculptors and Architects, vol. 3 (trans. Gaston du C. de Vere, 1912)",
+          "publisher": "Project Gutenberg text, via Internet Archive",
+          "year": "1568",
+          "readAt": "https://archive.org/stream/livesofthemostem26860gut/pg26860.txt",
+          "accessed": "2026-11-19",
+          "tier": 2
+        },
+        "lead": "Vasari, writing in the next century:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "At the time of their commission in the fifteenth century, the Mercanzia was of prime importance in Florence's economic life. This made the commission extremely prestigious, and the job was sought by many painters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Fortitude (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fortitude_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Botticelli's panel adopts the format and composition of Piero's, but features a more elegant and naturally posed figure and includes an array of \"fanciful enrichments so as to show up Piero's poverty of ornamental invention.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Lippi died in 1469. Botticelli must have had his own workshop by then, and in June of that year he was commissioned a panel of Fortitude",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sandro Botticelli",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Her gaze is turned down and away from the observer and because of this, her expression is perceived as passive and uninterested. This was a characteristic feature of Botticelli's female figures.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Fortitude (Botticelli)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Fortitude_(Botticelli)",
+          "accessed": "2026-11-19",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-19",
+    "by": "claude-routine"
+  }
+}
