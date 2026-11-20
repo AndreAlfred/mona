@@ -1,0 +1,36 @@
+{
+  "id": "persian-painting",
+  "kind": "style",
+  "name": "Persian painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A Persian miniature … is a small Persian painting on paper, whether a book illustration or a separate work of art intended to be kept in an album of such works called a muraqqa.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Persian miniature",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Persian_miniature",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-20"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Iran did not produce a school of history painting like India, nor of portraiture like that of the Mughals. Instead, the painters rivalled one another in virtuosity of penmanship and richness of design.",
+      "lead": "Basil Gray, on Persian painting under Shah ‘Abbas I (r. 1588–1629):",
+      "source": {
+        "author": "Basil Gray",
+        "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+        "publisher": "Cambridge University Press (Internet Archive scan)",
+        "year": "1986",
+        "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+        "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-20"
+      }
+    }
+  ],
+  "archiveTerm": "Persian"
+}

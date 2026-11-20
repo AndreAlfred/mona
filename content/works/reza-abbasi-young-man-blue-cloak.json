@@ -1,0 +1,152 @@
+{
+  "id": "reza-abbasi-young-man-blue-cloak",
+  "artist": "reza-abbasi",
+  "title": "Young Man in a Blue Cloak",
+  "date": "c. 1587",
+  "year": 1587,
+  "medium": "ink on paper",
+  "dimensions": "17.6 × 7.3 cm",
+  "museum": {
+    "name": "Harvard Art Museums (1936.27)",
+    "url": "https://www.wikidata.org/wiki/Q140690273"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Reza_Abbasi_-_Young_Man_in_a_Blue_Cloak_-_1936.27_-_Arthur_M._Sackler_Museum.jpg/1280px-Reza_Abbasi_-_Young_Man_in_a_Blue_Cloak_-_1936.27_-_Arthur_M._Sackler_Museum.jpg",
+    "width": 1200,
+    "height": 2884,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Reza Abbasi - Young Man in a Blue Cloak - 1936.27 - Arthur M. Sackler Museum.jpg)"
+  },
+  "archive": {
+    "wd": "Q140690273"
+  },
+  "phase": {
+    "label": "Early court years at Qazvin, c. 1587–97",
+    "source": {
+      "label": "Gray: he “had an established reputation by the time that Qazi Ahmad completed his first version in 1596”",
+      "url": "https://archive.org/details/art-arch-timurid-safavid-1986"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Qadi Ahmad praises his “brushwork, portraiture, and likeness”",
+        "url": "https://archive.org/details/calligrapherspa321959ahma"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Riza ‘Abbasi, at his best, was brilliant at capturing personality in quick sketches.",
+          "source": {
+            "author": "Norah M. Titley",
+            "title": "Persian Miniature Painting and its Influence on the Art of Turkey and India",
+            "publisher": "The British Library (Internet Archive scan)",
+            "year": "1983",
+            "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307",
+            "readAt": "https://archive.org/stream/titley-n.-1983-persian-miniature-painting_202307/Titley%2C%20N.%201983%20PersianMiniaturePainting_djvu.txt",
+            "tier": 2,
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "muraqqa",
+      "source": {
+        "label": "Wikipedia: his speciality was “the single miniature for the albums or muraqqas of private collectors”",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    },
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia: the leading Persian miniaturist of the Isfahan School",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The work of this early period which is generally accepted is not extensive. At its head are two fine coloured drawings of standing figures, one of a girl holding a fan …, the other of an elegant page in a cloak holding a fruit.",
+        "lead": "Basil Gray, on Aqa Riza’s earliest accepted works:",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The style is more elegant than that of Sadiqi Beg, with less sense of volume (there are no highlights on the features, as in his) but greater vitality: and we may remark a certain humour in the expressions.",
+        "lead": "On their style:",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was in this period that the single miniature designed for inserting in an album came to be dominant; such works had long been produced, but now they became the main source of income for many artists, who probably often produced them speculatively with no commission, and then looked to sell them",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Muraqqa",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Muraqqa",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The artist who epitomises the Persian album miniature is Riza Abbasi, active from the 1580s until his death in 1635, whose early single miniatures of groups are somewhat like those in narrative scenes, but lacking any actual narrative attached to them.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Muraqqa",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Muraqqa",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He has been appointed to the court of Shah 'Abbas, the powerful monarch of the family of most pure Imams. On one occasion he made such a portrait that this glorious monarch involuntarily expressed a thousand approvals and praises.",
+        "lead": "Qadi Ahmad, on the young painter’s standing at court, 1596:",
+        "source": {
+          "author": "Qadi Ahmad",
+          "title": "Calligraphers and Painters (Gulistan-i hunar)",
+          "publisher": "translated by V. Minorsky, Freer Gallery of Art Occasional Papers (Internet Archive scan)",
+          "year": "c. 1596–1606 (trans. 1959)",
+          "url": "https://archive.org/details/calligrapherspa321959ahma",
+          "readAt": "https://archive.org/stream/calligrapherspa321959ahma/calligrapherspa321959ahma_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

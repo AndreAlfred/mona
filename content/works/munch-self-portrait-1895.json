@@ -1,0 +1,156 @@
+{
+  "id": "munch-self-portrait-1895",
+  "artist": "edvard-munch",
+  "title": "Self-Portrait (with Skeleton Arm)",
+  "date": "1895",
+  "year": 1895,
+  "medium": "Lithograph",
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q109321353"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Edvard_Munch_-_Self-Portrait_%281895%29_G0192-59_-_Google_Art_Project.jpg/1280px-Edvard_Munch_-_Self-Portrait_%281895%29_G0192-59_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1733,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edvard Munch - Self-Portrait (1895) G0192-59 - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q109321353"
+  },
+  "phase": {
+    "label": "Berlin, 1894–95 — his first prints",
+    "source": {
+      "label": "J. P. Hodin (1950): one of his first lithographs is the Self-portrait of 1895, made in Berlin",
+      "url": "https://archive.org/details/micro_IA40244323_0186"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "J. P. Hodin (1950): the Self-portrait of 1895, one of his first lithographs",
+        "url": "https://archive.org/details/micro_IA40244323_0186"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He drew either directly on the stone, on specially prepared zinc plates, or with chalk on paper.",
+          "source": {
+            "author": "J. P. Hodin",
+            "title": "“Edvard Munch's Graphic Art”, in Edvard Munch: Etchings, Woodcuts and Lithographs (exhibition catalogue)",
+            "publisher": "Arts Council of Great Britain",
+            "year": "1950",
+            "url": "https://archive.org/details/micro_IA40244323_0186",
+            "readAt": "https://archive.org/stream/micro_IA40244323_0186/micro_IA40244323_0186_djvu.txt",
+            "accessed": "2026-11-20",
+            "tier": 2,
+            "license": "Short excerpt; Internet Archive scan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: Self-Portrait with Skeleton Arm (1895)",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    },
+    {
+      "id": "memento-mori",
+      "source": {
+        "label": "Wikipedia: Self-Portrait with Skeleton Arm (1895)",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "One of his first lithographs is the Self-portrait of 1895 (No. 25), made in Berlin.",
+        "source": {
+          "author": "J. P. Hodin",
+          "title": "“Edvard Munch's Graphic Art”, in Edvard Munch: Etchings, Woodcuts and Lithographs (exhibition catalogue)",
+          "publisher": "Arts Council of Great Britain",
+          "year": "1950",
+          "url": "https://archive.org/details/micro_IA40244323_0186",
+          "readAt": "https://archive.org/stream/micro_IA40244323_0186/micro_IA40244323_0186_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 2,
+          "license": "Short excerpt; Internet Archive scan"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "His head and white collar emerge from solid black; his name and the date are lettered across the top, and a skeleton's forearm lies along the bottom edge, like a ledge beneath a portrait bust."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In Berlin, Munch became involved in an international circle of writers, artists and critics, including the Swedish dramatist and leading intellectual August Strindberg, whom he painted in 1892.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Psychologic, in the true sense of that much-abused word, are his portraits … as well as the self-portraits … these and many others serve as testimony to a sympathetic divination of character.",
+        "lead": "James Huneker, in 1915:",
+        "source": {
+          "author": "James Huneker",
+          "title": "“Kubin, Munch, and Gauguin: Masters of Mystery and Hallucination”, in Ivory Apes and Peacocks",
+          "publisher": "Charles Scribner's Sons",
+          "year": "1915",
+          "url": "https://archive.org/details/ivoryapespeacock00huneiala",
+          "readAt": "https://archive.org/stream/ivoryapespeacock00huneiala/ivoryapespeacock00huneiala_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 3,
+          "license": "Public domain (Internet Archive scan)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "My father was temperamentally nervous and obsessively religious—to the point of psychoneurosis. From him I inherited the seeds of madness. The angels of fear, sorrow, and death stood by my side since the day I was born.",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "Autobiographical notes, quoted in “Edvard Munch”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikipedia (CC BY-SA)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I am writing a study of the soul as I observe myself closely and use myself as an anatomical testing-ground.",
+        "lead": "Explaining his autobiographical notebooks:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "The Mad Poet's Diary, T 2734 (after 1908), quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

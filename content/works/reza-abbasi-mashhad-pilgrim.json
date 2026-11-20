@@ -1,0 +1,173 @@
+{
+  "id": "reza-abbasi-mashhad-pilgrim",
+  "artist": "reza-abbasi",
+  "title": "The Mashhad Pilgrim",
+  "date": "1598",
+  "year": 1598,
+  "museum": {
+    "name": "Freer Gallery of Art (F1953.12)",
+    "url": "https://www.wikidata.org/wiki/Q134715766"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Mashhad_Pilgrim._Reza._Freer.jpg/1280px-The_Mashhad_Pilgrim._Reza._Freer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1796,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Mashhad Pilgrim. Reza. Freer.jpg)"
+  },
+  "archive": {
+    "wd": "Q134715766"
+  },
+  "phase": {
+    "label": "Khorasan campaign and the move to Isfahan, 1598",
+    "source": {
+      "label": "Wikipedia: “Both Rizas accompanied the shah on his campaign to Khurasan in 1598”",
+      "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Binyon, Wilkinson and Gray, catalogue no. 258: “Line-drawing. A Mashhad Pilgrim”",
+        "url": "https://archive.org/details/myam_persian-miniature-painting-by-laurence-binyon-j-v-s-wilkinson-and-basil-gray-art"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Then there are some pen-drawings, also of young people, … which excel in the bravura of the line which moves from thick to thin, following the curves of the body and ends in a splutter of controlled ink.",
+          "lead": "Gray, on Aqa Riza’s early pen drawings:",
+          "source": {
+            "author": "Basil Gray",
+            "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+            "publisher": "Cambridge University Press (Internet Archive scan)",
+            "year": "1986",
+            "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+            "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+            "tier": 2,
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pen-and-ink",
+      "source": {
+        "label": "Binyon, Wilkinson and Gray, catalogue no. 258: a line-drawing",
+        "url": "https://archive.org/details/myam_persian-miniature-painting-by-laurence-binyon-j-v-s-wilkinson-and-basil-gray-art"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Binyon et al.: the period’s drawings show “genre subjects and portrait studies of ordinary people”, including pilgrims",
+        "url": "https://archive.org/details/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-"
+      }
+    },
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia: the leading Persian miniaturist of the Isfahan School",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "‘In sacred Mashhad; this was made at the end of Friday, the 10th of Muharram, in the princely house, for the friends, in the year 1007 (1598). Drawn by Riza specially for Mirza Khwajagi Sahib. May God preserve him.’",
+        "lead": "The inscription beside the figure, as translated for the 1931 Persian exhibition in London:",
+        "source": {
+          "author": "Laurence Binyon, J. V. S. Wilkinson and Basil Gray",
+          "title": "Persian Miniature Painting",
+          "publisher": "Oxford University Press (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/myam_persian-miniature-painting-by-laurence-binyon-j-v-s-wilkinson-and-basil-gray-art",
+          "readAt": "https://archive.org/stream/myam_persian-miniature-painting-by-laurence-binyon-j-v-s-wilkinson-and-basil-gray-art/Persian%20Miniature%20Painting%20By%20Laurence%20Binyon%20J%20V%20S%20Wilkinson%20And%20Basil%20Gray%20Art%20London%201933%20-%20Oxford%20University%20Press%20Humphrey%20Milford_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "If Sarre['s] identification is accepted, the Mashhad pilgrim, reproduced in Tafel I of his book, must be one of the earliest.",
+        "lead": "On its place among the drawings signed Riza:",
+        "source": {
+          "author": "Laurence Binyon, J. V. S. Wilkinson and Basil Gray",
+          "title": "Persian Miniature Painting",
+          "publisher": "Oxford University Press (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-",
+          "readAt": "https://archive.org/stream/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-/Persian%20Miniature%20Painting%20By%20Laurence%20Binyon%20J%20V%20S%20Wilkinson%20And%20Basil%20Gray%20Art%20Illustrated%20London%201933%20-%20Oxford%20University%20Press_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "this artist was particularly fond of signing his name on his drawings; and not only does he give his name, but sometimes also the date and the circumstances under which he made the picture.",
+        "source": {
+          "author": "Thomas W. Arnold",
+          "title": "Painting in Islam",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1928",
+          "url": "https://archive.org/details/thomasarnoldpaintinginislam",
+          "readAt": "https://archive.org/stream/thomasarnoldpaintinginislam/Thomas%20Arnold-Painting%20in%20Islam_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it needed a man of a certain roughness of temperament to break with the modest habit of his predecessors, who rarely signed their pictures",
+        "source": {
+          "author": "Thomas W. Arnold",
+          "title": "Painting in Islam",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1928",
+          "url": "https://archive.org/details/thomasarnoldpaintinginislam",
+          "readAt": "https://archive.org/stream/thomasarnoldpaintinginislam/Thomas%20Arnold-Painting%20in%20Islam_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The moment the Uzbegs had left, the seyyeds and leading men of Mašhad sent a courier to Farhad Khan at Dastjerd. Farhad Khan marched the same hour to Mašhad, entered the city, visited the shrine of the Imam Reza, and reported to the Shah",
+        "lead": "Eskandar Beg Monshi, on the Safavid recovery of Mashhad from the Uzbeks in 1598, after ten years of occupation:",
+        "source": {
+          "author": "Eskandar Beg Monshi",
+          "title": "History of Shah ‘Abbas the Great (Tārīk-e ‘Ālamārā-ye ‘Abbāsī)",
+          "publisher": "translated by Roger M. Savory, Westview Press (Internet Archive scan)",
+          "year": "c. 1616–29 (trans. 1978)",
+          "url": "https://archive.org/details/monshi-shah-abbas-english",
+          "readAt": "https://archive.org/stream/monshi-shah-abbas-english/Monshi_Shah-Abbas_English_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Both Rizas accompanied the shah on his campaign to Khurasan in 1598 and followed him to the new capital he established in Isfahan from 1597 to 1598.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Reza Abbasi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Reza_Abbasi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

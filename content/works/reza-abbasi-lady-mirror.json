@@ -1,0 +1,163 @@
+{
+  "id": "reza-abbasi-lady-mirror",
+  "artist": "reza-abbasi",
+  "title": "Lady with a Mirror",
+  "date": "1618",
+  "year": 1618,
+  "museum": {
+    "name": "Detroit Institute of Arts (44.274)",
+    "url": "https://www.wikidata.org/wiki/Q64521070"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Riza-i_%27Abbasi_-_Lady_with_a_Mirror_-_44.274_-_Detroit_Institute_of_Arts.jpg/1280px-Riza-i_%27Abbasi_-_Lady_with_a_Mirror_-_44.274_-_Detroit_Institute_of_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1708,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Riza-i 'Abbasi - Lady with a Mirror - 44.274 - Detroit Institute of Arts.jpg)"
+  },
+  "archive": {
+    "wd": "Q64521070"
+  },
+  "phase": {
+    "label": "Isfahan, later court years, 1610s–20s",
+    "source": {
+      "label": "Wikipedia: “In 1610, he returned to the court … and continued in the employ of the Shah until his death”",
+      "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+    }
+  },
+  "tags": [
+    {
+      "id": "muraqqa",
+      "source": {
+        "label": "Wikipedia: the album miniature often shows “idealized beauties of either sex in a garden setting”",
+        "url": "https://en.wikipedia.org/wiki/Muraqqa"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Many were arranged with pages of calligraphy facing miniatures, the matching of verse to image allowing some scope for the creativity of the compiler.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Muraqqa",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Muraqqa",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Brend (via Wikipedia): “His coloured figures, which must often be portraits”",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    },
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia: the leading Persian miniaturist of the Isfahan School",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "this artist was particularly fond of signing his name on his drawings; and not only does he give his name, but sometimes also the date and the circumstances under which he made the picture.",
+        "lead": "Arnold, on a habit visible in the inscription at lower left:",
+        "source": {
+          "author": "Thomas W. Arnold",
+          "title": "Painting in Islam",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1928",
+          "url": "https://archive.org/details/thomasarnoldpaintinginislam",
+          "readAt": "https://archive.org/stream/thomasarnoldpaintinginislam/Thomas%20Arnold-Painting%20in%20Islam_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His coloured figures, which must often be portraits, are more restrained and lay more emphasis on the fashions of the day, the rich textiles, the carelessly draped turban, the European hat.",
+        "source": {
+          "author": "Barbara Brend",
+          "title": "Islamic Art (quoted in Wikipedia, “Reza Abbasi”)",
+          "publisher": "Harvard University Press",
+          "year": "1991",
+          "readAt": "https://en.wikipedia.org/wiki/Reza_Abbasi",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The people illustrated on these album pages are most often elongated silhouettes, with little rounded heads. The subjects could be courtesans, servers of drinks being prominent, but also peasants and dervishes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Safavid art",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Safavid_art",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is impossible to … tell whether these sugary faces belong to … men or women",
+        "lead": "F. R. Martin, unpersuaded, in 1912:",
+        "source": {
+          "author": "F. R. Martin",
+          "title": "The Miniature Painting and Painters of Persia, India and Turkey",
+          "publisher": "Bernard Quaritch (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/india.history.resource.100362",
+          "readAt": "https://archive.org/stream/india.history.resource.100362/100362_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Might it not be that Riza took to using the epithet [‘Abbasi’] only when he ceased to be the shah's servant, but when he wished to enhance his market value by reference to the royal patronage he had enjoyed?",
+        "lead": "Gray, on the signature “Riza-yi ‘Abbasi” found on pages like this one:",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "If this interpretation [is] correct, the Riza-yi ‘Abbasi drawings are those made for sale in the market.",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

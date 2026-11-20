@@ -1,0 +1,161 @@
+{
+  "id": "reza-abbasi-nashmi-archer",
+  "artist": "reza-abbasi",
+  "title": "Nashmi the Archer",
+  "date": "1630",
+  "year": 1630,
+  "museum": {
+    "name": "Harvard Art Museums (1960.197)",
+    "url": "https://www.wikidata.org/wiki/Q106848983"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Aqa_Riza_%28Riza_%E2%80%98Abbasi%29_-_Nashmi_the_Archer_-_1960.197_-_Harvard_Art_Museums.jpg/1280px-Aqa_Riza_%28Riza_%E2%80%98Abbasi%29_-_Nashmi_the_Archer_-_1960.197_-_Harvard_Art_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2038,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Aqa Riza (Riza ‘Abbasi) - Nashmi the Archer - 1960.197 - Harvard Art Museums.jpg)"
+  },
+  "archive": {
+    "wd": "Q106848983"
+  },
+  "phase": {
+    "label": "Late Isfahan years, 1620s–1635",
+    "source": {
+      "label": "Canby (Grove, via Wikipedia): his style changes “in the 1620s”",
+      "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikidata: “Nashmi the Archer”, a named sitter",
+        "url": "https://www.wikidata.org/wiki/Q106848983"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "To this circumstance is probably due the increase in the number of the separate portraits of Persians other than those of members of the royal family-such as nobles, military officers, physicians, scholars, &c. — and the facile brush of Riza ‘Abbasi … was fortunately ready to supply [the] demand.",
+          "source": {
+            "author": "Thomas W. Arnold",
+            "title": "Painting in Islam",
+            "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+            "year": "1928",
+            "url": "https://archive.org/details/thomasarnoldpaintinginislam",
+            "readAt": "https://archive.org/stream/thomasarnoldpaintinginislam/Thomas%20Arnold-Painting%20in%20Islam_djvu.txt",
+            "tier": 2,
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: in his later years he painted “older men, perhaps scholars, Sufi divines, or shepherds”",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    },
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia: the leading Persian miniaturist of the Isfahan School",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The primary colours and virtuoso technique of his early portraits give way in the 1620s to darker, earthier colours and a coarser, heavier line. New subjects only partly compensate for this disappointing stylistic development",
+        "source": {
+          "author": "Sheila R. Canby",
+          "title": "Riza, in Grove Art Online (quoted in Wikipedia, “Reza Abbasi”)",
+          "publisher": "Oxford University Press",
+          "readAt": "https://en.wikipedia.org/wiki/Reza_Abbasi",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He painted many older men, perhaps scholars, Sufi divines, or shepherds, as well as birds and Europeans, and in his last years sometimes satirized his subjects.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Reza Abbasi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Reza_Abbasi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "They are decidedly mannered; a large number of them are single portraits of middle-aged men with curious long noses",
+        "lead": "Binyon, Wilkinson and Gray, on the many drawings signed Riza-yi ‘Abbasi:",
+        "source": {
+          "author": "Laurence Binyon, J. V. S. Wilkinson and Basil Gray",
+          "title": "Persian Miniature Painting",
+          "publisher": "Oxford University Press (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/myam_persian-miniature-painting-by-laurence-binyon-j-v-s-wilkinson-and-basil-gray-art",
+          "readAt": "https://archive.org/stream/myam_persian-miniature-painting-by-laurence-binyon-j-v-s-wilkinson-and-basil-gray-art/Persian%20Miniature%20Painting%20By%20Laurence%20Binyon%20J%20V%20S%20Wilkinson%20And%20Basil%20Gray%20Art%20London%201933%20-%20Oxford%20University%20Press%20Humphrey%20Milford_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "he is revealed as a born draughtsman of marked originality and a new realistic power, whose ingenious pencil delighted in seizing on the types of common people whom he met on his walks, and recording them in rapid [economical] strokes.",
+        "source": {
+          "author": "Laurence Binyon, J. V. S. Wilkinson and Basil Gray",
+          "title": "Persian Miniature Painting",
+          "publisher": "Oxford University Press (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-",
+          "readAt": "https://archive.org/stream/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-/Persian%20Miniature%20Painting%20By%20Laurence%20Binyon%20J%20V%20S%20Wilkinson%20And%20Basil%20Gray%20Art%20Illustrated%20London%201933%20-%20Oxford%20University%20Press_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "His wild life is reflected in the kind of subjects that Riza ‘Abbasi so frequently chooses.",
+        "source": {
+          "author": "Thomas W. Arnold",
+          "title": "Painting in Islam",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1928",
+          "url": "https://archive.org/details/thomasarnoldpaintinginislam",
+          "readAt": "https://archive.org/stream/thomasarnoldpaintinginislam/Thomas%20Arnold-Painting%20in%20Islam_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Riza ‘Abbasi, at his best, was brilliant at capturing personality in quick sketches.",
+        "source": {
+          "author": "Norah M. Titley",
+          "title": "Persian Miniature Painting and its Influence on the Art of Turkey and India",
+          "publisher": "The British Library (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307",
+          "readAt": "https://archive.org/stream/titley-n.-1983-persian-miniature-painting_202307/Titley%2C%20N.%201983%20PersianMiniaturePainting_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

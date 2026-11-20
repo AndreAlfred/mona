@@ -1,0 +1,154 @@
+{
+  "id": "reza-abbasi-convivial-party",
+  "artist": "reza-abbasi",
+  "title": "Convivial Party (2)",
+  "date": "1612",
+  "year": 1612,
+  "dimensions": "26.2 × 16.7 cm",
+  "museum": {
+    "name": "Hermitage Museum (VР-740/1)",
+    "url": "https://www.wikidata.org/wiki/Q123848581"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/A_Convivial_Party2.Riza.Hermitage._S.Peterburg.jpg/1280px-A_Convivial_Party2.Riza.Hermitage._S.Peterburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1819,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (A Convivial Party2.Riza.Hermitage. S.Peterburg.jpg)"
+  },
+  "archive": {
+    "wd": "Q123848581"
+  },
+  "phase": {
+    "label": "Return to court, 1610s",
+    "source": {
+      "label": "Wikipedia: “In 1610, he returned to the court”",
+      "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+    }
+  },
+  "tags": [
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Gray: “a double-page country picnic of a young lord, dated 1612, in the Hermitage”",
+        "url": "https://archive.org/details/art-arch-timurid-safavid-1986"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "[The] typical figure-painting and drawing of the period reflects the studied airs and affectations of a bizarre city life. Backgrounds may be painted in monochrome, with touches of gold in the impressionistically rendered foliage",
+          "source": {
+            "author": "Laurence Binyon, J. V. S. Wilkinson and Basil Gray",
+            "title": "Persian Miniature Painting",
+            "publisher": "Oxford University Press (Internet Archive scan)",
+            "year": "1933",
+            "url": "https://archive.org/details/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-",
+            "readAt": "https://archive.org/stream/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-/Persian%20Miniature%20Painting%20By%20Laurence%20Binyon%20J%20V%20S%20Wilkinson%20And%20Basil%20Gray%20Art%20Illustrated%20London%201933%20-%20Oxford%20University%20Press_djvu.txt",
+            "tier": 2,
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Commons record: gouache and gold",
+        "url": "https://commons.wikimedia.org/wiki/File:A_Convivial_Party2.Riza.Hermitage._S.Peterburg.jpg"
+      }
+    },
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia: the leading Persian miniaturist of the Isfahan School",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A mannerism, apparently introduced by Riza, was to incline the … standing figures forwards as if they were suddenly arrested in a forward movement.",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        },
+        "lead": "Gray, on a mannerism of Riza’s figures:"
+      },
+      {
+        "kind": "quote",
+        "text": "This trait is most obvious in the more complex manuscript illustrations by him such as a double-page country picnic of a young lord, dated 1612, in the Hermitage, particularly rich with gold sky and gold margin decoration into which the miniatures extend.",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His figures seldom possess any great distinction and all have the same indolent, wearied facial expression. Apparently theirs was a … pleasure-loving court.",
+        "lead": "F. R. Martin, a less admiring critic, in 1912:",
+        "source": {
+          "author": "F. R. Martin",
+          "title": "The Miniature Painting and Painters of Persia, India and Turkey",
+          "publisher": "Bernard Quaritch (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/india.history.resource.100362",
+          "readAt": "https://archive.org/stream/india.history.resource.100362/100362_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "But vicissitudes (of fate) have totally altered … Aqa Rida's nature. The company of hapless people … and libertines (lavand) is spoiling his disposition. He is addicted to watching wrestling and to acquiring competence … in this profession.",
+        "lead": "Qadi Ahmad, revising his treatise around 1606–08:",
+        "source": {
+          "author": "Qadi Ahmad",
+          "title": "Calligraphers and Painters (Gulistan-i hunar)",
+          "publisher": "translated by V. Minorsky, Freer Gallery of Art Occasional Papers (Internet Archive scan)",
+          "year": "c. 1596–1606 (trans. 1959)",
+          "url": "https://archive.org/details/calligrapherspa321959ahma",
+          "readAt": "https://archive.org/stream/calligrapherspa321959ahma/calligrapherspa321959ahma_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Like Sādegī Beg, he has a foul temper, is impatient and disagreeable, and has a very independent character. He was greatly favored by Shah Abbas I, but because of his temperament, he has never been fully trusted, and so he has remained poor.",
+        "lead": "Eskandar Beg Monshi, writing in 1616:",
+        "source": {
+          "author": "Eskandar Beg Monshi",
+          "title": "History of Shah ‘Abbas the Great (Tārīk-e ‘Ālamārā-ye ‘Abbāsī)",
+          "publisher": "translated by Roger M. Savory, Westview Press (Internet Archive scan)",
+          "year": "c. 1616–29 (trans. 1978)",
+          "url": "https://archive.org/details/monshi-shah-abbas-english",
+          "readAt": "https://archive.org/stream/monshi-shah-abbas-english/Monshi_Shah-Abbas_English_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

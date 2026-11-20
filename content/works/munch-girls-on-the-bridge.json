@@ -1,0 +1,159 @@
+{
+  "id": "munch-girls-on-the-bridge",
+  "artist": "edvard-munch",
+  "title": "The Girls on the Bridge",
+  "date": "1901",
+  "year": 1901,
+  "medium": "oil paint on canvas",
+  "dimensions": "136 × 125 cm",
+  "museum": {
+    "name": "National Gallery of Norway (NG.M.00844)",
+    "url": "https://www.wikidata.org/wiki/Q18891072"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Edvard_Munch_-_The_Girls_on_the_Bridge_-_NG.M.00844_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Edvard_Munch_-_The_Girls_on_the_Bridge_-_NG.M.00844_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Edvard_Munch_-_The_Girls_on_the_Bridge_-_NG.M.00844_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/2560px-Edvard_Munch_-_The_Girls_on_the_Bridge_-_NG.M.00844_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1312,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edvard Munch - The Girls on the Bridge - NG.M.00844 - National Museum of Art, Architecture and Design.jpg)"
+  },
+  "archive": {
+    "wd": "Q18891072"
+  },
+  "phase": {
+    "label": "Åsgårdstrand summers, c. 1900",
+    "source": {
+      "label": "Jens Thiis (1922): at Aasgaardstrand he received the inspiration for … The Girls on the Bridge",
+      "url": "https://archive.org/details/scandinavianart00laur"
+    }
+  },
+  "tags": [
+    {
+      "id": "nocturne",
+      "source": {
+        "label": "Jens Thiis (1912): Munch is first and foremost the portrayer of the northern summer night",
+        "url": "https://archive.org/details/exhibitionofcont00unse_0"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "As a landscape painter Munch is first and foremost the portrayer of the northern summer night. … Often against this soft background he masses the striking splendour of pure colour, as seen in the bright summer costumes of young girls and women in the foreground.",
+          "source": {
+            "author": "Jens Thiis",
+            "title": "“The Art of Norway”, in Exhibition of Contemporary Scandinavian Art (catalogue)",
+            "publisher": "American-Scandinavian Society",
+            "year": "1912",
+            "url": "https://archive.org/details/exhibitionofcont00unse_0",
+            "readAt": "https://archive.org/stream/exhibitionofcont00unse_0/exhibitionofcont00unse_0_djvu.txt",
+            "accessed": "2026-11-20",
+            "tier": 2,
+            "license": "Public domain (Internet Archive scan)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: The Girls on the Bridge (NG.M.00844), oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q18891072"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the summer of 1888 Munch made his first stay at Aasgaardstrand, a little fishing village on the Christiania fjord … Here he received the inspiration for several pictures marked by intense feeling, … such as his lovely Starry Night … and The Girls on the Bridge, in the National Gallery.",
+        "source": {
+          "author": "Jens Thiis",
+          "title": "“Munch”, in “Modern Norwegian Art”, in Carl Laurin, Emil Hannover and Jens Thiis, Scandinavian Art",
+          "publisher": "American-Scandinavian Foundation",
+          "year": "1922",
+          "url": "https://archive.org/details/scandinavianart00laur",
+          "readAt": "https://archive.org/stream/scandinavianart00laur/scandinavianart00laur_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 2,
+          "license": "Public domain (Internet Archive scan)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His Girls on the Jetty … created in 18 different versions, demonstrated the theme of feminine youth without negative connotations.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1901 I visited Munich and at the Secession exhibition at the Glass Palace I saw a room full of Munches. It was nicknamed the Chamber of Horrors",
+        "lead": "James Huneker, the year this picture was painted:",
+        "source": {
+          "author": "James Huneker",
+          "title": "“Kubin, Munch, and Gauguin: Masters of Mystery and Hallucination”, in Ivory Apes and Peacocks",
+          "publisher": "Charles Scribner's Sons",
+          "year": "1915",
+          "url": "https://archive.org/details/ivoryapespeacock00huneiala",
+          "readAt": "https://archive.org/stream/ivoryapespeacock00huneiala/ivoryapespeacock00huneiala_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 3,
+          "license": "Public domain (Internet Archive scan)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1902, he displayed his works thematically at the hall of the Berlin Secession, producing \"a symphonic effect—it made a great stir—a lot of antagonism—and a lot of approval.\" The Berlin critics were beginning to appreciate Munch's work even though the public still found his work alien and strange.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "To walk in Åsgårdstrand is like walking among my paintings—I get so inspired to paint when I am here",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "On Åsgårdstrand, quoted in “Edvard Munch”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikipedia (CC BY-SA)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "in 1897, Munch bought himself a summer house facing the fjords of Kristiania, a small fisherman's cabin built in the late 18th century, in the small town of Åsgårdstrand in Norway. He dubbed this home the \"Happy House\" and returned here almost every summer for the next 20 years.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}
