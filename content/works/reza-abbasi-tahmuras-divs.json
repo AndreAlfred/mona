@@ -1,0 +1,165 @@
+{
+  "id": "reza-abbasi-tahmuras-divs",
+  "artist": "reza-abbasi",
+  "title": "Tahmuras Defeating the Divs",
+  "date": "c. 1590",
+  "year": 1590,
+  "dimensions": "405 × 262 mm",
+  "museum": {
+    "name": "Chester Beatty Library (CBL Per 277.17)",
+    "url": "https://viewer.cbl.ie/viewer/object/Per_277_17/1/LOG_0000/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tahmuras_Defeating_the_Divs.jpg/1280px-Tahmuras_Defeating_the_Divs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tahmuras_Defeating_the_Divs.jpg/2560px-Tahmuras_Defeating_the_Divs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1839,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Tahmuras Defeating the Divs.jpg)"
+  },
+  "archive": {
+    "wd": "Q104849560"
+  },
+  "phase": {
+    "label": "Qazvin: the unfinished royal Shahnama, c. 1587–98",
+    "source": {
+      "label": "Titley: the Chester Beatty Shahnama “may have been begun at Qazvin for Shah ‘Abbas” after 1587",
+      "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307"
+    }
+  },
+  "tags": [
+    {
+      "id": "illuminated-manuscript",
+      "source": {
+        "label": "Titley: a royal manuscript of the Shahnama, Chester Beatty Library (P. 277)",
+        "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Most of the miniatures project into the side margin of the page, as do also the miniatures in the Chester Beatty Shah-nama.",
+          "lead": "Gray, on the manuscript painting of the 1590s:",
+          "source": {
+            "author": "Basil Gray",
+            "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+            "publisher": "Cambridge University Press (Internet Archive scan)",
+            "year": "1986",
+            "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+            "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+            "tier": 2,
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Commons record: ink, pigments and gold on paper",
+        "url": "https://commons.wikimedia.org/wiki/File:Tahmuras_Defeating_the_Divs.jpg"
+      }
+    },
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Gray: the miniatures “mark the transition from the late Qazvin style” to Isfahan",
+        "url": "https://archive.org/details/art-arch-timurid-safavid-1986"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Only fourteen miniatures remain, including some which are possibly the work of [Sādiqī] and the young Riza ‘Abbasi.",
+        "source": {
+          "author": "Norah M. Titley",
+          "title": "Persian Miniature Painting and its Influence on the Art of Turkey and India",
+          "publisher": "The British Library (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307",
+          "readAt": "https://archive.org/stream/titley-n.-1983-persian-miniature-painting_202307/Titley%2C%20N.%201983%20PersianMiniaturePainting_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He may have worked on the ambitious, but incomplete Shahnameh, now in the Chester Beatty Library in Dublin.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Reza Abbasi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Reza_Abbasi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This magnificent manuscript may have been begun at Qazvin for Shah ‘Abbas when the academy got under way after his accession in 1587 and was possibly not completed because of the upheaval of his move to Isfahan in 1598.",
+        "source": {
+          "author": "Norah M. Titley",
+          "title": "Persian Miniature Painting and its Influence on the Art of Turkey and India",
+          "publisher": "The British Library (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307",
+          "readAt": "https://archive.org/stream/titley-n.-1983-persian-miniature-painting_202307/Titley%2C%20N.%201983%20PersianMiniaturePainting_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although the last two decades of the 16th century saw a decline in the production of fine illustrated manuscripts, there were still some of excellent quality whose miniatures mark the transition from the late Qazvin style to that of the new capital, Isfahan, which thereafter became the principal seat of the book arts.",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The demons rebelled against Tahmuras, and he made war against them with both magic and force. By magic he bound two-thirds of the demons; the remaining third he crushed with his mace.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tahmuras",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tahmuras",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "However, according to records, in olden times there was no writing; the first steps were taken by Tahmuras Divband",
+        "lead": "Qadi Ahmad, on the origins of writing:",
+        "source": {
+          "author": "Qadi Ahmad",
+          "title": "Calligraphers and Painters (Gulistan-i hunar)",
+          "publisher": "translated by V. Minorsky, Freer Gallery of Art Occasional Papers (Internet Archive scan)",
+          "year": "c. 1596–1606 (trans. 1959)",
+          "url": "https://archive.org/details/calligrapherspa321959ahma",
+          "readAt": "https://archive.org/stream/calligrapherspa321959ahma/calligrapherspa321959ahma_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

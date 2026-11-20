@@ -1,0 +1,171 @@
+{
+  "id": "reza-abbasi-sleeping-youth",
+  "artist": "reza-abbasi",
+  "title": "Sleeping Youth (verso), Illustration from a Single Page Manuscript",
+  "date": "early 1600s",
+  "year": 1600,
+  "medium": "opaque watercolor and gold on paper",
+  "dimensions": "Image: 21 x 12.4 cm (8 1/4 x 4 7/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1944.494.b"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.494.b/1944.494.b_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1944.494.b/1944.494.b_print.jpg",
+    "width": 583,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 124008
+  },
+  "phase": {
+    "label": "Isfahan, early 1600s: the single-page album figure",
+    "source": {
+      "label": "CMA: under Shah Abbas came “a new concern with single-page illustrations, such as this one”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/124006"
+    }
+  },
+  "tags": [
+    {
+      "id": "muraqqa",
+      "source": {
+        "label": "CMA: single-page illustrations that “often illustrate albums”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124006"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He soon turned to, and developed, subjects mostly of one or two figures, often portrait-like, although very few identities are given or were probably ever intended to be recognised. There are a large number of beautiful youths, to whose clothes great attention is paid.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Muraqqa",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Muraqqa",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "CMA record: opaque watercolor and gold on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124008"
+      }
+    },
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "CMA record: Persian couplets on the recto of the same leaf",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124006"
+      }
+    },
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "CMA: “The Iranian painter Riza ‘Abbasi spearheaded the new style”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/124008"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Iranian painter Riza ‘Abbasi spearheaded the new style with single figures, receding space, and partial modeling, influenced by European travelers to Iran and painters who accompanied foreign embassies, one being John the Dutchman who in 1626 painted narrative scenes on palace walls of Shah ‘Abbas I.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Sleeping Youth (verso), Illustration from a Single Page Manuscript",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.494.b",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124008",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This sleeping youth displays a prestigious sash and has removed his equally opulent turban.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Sleeping Youth (verso), Illustration from a Single Page Manuscript",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.494.b",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124008",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Under Shah Abbas, the tradition in which painting was employed to illustrate a literary work was all but abandoned. In its place came a new concern with single-page illustrations, such as this one, which have no specific content or meaning.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Persian Couplets (recto); Sleeping Youth (verso)",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.494",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124006",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Persia this popularizing of the art of portraiture may in some degree have been a result of the break-up of the royal atelier, when the increasing cost of Shah 'Abbas’s campaigns forced him to cut down expenses, and accordingly he withdrew his allowance to the court painters, and thus compelled them to seek the patronage of commoners.",
+        "source": {
+          "author": "Thomas W. Arnold",
+          "title": "Painting in Islam",
+          "publisher": "Clarendon Press, Oxford (Internet Archive scan)",
+          "year": "1928",
+          "url": "https://archive.org/details/thomasarnoldpaintinginislam",
+          "readAt": "https://archive.org/stream/thomasarnoldpaintinginislam/Thomas%20Arnold-Painting%20in%20Islam_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "They often illustrate albums of collections of verses about love and beauty, in which these themes often appear to serve as allegories of things divine.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Persian Couplets (recto); Sleeping Youth (verso)",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.494",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124006",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His coloured figures, which must often be portraits, are more restrained and lay more emphasis on the fashions of the day, the rich textiles, the carelessly draped turban, the European hat.",
+        "source": {
+          "author": "Barbara Brend",
+          "title": "Islamic Art (quoted in Wikipedia, “Reza Abbasi”)",
+          "publisher": "Harvard University Press",
+          "year": "1991",
+          "readAt": "https://en.wikipedia.org/wiki/Reza_Abbasi",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

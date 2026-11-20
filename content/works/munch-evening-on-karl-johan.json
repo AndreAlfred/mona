@@ -1,0 +1,164 @@
+{
+  "id": "munch-evening-on-karl-johan",
+  "artist": "edvard-munch",
+  "title": "Evening on Karl Johan",
+  "date": "1892",
+  "year": 1892,
+  "medium": "oil paint on canvas",
+  "dimensions": "84.5 × 121.7 cm",
+  "museum": {
+    "name": "Art Museums of Bergen (RMS.M.00245)",
+    "url": "https://digitaltmuseum.no/021049517369/aften-pa-karl-johan-olje-pa-lerret"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Edvard_Munch_-_Evening_on_Karl_Johan_Street_%281892%29.jpg/1280px-Edvard_Munch_-_Evening_on_Karl_Johan_Street_%281892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Edvard_Munch_-_Evening_on_Karl_Johan_Street_%281892%29.jpg/2560px-Edvard_Munch_-_Evening_on_Karl_Johan_Street_%281892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 834,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edvard Munch - Evening on Karl Johan Street (1892).jpg)"
+  },
+  "archive": {
+    "wd": "Q3955717"
+  },
+  "phase": {
+    "label": "Early Frieze of Life, 1892",
+    "source": {
+      "label": "Wikipedia: one of the earliest works of Munch's Frieze of Life",
+      "url": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan"
+    }
+  },
+  "tags": [
+    {
+      "id": "expressionism",
+      "source": {
+        "label": "Wikipedia: Evening on Karl Johan heralds a new expressionist style",
+        "url": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "For Jean Selz, Evening on Karl Johan heralds a new expressionist style in Munch's work, in which excitement or shock is captured without revealing the background of the event to the viewer.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Evening on Karl Johan",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan",
+            "accessed": "2026-11-20",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: subject matter which was symbolist in content",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Evening on Karl Johan, oil on canvas",
+        "url": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It shows a crowd of people walking towards the viewer on Karl Johans Gate in Kristiania, present-day Oslo, and is one of the earliest works of Munch's Frieze of Life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Evening on Karl Johan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In this sense, the painting is a direct precursor to Munch's most famous work, The Scream, the first version of which was created the following year.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Evening on Karl Johan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Munch exhibited the painting for the first time in September 1892 at his second special exhibition at Tostrupgården in Kristiania. The magazine Morgenbladet responded with the phrase \"a downright insane painting\". The public denounced both the painting and the painter as \"sick\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Evening on Karl Johan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The public were enormously scandalized, the papers were filled with articles for and against the Norwegian anarchistic artist, and the Art Society, after a stormy session, split into two factions which ever since have been irreconcilably opposed to each other.",
+        "lead": "Weeks later his one-man show in Berlin was shut down; Jens Thiis recalled:",
+        "source": {
+          "author": "Jens Thiis",
+          "title": "“Munch”, in “Modern Norwegian Art”, in Carl Laurin, Emil Hannover and Jens Thiis, Scandinavian Art",
+          "publisher": "American-Scandinavian Foundation",
+          "year": "1922",
+          "url": "https://archive.org/details/scandinavianart00laur",
+          "readAt": "https://archive.org/stream/scandinavianart00laur/scandinavianart00laur_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 2,
+          "license": "Public domain (Internet Archive scan)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Everyone—people passing by—looked so strange and peculiar, and it seemed to him that they were looking at him—staring at him—all these faces—glances in the evening light – He tried to hold on to a thought, but couldn't – he felt a complete emptiness in his head … His whole body was shaking and sweat was running down his face",
+        "lead": "Munch's literary diary of 1889, written in the third person:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "Literary diary, quoted in “Evening on Karl Johan”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikipedia (CC BY-SA)",
+          "year": "1889"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Carlsson interprets the picture as \"the artist's confrontation with the group specter of the bourgeoisie\", Müller as a juxtaposition of \"crowds\" and the individual, with the single figure excluded from the crowd being a likeness of Munch.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Evening on Karl Johan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

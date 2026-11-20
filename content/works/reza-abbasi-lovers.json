@@ -1,0 +1,161 @@
+{
+  "id": "reza-abbasi-lovers",
+  "artist": "reza-abbasi",
+  "title": "The Lovers",
+  "date": "1630",
+  "year": 1630,
+  "museum": {
+    "name": "Metropolitan Museum of Art (50.164)",
+    "url": "https://www.metmuseum.org/art/collection/search/451023"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Reza_Abbasi_-_Two_Lovers_%281630%29.jpg/1280px-Reza_Abbasi_-_Two_Lovers_%281630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Reza_Abbasi_-_Two_Lovers_%281630%29.jpg/2560px-Reza_Abbasi_-_Two_Lovers_%281630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1821,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Reza Abbasi - Two Lovers (1630).jpg)"
+  },
+  "archive": {
+    "wd": "Q29385121"
+  },
+  "phase": {
+    "label": "Late Isfahan years, 1620s–1635",
+    "source": {
+      "label": "Canby (Grove, via Wikipedia): his style changes “in the 1620s”",
+      "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+    }
+  },
+  "tags": [
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia: impassive faces, “a common theme in contemporary Safavid art”",
+        "url": "https://en.wikipedia.org/wiki/The_Lovers_(Abbasi)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The bodies of the two are posed so as to be evocative of passionate foreplay, while their faces remain impassive - a common theme in contemporary Safavid art.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Lovers (Abbasi)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Lovers_(Abbasi)",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikipedia: “Opaque watercolor, ink, and gold on paper”",
+        "url": "https://en.wikipedia.org/wiki/The_Lovers_(Abbasi)"
+      }
+    },
+    {
+      "id": "muraqqa",
+      "source": {
+        "label": "Wikipedia: Abbasi was known as a painter “of drawings and album miniatures”",
+        "url": "https://en.wikipedia.org/wiki/The_Lovers_(Abbasi)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "At the time, Abbasi had already become known as a bold, innovative painter of drawings and album miniatures - a break from the traditional artistic establishment of Safavid Iran, which favored illustrations.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Lovers (Abbasi)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Lovers_(Abbasi)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Embracing lovers are one of the themes of Riza's work after 1610, but he was equally fond of depicting old men, especially dervishes",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His linear patterns sometimes have a seductive, undulating rhythm, as in the pairs of lovers with arms intertwined",
+        "source": {
+          "author": "Laurence Binyon, J. V. S. Wilkinson and Basil Gray",
+          "title": "Persian Miniature Painting",
+          "publisher": "Oxford University Press (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-",
+          "readAt": "https://archive.org/stream/yjzc-persian-miniature-painting-by-laurence-binyon-j-v-/Persian%20Miniature%20Painting%20By%20Laurence%20Binyon%20J%20V%20S%20Wilkinson%20And%20Basil%20Gray%20Art%20Illustrated%20London%201933%20-%20Oxford%20University%20Press_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "That these are of the time of Shah ‘Abbas I we know once more from the pages of Pietro della Valle, who considered them lascivious. They are in fact similar in style, though coarser in execution, than those of Riza-yi ‘Abbasi but are, from the point of view of the [20th] century, gently sentimental rather than provocative.",
+        "lead": "Gray, on the small figure paintings on the walls of Shah ‘Abbas’s ‘Ali Qapu palace in Isfahan:",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Though the artist had previously painted the nude female figures, the introduction of a male figure in Lovers elevated the work from simply evoking erotic thoughts to outright representing courting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Lovers (Abbasi)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Lovers_(Abbasi)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Clouds, flowers, and trees are also present in the painting, serving to encircle the couple, while a carafe of wine and half-empty plate of fruit lies by their feet, implying some indulgence has already taken place.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Lovers (Abbasi)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Lovers_(Abbasi)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "munch-evening-melancholy",
+  "artist": "edvard-munch",
+  "title": "Evening, Melancholy I",
+  "date": "1896",
+  "year": 1896,
+  "medium": "Hand-colored woodcut",
+  "dimensions": "Image: 37.7 x 45 cm (14 13/16 x 17 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1959.82"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1959.82/1959.82_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1959.82/1959.82_print.jpg",
+    "width": 1030,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. Clive Runnels in memory of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 136154
+  },
+  "phase": {
+    "label": "Paris, 1896 — his first woodcuts",
+    "source": {
+      "label": "Wikipedia: in 1896 he created his first woodcuts",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art: hand-colored woodcut",
+        "url": "https://clevelandart.org/art/1959.82"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Munch chose heavily grained blocks of wood, allowing the pattern of the board to add texture to the scene, and he exploited the handmade aspect of the technique by carving blocks crudely. He also experimented so that each impression is unique, using black ink on the woodblock and watercolor and gouache to color the sheet extensively.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Collection description: Evening, Melancholy I",
+            "publisher": "The Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1959.82",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136154",
+            "accessed": "2026-11-20",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: Melancholy is considered one of Munch's first symbolist paintings",
+        "url": "https://en.wikipedia.org/wiki/Melancholy_(Munch)"
+      }
+    },
+    {
+      "id": "synthetism",
+      "source": {
+        "label": "Wikipedia: flat forms with greatly simplified contours, reminiscent of Synthetism",
+        "url": "https://en.wikipedia.org/wiki/Melancholy_(Munch)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Two woodcuts were created in 1896 and 1902. In Gerd Woll's catalogue raisonné of all of Munch's prints, they are called Evening. Melancholy I and Melancholy III. … However, only the 1902 version retains the direction of the paintings, while the 1896 version is mirrored.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Melancholy (Munch)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Melancholy_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Like the lithograph, the woodcut gave rich possibilities for experiment … The woodcuts were mostly printed by Munch himself. Sometimes he sawed out a part of the plate to colour it differently from the rest.",
+        "source": {
+          "author": "J. P. Hodin",
+          "title": "“Edvard Munch's Graphic Art”, in Edvard Munch: Etchings, Woodcuts and Lithographs (exhibition catalogue)",
+          "publisher": "Arts Council of Great Britain",
+          "year": "1950",
+          "url": "https://archive.org/details/micro_IA40244323_0186",
+          "readAt": "https://archive.org/stream/micro_IA40244323_0186/micro_IA40244323_0186_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 2,
+          "license": "Short excerpt; Internet Archive scan"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is an extremely moving picture, solemn and serious—almost religious. … He is the only one and the first to commit himself to idealism and dare to make nature, the model, etc., the vehicle for his mood and thus achieve more. Has anyone ever heard such a sound of color as in this painting?",
+        "lead": "The painter Christian Krohg, on the first painted version in 1891:",
+        "source": {
+          "author": "Christian Krohg",
+          "title": "Review of the 1891 Autumn Exhibition, Kristiania, quoted in “Melancholy (Munch)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Melancholy_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 3,
+          "license": "Short excerpt, via Wikipedia (CC BY-SA 4.0 transcription)",
+          "year": "1891"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Influenced by Gauguin, as well as the etchings of German artist Max Klinger, Munch experimented with prints as a medium to create graphic versions of his works. In 1896 he created his first woodcuts—a medium that proved ideal to Munch's symbolic imagery.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The boat gets smaller and smaller – the strokes of the oars echo across the surface of the sea – I was alone – the waves glided monotonously up to him – and lapped against the stone",
+        "lead": "From Munch's prose poem on the motif:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "Prose poem, early 1890s, quoted in “Melancholy (Munch)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Melancholy_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikipedia (CC BY-SA)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Evening, Melancholy I depicts the jilted, tormented art critic Jappe Nilssen, Munch's friend, on the shore of Åsgårdstrand, a fishing village south of Oslo.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Collection description: Evening, Melancholy I",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1959.82",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/136154",
+          "accessed": "2026-11-20",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The relationship awakened memories in Munch of his own, only a few years earlier and equally unhappy, love for Milly Thaulow.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Melancholy (Munch)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Melancholy_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

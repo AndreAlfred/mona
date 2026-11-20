@@ -1,0 +1,35 @@
+{
+  "id": "muraqqa",
+  "kind": "technique",
+  "name": "Album painting (muraqqa)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A Muraqqa … meaning \"patched\" in Arabic, is an album in codex or concertina format, which can contain specimens of Islamic calligraphy and also paintings, often assembled from different sources and periods, and perhaps other matter.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Muraqqa",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Muraqqa",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-20"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The beginning of the reign of Shah ‘Abbas I thus heralds the period of the primacy of the independent miniature or drawing over the manuscript illustration.",
+      "source": {
+        "author": "Basil Gray",
+        "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+        "publisher": "Cambridge University Press (Internet Archive scan)",
+        "year": "1986",
+        "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+        "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-20"
+      }
+    }
+  ],
+  "archiveTerm": "album"
+}

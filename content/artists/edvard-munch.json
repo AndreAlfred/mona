@@ -1,0 +1,123 @@
+{
+  "id": "edvard-munch",
+  "name": "Edvard Munch",
+  "born": 1863,
+  "died": 1944,
+  "active": "1880–1944",
+  "nationality": "Norwegian",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: Symbolism (movement) lists Edvard Munch among Symbolist painters",
+        "url": "https://en.wikipedia.org/wiki/Symbolism_(movement)"
+      }
+    },
+    {
+      "id": "expressionism",
+      "source": {
+        "label": "Wikipedia: Expressionism — Munch among its important precursors; Norway: Edvard Munch",
+        "url": "https://en.wikipedia.org/wiki/Expressionism"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "paul-gauguin",
+      "name": "Paul Gauguin",
+      "source": {
+        "label": "Wikipedia: in Paris he learned much from Paul Gauguin, Vincent van Gogh and Henri de Toulouse-Lautrec",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    },
+    {
+      "id": "vincent-van-gogh",
+      "name": "Vincent van Gogh",
+      "source": {
+        "label": "Wikipedia: in Paris he learned much from Paul Gauguin, Vincent van Gogh and Henri de Toulouse-Lautrec",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    },
+    {
+      "id": "henri-de-toulouse-lautrec",
+      "name": "Henri de Toulouse-Lautrec",
+      "source": {
+        "label": "Wikipedia: in Paris he learned much from Paul Gauguin, Vincent van Gogh and Henri de Toulouse-Lautrec",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    },
+    {
+      "id": "max-klinger",
+      "name": "Max Klinger",
+      "source": {
+        "label": "Wikipedia: influenced by Gauguin, as well as the etchings of German artist Max Klinger",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    },
+    {
+      "id": "james-ensor",
+      "name": "James Ensor",
+      "source": {
+        "label": "Wikipedia: Eggum links the mask-like faces of Evening on Karl Johan to James Ensor",
+        "url": "https://en.wikipedia.org/wiki/Evening_on_Karl_Johan"
+      }
+    }
+  ],
+  "wikidata": "Q41406",
+  "archive": {
+    "aic": 44014,
+    "cma": [
+      28052
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "When seen as a whole, art derives from a person's desire to communicate himself to another. I do not believe in an art which is not forced into existence by a human being’s desire to open his heart. All art, literature, and music must be born in your heart’s blood. Art is your heart’s blood.",
+      "source": {
+        "author": "Edvard Munch",
+        "title": "Manuscript (1891), as quoted in Shelley Wood Cordulack, Edvard Munch and the Physiology of Symbolism (2002), quoted on Wikiquote",
+        "publisher": "Wikiquote",
+        "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+        "accessed": "2026-11-20",
+        "tier": 1,
+        "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+        "year": "1891"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Edvard Munch … was a Norwegian painter. His 1893 work The Scream has become one of the most iconic and acclaimed images in all of Western art. Munch's childhood was overshadowed by illness, bereavement and the dread of inheriting a mental condition that ran in the family.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Edvard Munch",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+        "accessed": "2026-11-20",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "His name marks the great point of division in the art of his country, the turning point from realism and illusionism in painting to a wholly personal interpretation and to an artistic execution that in power and beauty is without contemporary parallel in the Scandinavian kingdoms.",
+      "lead": "Jens Thiis, director of Norway's National Gallery, in 1922:",
+      "source": {
+        "author": "Jens Thiis",
+        "title": "“Munch”, in “Modern Norwegian Art”, in Carl Laurin, Emil Hannover and Jens Thiis, Scandinavian Art",
+        "publisher": "American-Scandinavian Foundation",
+        "year": "1922",
+        "url": "https://archive.org/details/scandinavianart00laur",
+        "readAt": "https://archive.org/stream/scandinavianart00laur/scandinavianart00laur_djvu.txt",
+        "accessed": "2026-11-20",
+        "tier": 2,
+        "license": "Public domain (Internet Archive scan)"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

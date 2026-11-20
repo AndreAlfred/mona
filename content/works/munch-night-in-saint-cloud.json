@@ -1,0 +1,172 @@
+{
+  "id": "munch-night-in-saint-cloud",
+  "artist": "edvard-munch",
+  "title": "Night in Saint-Cloud",
+  "date": "1890",
+  "year": 1890,
+  "medium": "oil paint on canvas",
+  "dimensions": "64.5 × 54 cm",
+  "museum": {
+    "name": "National Gallery of Norway (NG.M.01111)",
+    "url": "https://www.wikidata.org/wiki/Q18753113"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Edvard_Munch_-_Night_in_Saint-Cloud_%281890%29%2C_NG.M.01111.jpg/1280px-Edvard_Munch_-_Night_in_Saint-Cloud_%281890%29%2C_NG.M.01111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Edvard_Munch_-_Night_in_Saint-Cloud_%281890%29%2C_NG.M.01111.jpg/2560px-Edvard_Munch_-_Night_in_Saint-Cloud_%281890%29%2C_NG.M.01111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1445,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edvard Munch - Night in Saint-Cloud (1890), NG.M.01111.jpg)"
+  },
+  "archive": {
+    "wd": "Q18753113"
+  },
+  "phase": {
+    "label": "Paris and Saint-Cloud, 1889–91 (state scholarship years)",
+    "source": {
+      "label": "Wikipedia: a two-year state scholarship to study in Paris (1889)",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    }
+  },
+  "tags": [
+    {
+      "id": "nocturne",
+      "source": {
+        "label": "Art Institute of Chicago: Munch's nocturnal scenes of the early 1890s",
+        "url": "https://www.artic.edu/artworks/154235"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Girl by the Window belongs to a group of nocturnal scenes painted by Edvard Munch in the early 1890s, all characterized by moody blue tonalities.",
+          "lead": "The Art Institute of Chicago, on a companion picture:",
+          "source": {
+            "author": "Art Institute of Chicago",
+            "title": "Collection description: The Girl by the Window (1893)",
+            "publisher": "Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/154235",
+            "readAt": "https://api.artic.edu/api/v1/artworks/154235?fields=id,title,description",
+            "accessed": "2026-11-20",
+            "tier": 4,
+            "license": "CC BY 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: subject matter which was symbolist in content, depicting a state of mind",
+        "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: Night in Saint-Cloud, oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q18753113"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The point is that one sees things at different moments with different eyes. Differently in the morning then in the evening. The way in which one sees also depends on one's mood … It's not the chair that should be painted, but what the person has felt at the sight of it",
+        "lead": "In a note written at Saint-Cloud in 1890:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "Note T 2770, Saint-Cloud, 1890, as quoted in Sue Prideaux, Edvard Munch: Behind the Scream (2007), pp. 83–84, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1890"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He can paint an empty room traversed by a gleam of [moonlight] and set one to thinking a half day on such an apparently barren theme.",
+        "lead": "The American critic James Huneker:",
+        "source": {
+          "author": "James Huneker",
+          "title": "“Kubin, Munch, and Gauguin: Masters of Mystery and Hallucination”, in Ivory Apes and Peacocks",
+          "publisher": "Charles Scribner's Sons",
+          "year": "1915",
+          "url": "https://archive.org/details/ivoryapespeacock00huneiala",
+          "readAt": "https://archive.org/stream/ivoryapespeacock00huneiala/ivoryapespeacock00huneiala_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 3,
+          "license": "Public domain (Internet Archive scan)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "No longer shall I paint interiors with men reading and women knitting. I will paint living people who breathe and feel and suffer and love.",
+        "lead": "His resolution of 1889, known as the Saint-Cloud Manifesto:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "“Impressions from a ballroom, New Year's Eve in St. Cloud” (the “St. Cloud Manifesto”), quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1889"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Munch was enthralled by the vast display of modern European art, including the works of three artists who proved influential: Paul Gauguin, Vincent van Gogh, and Henri de Toulouse-Lautrec—all notable for how they used color to convey emotion.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In December 1889 his father died, leaving Munch's family destitute. He returned home and arranged a large loan from a wealthy Norwegian collector when wealthy relatives failed to help, and assumed financial responsibility for his family from then on.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I live with the dead—my mother, my sister, my grandfather, my father...Kill yourself and then it's over. Why live?",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "From his notes, quoted in “Edvard Munch”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikipedia (CC BY-SA)"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Painted in his rented room at Saint-Cloud, outside Paris, in the months after his father's death, the picture shows a top-hatted figure sitting in the blue dark beside a window — a mood rather than an event."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

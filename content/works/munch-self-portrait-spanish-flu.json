@@ -1,0 +1,153 @@
+{
+  "id": "munch-self-portrait-spanish-flu",
+  "artist": "edvard-munch",
+  "title": "Self-Portrait with the Spanish Flu (Selvportrett i spanskesyken)",
+  "date": "1919",
+  "year": 1919,
+  "medium": "oil paint on canvas",
+  "dimensions": "150 × 131 cm",
+  "museum": {
+    "name": "National Museum of Art, Architecture and Design (NG.M.01867)",
+    "url": "https://www.wikidata.org/wiki/Q18890831"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Edvard_Munch_-_Self-Portrait_with_the_Spanish_Flu_%281919%29.jpg/1280px-Edvard_Munch_-_Self-Portrait_with_the_Spanish_Flu_%281919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Edvard_Munch_-_Self-Portrait_with_the_Spanish_Flu_%281919%29.jpg/2560px-Edvard_Munch_-_Self-Portrait_with_the_Spanish_Flu_%281919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1406,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edvard Munch - Self-Portrait with the Spanish Flu (1919).jpg)"
+  },
+  "archive": {
+    "wd": "Q18890831"
+  },
+  "phase": {
+    "label": "Later years in Norway, after 1909",
+    "source": {
+      "label": "Wikipedia: after returning to Norway in 1909, his work became more colorful and less pessimistic",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: Spanish flu — Edvard Munch, Self-Portrait with the Spanish Flu (1919)",
+        "url": "https://en.wikipedia.org/wiki/Spanish_flu"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Parallel with these works there are life-size portraits, self-portraits, nudes, landscapes, worker’s motifs",
+          "lead": "J. P. Hodin, on Munch's work after 1909:",
+          "source": {
+            "author": "J. P. Hodin",
+            "title": "“Edvard Munch's Graphic Art”, in Edvard Munch: Etchings, Woodcuts and Lithographs (exhibition catalogue)",
+            "publisher": "Arts Council of Great Britain",
+            "year": "1950",
+            "url": "https://archive.org/details/micro_IA40244323_0186",
+            "readAt": "https://archive.org/stream/micro_IA40244323_0186/micro_IA40244323_0186_djvu.txt",
+            "accessed": "2026-11-20",
+            "tier": 2,
+            "license": "Short excerpt; Internet Archive scan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "expressionism",
+      "source": {
+        "label": "Wikipedia: Expressionism — Norway: Edvard Munch",
+        "url": "https://en.wikipedia.org/wiki/Expressionism"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: Self-Portrait with the Spanish Flu (NG.M.01867), oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q18890831"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He also created landscapes and scenes of people at work and play, using a new optimistic style—broad, loose brushstrokes of vibrant color with frequent use of white space and rare use of black—with only occasional references to his morbid themes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Here the morbid theme returns in that loose, bright late manner: Munch sits wrapped in a blanket in a wicker chair beside an unmade bed, his face sallow and his mouth hanging open."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The 1918–1920 flu pandemic, also known as the Great Influenza epidemic or by the misleading name Spanish flu, was an exceptionally deadly global influenza pandemic caused by the H1N1 subtype of the influenza A virus.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Spanish flu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Spanish_flu",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Expressionists were influenced by artists and sources including Edvard Munch, Vincent van Gogh and African art.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Expressionism",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Expressionism",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "My afflictions belong to me and my art - they have become one with me. Without illness and anxiety, I would have been a rudderless ship.",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "As quoted in P. Potter, “From my rotting body, flowers shall grow, and I am in them, and that is eternity”, Emerging Infectious Diseases (2011), quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Given his poor health history, during 1918 Munch felt himself lucky to have survived a bout of the Spanish flu, the worldwide pandemic of that year.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Edvard Munch",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

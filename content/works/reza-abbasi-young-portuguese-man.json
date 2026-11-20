@@ -1,0 +1,163 @@
+{
+  "id": "reza-abbasi-young-portuguese-man",
+  "artist": "reza-abbasi",
+  "title": "Young Portugese Man",
+  "date": "1634",
+  "year": 1634,
+  "dimensions": "14.6 × 19.2 cm",
+  "museum": {
+    "name": "Detroit Institute of Arts (58.334)",
+    "url": "https://www.wikidata.org/wiki/Q64536660"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Riza-i_Abbasi_Young_Portuguese_-_Detroit_Institute_of_Arts.jpg/1280px-Riza-i_Abbasi_Young_Portuguese_-_Detroit_Institute_of_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 919,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Riza-i Abbasi Young Portuguese - Detroit Institute of Arts.jpg)"
+  },
+  "archive": {
+    "wd": "Q64536660"
+  },
+  "phase": {
+    "label": "Late Isfahan years, 1620s–1635",
+    "source": {
+      "label": "Canby (Grove, via Wikipedia): his style changes “in the 1620s”",
+      "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+    }
+  },
+  "tags": [
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia (Safavid art): “Reza resisted European influence, right up to his death in 1635”",
+        "url": "https://en.wikipedia.org/wiki/Safavid_art"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Although Reza resisted European influence, right up to his death in 1635, other artists did not hesitate to draw inspiration from, or to copy, the engravings brought by merchants from the Netherlands.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Safavid art",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Safavid_art",
+            "tier": 5,
+            "license": "CC BY-SA 4.0",
+            "accessed": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Commons record: ink, gold and colors on paper",
+        "url": "https://commons.wikimedia.org/wiki/File:Riza-i_Abbasi_Young_Portuguese_-_Detroit_Institute_of_Arts.jpg"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: in his late years he painted “birds and Europeans”",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He painted many older men, perhaps scholars, Sufi divines, or shepherds, as well as birds and Europeans, and in his last years sometimes satirized his subjects.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Reza Abbasi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Reza_Abbasi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Embracing lovers are one of the themes of Riza's work after 1610, but he was equally fond of depicting old men, especially dervishes, and of what we might call “costume pieces”, young women and men wearing the elaborate modish dress of the period, including some young pages in European hats and breeches.",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "As plumes were frequently worn in turbans without any indication of rank, and as the shah favoured rich costume, such dressing up was normal and not to be attributed, as it sometimes has been, to any special Portuguese influence.",
+        "lead": "Gray, cautioning against reading such figures as signs of European influence:",
+        "source": {
+          "author": "Basil Gray",
+          "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+          "publisher": "Cambridge University Press (Internet Archive scan)",
+          "year": "1986",
+          "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+          "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Iranian painter Riza ‘Abbasi spearheaded the new style with single figures, receding space, and partial modeling, influenced by European travelers to Iran and painters who accompanied foreign embassies, one being John the Dutchman who in 1626 painted narrative scenes on palace walls of Shah ‘Abbas I.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Sleeping Youth (verso), Illustration from a Single Page Manuscript",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1944.494.b",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/124008",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-20"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1598 ‘Abbas I moved his capital from Qazvin to Isfahan where he maintained a brilliant court and created a magnificent city, receiving ambassadors, envoys, merchants and travellers from European countries and from India.",
+        "source": {
+          "author": "Norah M. Titley",
+          "title": "Persian Miniature Painting and its Influence on the Art of Turkey and India",
+          "publisher": "The British Library (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307",
+          "readAt": "https://archive.org/stream/titley-n.-1983-persian-miniature-painting_202307/Titley%2C%20N.%201983%20PersianMiniaturePainting_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He drove the Portuguese out of Hormuz, captured Kandahar from the Mughals and won back western territories previously lost to the Ottoman empire.",
+        "source": {
+          "author": "Norah M. Titley",
+          "title": "Persian Miniature Painting and its Influence on the Art of Turkey and India",
+          "publisher": "The British Library (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/titley-n.-1983-persian-miniature-painting_202307",
+          "readAt": "https://archive.org/stream/titley-n.-1983-persian-miniature-painting_202307/Titley%2C%20N.%201983%20PersianMiniaturePainting_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

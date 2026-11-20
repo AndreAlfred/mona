@@ -1,0 +1,75 @@
+{
+  "id": "reza-abbasi",
+  "name": "Reza Abbasi",
+  "born": 1565,
+  "died": 1635,
+  "active": "c. 1587–1635",
+  "nationality": "Persian",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "persian-painting",
+      "source": {
+        "label": "Wikipedia: “the leading Persian miniaturist of the Isfahan School during the later Safavid period”",
+        "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q380726",
+  "archive": {
+    "cma": [
+      58883
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "in the flower of his youth he brought the elegance of his brushwork, portraiture, and likeness to such a degree that, if [Mani] and Behzad were living today, they would praise his hand and brush a hundred times a day. In this age he has no rival",
+      "lead": "Qadi Ahmad, a Safavid chronicler, in the first draft (1596) of his treatise on calligraphers and painters:",
+      "source": {
+        "author": "Qadi Ahmad",
+        "title": "Calligraphers and Painters (Gulistan-i hunar)",
+        "publisher": "translated by V. Minorsky, Freer Gallery of Art Occasional Papers (Internet Archive scan)",
+        "year": "c. 1596–1606 (trans. 1959)",
+        "url": "https://archive.org/details/calligrapherspa321959ahma",
+        "readAt": "https://archive.org/stream/calligrapherspa321959ahma/calligrapherspa321959ahma_djvu.txt",
+        "tier": 3,
+        "accessed": "2026-11-20"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "His son, Aga Reza, was a skilled portrait painter, but it is well known that, in recent times, he stupidly abandoned this art in which he had so much skill and took up wrestling, forsaking his talented artist friends. Fortunately, he has now given up this nonsense, but he does not do much painting.",
+      "lead": "Eskandar Beg Monshi, Shah ‘Abbas’s court historian, writing in 1616:",
+      "source": {
+        "author": "Eskandar Beg Monshi",
+        "title": "History of Shah ‘Abbas the Great (Tārīk-e ‘Ālamārā-ye ‘Abbāsī)",
+        "publisher": "translated by Roger M. Savory, Westview Press (Internet Archive scan)",
+        "year": "c. 1616–29 (trans. 1978)",
+        "url": "https://archive.org/details/monshi-shah-abbas-english",
+        "readAt": "https://archive.org/stream/monshi-shah-abbas-english/Monshi_Shah-Abbas_English_djvu.txt",
+        "tier": 3,
+        "accessed": "2026-11-20"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "His personality dominates the first half of the century, no doubt partly because it corresponds so clearly to the spirit of the age, democratic, confident, delighting in display and bright colours but conservative in its respect for age and its salute to beauty.",
+      "source": {
+        "author": "Basil Gray",
+        "title": "The Arts in the Safavid Period, in The Cambridge History of Iran, vol. 6",
+        "publisher": "Cambridge University Press (Internet Archive scan)",
+        "year": "1986",
+        "url": "https://archive.org/details/art-arch-timurid-safavid-1986",
+        "readAt": "https://archive.org/stream/art-arch-timurid-safavid-1986/Art_Arch_Timurid_Safavid_1986_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-20"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "munch-madonna",
+  "artist": "edvard-munch",
+  "title": "Madonna (The Madonna)",
+  "date": "1894",
+  "year": 1894,
+  "medium": "oil paint on canvas",
+  "dimensions": "90.5 × 70.5 cm",
+  "museum": {
+    "name": "National Museum of Art, Architecture and Design (NG.M.00841)",
+    "url": "https://www.wikidata.org/wiki/Q18890421"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg/1280px-Edvard_Munch_-_Madonna_%281894-1895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg/2560px-Edvard_Munch_-_Madonna_%281894-1895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1544,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Edvard Munch - Madonna (1894-1895).jpg)"
+  },
+  "archive": {
+    "wd": "Q18890421"
+  },
+  "phase": {
+    "label": "Berlin years and the Frieze of Life, 1892–95",
+    "source": {
+      "label": "Wikipedia: in 1894 he enlarged the Frieze of Life motifs by adding Anxiety, Ashes, Madonna…",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    }
+  },
+  "tags": [
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: Symbolism (movement) lists Edvard Munch among Symbolist painters",
+        "url": "https://en.wikipedia.org/wiki/Symbolism_(movement)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The usual golden halo of Mary has been replaced with a red halo symbolizing the love and pain duality.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Madonna (Munch)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Madonna_(Munch)",
+            "accessed": "2026-11-20",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: Madonna, created between 1892 and 1895 using oil paint on canvas",
+        "url": "https://en.wikipedia.org/wiki/Madonna_(Munch)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Madonna is the usual title given to several versions of a composition by the Norwegian expressionist painter Edvard Munch showing a bare-breasted half-length female figure created between 1892 and 1895 using oil paint on canvas. He also produced versions in print form.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna (Munch)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The underdrawing shows that Munch originally had the subject's arms hanging down as in a conventional portrait. The presence of the underdrawings suggests that the National Museum's painting is the first one.",
+        "lead": "On this version, in Oslo's National Museum:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna (Munch)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Munch's paintings from this period have [without] exception erotic themes, and bear titles such as Jealousy, The Vampire — a woman kissing a man's neck … Woman's Love and its variant The Madonna, as this masterly presentation of the moment of conception has later been called.",
+        "lead": "Jens Thiis, on the pictures of Munch's Berlin years:",
+        "source": {
+          "author": "Jens Thiis",
+          "title": "“Munch”, in “Modern Norwegian Art”, in Carl Laurin, Emil Hannover and Jens Thiis, Scandinavian Art",
+          "publisher": "American-Scandinavian Foundation",
+          "year": "1922",
+          "url": "https://archive.org/details/scandinavianart00laur",
+          "readAt": "https://archive.org/stream/scandinavianart00laur/scandinavianart00laur_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 2,
+          "license": "Public domain (Internet Archive scan)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[A] strange devotional picture glorifying decadent love. The cult of the strong woman who reduces man to subjection gives the figure of woman monumental proportions, but it also makes a demon of her.",
+        "lead": "The art historian Werner Hofmann:",
+        "source": {
+          "author": "Werner Hofmann",
+          "title": "Commentary on Madonna, quoted in “Madonna (Munch)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 2,
+          "license": "Short excerpt, via Wikipedia (CC BY-SA 4.0 transcription)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Those two at that moment, no longer merely themselves, but simply a link in the chain binding generation to generation. People should understand the significance, the power of it. They should remove their hats like they do in church.",
+        "lead": "Imagining, in 1889, the pictures of lovers he wanted to paint:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "“Saint Cloud Manifesto” (1889), as quoted in Sue Prideaux, Edvard Munch: Behind the Scream (2007), pp. 120–121, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1889"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The affinity to Mary might as well be intended nevertheless, as an emphasis on the beauty and perfection of his friend Dagny Juel-Przybyszewska, the model for the work, and an expression of his worship of her as an ideal of womanhood.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna (Munch)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}

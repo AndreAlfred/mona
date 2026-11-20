@@ -1,0 +1,161 @@
+{
+  "id": "munch-sick-child",
+  "artist": "edvard-munch",
+  "title": "The Sick Child",
+  "date": "1885–86",
+  "year": 1885,
+  "medium": "oil paint on canvas",
+  "dimensions": "120 × 118.5 cm",
+  "museum": {
+    "name": "National Museum of Art, Architecture and Design (NG.M.00839)",
+    "url": "https://www.wikidata.org/wiki/Q55421856"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Munch_Det_Syke_Barn_1885-86.jpg/1280px-Munch_Det_Syke_Barn_1885-86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Munch_Det_Syke_Barn_1885-86.jpg/2560px-Munch_Det_Syke_Barn_1885-86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1210,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Munch Det Syke Barn 1885-86.jpg)"
+  },
+  "archive": {
+    "wd": "Q55421856"
+  },
+  "phase": {
+    "label": "Kristiania Bohème, mid-1880s — his first “soul painting”",
+    "source": {
+      "label": "Wikipedia: The Sick Child (1886) was his first “soul painting”, his first break from Impressionism",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    }
+  },
+  "tags": [
+    {
+      "id": "impasto",
+      "source": {
+        "label": "Wikipedia: The Sick Child (Munch) — built up from thick layers of impasto paint",
+        "url": "https://en.wikipedia.org/wiki/The_Sick_Child_(Munch)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The painted versions are built up from thick layers of impasto paint with heavy, broad vertical brushstrokes. The emphasis on verticals gives the works a hazy feel and adds to their emotive power",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Sick Child (Munch)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Sick_Child_(Munch)",
+            "accessed": "2026-11-20",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: The Sick Child (NG.M.00839), oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q55421856"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the space of that year [1885 – 1886], scratching it out, just letting the paint flow, endlessly I tried to recapture what I had seen for the first time – the pale transparent skin against the linen sheets, the trembling lips, the shaking hands. I repainted the painting numerous times – scratched it out – let it become blurred in the medium – and tried again and again to catch the first impression",
+        "lead": "Looking back on the first version:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "“Livsfrisens tilblivelse” (The Origin of the Frieze of Life), Oslo 1929, p. 9, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)",
+          "year": "1929"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I started as an Impressionist, but during the violent mental and vital convulsions of the Bohême period Impressionism gave me insufficient expression—I had to find an expression for what stirred my mind … The first break with Impressionism was the Sick Child—I was looking for expression.",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "Writings on the origin of the Frieze of Life, quoted in “The Sick Child (Munch)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Sick_Child_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikipedia (CC BY-SA)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It came into being during the period of the indurated worship of reality that stamped the eighties. The picture, moreover, was a veritable gauntlet cast in the face of [photographic] realism; it was sheer feeling, enveloped in a veil of lovely color.",
+        "lead": "Jens Thiis, director of Norway's National Gallery:",
+        "source": {
+          "author": "Jens Thiis",
+          "title": "“Munch”, in “Modern Norwegian Art”, in Carl Laurin, Emil Hannover and Jens Thiis, Scandinavian Art",
+          "publisher": "American-Scandinavian Foundation",
+          "year": "1922",
+          "url": "https://archive.org/details/scandinavianart00laur",
+          "readAt": "https://archive.org/stream/scandinavianart00laur/scandinavianart00laur_djvu.txt",
+          "accessed": "2026-11-20",
+          "tier": 2,
+          "license": "Public domain (Internet Archive scan)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "There is genius in Munch. But there is also the danger that it will go to the dogs … For this reason, for Munch's own sake, I would wish that his Sick Child had been refused … In its present form this 'study'(!) is merely a discarded half-rubbed-out sketch.",
+        "lead": "The critic Andreas Aubert, reviewing its debut at the 1886 Autumn Exhibition:",
+        "source": {
+          "author": "Andreas Aubert",
+          "title": "Review of the 1886 Autumn Exhibition, Kristiania, quoted in “The Sick Child (Munch)”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Sick_Child_(Munch)",
+          "accessed": "2026-11-20",
+          "tier": 3,
+          "license": "Short excerpt, via Wikipedia (CC BY-SA 4.0 transcription)",
+          "year": "1886"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "When Edvard Munch was thirteen years old, his sister Sophie died of tuberculosis. … Munch later described the process of painting these works as a form of technical and personal catharsis.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: The Sick Child I (colour lithograph, 1896)",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/160144",
+          "readAt": "https://api.artic.edu/api/v1/artworks/160144?fields=id,title,description",
+          "accessed": "2026-11-20",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "few painters have ever experienced the full grief of their subject as I did in 'The sick child'. It was not just I who was suffering; it was all my nearest and dearest as well.",
+        "lead": "Munch, decades later:",
+        "source": {
+          "author": "Edvard Munch",
+          "title": "In conversation with Jens Thiis, c. 1933 (Munch Museum), as quoted in Sue Prideaux, Edvard Munch: Behind the Scream (2007), pp. 85–86, quoted on Wikiquote",
+          "publisher": "Wikiquote",
+          "readAt": "https://en.wikiquote.org/wiki/Edvard_Munch",
+          "accessed": "2026-11-20",
+          "tier": 1,
+          "license": "Short excerpt of an English translation, via Wikiquote (CC BY-SA)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-20",
+    "by": "claude-routine"
+  }
+}
