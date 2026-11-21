@@ -1,0 +1,165 @@
+{
+  "id": "ni-zan-poetic-thoughts",
+  "artist": "ni-zan",
+  "title": "Poetic Thoughts in a Forest Pavilion 林堂詩思圖",
+  "date": "Ming dynasty (1368–1644), c. 1371",
+  "year": 1371,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "124 × 50.5 cm (48 7/8 × 19 15/16 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/145677"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ni_Zan_-_Poetic_Thoughts_in_a_Forest_Pavilion_-_1996.432_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2589,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ni Zan - Poetic Thoughts in a Forest Pavilion - 1996.432 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 145677
+  },
+  "phase": {
+    "label": "Last years, 1371–74",
+    "source": {
+      "label": "Wikipedia: “He returned to his hometown in 1371 after the establishment of the Ming Dynasty”",
+      "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+    }
+  },
+  "tags": [
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Art Institute of Chicago record: the painter’s inscribed poem at upper right",
+        "url": "https://api.artic.edu/api/v1/artworks/145677?fields=id,title,artist_title,inscriptions"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Almost none of his paintings, or indeed those by most of the Yuan individualists, is lacking in a reasonably long inscription by the artist which tells or hints at the mood, raison d’etre and/or circumstances of its creation.",
+          "source": {
+            "author": "Sherman E. Lee",
+            "title": "Chinese Landscape Painting",
+            "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+            "year": "1954",
+            "url": "https://archive.org/details/ChineseLandscape",
+            "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+            "accessed": "2026-11-21",
+            "tier": 2
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "The delicate, almost prim character of Ni Tsan’s calligraphy is as much a part of the painting as is the meaning of his inscription.",
+          "source": {
+            "author": "Sherman E. Lee",
+            "title": "Chinese Landscape Painting",
+            "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+            "year": "1954",
+            "url": "https://archive.org/details/ChineseLandscape",
+            "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+            "accessed": "2026-11-21",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Art Institute of Chicago record: “Hanging scroll; ink on paper”",
+        "url": "https://www.artic.edu/artworks/145677"
+      }
+    },
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “Ni Zan’s landscapes after 1345 all take very much the same form”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In a forest pavilion, bamboo and trees give thickly overlapping shade, Seeking friends crying \"ying,\" I too am fond of music.",
+        "lead": "Ni Zan’s poem on the painting:",
+        "source": {
+          "author": "Ni Zan",
+          "title": "Inscription on Poetic Thoughts in a Forest Pavilion, translated by the Art Institute of Chicago",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/145677",
+          "readAt": "https://api.artic.edu/api/v1/artworks/145677?fields=id,title,artist_title,inscriptions",
+          "accessed": "2026-11-21",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I sketched [this] painting of \"Poetic Thoughts in a Forest Pavilion,\" and wrote the poem in order to leave it behind for the multi-talented Youxin",
+        "lead": "And his dedication beneath it:",
+        "source": {
+          "author": "Ni Zan",
+          "title": "Inscription on Poetic Thoughts in a Forest Pavilion, translated by the Art Institute of Chicago",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/145677",
+          "readAt": "https://api.artic.edu/api/v1/artworks/145677?fields=id,title,artist_title,inscriptions",
+          "accessed": "2026-11-21",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "After his death his pictures became so highly appreciated that the Kiang-nan families were divided into two classes; such that possessed, and such that did not possess pictures by Ni Tsan.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "During his lifetime, his work was highly valued and in itself was enough to pay for the hospitality provided by his friends as he travelled.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ni Zan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ni_Zan",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I am no hireling artist, a hanger-on at rich men's doors.",
+        "lead": "Ni Zan, refusing silk and money sent with a request for a painting:",
+        "source": {
+          "author": "Ni Zan (Ni Tsan)",
+          "title": "Recorded saying, translated in Herbert A. Giles, An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Kelly & Walsh, 2nd edition (Internet Archive scan)",
+          "year": "14th century (trans. 1918)",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

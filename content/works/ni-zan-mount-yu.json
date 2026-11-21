@@ -1,0 +1,139 @@
+{
+  "id": "ni-zan-mount-yu",
+  "artist": "ni-zan",
+  "title": "Woods and Valleys of Mount Yu",
+  "date": "1372",
+  "year": 1372,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1973.120.8)",
+    "url": "https://www.metmuseum.org/art/collection/search/45636"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ni_Zan_-_Woods_and_Valleys_of_Mount_Yu_-_1973.120.8_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2253,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ni Zan - Woods and Valleys of Mount Yu - 1973.120.8 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78845512"
+  },
+  "phase": {
+    "label": "Last years, 1371–74",
+    "source": {
+      "label": "Barnhart: “Woods and Valleys of Mount Yü and several other pictures of 1372 reveal Ni Tsan at his most expansive”",
+      "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “Ni Zan’s landscapes after 1345 all take very much the same form”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “ink-monochrome paintings of widely separated riverbanks”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Barnhart, fig. 77: “Hanging scroll, ink on paper, The Metropolitan Museum of Art”",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+      }
+    },
+    {
+      "id": "dry-brush",
+      "source": {
+        "label": "Barnhart: “The dry lines, like charcoal”",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Ni Tsan's masterpiece in the United States is Woods and Valleys of Mount [Yü] (fig. 77), painted in January 1372, less than three years before his death. It is as close to an expansive, monumental, and even perhaps optimistic state as he ever pushed his vision.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In later years Ni Tsan seems occasionally to have painted with a somewhat broader brush and stronger accents of light and shade",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Ni Tsan’s works are on the whole more unified, not to say monotonous, than the works of the other great landscape painters, but characteristic of them all is the charming simplicity and directness with which he is recording the quiet river scenes.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "We might also sense a quiet celebration of the land and the nation, something not even hinted at in his art prior to 1368, when the Ming was established.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He returned to his hometown in 1371 after the establishment of the Ming Dynasty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ni Zan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ni_Zan",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

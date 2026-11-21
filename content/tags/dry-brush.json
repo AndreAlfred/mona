@@ -1,0 +1,37 @@
+{
+  "id": "dry-brush",
+  "kind": "technique",
+  "name": "Dry brush (kebi)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The dry lines, like charcoal, the \"wash,\" actually done by just rubbing the paper with a dried-out brush; the sharply cut rock and mountain forms, the quiet interplay of gray and white spaces and shapes; the absence of anything remotely rich or moist — all contribute to the graphic crystallization of a mood and a personality",
+      "lead": "Barnhart, describing Ni Zan’s technique:",
+      "source": {
+        "author": "Richard M. Barnhart",
+        "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1983",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+        "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+        "accessed": "2026-11-21",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He is very sparse in his use of the brush and usually tends to two extremes— very wet or very dry ink. The dry textures build up whatever mass is suggested while the wet touches define boundaries and add liveliness to the areas concerned.",
+      "source": {
+        "author": "Sherman E. Lee",
+        "title": "Chinese Landscape Painting",
+        "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+        "year": "1954",
+        "url": "https://archive.org/details/ChineseLandscape",
+        "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+        "accessed": "2026-11-21",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "Ni Zan"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ni-zan",
+  "name": "Ni Zan",
+  "born": 1301,
+  "died": 1374,
+  "active": "1330s–1374",
+  "nationality": "Chinese",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "four-masters-of-yuan",
+      "source": {
+        "label": "Wikipedia: one of the Four Masters of the Yuan dynasty",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Wikipedia: the Four Masters were “major exponents of the tradition of ‘literati painting’ (wenrenhua)”",
+        "url": "https://en.wikipedia.org/wiki/Four_Masters_of_the_Yuan_dynasty"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "zhao-mengfu",
+      "name": "Zhao Mengfu",
+      "source": {
+        "label": "Sirén: Ni Tsan’s characterization of the masters he admired, among them “Chao Jung-lu (Meng-fu), whose brush-work is lofty and distinct”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    },
+    {
+      "id": "shen-zhou",
+      "name": "Shen Zhou",
+      "source": {
+        "label": "Barnhart: Shen Chou’s colophon on Ni Tsan’s Pine Pavilion, Mountain Scenery; Lee: works “in the manner of Ni Tsan” by Shen Chou",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+      }
+    },
+    {
+      "id": "dong-qichang",
+      "name": "Dong Qichang",
+      "source": {
+        "label": "Waley: Tung Ch’i-ch’ang, “I am glad, however, to recall that Ni Tsan suffered from the same defect”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219"
+      }
+    },
+    {
+      "id": "shitao",
+      "name": "Shitao",
+      "source": {
+        "label": "Lee: “The most interesting characterization of the art of Ni Tsan is given by another great individualist of a later date, Shih-t’ao”",
+        "url": "https://archive.org/details/ChineseLandscape"
+      }
+    },
+    {
+      "id": "wang-yuanqi",
+      "name": "Wang Yuanqi",
+      "source": {
+        "label": "Cleveland Museum of Art: Wang Yuanqi, Landscape after Ni Zan (1707)",
+        "url": "https://clevelandart.org/art/1954.583"
+      }
+    }
+  ],
+  "wikidata": "Q731030",
+  "archive": {
+    "aic": 61317,
+    "cma": [
+      11204
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "What I call painting is no more than a careless extravaganza of the brush, not aiming at resemblance, but only at the diversion of the painter. … people came to me begging for paintings. I found that they all wanted them to be like something in particular, seen at a particular season. Then they went away angry. But this is like scolding a eunuch for not growing a beard!",
+      "lead": "Ni Zan, in one of his own writings:",
+      "source": {
+        "author": "Ni Zan (Ni Tsan)",
+        "title": "From his writings, translated in Arthur Waley, An Introduction to the Study of Chinese Painting",
+        "publisher": "Ernest Benn, London (Internet Archive scan)",
+        "year": "14th century (trans. 1923)",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+        "accessed": "2026-11-21",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He refused to enter public life, and devoted his ample fortune to collecting old books and pictures. Deeply read, he affected archaic phrases, and used only the li script, a form of writing which disappeared from practical life about A.D. 200. He was very timid and retiring, and a great stickler for cleanliness.",
+      "source": {
+        "author": "Herbert A. Giles",
+        "title": "An Introduction to the History of Chinese Pictorial Art",
+        "publisher": "Kelly & Walsh, 2nd edition (Internet Archive scan)",
+        "year": "1918",
+        "url": "https://archive.org/details/introductiontohi00gileuoft",
+        "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+        "accessed": "2026-11-21",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He became the cultural exemplar of the mode of lofty, chaste simplicity and restraint in both art and life, and his subsequent influence over the art and taste of Chiangnan cannot be overstated.",
+      "source": {
+        "author": "Richard M. Barnhart",
+        "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1983",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+        "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+        "accessed": "2026-11-21",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

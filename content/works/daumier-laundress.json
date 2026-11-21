@@ -1,0 +1,161 @@
+{
+  "id": "daumier-laundress",
+  "artist": "honore-daumier",
+  "title": "The Laundress",
+  "date": "1863",
+  "year": 1863,
+  "medium": "oil paint on panel",
+  "dimensions": "49 × 35.5 cm",
+  "museum": {
+    "name": "Musée d'Orsay (RF 2630)",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/10052"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Honor%C3%A9_Daumier_016.jpg/1280px-Honor%C3%A9_Daumier_016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1714,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Honoré Daumier 016.jpg)"
+  },
+  "archive": {
+    "wd": "Q5220825"
+  },
+  "phase": {
+    "label": "Years of poverty, 1860–64",
+    "source": {
+      "label": "Sadleir: the years from 1860 to 1864 saw Daumier in bitter poverty",
+      "url": "https://archive.org/details/daumiermanartist0000sadl"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Musée d'Orsay record via Wikidata: oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q5220825"
+      }
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: Daumier “loosely associated with realism”",
+        "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: “The subject of laundresses … was a popular one in art”",
+        "url": "https://en.wikipedia.org/wiki/The_Laundress_(Daumier)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He never finished the beautiful Laveuse in the Bureau collection, though he painted it more than once.",
+        "lead": "Julius Meier-Graefe, in 1904 (English 1908):",
+        "source": {
+          "author": "Julius Meier-Graefe",
+          "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+          "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/modernartbeingco01meieuoft",
+          "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Daumier, too, was often in love with various aspects of one design, and therefore hesitated to conclude them all at once.",
+        "source": {
+          "author": "Julius Meier-Graefe",
+          "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+          "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/modernartbeingco01meieuoft",
+          "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Daumier painted several variations on this theme: numerous replicas of them exist, some apocryphal. The Louvre-acquired work appears, according to critics, to be far the best.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Laundress (Daumier)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Laundress_(Daumier)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The subject of laundresses, also known as washerwomen, was a popular one in art, especially in France.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Laundress (Daumier)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Laundress_(Daumier)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The summary handling of the paint avoids any suggestion of anecdote and gives a monumental quality to this little picture.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Laundress (Daumier)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Laundress_(Daumier)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He would sit by the hour smoking his pipe, watching the poplar trees and the sun setting over the old houses to the west. … the humble folk bathing their children ; the women with their baskets of linen, climbing the steps to the roadway after work in the public washhouses",
+        "lead": "Michael Sadleir, on Daumier at his window on the Quai d’Anjou:",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nevertheless, there is a strength as well as fatigue expressed in the body of this mature woman, accompanied by her child, whom there is evidently nobody to mind at home.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Laundress (Daumier)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Laundress_(Daumier)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

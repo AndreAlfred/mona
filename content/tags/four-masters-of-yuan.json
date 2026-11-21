@@ -1,0 +1,35 @@
+{
+  "id": "four-masters-of-yuan",
+  "kind": "movement",
+  "name": "Four Masters of the Yuan",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Four Masters of the Yuan dynasty … is a name used to collectively describe the four Chinese painters: Huang Gongwang, Wu Zhen, Ni Zan, and Wang Meng, who were active during the Yuan dynasty (1271–1368).",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Four Masters of the Yuan dynasty",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Four_Masters_of_the_Yuan_dynasty",
+        "accessed": "2026-11-21",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "They worked in a free technique, chiefly in ink and light colours. The first two were almost exclusively landscapists. … The quality which all alike sought was i (Japanese itsu), “ aloofness,” — the opposite of schwarmerei, turgidity, facile emotionalism, popular appeal.",
+      "source": {
+        "author": "Arthur Waley",
+        "title": "An Introduction to the Study of Chinese Painting",
+        "publisher": "Ernest Benn, London (Internet Archive scan)",
+        "year": "1923",
+        "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+        "accessed": "2026-11-21",
+        "tier": 2
+      }
+    }
+  ],
+  "archiveTerm": "Yuan dynasty landscape"
+}

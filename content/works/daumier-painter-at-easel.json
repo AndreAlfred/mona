@@ -1,0 +1,144 @@
+{
+  "id": "daumier-painter-at-easel",
+  "artist": "honore-daumier",
+  "title": "The Painter at His Easel",
+  "date": "c. 1870",
+  "year": 1870,
+  "medium": "oil paint on panel",
+  "dimensions": "339.725 × 263.525 mm",
+  "museum": {
+    "name": "The Phillips Collection (0378)",
+    "url": "https://www.phillipscollection.org/collection/browse-the-collection?id=0378"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Honor%C3%A9_Daumier_-_The_Painter_at_His_Easel_-_Google_Art_Project.jpg/1280px-Honor%C3%A9_Daumier_-_The_Painter_at_His_Easel_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Honor%C3%A9_Daumier_-_The_Painter_at_His_Easel_-_Google_Art_Project.jpg/2560px-Honor%C3%A9_Daumier_-_The_Painter_at_His_Easel_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1539,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Honoré Daumier - The Painter at His Easel - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q23939261"
+  },
+  "phase": {
+    "label": "Valmondois, 1865–79",
+    "source": {
+      "label": "Wikipedia: “Daumier moved to Valmondois in 1865”",
+      "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Phillips Collection record via Wikidata: oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q23939261"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "With Daumier the sketch is so pregnant that the conception of finality ceases to play an important part.",
+          "lead": "Julius Meier-Graefe:",
+          "source": {
+            "author": "Julius Meier-Graefe",
+            "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+            "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+            "year": "1908",
+            "url": "https://archive.org/details/modernartbeingco01meieuoft",
+            "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+            "accessed": "2026-11-21",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-sketch",
+      "source": {
+        "label": "Meier-Graefe: Daumier “has left hardly anything but sketches”",
+        "url": "https://archive.org/details/modernartbeingco01meieuoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The impression of monotony, gained by the scrutiny of a large body of his work, is partly due to his habit of painting and re-painting one group or little scene.",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For the last thirty years of his life he worked in secret melancholy at the pictures and drawings that were his real self",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Daumier was best known as an illustrator, and his paintings remained unknown until an exhibition held by Paul Durand-Ruel in Paris in 1878, the year before Daumier's death.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third-Class Carriage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Centennial Exhibition of 1900, and the supplementary exhibition in the Ecole des Beaux Arts revealed Daumier the painter to France.",
+        "source": {
+          "author": "Julius Meier-Graefe",
+          "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+          "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/modernartbeingco01meieuoft",
+          "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The French Third Republic granted him a pension in 1877, and the following year a major exhibition of his paintings was held in Paris, which received significant recognition in the final months of his life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Honoré Daumier",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

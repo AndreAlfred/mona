@@ -1,0 +1,155 @@
+{
+  "id": "ni-zan-rongxi-studio",
+  "artist": "ni-zan",
+  "title": "The Jung-hsi Studio",
+  "date": "1372",
+  "year": 1372,
+  "dimensions": "74.7 × 35.5 cm",
+  "museum": {
+    "name": "National Palace Museum (故畫000299N000000000)",
+    "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=610&Dept=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ni_Zan._The_Rongxi_Studio.1372._74%2C7x35%2C3._National_Palace_Museum%2C_Taipei.jpg/1280px-Ni_Zan._The_Rongxi_Studio.1372._74%2C7x35%2C3._National_Palace_Museum%2C_Taipei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2466,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ni Zan. The Rongxi Studio.1372. 74,7x35,3. National Palace Museum, Taipei.jpg)"
+  },
+  "archive": {
+    "wd": "Q121366761"
+  },
+  "phase": {
+    "label": "Last years, 1371–74",
+    "source": {
+      "label": "Wikipedia: “In 1372, he painted his Rongxi Studio, which epitomizes his style”",
+      "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “Ni Zan’s landscapes after 1345 all take very much the same form”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “ink-monochrome paintings of widely separated riverbanks”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Commons: listed under “Scrolls of China”; National Palace Museum record",
+        "url": "https://commons.wikimedia.org/wiki/File:Ni_Zan._The_Rongxi_Studio.1372._74,7x35,3._National_Palace_Museum,_Taipei.jpg"
+      }
+    },
+    {
+      "id": "dry-brush",
+      "source": {
+        "label": "Lee: “usually tends to two extremes— very wet or very dry ink”",
+        "url": "https://archive.org/details/ChineseLandscape"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1372, he painted his Rongxi Studio, which epitomizes his style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ni Zan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ni_Zan",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Ni Zan's landscapes after 1345 all take very much the same form: ink-monochrome paintings of widely separated riverbanks rendered in sketch brushwork and foreground trees silhouetted against the expanse of water. His sparse landscapes never represent people and defy many traditional concepts of Chinese painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ni Zan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ni_Zan",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Ni Tsan was probably the most imitated and copied artist in his period, if not of any period. His legendary “purity\" and “loftiness” made him the scholar’s ideal; and the apparent simplicity of his painting made superficially accurate imitation rather common.",
+        "source": {
+          "author": "Sherman E. Lee",
+          "title": "Chinese Landscape Painting",
+          "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/ChineseLandscape",
+          "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The paintings by Master Ni are like waves on the sandy beach, or streams between the stones which roll and flow and issue by their own force. Their air of supreme refinement and purity is so cold that it overawes men.",
+        "lead": "The painter Shitao, three centuries later:",
+        "source": {
+          "author": "Shitao (Shih-t’ao)",
+          "title": "Comment on Ni Zan, translated in Sherman E. Lee, Chinese Landscape Painting",
+          "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+          "year": "17th century (trans. 1954)",
+          "url": "https://archive.org/details/ChineseLandscape",
+          "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 3
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The absence of human figures, often emphasized by an empty hut in the foreground, is a distinctive feature of Ni Tsan's landscapes. To a question about the lack of figures in his painting, he is said to have replied, \"I don't know that there is anyone around in the world,\" an attitude of solitude of mind that his paintings nearly always suggest.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With Ni Tsan, one is given a withered tree or two, a squat building … drawn onto a sheet of paper — decidedly the ultimate in loneliness and remoteness, the most dilute and withdrawn.",
+        "lead": "The Qing scholar Ruan Yuan, quoted by Barnhart:",
+        "source": {
+          "author": "Ruan Yuan (Juan Yüan)",
+          "title": "Comment on Ni Zan, quoted in Richard M. Barnhart, Along the Border of Heaven",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "19th century (quoted 1983)",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "daumier-troubadour",
+  "artist": "honore-daumier",
+  "title": "The Troubadour",
+  "date": "1868–73",
+  "year": 1868,
+  "medium": "oil on fabric",
+  "dimensions": "Framed: 99.5 x 73 x 8 cm (39 3/16 x 28 3/4 x 3 1/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.23"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.23/1958.23_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.23/1958.23_print.jpg",
+    "width": 595,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr."
+  },
+  "archive": {
+    "cma": 135214
+  },
+  "phase": {
+    "label": "Valmondois, 1865–79",
+    "source": {
+      "label": "Wikipedia: “Daumier moved to Valmondois in 1865”",
+      "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "CMA record: oil on fabric",
+        "url": "https://clevelandart.org/art/1958.23"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "CMA: “the theme reflects a broader, romantic fascination with France's medieval past”",
+        "url": "https://clevelandart.org/art/1958.23"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Although Daumier was particularly inspired by the troubadour paintings of French Rococo artist Jean-Antoine Watteau of the 1700s, he rendered the subject here in a powerful style of simplified, muscular form that appealed to modern artists of his own time.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Troubadour",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1958.23",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135214",
+          "accessed": "2026-11-21",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Perceptive sympathy of a similar, though of a less ecstatic, kind distinguishes Daumier’s pictures of strolling players.",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The troubadour, a medieval traveling poet and entertainer, was a popular subject in 19th-century French art. Associated with chivalry and courtly love, the theme reflects a broader, romantic fascination with France's medieval past.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Troubadour",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1958.23",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135214",
+          "accessed": "2026-11-21",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On the base, where the contemplative symbols generally find a place, I would put four artists : Millet, Cezanne, Meunier, and Van Gogh ; all in the reverent attitude of worship.",
+        "lead": "Julius Meier-Graefe, imagining a monument to Daumier:",
+        "source": {
+          "author": "Julius Meier-Graefe",
+          "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+          "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/modernartbeingco01meieuoft",
+          "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Old friend, I have a little house at Valmondois … that I could not for the life of me think what to do with. Suddenly I thought to give it to you",
+        "lead": "Corot, giving Daumier his cottage at Valmondois:",
+        "source": {
+          "author": "Camille Corot",
+          "title": "Letter to Daumier, as given in Michael Sadleir, Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 3
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He was getting old and his eyes began to fail.",
+        "lead": "Sadleir, on the last years:",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

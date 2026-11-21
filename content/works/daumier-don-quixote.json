@@ -1,0 +1,131 @@
+{
+  "id": "daumier-don-quixote",
+  "artist": "honore-daumier",
+  "title": "Don Quixote and Sancho Panza (Don Quichotte et Sancho Pansa)",
+  "date": "1866",
+  "year": 1866,
+  "medium": "oil paint on canvas",
+  "dimensions": "78 × 102 cm",
+  "museum": {
+    "name": "Alte Nationalgalerie (A I 976)",
+    "url": "https://www.daumier-register.org/werkview.php?key=8047"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Honor%C3%A9_Daumier_-_Don_Quichotte_et_Sancho_Pansa_-_Google_Art_Project.jpg/1280px-Honor%C3%A9_Daumier_-_Don_Quichotte_et_Sancho_Pansa_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Honor%C3%A9_Daumier_-_Don_Quichotte_et_Sancho_Pansa_-_Google_Art_Project.jpg/2560px-Honor%C3%A9_Daumier_-_Don_Quichotte_et_Sancho_Pansa_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 924,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Honoré Daumier - Don Quichotte et Sancho Pansa - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18686024"
+  },
+  "phase": {
+    "label": "Valmondois, 1865–79",
+    "source": {
+      "label": "Wikipedia: “Daumier moved to Valmondois in 1865”",
+      "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Alte Nationalgalerie record via Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q18686024"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "We may call his Don Quixote in the Berlin Gallery sketchy, if we choose to compare it with a Meissonier. But we may as justly call it fresco-like, if we compare it from a greater distance. It is not, in truth, the picture, but the eye of the spectator which is sketchy.",
+          "lead": "Julius Meier-Graefe, on this picture in Berlin:",
+          "source": {
+            "author": "Julius Meier-Graefe",
+            "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+            "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+            "year": "1908",
+            "url": "https://archive.org/details/modernartbeingco01meieuoft",
+            "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+            "accessed": "2026-11-21",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Sadleir: “Daumier’s love for Quixote was part of his romantic birthright”",
+        "url": "https://archive.org/details/daumiermanartist0000sadl"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Most clearly is this sympathy expressed in the long series of his Quixote pictures. … Cervantes’ hero, at once moving and laughable, dignified and absurd, appealed not only to the artist’s keen sense of the ridiculous but also to his feeling for sombre simplicity and to his pity for futility.",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In his numerous renderings of Don Quixote, he has made symbols of the two figures, that give an almost metaphysical value to the conceptions of \" fat \" and \" thin.\"",
+        "source": {
+          "author": "Julius Meier-Graefe",
+          "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+          "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/modernartbeingco01meieuoft",
+          "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He experienced failing eyesight and poverty there, although he continued to produce lithographs and paint, often on the theme of Don Quixote.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Honoré Daumier",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One need not force the argument further or insist that the artist saw in Quixote one who, like himself, had pursued vainly every dream.",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}
