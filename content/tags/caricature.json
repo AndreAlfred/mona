@@ -1,0 +1,36 @@
+{
+  "id": "caricature",
+  "kind": "style",
+  "name": "Caricature",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "A caricature is an often humorous rendered image showing the features of its subject in a simplified or exaggerated way through sketching, pencil strokes, or other artistic drawings (compare to: cartoon).",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Caricature",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Caricature",
+        "accessed": "2026-11-21",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "journalism is the criticism of the moment _at_ the moment, and caricature is that criticism at once simplified and intensified by a plastic form.",
+      "lead": "Henry James, in 1893:",
+      "source": {
+        "author": "Henry James",
+        "title": "Daumier, Caricaturist, in Picture and Text",
+        "publisher": "Harper & Brothers (Project Gutenberg text, Internet Archive)",
+        "year": "1893",
+        "url": "https://www.gutenberg.org/ebooks/25767",
+        "readAt": "https://archive.org/stream/pictureandtext25767gut/25767.txt",
+        "accessed": "2026-11-21",
+        "tier": 3
+      }
+    }
+  ],
+  "archiveTerm": "caricature"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "ni-zan-six-gentlemen",
+  "artist": "ni-zan",
+  "title": "Six Gentlemen",
+  "date": "1345",
+  "year": 1345,
+  "dimensions": "61.9 × 33.3 cm",
+  "museum": {
+    "name": "Shanghai Museum",
+    "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00000815"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ni_Zan_-_Six_Gentlemen.jpg/1280px-Ni_Zan_-_Six_Gentlemen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ni_Zan_-_Six_Gentlemen.jpg/2560px-Ni_Zan_-_Six_Gentlemen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2221,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ni Zan - Six Gentlemen.jpg)"
+  },
+  "archive": {
+    "wd": "Q22959711"
+  },
+  "phase": {
+    "label": "Turning point, 1345",
+    "source": {
+      "label": "Wikipedia: “Six Gentlemen marked a turning point in his artistic career”",
+      "url": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “Ni Zan’s landscapes after 1345 all take very much the same form”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “ink on paper, mounted on hanging scroll”",
+        "url": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia: “ink on paper, mounted on hanging scroll”",
+        "url": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Wikipedia: “major themes in late Yuan dynasty literati painting”",
+        "url": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The importance of individual expression (both political and aesthetic), and the rejection of realistic detail, are major themes in late Yuan dynasty literati painting.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Six Gentlemen (painting)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)",
+            "accessed": "2026-11-21",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "As the first of Ni Zan’s paintings to demonstrate the stark, minimalist style for which he is known, Six Gentlemen marked a turning point in his artistic career. He would frequently return to its subject matter in later years, producing many subsequent works of nearly identical composition and style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Six Gentlemen (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "What I call painting is no more than a careless extravaganza of the brush, not aiming at resemblance, but only at the diversion of the painter. … people came to me begging for paintings. I found that they all wanted them to be like something in particular, seen at a particular season. Then they went away angry. But this is like scolding a eunuch for not growing a beard!",
+        "lead": "Ni Zan, in his own words, on what painting was for:",
+        "source": {
+          "author": "Ni Zan (Ni Tsan)",
+          "title": "From his writings, translated in Arthur Waley, An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn, London (Internet Archive scan)",
+          "year": "14th century (trans. 1923)",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The visual isolation of the “six gentlemen” in the painting may reflect the attitude of intellectuals like Ni who preferred to live a life of seclusion in the countryside rather than serve as government officials under the Mongol-led Yuan dynasty, which had conquered the native Chinese Song dynasty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Six Gentlemen (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Twenty-six years earlier he had painted another landscape that does not include an empty hut or pavilion, the famous Six Gentlemen in the Shanghai Museum. In Woods and Valleys, the six are now five; the cramped, tight brushwork is now in a state of easy mastery",
+        "lead": "Barnhart, comparing it with a landscape of 1372:",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Ni Zan painted Six Gentlemen while visiting his friend, the art collector Lu Heng, in the spring of 1345. Ni’s inscription explains that he arrived by boat at Lu’s house on May 10, and that Lu immediately brought paper and asked him to paint something for him … Though tired, Ni Zan obliged and produced the painting by the light of a lamp.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Six Gentlemen (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The starkly barren landscape depicted in Six Gentlemen might represent Ni Zan's feelings about recent upheavals in the region around his home in Wuxi. The devastating Yellow River flood of the previous year displaced many people in the area, and gave rise to banditry and peasant rebellions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Six Gentlemen (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

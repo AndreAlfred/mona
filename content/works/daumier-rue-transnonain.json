@@ -1,0 +1,144 @@
+{
+  "id": "daumier-rue-transnonain",
+  "artist": "honore-daumier",
+  "title": "Rue Transnonain, April 15, 1834",
+  "date": "1834",
+  "year": 1834,
+  "medium": "lithograph",
+  "dimensions": "Sheet: 36.5 x 55 cm (14 3/8 x 21 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1924.809"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1924.809/1924.809_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1924.809/1924.809_print.jpg",
+    "width": 1263,
+    "height": 890,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Ralph King"
+  },
+  "archive": {
+    "cma": 106785
+  },
+  "phase": {
+    "label": "La Caricature years, 1830–35",
+    "source": {
+      "label": "Sadleir: “from 1830 to 1835 Daumier contributed ceaselessly to “La Caricature””",
+      "url": "https://archive.org/details/daumiermanartist0000sadl"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "CMA record: lithograph",
+        "url": "https://clevelandart.org/art/1924.809"
+      }
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "CMA record: lithograph published in L'Association Mensuelle",
+        "url": "https://clevelandart.org/art/1924.809"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "As in the Souvenir de Ste. Pélagie he is as little as possible the satirist. The human situation has revealed its tragedy to him",
+        "lead": "Elisabeth Luther Cary, in 1907:",
+        "source": {
+          "author": "Elisabeth Luther Cary",
+          "title": "Honoré Daumier: A Collection of His Social and Political Caricatures, with an Introductory Essay on His Art",
+          "publisher": "G. P. Putnam’s Sons (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/bwb_P9-CDN-336",
+          "readAt": "https://archive.org/stream/bwb_P9-CDN-336/bwb_P9-CDN-336_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "To Daumier the brutal soldiery of 1834 had been evil for their brutality rather than for the cause they served. He was a humanitarian too sincere to condone a cruelty because committed by his party’s friends.",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "During the uprising, sniper fire directed toward government troops emanated from a house on the Rue Transnonain. In retaliation, the soldiers indiscriminately massacred residents, including old men, women, and children.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Rue Transnonain, April 15, 1834",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1924.809",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106785",
+          "accessed": "2026-11-21",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Between 1830 and 1835 censorship laws had been suspended, allowing Charles Philipon (1806–1862) to publish a number of periodicals like L'Association Mensuelle, where Rue Transnonain appeared.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Rue Transnonain, April 15, 1834",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1924.809",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106785",
+          "accessed": "2026-11-21",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Daumier has chosen the moment following the massacre. A deadly silence seems to pervade the place depicted. … The horror of such material is obviated for us only by the serene nobility of the method.",
+        "source": {
+          "author": "Elisabeth Luther Cary",
+          "title": "Honoré Daumier: A Collection of His Social and Political Caricatures, with an Introductory Essay on His Art",
+          "publisher": "G. P. Putnam’s Sons (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/bwb_P9-CDN-336",
+          "readAt": "https://archive.org/stream/bwb_P9-CDN-336/bwb_P9-CDN-336_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In this haunting image, Daumier focused attention on the human suffering and loss of life, emphasizing the innocence of the victims and the violence of their deaths.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Rue Transnonain, April 15, 1834",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1924.809",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/106785",
+          "accessed": "2026-11-21",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

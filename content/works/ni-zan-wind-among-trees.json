@@ -1,0 +1,132 @@
+{
+  "id": "ni-zan-wind-among-trees",
+  "artist": "ni-zan",
+  "title": "Wind among the Trees on the Riverbank",
+  "date": "1363",
+  "year": 1363,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1989.363.39)",
+    "url": "https://www.metmuseum.org/art/collection/search/41154"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ni_Zan_-_Wind_among_the_Trees_on_the_Riverbank_-_1989.363.39_-_Metropolitan_Museum_of_Art.jpg/1280px-Ni_Zan_-_Wind_among_the_Trees_on_the_Riverbank_-_1989.363.39_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1926,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ni Zan - Wind among the Trees on the Riverbank - 1989.363.39 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78855139"
+  },
+  "phase": {
+    "label": "Mature style, c. 1360s",
+    "source": {
+      "label": "Barnhart: “When fully developed by about 1363, a ‘Ni Tsan composition’ consisted of…”",
+      "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “Ni Zan’s landscapes after 1345 all take very much the same form”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “ink-monochrome paintings of widely separated riverbanks”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "dry-brush",
+      "source": {
+        "label": "Barnhart: “The dry lines, like charcoal… rubbing the paper with a dried-out brush”",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "When fully developed by about 1363, a \"Ni Tsan [composition]\" consisted of some foreground earthen banks, rocks, and trees, usually with an empty hut or pavilion somewhere among them, a few distant hills, and a stretch of empty water — lake or river",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the landscapes of his contemporaries human figures played an important part. They served as a link between the spectator and the scene depicted. But Ni Tsan in many of his paintings dispensed with them altogether, being, I imagine, the earliest artist in the world to do so.",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn, London (Internet Archive scan)",
+          "year": "1923",
+          "url": "https://archive.org/details/in.ernet.dli.2015.31219",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.31219/2015.31219.An-Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The paintings of some of these men, like Kao K‘o-kung, Ni Tsan, and Wu Chen, represent a kind of plein-airism, or at least a movement in this direction.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Wind among the Trees on the Riverbank (1363, painted after his wife's death)",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Six Gentlemen (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Melancholy seems to have been Ni Tsan's constant state, and the stylistic means he cultivated suit the expression of this mood so perfectly that one supposes he cultivated them for just that reason.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

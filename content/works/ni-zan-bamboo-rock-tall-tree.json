@@ -1,0 +1,147 @@
+{
+  "id": "ni-zan-bamboo-rock-tall-tree",
+  "artist": "ni-zan",
+  "title": "Bamboo, Rock, and Tall Tree",
+  "date": "c. 1300s",
+  "year": 1300,
+  "medium": "hanging scroll; ink on paper",
+  "dimensions": "Image: 67.3 x 36.8 cm (26 1/2 x 14 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1978.65"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ni_Zan_-_Bamboo%2C_Rock%2C_and_Tall_Tree_-_1978.65_-_Cleveland_Museum_of_Art.tiff/lossy-page1-1280px-Ni_Zan_-_Bamboo%2C_Rock%2C_and_Tall_Tree_-_1978.65_-_Cleveland_Museum_of_Art.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ni_Zan_-_Bamboo%2C_Rock%2C_and_Tall_Tree_-_1978.65_-_Cleveland_Museum_of_Art.tiff/lossy-page1-1280px-Ni_Zan_-_Bamboo%2C_Rock%2C_and_Tall_Tree_-_1978.65_-_Cleveland_Museum_of_Art.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1968,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ni Zan - Bamboo, Rock, and Tall Tree - 1978.65 - Cleveland Museum of Art.tiff)"
+  },
+  "archive": {
+    "cma": 149412,
+    "wd": "Q60473578"
+  },
+  "phase": {
+    "label": "Mature style, c. 1360s",
+    "source": {
+      "label": "Barnhart: “probably painted about 1365”",
+      "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+    }
+  },
+  "tags": [
+    {
+      "id": "orchid-and-bamboo",
+      "source": {
+        "label": "Cleveland Museum of Art record: Bamboo, Rock, and Tall Tree",
+        "url": "https://clevelandart.org/art/1978.65"
+      }
+    },
+    {
+      "id": "dry-brush",
+      "source": {
+        "label": "Barnhart: “Ni Tsan's dry scumbled brushwork”",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Using less ink and less tonal and textual contrast did not prevent Ni Tsan from approaching natural forms like a sculptor in ink. He simply posed himself the difficult task of attempting to do more with less.",
+          "source": {
+            "author": "Richard M. Barnhart",
+            "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+            "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+            "year": "1983",
+            "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+            "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+            "accessed": "2026-11-21",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art record: “Hanging scroll; ink on paper”",
+        "url": "https://clevelandart.org/art/1978.65"
+      }
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Barnhart: the painting is “accompanied in the upper-right corner by a poem and a personal comment”",
+        "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In Bamboo, Rock, and Tall Tree (fig. 60), the spareness of Ni's pale dry brush is relieved only slightly by the spiky bamboo leaves and the ink dots [carefully] placed in the crooks of branches and twigs",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Sometimes he would take paper and brush, and sketch some such simple theme as a bamboo or [a] rock. These he would give away to all comers, and the connoisseurs of the neighbourhood bought them up at many tens of taels apiece.",
+        "lead": "A Chinese account of Ni Zan’s wandering years, translated by Giles:",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Kelly & Walsh, 2nd edition (Internet Archive scan)",
+          "year": "1918",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Windy and rainy days - what a chilly wheat-harvesting season, With brush in hand, I fight depression by copying. Fortunately, I can depend upon you, my friend, to send me consolation - \"Pine-lard\" wind, and meat with bamboo shoots that never fail to awaken appetite.",
+        "lead": "Ni Zan’s inscription on the painting, for a friend who had brought him food and wine:",
+        "source": {
+          "author": "Ni Zan",
+          "title": "Inscription on Bamboo, Rock, and Tall Tree, translated by the Cleveland Museum of Art",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1978.65",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/149412",
+          "accessed": "2026-11-21",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "nearly all of his paintings are dedicated to some one of these with whom he happened to be staying at the time. Practically all of these pictures have annotations by the artist and are signed and dated by him.",
+        "source": {
+          "author": "John C. Ferguson",
+          "title": "Chinese Painting",
+          "publisher": "University of Chicago Press (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/chinesepainting0000john",
+          "readAt": "https://archive.org/stream/chinesepainting0000john/chinesepainting0000john_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "daumier-melodrama",
+  "artist": "honore-daumier",
+  "title": "The Melodrama (Melodrama)",
+  "date": "c. 1860",
+  "year": 1860,
+  "medium": "oil paint on canvas",
+  "dimensions": "97.5 × 90.4 cm",
+  "museum": {
+    "name": "Bavarian State Painting Collections (8697)",
+    "url": "https://www.daumier-register.org/werkview.php?key=7142"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Honor%C3%A9_Daumier_026.jpg/1280px-Honor%C3%A9_Daumier_026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1323,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Honoré Daumier 026.jpg)"
+  },
+  "archive": {
+    "wd": "Q5825709"
+  },
+  "phase": {
+    "label": "Île Saint-Louis years, 1846–63",
+    "source": {
+      "label": "Wikipedia: “They moved to 9 Quai d'Anjou, on the Ile Saint-Louis in 1846 where they lived until 1863”",
+      "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Bavarian State Painting Collections record via Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q5825709"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Sadleir: Daumier delighted “in the diverse eagerness of a crowded theatre”",
+        "url": "https://archive.org/details/daumiermanartist0000sadl"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Just as Daumier delighted in the varied personalities of a third-class carriage; in the diverse eagerness of a crowded theatre ; in a group of strolling players ; in persons watching fire-works",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Their scope is almost that of the human comedy; … studies of the stage and of the studios, portraits of judges and barristers",
+        "lead": "Cary, on the range of Daumier’s subjects:",
+        "source": {
+          "author": "Elisabeth Luther Cary",
+          "title": "Honoré Daumier: A Collection of His Social and Political Caricatures, with an Introductory Essay on His Art",
+          "publisher": "G. P. Putnam’s Sons (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/bwb_P9-CDN-336",
+          "readAt": "https://archive.org/stream/bwb_P9-CDN-336/bwb_P9-CDN-336_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Like Rembrandt he dips his figures, which he saw in barbaric sharpness of contour, into an atmosphere of humanity, where mockery falls away, and we note only the deep breathing of a great soul.",
+        "lead": "Julius Meier-Graefe, in 1904 (English 1908):",
+        "source": {
+          "author": "Julius Meier-Graefe",
+          "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+          "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/modernartbeingco01meieuoft",
+          "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Although he occasionally exhibited at the Parisian Salon, his paintings were largely overlooked and ignored by the French public and critics of the day.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Honoré Daumier",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Daumier, who was on the free list of the theatre, gave the enormous porter leave to make use of his name whenever he wished to see a performance.",
+        "lead": "Sadleir, retelling a story from Théodore de Banville’s Souvenirs about Daumier’s concierge:",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

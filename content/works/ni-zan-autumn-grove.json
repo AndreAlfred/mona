@@ -1,0 +1,147 @@
+{
+  "id": "ni-zan-autumn-grove",
+  "artist": "ni-zan",
+  "title": "Enjoying the Wilderness in an Autumn Grove",
+  "date": "1339",
+  "year": 1339,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1989.363.38)",
+    "url": "https://www.metmuseum.org/art/collection/search/45635"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Ni_Zan_-_Enjoying_the_Wilderness_in_an_Autumn_Grove_-_1989.363.38_-_Metropolitan_Museum_of_Art.jpg/1280px-Ni_Zan_-_Enjoying_the_Wilderness_in_an_Autumn_Grove_-_1989.363.38_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Ni_Zan_-_Enjoying_the_Wilderness_in_an_Autumn_Grove_-_1989.363.38_-_Metropolitan_Museum_of_Art.jpg/2560px-Ni_Zan_-_Enjoying_the_Wilderness_in_an_Autumn_Grove_-_1989.363.38_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1696,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Ni Zan - Enjoying the Wilderness in an Autumn Grove - 1989.363.38 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78845541"
+  },
+  "phase": {
+    "label": "Early work, before 1345",
+    "source": {
+      "label": "Wikipedia: “Ni Zan’s earlier paintings, such as Enjoying the Wilderness in an Autumn Grove (1339)”",
+      "url": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Wikipedia: “Ni Zan’s landscapes after 1345 all take very much the same form”",
+        "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Commons: 元 倪瓚 秋林野興圖 軸 (軸, hanging scroll), Metropolitan Museum of Art",
+        "url": "https://commons.wikimedia.org/wiki/File:元_倪瓚_秋林野興圖_軸-Enjoying_the_Wilderness_in_an_Autumn_Grove_MET_DT6289.jpg"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Wikipedia: individual expression and the rejection of realistic detail “are major themes in late Yuan dynasty literati painting”",
+        "url": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The composition and brushwork of Six Gentlemen are simpler compared to Ni Zan’s earlier paintings, such as Enjoying the Wilderness in an Autumn Grove (1339) and Water and Bamboo Dwelling (1343), which had been influenced by the styles of Dong Yuan and Zhao Mengfu.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Six Gentlemen (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Six_Gentlemen_(painting)",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "From delicate and small-scale compositions in the 1350s and [earlier], Ni moved toward larger images that about 1360 settled into a pattern.",
+        "source": {
+          "author": "Richard M. Barnhart",
+          "title": "Along the Border of Heaven: Sung and Yüan Paintings from the C. C. Wang Family Collection",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1983",
+          "url": "https://archive.org/details/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection",
+          "readAt": "https://archive.org/stream/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection/AlongtheBorderofHeavenSungandYuanPaintingsfromtheCCWangCollection_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Everyone of them is of his own class and quite different, but I admire them all and have no criticism to offer. I do not know anybody who would be their superior",
+        "lead": "Ni Zan on the older Yuan landscape masters, Zhao Mengfu and Huang Gongwang among them:",
+        "source": {
+          "author": "Ni Zan (Ni Tsan)",
+          "title": "Ch’ing Pi Ko I Kao, translated in Osvald Sirén, A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "14th century (trans. 1933)",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "All these landscape painters were in later times classified as of the “Southern School”. They were said to continue the traditions of Tung Yuan, [Chü-jan], and Mi Fei, but the connection is more a matter of technical methods than of aesthetic ideals",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Ni Zan was born into an elite family who could afford the cost of a rigorous Confucian education for him in spite of the unavailability of high-paying governmental jobs that traditionally were the reward for such an education.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ni Zan",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ni_Zan",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Born to wealth and good position, he cared nothing for the pleasures of social life and preferred to wander alone in the hills, conversing with priests and recluses.",
+        "source": {
+          "author": "John C. Ferguson",
+          "title": "Chinese Painting",
+          "publisher": "University of Chicago Press (Internet Archive scan)",
+          "year": "1927",
+          "url": "https://archive.org/details/chinesepainting0000john",
+          "readAt": "https://archive.org/stream/chinesepainting0000john/chinesepainting0000john_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

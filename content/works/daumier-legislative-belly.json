@@ -1,0 +1,164 @@
+{
+  "id": "daumier-legislative-belly",
+  "artist": "honore-daumier",
+  "title": "The Legislative Belly",
+  "date": "1834",
+  "year": 1834,
+  "medium": "lithograph",
+  "dimensions": "Sheet: 36.2 x 55.7 cm (14 1/4 x 21 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1923.206"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1923.206/1923.206_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1923.206/1923.206_print.jpg",
+    "width": 900,
+    "height": 666,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Charles W. Harkness Endowment Fund"
+  },
+  "archive": {
+    "cma": 104977
+  },
+  "phase": {
+    "label": "La Caricature years, 1830–35",
+    "source": {
+      "label": "Sadleir: “from 1830 to 1835 Daumier contributed ceaselessly to “La Caricature””",
+      "url": "https://archive.org/details/daumiermanartist0000sadl"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "CMA record: lithograph",
+        "url": "https://clevelandart.org/art/1923.206"
+      }
+    },
+    {
+      "id": "caricature",
+      "source": {
+        "label": "Cary: “Le Ventre Legislatif … seems to summarise Daumier’s achievement in that divination of character”",
+        "url": "https://archive.org/details/bwb_P9-CDN-336"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In the caricatures of this period much of the effect is due to the masterly psychological portraiture which interprets … the inner qualities and moral features of the subject, precisely as the outer features are modelled with a terrible truth far more to be feared than the grossest exaggeration.",
+          "source": {
+            "author": "Elisabeth Luther Cary",
+            "title": "Honoré Daumier: A Collection of His Social and Political Caricatures, with an Introductory Essay on His Art",
+            "publisher": "G. P. Putnam’s Sons (Internet Archive scan)",
+            "year": "1907",
+            "url": "https://archive.org/details/bwb_P9-CDN-336",
+            "readAt": "https://archive.org/stream/bwb_P9-CDN-336/bwb_P9-CDN-336_djvu.txt",
+            "accessed": "2026-11-21",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "Wikipedia: Daumier “satirized and lampooned the monarchy … politicians”",
+        "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Another of the set is the famous one entitled Le Ventre Legislatif, in which thirty-five of the ministers and deputies of the Centre of 1834 are represented. It is a composition that seems to summarise Daumier’s achievement in that divination of character",
+        "source": {
+          "author": "Elisabeth Luther Cary",
+          "title": "Honoré Daumier: A Collection of His Social and Political Caricatures, with an Introductory Essay on His Art",
+          "publisher": "G. P. Putnam’s Sons (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/bwb_P9-CDN-336",
+          "readAt": "https://archive.org/stream/bwb_P9-CDN-336/bwb_P9-CDN-336_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He used to make little images, in clay and in wax (many of them still exist), of the persons he was in the habit of representing, so that they might constantly seem to be \"sitting\" for him.",
+        "lead": "Henry James, in 1893:",
+        "source": {
+          "author": "Henry James",
+          "title": "Daumier, Caricaturist, in Picture and Text",
+          "publisher": "Harper & Brothers (Project Gutenberg text, Internet Archive)",
+          "year": "1893",
+          "url": "https://www.gutenberg.org/ebooks/25767",
+          "readAt": "https://archive.org/stream/pictureandtext25767gut/25767.txt",
+          "accessed": "2026-11-21",
+          "tier": 3
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This print was published as plate 18 from The Monthly Association (l’Association Mensuelle pour la Liberté de la Presse), a special edition of La Caricature.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Legislative Belly",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1923.206",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/104977",
+          "accessed": "2026-11-21",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "They were largely driven by the idea that the 1830 Revolution which brought Louis Philippe I to power, was largely fought and won by the workers, but had been commandeered by the ruling class and bourgeoisie for their own gains and benefits, who in turn were favored by the king.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Honoré Daumier",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was brought to court in February 1832 and charged with \"inciting to hatred and contempt of the government and insulting the king\" and sentenced to six months imprisonment with a fine of 500 francs.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Honoré Daumier",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I am forced to write to you because I can not go to see you because I am detained at Ste. Pelagie by a slight indisposition … do not talk to me about politics because the letters are opened.",
+        "lead": "Daumier, writing from Sainte-Pélagie prison in October 1832:",
+        "source": {
+          "author": "Honoré Daumier",
+          "title": "Letter to Jeanron from Sainte-Pélagie prison, 9 October 1832 (as quoted on Wikiquote)",
+          "year": "1832",
+          "readAt": "https://en.wikiquote.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

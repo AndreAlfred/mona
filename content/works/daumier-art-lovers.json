@@ -1,0 +1,149 @@
+{
+  "id": "daumier-art-lovers",
+  "artist": "honore-daumier",
+  "title": "Art Lovers",
+  "date": "c. 1863",
+  "year": 1858,
+  "medium": "Gray and black wash, charcoal, and graphite, with watercolor, on cream laid paper",
+  "dimensions": "Sheet: 26.2 x 19.4 cm (10 5/16 x 7 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1927.208"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1927.208/1927.208_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1927.208/1927.208_print.jpg",
+    "width": 667,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 109042
+  },
+  "phase": {
+    "label": "Years of poverty, 1860–64",
+    "source": {
+      "label": "Sadleir: the years from 1860 to 1864 saw Daumier in bitter poverty",
+      "url": "https://archive.org/details/daumiermanartist0000sadl"
+    }
+  },
+  "tags": [
+    {
+      "id": "drawing",
+      "source": {
+        "label": "CMA record: gray and black wash, charcoal, and graphite",
+        "url": "https://clevelandart.org/art/1927.208"
+      }
+    },
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "CMA record: with watercolor, on cream laid paper",
+        "url": "https://clevelandart.org/art/1927.208"
+      }
+    },
+    {
+      "id": "charcoal",
+      "source": {
+        "label": "CMA record: charcoal",
+        "url": "https://clevelandart.org/art/1927.208"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The sheet belongs to a series in which the artist depicted these connoisseurs in the process of closely studying works of art. Although here, the men's focus seems sincere, in many works Daumier caricatured his subjects' greediness, smugness, or obliviousness.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Art Lovers",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1927.208",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/109042",
+          "accessed": "2026-11-21",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Do they not rather manifest the aesthetic interest in demeanour of an artist … sensitive to facial expression, and the notations by a shrewd and humorous draughtsman of phenomena frequently seen and keenly observed ?",
+        "lead": "Michael Sadleir, on Daumier’s connoisseurs:",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The air of good nature that softens the most caustic of his comments upon the world without drops as he enters his own domain. He unveils with a quite ferocious glee the pretentiousness of ignorant amateurs and casual buyers",
+        "source": {
+          "author": "Elisabeth Luther Cary",
+          "title": "Honoré Daumier: A Collection of His Social and Political Caricatures, with an Introductory Essay on His Art",
+          "publisher": "G. P. Putnam’s Sons (Internet Archive scan)",
+          "year": "1907",
+          "url": "https://archive.org/details/bwb_P9-CDN-336",
+          "readAt": "https://archive.org/stream/bwb_P9-CDN-336/bwb_P9-CDN-336_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Delacroix thought enough of Daumier's drawings to make copies of them to study.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Honoré Daumier",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As his desire to paint intensified, his enthusiasm for cartooning declined, as did his popularity with the public. Le Charivari stopped publishing his comics in 1860. A period of financial hardship followed",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Honoré Daumier",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "he found material upon which to exercise his mastery of varied physiognomy among the lawyers that thronged the steps and corridors of the Palais de Justice ; in the amateurs of art who searched the print-shops or sat in quiet satisfaction among their treasures.",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

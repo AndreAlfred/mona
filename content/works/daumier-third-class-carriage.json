@@ -1,0 +1,177 @@
+{
+  "id": "daumier-third-class-carriage",
+  "artist": "honore-daumier",
+  "title": "The Third-Class Carriage (Le Wagon de troisième classe)",
+  "date": "c. 1862–64",
+  "year": 1862,
+  "medium": "oil paint on canvas",
+  "dimensions": "65.4 × 90.2 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (29.100.129)",
+    "url": "https://www.metmuseum.org/art/collection/search/436095"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Honor%C3%A9_Daumier_%28French%2C_Marseilles_1808%E2%80%931879_Valmondois%29_-_The_Third-Class_Carriage_-_Google_Art_Project.jpg/1280px-Honor%C3%A9_Daumier_%28French%2C_Marseilles_1808%E2%80%931879_Valmondois%29_-_The_Third-Class_Carriage_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Honor%C3%A9_Daumier_%28French%2C_Marseilles_1808%E2%80%931879_Valmondois%29_-_The_Third-Class_Carriage_-_Google_Art_Project.jpg/2560px-Honor%C3%A9_Daumier_%28French%2C_Marseilles_1808%E2%80%931879_Valmondois%29_-_The_Third-Class_Carriage_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 868,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Honoré Daumier (French, Marseilles 1808–1879 Valmondois) - The Third-Class Carriage - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q3228340"
+  },
+  "phase": {
+    "label": "Years of poverty, 1860–64",
+    "source": {
+      "label": "Sadleir: the years from 1860 to 1864 saw Daumier in bitter poverty",
+      "url": "https://archive.org/details/daumiermanartist0000sadl"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “One oil-on-canvas version … is in the collection of the Metropolitan Museum of Art”",
+        "url": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage"
+      }
+    },
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: “In a realistic manner, Daumier depicts the poverty and fortitude of working-class travellers”",
+        "url": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Thus was the famous Realism born, of which the nineteenth century is so proud, and it is well to remember that it never became greater than its father had made it.",
+          "lead": "Julius Meier-Graefe, on the Third-Class Carriage:",
+          "source": {
+            "author": "Julius Meier-Graefe",
+            "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+            "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+            "year": "1908",
+            "url": "https://archive.org/details/modernartbeingco01meieuoft",
+            "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+            "accessed": "2026-11-21",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: Daumier’s “interest … in the lives of working-class Parisians”",
+        "url": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "One oil-on-canvas version, dated to c. 1862–1864 but left unfinished, is in the collection of the Metropolitan Museum of Art in New York",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third-Class Carriage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is still squared for transfer, possibly from the Walters watercolor or another earlier work, with areas outlined in black.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third-Class Carriage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The figures sit there as if cast in a mould, clumsy creatures such as Leibl showed us later, but simpler, more vigourous, and marked by an intense reality that the Gallic race has never achieved before or since.",
+        "source": {
+          "author": "Julius Meier-Graefe",
+          "title": "Modern Art: Being a Contribution to a New System of Aesthetics, vol. 1",
+          "publisher": "translated by Florence Simmonds and George W. Chrystal, William Heinemann (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/modernartbeingco01meieuoft",
+          "readAt": "https://archive.org/stream/modernartbeingco01meieuoft/modernartbeingco01meieuoft_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Daumier highlighted socioeconomic distinctions in the newly modernized urban environment in a group of paintings executed around 1864 that illustrate the experience of modern rail travel in first-, second-, and third-class train compartments.",
+        "source": {
+          "author": "Ross Finocchio",
+          "title": "Nineteenth-Century French Realism, Heilbrunn Timeline of Art History (as quoted on Wikiquote)",
+          "publisher": "The Metropolitan Museum of Art",
+          "year": "2004",
+          "readAt": "https://en.wikiquote.org/wiki/Honor%C3%A9_Daumier",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Third-class railway carriages were cramped, dirty, open compartments with hard wooden benches, filled with those who could not afford second- or first-class tickets.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third-Class Carriage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In a realistic manner, Daumier depicts the poverty and fortitude of working-class travellers in a third-class railway carriage.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Third-Class Carriage",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Third-Class_Carriage",
+          "accessed": "2026-11-21",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He was in bitter fact forced to rely on oil and water-colour for his subsistence.",
+        "lead": "Michael Sadleir, on the years after Le Charivari dropped him:",
+        "source": {
+          "author": "Michael Sadleir",
+          "title": "Daumier: The Man and the Artist",
+          "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+          "year": "1924",
+          "url": "https://archive.org/details/daumiermanartist0000sadl",
+          "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+          "accessed": "2026-11-21",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}

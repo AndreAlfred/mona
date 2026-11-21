@@ -1,0 +1,112 @@
+{
+  "id": "honore-daumier",
+  "name": "Honoré Daumier",
+  "born": 1808,
+  "died": 1879,
+  "active": "c. 1828–1879",
+  "nationality": "French",
+  "period": "romantic",
+  "movements": [
+    {
+      "id": "realism",
+      "source": {
+        "label": "Wikipedia: “Daumier was a serious painter, loosely associated with realism”",
+        "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+      }
+    },
+    {
+      "id": "caricature",
+      "source": {
+        "label": "Wikipedia: “He earned a living producing caricatures and cartoons in newspapers and periodicals”",
+        "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "eugene-delacroix",
+      "name": "Eugène Delacroix",
+      "source": {
+        "label": "Wikipedia: “Delacroix thought enough of Daumier's drawings to make copies of them to study”",
+        "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+      }
+    },
+    {
+      "id": "jean-baptiste-camille-corot",
+      "name": "Camille Corot",
+      "source": {
+        "label": "Sadleir: Corot bought the Valmondois cottage and gave it to Daumier",
+        "url": "https://archive.org/details/daumiermanartist0000sadl"
+      }
+    },
+    {
+      "id": "jean-francois-millet",
+      "name": "Jean-François Millet",
+      "source": {
+        "label": "Wikipedia: Daumier on friendly terms with Corot, Courbet, Delacroix, Millet and Rousseau",
+        "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier"
+      }
+    },
+    {
+      "id": "paul-gavarni",
+      "name": "Paul Gavarni",
+      "source": {
+        "label": "Henry James sets Daumier beside Gavarni in “Daumier, Caricaturist”",
+        "url": "https://www.gutenberg.org/ebooks/25767"
+      }
+    }
+  ],
+  "wikidata": "Q187506",
+  "archive": {
+    "cma": [
+      1638
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "For the last thirty years of his life he worked in secret melancholy at the pictures and drawings that were his real self — those very pictures and drawings that now are prized beyond the whole range of his satirical and comic work.",
+      "lead": "Michael Sadleir, in 1924:",
+      "source": {
+        "author": "Michael Sadleir",
+        "title": "Daumier: The Man and the Artist",
+        "publisher": "Halton & Truscott Smith (Internet Archive scan)",
+        "year": "1924",
+        "url": "https://archive.org/details/daumiermanartist0000sadl",
+        "readAt": "https://archive.org/stream/daumiermanartist0000sadl/daumiermanartist0000sadl_djvu.txt",
+        "accessed": "2026-11-21",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "[Daumier’s] drawing is fluent and easy; it is a continuous improvisation. He has a wonderful, almost super-human memory, from which he works as from a model.",
+      "lead": "Charles Baudelaire, his friend and neighbour on the Île Saint-Louis:",
+      "source": {
+        "author": "Charles Baudelaire",
+        "title": "Curiosités esthétiques (1868), trans. Helen Chisholm in Henri Frantz, Daumier (The Studio, 1904), as quoted on Wikiquote",
+        "year": "1868",
+        "readAt": "https://en.wikiquote.org/wiki/Honor%C3%A9_Daumier",
+        "accessed": "2026-11-21",
+        "tier": 3
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He earned a living producing caricatures and cartoons in newspapers and periodicals such as La Caricature and Le Charivari, for which he became well known in his lifetime and is still remembered today.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Honoré Daumier",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+        "accessed": "2026-11-21",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-21",
+    "by": "claude-routine"
+  }
+}
