@@ -1,0 +1,155 @@
+{
+  "id": "bada-shanren-flower-studies",
+  "artist": "bada-shanren",
+  "title": "Flower Studies (傳綮寫生冊)",
+  "date": "1659",
+  "year": 1659,
+  "medium": "Album of fifteen leaves; ink on paper",
+  "dimensions": "24.6 × 31.5 cm",
+  "museum": {
+    "name": "National Palace Museum",
+    "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/4734?dep=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E6%B8%85%E5%82%B3%E7%B6%AE%E5%AF%AB%E7%94%9F_%E5%86%8A.jpg/1280px-%E6%B8%85%E5%82%B3%E7%B6%AE%E5%AF%AB%E7%94%9F_%E5%86%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 898,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (清傳綮寫生 冊.jpg)"
+  },
+  "archive": {
+    "wd": "Q140546051"
+  },
+  "phase": {
+    "label": "Monk-painter years, 1659–78",
+    "source": {
+      "label": "Wikipedia: “Early works (1659–1678)”",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    }
+  },
+  "tags": [
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Wikipedia: “He painted according to the literati tradition”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Bada Shanren's earliest extant paintings were produced during his years in the Buddhist monastery where he practiced painting as a hobby. He painted according to the literati tradition, studying the styles of past painters like Shen Zhou and Xu Wei.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Bada Shanren",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "National Palace Museum record (via Commons): fifteen leaves of ink painting (水墨畫)",
+        "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E5%82%B3%E7%B6%AE%E5%AF%AB%E7%94%9F_%E5%86%8A.jpg"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Only eleven of Bada's surviving works were produced during his years in the Buddhist temple. These include the Flower Studies album, the Vegetable and Fruits handscroll, the Lotus album, and the Ink Flowers handscroll.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In most of his early works, his subjects were only partially represented at opposite corners of the canvas, the majority of which he left empty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Heavily permeated with Chan connotations … Bada's inscriptions in this work are puzzling.",
+        "lead": "Joseph Chang, curator at the Freer Gallery, on this album:",
+        "source": {
+          "author": "Joseph Chang",
+          "title": "The Life and Painting of Bada Shanren, in In Pursuit of Heavenly Harmony: Paintings and Calligraphy by Bada Shanren",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2003",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1644, on the 19th day of the third lunar-month (April 25), the last Ming emperor committed suicide when a rebellious peasant army sacked the capital, Beijing.",
+        "source": {
+          "author": "Joseph Chang",
+          "title": "The Life and Painting of Bada Shanren, in In Pursuit of Heavenly Harmony: Paintings and Calligraphy by Bada Shanren",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2003",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1645, he joined the monastic order at the age of nineteen. He spent about thirty years in the monkhood, studying the teachings of Chan Buddhism and the styles of past masters of calligraphy and painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "From 1653 to 1680, during his time as a Buddhist monk, he most often used his Buddhist name Chuanqi and style name Geshan",
+        "lead": "The album’s Chinese title names its painter as Chuanqi:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

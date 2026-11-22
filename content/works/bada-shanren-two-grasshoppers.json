@@ -1,0 +1,122 @@
+{
+  "id": "bada-shanren-two-grasshoppers",
+  "artist": "bada-shanren",
+  "title": "Two Grasshoppers on Lotus Leaves",
+  "date": "c. 1681",
+  "year": 1681,
+  "museum": {
+    "name": "Princeton Art Museum (y1963-39 f)",
+    "url": "https://artmuseum.princeton.edu/collections/objects/29102"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Zhu_Da_%E6%9C%B1%E8%80%B7_-_Two_Grasshoppers_on_Lotus_Leaves_-_y1963-39_f_-_Princeton_University_Art_Museum.jpg/1280px-Zhu_Da_%E6%9C%B1%E8%80%B7_-_Two_Grasshoppers_on_Lotus_Leaves_-_y1963-39_f_-_Princeton_University_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1194,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Zhu Da 朱耷 - Two Grasshoppers on Lotus Leaves - y1963-39 f - Princeton University Art Museum.jpg)"
+  },
+  "archive": {
+    "wd": "Q106768293"
+  },
+  "phase": {
+    "label": "Leaving the monastery, 1680–84",
+    "source": {
+      "label": "Wikipedia: “From 1681 to 1684, Bada treated painting as an outlet for his emotions”",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: from 1681 to 1684 “He expanded his repertoire of subjects to include animals … in addition to flowers and vegetables”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Bada used ink and brush on paper to render his paintings”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "From 1681 to 1684, Bada treated painting as an outlet for his emotions, particularly his dissatisfaction with his second marriage. He expanded his repertoire of subjects to include animals like birds and fish in addition to flowers and vegetables.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "After leaving the priesthood, from 1680 to 1684, he invented new names while keeping the name Geshan. Most of his new names contained the word lu, meaning donkey, a condescending descriptor for a Buddhist monk.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "During this time, Bada also showed signs of eccentric behavior. Many believed he was feigning madness to eschew political involvement.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Whatever the case, the marriage was short-lived, and more specific messages about it were expressed through the writings on his paintings and works of calligraphy between late 1682 and 1684.",
+        "source": {
+          "author": "Joseph Chang",
+          "title": "The Life and Painting of Bada Shanren, in In Pursuit of Heavenly Harmony: Paintings and Calligraphy by Bada Shanren",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2003",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Bada's work during the 1680s were imbued with personal emotions and political sentiments. His animal subjects often wore human-like expressions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

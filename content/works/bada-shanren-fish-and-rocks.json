@@ -1,0 +1,135 @@
+{
+  "id": "bada-shanren-fish-and-rocks",
+  "artist": "bada-shanren",
+  "title": "Fish and Rocks",
+  "date": "mid- to late 1600s",
+  "year": 1650,
+  "medium": "Handscroll; ink on paper",
+  "dimensions": "Painting: 29.6 x 158.4 cm (11 5/8 x 62 3/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1953.247"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1953.247/1953.247_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1953.247/1953.247_print.jpg",
+    "width": 900,
+    "height": 118,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 130497
+  },
+  "phase": {
+    "label": "Secular years in Nanchang, after 1680",
+    "ai": true
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Cleveland Museum of Art record: handscroll; ink on paper",
+        "url": "https://clevelandart.org/art/1953.247"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: handscroll; ink on paper",
+        "url": "https://clevelandart.org/art/1953.247"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "What sensuous quality exists is to the Chinese one of the most sensuous of all qualities, the brush stroke.",
+          "source": {
+            "author": "Sherman E. Lee",
+            "title": "Chinese Landscape Painting",
+            "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+            "year": "1954",
+            "url": "https://archive.org/details/ChineseLandscape",
+            "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+            "accessed": "2026-11-22",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Cleveland Museum of Art Bulletin, 1954: “Chu Ta, a revolutionary individualist painter of the seventeenth century”",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-06_41_6"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Bada Shanren, also called Zhu Da, a 17th-century painter who rejected conventions in favor of an individual, personal expression, is known for his unorthodox compositions of fish, flowers, birds, and rocks. Fish in his paintings are often looking upward toward heaven, swimming in a pond of undefined space.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Fish and Rocks",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1953.247",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/130497",
+          "accessed": "2026-11-22",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "From 1690 to 1694, he shifted his attention to fish, which he often depicted alone at the center of an empty composition.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The third painting, a hand scroll of “Fish, Rocks, and Lotus,” is by Chu Ta, a revolutionary individualist painter of the seventeenth century whose sense of humor still cannot hide his sensitive and expressive brush-stroke.",
+        "lead": "Cleveland’s director, reporting the scroll’s purchase in 1953:",
+        "source": {
+          "author": "William M. Milliken",
+          "title": "Report of the Director for the Year 1953",
+          "publisher": "The Bulletin of the Cleveland Museum of Art 41, no. 6 (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1954-06_41_6",
+          "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1954-06_41_6/sim_bulletin-of-the-cleveland-museum-of-art_1954-06_41_6_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As a member of the Ming imperial family, Zhu Da lost his princely status and hid in a monastery when the Manchus, foreigners from the north, established the Qing dynasty in 1644. This scroll may have some autobiographical meaning, representing fish as leftover subjects (yimin) who lived in a void, having lost their roles in life after the fall of the dynasty.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Fish and Rocks",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1953.247",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/130497",
+          "accessed": "2026-11-22",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

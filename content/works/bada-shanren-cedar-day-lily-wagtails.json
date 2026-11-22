@@ -1,0 +1,128 @@
+{
+  "id": "bada-shanren-cedar-day-lily-wagtails",
+  "artist": "bada-shanren",
+  "title": "Cedar Tree, Day Lily, and Wagtails",
+  "date": "1700",
+  "year": 1700,
+  "dimensions": "1737 × 926 mm",
+  "museum": {
+    "name": "Freer Gallery of Art (F1998.46)",
+    "url": "https://www.wikidata.org/wiki/Q28801528"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bada_Shanren_%28Zhu_Da%29_-_Cedar_Tree%2C_Day_Lily%2C_and_Wagtails_-_Google_Art_Project.jpg/1280px-Bada_Shanren_%28Zhu_Da%29_-_Cedar_Tree%2C_Day_Lily%2C_and_Wagtails_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bada_Shanren_%28Zhu_Da%29_-_Cedar_Tree%2C_Day_Lily%2C_and_Wagtails_-_Google_Art_Project.jpg/2560px-Bada_Shanren_%28Zhu_Da%29_-_Cedar_Tree%2C_Day_Lily%2C_and_Wagtails_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2232,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Bada Shanren (Zhu Da) - Cedar Tree, Day Lily, and Wagtails - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q28801528"
+  },
+  "phase": {
+    "label": "Late hanging scrolls, 1690–1705",
+    "source": {
+      "label": "Wikipedia: “Works from 1690 to 1705”",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Freer catalogue: Cedar Tree, Day Lily, and Wagtails, 1700",
+        "url": "https://archive.org/details/inpursuitofheave00zhud"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "the day lily commonly stands for one's mother.",
+          "lead": "Stephen Allee on the plants in this scroll:",
+          "source": {
+            "author": "Stephen D. Allee",
+            "title": "Catalogue notes, in In Pursuit of Heavenly Harmony: Paintings and Calligraphy by Bada Shanren",
+            "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+            "year": "2003",
+            "url": "https://archive.org/details/inpursuitofheave00zhud",
+            "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+            "accessed": "2026-11-22",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Freer catalogue: “Hanging scroll; ink on paper, 172.1 × 92.4 cm”",
+        "url": "https://archive.org/details/inpursuitofheave00zhud"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Bada used ink and brush on paper to render his paintings”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His most characteristic works are fish, flower, bird, and rock pictures, but enough of his landscapes remain to show his originality and his greatness.",
+        "source": {
+          "author": "Sherman E. Lee",
+          "title": "Chinese Landscape Painting",
+          "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/ChineseLandscape",
+          "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Owning the largest collection of Bada Shanren's work outside of China, the Freer Gallery of Art in Washington D.C. held multiple exhibitions on Bada Shanren in the 2000s.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "To the extent that these meanings are applicable here, the painting forms a portrait …",
+        "lead": "Stephen Allee, reading the scroll as a visual rebus:",
+        "source": {
+          "author": "Stephen D. Allee",
+          "title": "Catalogue notes, in In Pursuit of Heavenly Harmony: Paintings and Calligraphy by Bada Shanren",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2003",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "In Allee’s reading the cedar stands for a father, the day lily for a mother and the wagtails for brothers: a happy family, if the rebus holds."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

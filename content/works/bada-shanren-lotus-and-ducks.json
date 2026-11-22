@@ -1,0 +1,136 @@
+{
+  "id": "bada-shanren-lotus-and-ducks",
+  "artist": "bada-shanren",
+  "title": "Lotus and Ducks",
+  "date": "c. 1696",
+  "year": 1696,
+  "medium": "ink on paper",
+  "dimensions": "185 × 95.8 cm",
+  "museum": {
+    "name": "Freer Gallery of Art (F1998.45)",
+    "url": "https://www.freersackler.si.edu/object/F1998.45/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bada_Shanren_-_Lotus_and_Ducks_-_Google_Art_Project.jpg/1280px-Bada_Shanren_-_Lotus_and_Ducks_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2200,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Bada Shanren - Lotus and Ducks - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18689537"
+  },
+  "phase": {
+    "label": "Late hanging scrolls, 1690–1705",
+    "source": {
+      "label": "Wikipedia: “Works from 1690 to 1705”",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Freer catalogue: “Lotus and Ducks … Hanging scroll; ink on paper, 184.1 × 95.5 cm”",
+        "url": "https://archive.org/details/inpursuitofheave00zhud"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "His works displayed a wide tonal range, and his brushwork was brought to the fore due to the large scale of the hanging scrolls on which he often painted.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Bada Shanren",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: he “most frequently painted myna birds, lotuses, and rocks”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Bada used ink and brush on paper to render his paintings”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He mostly painted on small album leaves in his early years and later preferred large hanging scrolls.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A genuine work of the divine category",
+        "lead": "Zhang Daqian (1899–1983), who owned the scroll, on its outside label:",
+        "source": {
+          "author": "Zhang Daqian",
+          "title": "Outside label for Bada Shanren’s Lotus and Ducks, translated in In Pursuit of Heavenly Harmony",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "20th century (trans. 2003)",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 3
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In the 20th century, copies of Bada Shanren's art were made and studied by Chinese artists such as Qi Baishi, Wu Changshi, and Zhang Daqian.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He sat cross-legged among the lotus leaves.",
+        "lead": "Wu Changshuo’s poem on the scroll (1926) remembers the painter as a monk:",
+        "source": {
+          "author": "Wu Changshuo",
+          "title": "Poem inscribed on Bada Shanren’s Lotus and Ducks (1926), translated in In Pursuit of Heavenly Harmony",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "1926 (trans. 2003)",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 3
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

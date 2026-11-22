@@ -1,0 +1,140 @@
+{
+  "id": "bada-shanren-landscape-album",
+  "artist": "bada-shanren",
+  "title": "Landscape album",
+  "date": "1699",
+  "year": 1699,
+  "dimensions": "18.7 × 23.2 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1989.363.138a–l)",
+    "url": "https://www.metmuseum.org/art/collection/search/49145"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Bada_Shanren_%28Zhu_Da%29_-_Landscape_album_-_1989.363.138a%E2%80%93l_-_Metropolitan_Museum_of_Art.jpg/1280px-Bada_Shanren_%28Zhu_Da%29_-_Landscape_album_-_1989.363.138a%E2%80%93l_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1510,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Bada Shanren (Zhu Da) - Landscape album - 1989.363.138a–l - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78827590"
+  },
+  "phase": {
+    "label": "Late landscapes, from 1693",
+    "source": {
+      "label": "Wikipedia: “Starting in 1693, landscapes became a major subject of his work”",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Commons record of the Met album: genre, landscape painting",
+        "url": "https://commons.wikimedia.org/wiki/File:Bada_Shanren_(Zhu_Da)_-_Landscape_album_-_1989.363.138a%E2%80%93l_-_Metropolitan_Museum_of_Art.jpg"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The landscapes of Pa-ta-shan-jen … seem more rational and less sensuous in general effect.",
+          "source": {
+            "author": "Sherman E. Lee",
+            "title": "Chinese Landscape Painting",
+            "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+            "year": "1954",
+            "url": "https://archive.org/details/ChineseLandscape",
+            "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+            "accessed": "2026-11-22",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Bada used ink and brush on paper to render his paintings”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Starting in 1693, landscapes became a major subject of his work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Bada devoted more of his talents toward calligraphy and landscape painting from this point on.",
+        "source": {
+          "author": "Joseph Chang",
+          "title": "The Life and Painting of Bada Shanren, in In Pursuit of Heavenly Harmony: Paintings and Calligraphy by Bada Shanren",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2003",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Bada Shanren (c. 1626–1705), Shitao (1642–1707) and Eight Eccentrics of Yangzhou are the innovative masters of ink wash painting in the late Ming and early Qing dynasties.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ink wash painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ink_wash_painting",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is evident that Bada's social activities diminished during the last years of his life.",
+        "source": {
+          "author": "Joseph Chang",
+          "title": "The Life and Painting of Bada Shanren, in In Pursuit of Heavenly Harmony: Paintings and Calligraphy by Bada Shanren",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "2003",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Many of his works from this period were dedicated to his monk friends.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}
