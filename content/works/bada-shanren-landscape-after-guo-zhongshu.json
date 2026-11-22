@@ -1,0 +1,154 @@
+{
+  "id": "bada-shanren-landscape-after-guo-zhongshu",
+  "artist": "bada-shanren",
+  "title": "Landscape after Guo Zhongshu",
+  "date": "c. 1680–1705",
+  "year": 1675,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Painting: 109.9 x 56.4 cm (43 1/4 x 22 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1955.36"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_print.jpg",
+    "width": 386,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 132908
+  },
+  "phase": {
+    "label": "Late landscapes",
+    "source": {
+      "label": "Cleveland Museum of Art: “In this late work”",
+      "url": "https://clevelandart.org/art/1955.36"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Cleveland Museum of Art: “mountain ranges are rendered in diverse and dense strokes”",
+        "url": "https://clevelandart.org/art/1955.36"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Chu has achieved monumentality in size and scale with the great twisting movement of his cliff capped by the two peaks beyond.",
+          "source": {
+            "author": "Sherman E. Lee",
+            "title": "Chinese Landscape Painting",
+            "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+            "year": "1954",
+            "url": "https://archive.org/details/ChineseLandscape",
+            "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+            "accessed": "2026-11-22",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art record: hanging scroll; ink on paper",
+        "url": "https://clevelandart.org/art/1955.36"
+      }
+    },
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Cleveland Museum of Art Bulletin, 1956: “the seventeenth-century individualist Chu Ta”",
+        "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1956-06_43_6"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In this late work, mountain ranges are rendered in diverse and dense strokes rising toward the top of the scroll. It references the artist Dong Qichang (1555–1636) in concept. Yet the cursory brushwork and composition present Zhu’s personal style.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Landscape after Guo Zhongshu",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1955.36",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/132908",
+          "accessed": "2026-11-22",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[It] is derived in some of its parts, notably the trees at the lower right, from Tung Ch'i-ch’ang. But from there on into … the picture a bolder and more accomplished hand takes over.",
+        "lead": "Sherman Lee on this landscape, 1954:",
+        "source": {
+          "author": "Sherman E. Lee",
+          "title": "Chinese Landscape Painting",
+          "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+          "year": "1954",
+          "url": "https://archive.org/details/ChineseLandscape",
+          "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This is the second work by this master to enter the collections and shows his more rational and constructivist style which he used most often in landscape subject matter.",
+        "lead": "Cleveland’s annual report on acquiring it after its 1954 exhibition:",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Annual report for 1955: Oriental Department",
+          "publisher": "The Bulletin of the Cleveland Museum of Art 43, no. 6 (Internet Archive scan)",
+          "year": "1956",
+          "url": "https://archive.org/details/sim_bulletin-of-the-cleveland-museum-of-art_1956-06_43_6",
+          "readAt": "https://archive.org/stream/sim_bulletin-of-the-cleveland-museum-of-art_1956-06_43_6/sim_bulletin-of-the-cleveland-museum-of-art_1956-06_43_6_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 4
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Similar to some calligraphers of his time, Zhu Da rejected conventions in favor of an individual, personal expression.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Landscape after Guo Zhongshu",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1955.36",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/132908",
+          "accessed": "2026-11-22",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "As a member of the Ming imperial family, Zhu lost his princely status and hid in a monastery when the Manchus, foreigners from the north, established the Qing dynasty in 1644.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Landscape after Guo Zhongshu",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1955.36",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/132908",
+          "accessed": "2026-11-22",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

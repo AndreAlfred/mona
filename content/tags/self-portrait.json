@@ -1,0 +1,35 @@
+{
+  "id": "self-portrait",
+  "kind": "subject",
+  "name": "Self-portrait",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Self-portraits are portraits artists make of themselves. Although self-portraits have been made since the earliest times, it is not until the mid-15th century that artists can be frequently identified depicting themselves, as either the main subject or important characters in their work.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Self-portrait",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Self-portrait",
+        "accessed": "2026-11-22",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Artists' self-portraits as independent works developed in the fifteenth century",
+      "source": {
+        "author": "Judith W. Mann",
+        "title": "Catalogue entry: Self-Portrait as the Allegory of Painting (La Pittura)",
+        "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "2001",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+        "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-22"
+      }
+    }
+  ],
+  "archiveTerm": "self-portrait"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "bada-shanren",
+  "name": "Bada Shanren",
+  "born": 1626,
+  "died": 1705,
+  "active": "1659–1705",
+  "nationality": "Chinese",
+  "period": "baroque",
+  "movements": [
+    {
+      "id": "individualist-painting",
+      "source": {
+        "label": "Lee: the attitudes of “these Ch’ing individualists” were “particularly true of Chu Ta”",
+        "url": "https://archive.org/details/ChineseLandscape"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Wikipedia: “He painted according to the literati tradition”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: Bada Shanren and Shitao “are the innovative masters of ink wash painting in the late Ming and early Qing dynasties”",
+        "url": "https://en.wikipedia.org/wiki/Ink_wash_painting"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "shitao",
+      "name": "Shitao",
+      "source": {
+        "label": "Wikipedia: Bada Shanren and Shitao “are the innovative masters of ink wash painting in the late Ming and early Qing dynasties”",
+        "url": "https://en.wikipedia.org/wiki/Ink_wash_painting"
+      }
+    },
+    {
+      "id": "dong-qichang",
+      "name": "Dong Qichang",
+      "source": {
+        "label": "Cleveland Museum of Art: the Landscape after Guo Zhongshu “references the artist Dong Qichang (1555–1636) in concept”",
+        "url": "https://clevelandart.org/art/1955.36"
+      }
+    },
+    {
+      "id": "shen-zhou",
+      "name": "Shen Zhou",
+      "source": {
+        "label": "Wikipedia: he painted “studying the styles of past painters like Shen Zhou and Xu Wei”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    }
+  ],
+  "wikidata": "Q198097",
+  "archive": {
+    "cma": [
+      6306
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "In writing, too, [one] must be free from fear in order to be competent",
+      "lead": "Bada Shanren, in an inscription of 1693:",
+      "source": {
+        "author": "Bada Shanren",
+        "title": "Inscription on Birds and Fish (Shanghai Museum), 1693, translated in In Pursuit of Heavenly Harmony",
+        "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+        "year": "1693 (trans. 2003)",
+        "url": "https://archive.org/details/inpursuitofheave00zhud",
+        "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+        "accessed": "2026-11-22",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He spent most of his early to mid-life in the Buddhist monkhood, returning to Nanchang when he was about fifty years old. He embarked on an artistic career soon after reentering secular life in 1680, producing works that featured his calligraphy, painting, and poetry.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Bada Shanren",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+        "accessed": "2026-11-22",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Nearly all of these men were, in one way or another, rebels in retirement, actively out of sympathy with the new Dynasty in particular and the world in general.",
+      "lead": "Sherman Lee on Bada Shanren and the other Qing individualists, 1954:",
+      "source": {
+        "author": "Sherman E. Lee",
+        "title": "Chinese Landscape Painting",
+        "publisher": "The Cleveland Museum of Art (Internet Archive scan)",
+        "year": "1954",
+        "url": "https://archive.org/details/ChineseLandscape",
+        "readAt": "https://archive.org/stream/ChineseLandscape/155242-ChineseLandscape_reduced_djvu.txt",
+        "accessed": "2026-11-22",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

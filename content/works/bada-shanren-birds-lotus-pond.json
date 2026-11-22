@@ -1,0 +1,145 @@
+{
+  "id": "bada-shanren-birds-lotus-pond",
+  "artist": "bada-shanren",
+  "title": "Birds in a lotus pond",
+  "date": "c. 1690",
+  "year": 1690,
+  "dimensions": "27.3 × 205.1 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1989.363.135)",
+    "url": "https://www.metmuseum.org/art/collection/search/49143"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bada_Shanren_%28Zhu_Da%29_-_Birds_in_a_lotus_pond_-_1989.363.135_-_Metropolitan_Museum_of_Art.jpg/1280px-Bada_Shanren_%28Zhu_Da%29_-_Birds_in_a_lotus_pond_-_1989.363.135_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bada_Shanren_%28Zhu_Da%29_-_Birds_in_a_lotus_pond_-_1989.363.135_-_Metropolitan_Museum_of_Art.jpg/2560px-Bada_Shanren_%28Zhu_Da%29_-_Birds_in_a_lotus_pond_-_1989.363.135_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 567,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Bada Shanren (Zhu Da) - Birds in a lotus pond - 1989.363.135 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78827731"
+  },
+  "phase": {
+    "label": "The Bada Shanren name, 1684–90",
+    "source": {
+      "label": "Wikipedia: “From 1684 onward, Bada settled on the name Bada Shanren”",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    }
+  },
+  "tags": [
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Commons record of the Met scroll: 27.3 × 205.1 cm",
+        "url": "https://commons.wikimedia.org/wiki/File:Bada_Shanren_(Zhu_Da)_-_Birds_in_a_lotus_pond_-_1989.363.135_-_Metropolitan_Museum_of_Art.jpg"
+      }
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: “From 1684 to 1690, Bada most frequently painted myna birds, lotuses, and rocks”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “Bada used ink and brush on paper to render his paintings”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The brushwork in Bada's paintings closely mirrored his calligraphy.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Bada Shanren",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "Through the 1680s, Bada wrote in a style reflective of a balance between controlled and exaggerated forms. By 1689, he had developed his own style.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Bada Shanren",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "From 1684 to 1690, Bada most frequently painted myna birds, lotuses, and rocks.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "From 1684 onward, Bada settled on the name Bada Shanren.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting of the early years of the dynasty included such painters as the orthodox Four Wangs and the individualists Bada Shanren and Shitao.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Qing dynasty",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Qing_dynasty",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Some of his artwork were metaphors on the fall of the Ming dynasty and its failure after being destroyed by the Qing. His poems often included obscure references.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

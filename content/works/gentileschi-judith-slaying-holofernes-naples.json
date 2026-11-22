@@ -1,0 +1,156 @@
+{
+  "id": "gentileschi-judith-slaying-holofernes-naples",
+  "artist": "artemisia-gentileschi",
+  "title": "Judith Slaying Holofernes",
+  "date": "1613",
+  "year": 1613,
+  "medium": "oil paint on canvas",
+  "dimensions": "158.8 × 125.4 cm",
+  "museum": {
+    "name": "Museo di Capodimonte (Q 378)",
+    "url": "https://www.wikidata.org/wiki/Q2247406"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1528,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Artemisia Gentileschi - Judith Beheading Holofernes - WGA8563.jpg)"
+  },
+  "archive": {
+    "wd": "Q2247406"
+  },
+  "phase": {
+    "label": "Rome, 1610–13",
+    "source": {
+      "label": "Met catalogue section: “Artemisia in Rome: 1610-13”",
+      "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "caravaggisti",
+      "source": {
+        "label": "Wikipedia: style “Caravaggisti (early)”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "During this early period of her life, Gentileschi took inspiration from her father's painting style, which had in turn been heavily influenced by the work of Caravaggio.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Artemisia Gentileschi",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenebrism",
+      "source": {
+        "label": "Mann: “the bold Caravaggesque presentation”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Mann: Judith, one of the “worthy women” of the Old Testament Apocrypha",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q2247406"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In this first attempt to present the story of Judith, Artemisia creates a composition (an inverted triangle) that underlines the struggle of the three protagonists and offers the immediacy of an observed event.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith Slaying Holofernes (Naples)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In fact, she was fascinated with this subject and six variations of Judith Beheading Holofernes by Gentileschi are known to exist.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "As Garrard, followed by Papi and Bissell, has claimed, the painting is inconceivable without the experience of the earlier treatment of the theme by Caravaggio, who also rejected the more popular moments in the narrative",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith Slaying Holofernes (Naples)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "During the trial, Gentileschi was tortured with a \"sibille\", cords wrapped around the fingers and pulled tight (similar to thumbscrews), for the purpose of verifying her testimony (a common practice at the time). As the cords tighten, she is recorded as turning to Tassi and saying: \"This is the ring that you give me and these are your promises.\"",
+        "lead": "The painting dates from the year of the 1612 trial of Agostino Tassi for her rape:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The law gauged damage to economic and social assets rather than suffering and psychological trauma.",
+        "lead": "The historian Elizabeth S. Cohen, on how the trial was framed:",
+        "source": {
+          "author": "Elizabeth S. Cohen",
+          "title": "as quoted in “Artemisia Gentileschi”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

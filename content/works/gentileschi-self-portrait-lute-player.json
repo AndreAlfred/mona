@@ -1,0 +1,142 @@
+{
+  "id": "gentileschi-self-portrait-lute-player",
+  "artist": "artemisia-gentileschi",
+  "title": "Self-Portrait as a Lute Player",
+  "date": "1616",
+  "year": 1616,
+  "medium": "oil paint on canvas",
+  "dimensions": "77.5 × 71.8 cm",
+  "museum": {
+    "name": "Wadsworth Atheneum Museum of Art (2014.4.1)",
+    "url": "https://www.wikidata.org/wiki/Q23010133"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Artemisia_Gentileschi_-_Autoritratto_come_suonatrice_di_liuto_%28ca._1615-18%29.jpg/1280px-Artemisia_Gentileschi_-_Autoritratto_come_suonatrice_di_liuto_%28ca._1615-18%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Artemisia_Gentileschi_-_Autoritratto_come_suonatrice_di_liuto_%28ca._1615-18%29.jpg/2560px-Artemisia_Gentileschi_-_Autoritratto_come_suonatrice_di_liuto_%28ca._1615-18%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1300,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Artemisia Gentileschi - Autoritratto come suonatrice di liuto (ca. 1615-18).jpg)"
+  },
+  "archive": {
+    "wd": "Q23010133"
+  },
+  "phase": {
+    "label": "Florence, 1613–20",
+    "source": {
+      "label": "Met catalogue section: “Artemisia in Florence: 1613-20”",
+      "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "self-portrait",
+      "source": {
+        "label": "Medici inventory, 1638: “the portrait of Artemisia playing a lute painted by her own hand”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Unlike other artists self-portraits of the time, Self-portrait as a Lute Player does not have direct symbolism connecting Gentileschi to being a painter, nor does it reflect her social status.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Self-Portrait as a Lute Player",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Lute_Player",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: one of many self-portrait paintings",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Lute_Player"
+      }
+    },
+    {
+      "id": "caravaggisti",
+      "source": {
+        "label": "Wikipedia: “she incorporates Caravaggesque elements of dramatic light”",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Lute_Player"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q23010133"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Unknown until it appeared at the Sotheby's London sale of July 1998, the painting has now been accepted by most scholars, and its Medici provenance establishes it as an important reference point for Artemisia's career in Florence",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Self-Portrait as a Lute Player",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Gentileschi depicts herself in the guise of a Romani musician, denoted by the headscarf and low-cut blouse; this style of entertainers would have appeared at Italian court performances.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Self-Portrait as a Lute Player",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Lute_Player",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is likely that she is presenting herself in costume, playing a role.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Self-Portrait as a Lute Player",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Self-Portrait as a Lute Player and other self-portraits of Gentileschi were painted for private collections and allowed her to express her wit and cultural knowledge.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Self-Portrait as a Lute Player",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Lute_Player",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

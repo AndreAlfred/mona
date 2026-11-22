@@ -1,0 +1,117 @@
+{
+  "id": "artemisia-gentileschi",
+  "name": "Artemisia Gentileschi",
+  "born": 1593,
+  "died": 1654,
+  "active": "1610–c. 1654",
+  "nationality": "Italian",
+  "period": "baroque",
+  "movements": [
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: “an Italian Baroque painter”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    },
+    {
+      "id": "caravaggisti",
+      "source": {
+        "label": "Wikipedia: style “Caravaggisti (early)”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    },
+    {
+      "id": "tenebrism",
+      "source": {
+        "label": "Wikipedia: “her mastery of chiaroscuro and tenebrism”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "caravaggio",
+      "name": "Caravaggio",
+      "source": {
+        "label": "Wikipedia: “initially working in the style of Caravaggio”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    },
+    {
+      "id": "guercino",
+      "name": "Guercino",
+      "source": {
+        "label": "Wikipedia: her 1622 Susanna “associated with the style introduced by Guercino”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    },
+    {
+      "id": "guido-reni",
+      "name": "Guido Reni",
+      "source": {
+        "label": "Lanzi: “assisted and improved in the art by Guido Reni”",
+        "url": "https://www.gutenberg.org/ebooks/34479"
+      }
+    },
+    {
+      "id": "jusepe-de-ribera",
+      "name": "Jusepe de Ribera",
+      "source": {
+        "label": "Wikipedia: in Naples “Jusepe de Ribera, Massimo Stanzione, and Domenichino were working there”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    }
+  ],
+  "wikidata": "Q212657",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "You will find the spirit of Caesar in this soul of a woman.",
+      "lead": "Writing in 1649 to her Sicilian patron, Don Antonio Ruffo:",
+      "source": {
+        "author": "Artemisia Gentileschi",
+        "title": "Letter to Don Antonio Ruffo, 13 November 1649 (translated in Elizabeth Cropper, “Life on the Edge”)",
+        "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1649 (trans. 2001)",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+        "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+        "tier": 1,
+        "accessed": "2026-11-22"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Artemisia Gentileschi was not merely successful. She was famous. The first woman to enter the Accademia del Disegno in Florence, in 1614, Artemisia enjoyed Medici patronage",
+      "source": {
+        "author": "Elizabeth Cropper",
+        "title": "Life on the Edge: Artemisia Gentileschi, Famous Woman Painter",
+        "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "2001",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+        "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-22"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Artemisia, however, was more celebrated for her portraits, which are of singular merit; they spread her fame over all Europe, and in them she surpassed her father.",
+      "lead": "Luigi Lanzi, in his history of Italian painting (1790s):",
+      "source": {
+        "author": "Luigi Lanzi",
+        "title": "The History of Painting in Italy, vol. 1 (trans. Thomas Roscoe)",
+        "publisher": "Project Gutenberg (Internet Archive mirror)",
+        "year": "1795–96 (trans. 1847)",
+        "url": "https://www.gutenberg.org/ebooks/34479",
+        "readAt": "https://archive.org/stream/thehistoryofpain34479gut/34479.txt",
+        "tier": 3,
+        "accessed": "2026-11-22"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

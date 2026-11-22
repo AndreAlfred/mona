@@ -1,0 +1,147 @@
+{
+  "id": "gentileschi-judith-maidservant-pitti",
+  "artist": "artemisia-gentileschi",
+  "title": "Judith and Her Maidservant",
+  "date": "1610s",
+  "year": 1615,
+  "medium": "oil paint on canvas",
+  "dimensions": "114 × 93.5 cm",
+  "museum": {
+    "name": "Galleria Palatina (398)",
+    "url": "https://www.wikidata.org/wiki/Q532486"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gentileschi_judith1.jpg/1280px-Gentileschi_judith1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1504,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Gentileschi judith1.jpg)"
+  },
+  "archive": {
+    "wd": "Q532486"
+  },
+  "phase": {
+    "label": "Florence, 1613–20",
+    "source": {
+      "label": "Met catalogue section: “Artemisia in Florence: 1613-20”",
+      "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Wikipedia: “intense contrast between dark and light”",
+        "url": "https://en.wikipedia.org/wiki/Judith_and_her_Maidservant_(Artemisia_Gentileschi,_Florence)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The dark setting of the scene is brightened by the red and gold tones in the fabrics - colors which Gentileschi used frequently during her time in Florence.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Judith and Her Maidservant (Artemisia Gentileschi, Florence)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Judith_and_her_Maidservant_(Artemisia_Gentileschi,_Florence)",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        },
+        {
+          "kind": "quote",
+          "text": "She also uses intense contrast between dark and light to create three-dimensional volume.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Judith and Her Maidservant (Artemisia Gentileschi, Florence)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Judith_and_her_Maidservant_(Artemisia_Gentileschi,_Florence)",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: the story is taken from the Book of Judith",
+        "url": "https://en.wikipedia.org/wiki/Judith_and_her_Maidservant_(Artemisia_Gentileschi,_Florence)"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q532486"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Clearly a masterwork within Artemisia's oeuvre, this Judith and Her Maidservant is best understood as the culmination of a series of Judith paintings by both [father and daughter].",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith and Her Maidservant (Florence)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A second group of writers places it early within the period Artemisia spent in Florence, finding that the more sumptuously conceived [costume] reveals the impact of courtly taste and opulent appointments.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith and Her Maidservant (Florence)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The viewer is reminded of the violence which preceded this moment by the screaming head depicted on the pommel of the sword, thought to be a mythological figure such as Medusa.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Judith and Her Maidservant (Artemisia Gentileschi, Florence)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Judith_and_her_Maidservant_(Artemisia_Gentileschi,_Florence)",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Judith's maidservant Abra is often depicted in paintings and representations as an elderly woman, but in Gentileschi's depictions of the slaying of Holofernes, she is closer to the age of Judith.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Judith and Her Maidservant (Artemisia Gentileschi, Florence)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Judith_and_her_Maidservant_(Artemisia_Gentileschi,_Florence)",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

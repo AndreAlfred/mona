@@ -1,0 +1,126 @@
+{
+  "id": "bada-shanren-orchid-pavilion",
+  "artist": "bada-shanren",
+  "title": "After Wang Xizhi’s “Preface to the Orchid Pavilion Gathering”",
+  "date": "1694",
+  "year": 1694,
+  "museum": {
+    "name": "Metropolitan Museum of Art (1989.363.136)",
+    "url": "https://www.metmuseum.org/art/collection/search/49144"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/%E6%B8%85_%E6%9C%B1%E8%80%B7_%28%E5%85%AB%E5%A4%A7%E5%B1%B1%E4%BA%BA%29_%E5%80%A3%E7%8E%8B%E7%BE%B2%E4%B9%8B_%E8%98%AD%E4%BA%AD%E5%BA%8F_%E8%BB%B8-After_Wang_Xizhi%27s_%28303%3F-361%3F%29_%22Preface_to_the_Orchid_Pavilion_Gathering%22_MET_1989_363_136_O.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2072,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (清 朱耷 (八大山人) 倣王羲之 蘭亭序 軸-After Wang Xizhi's (303?-361?) \"Preface to the Orchid Pavilion Gathering\" MET 1989 363 136 O.jpg)"
+  },
+  "archive": {
+    "wd": "Q78827657"
+  },
+  "phase": {
+    "label": "Studying the Jin masters, 1690s",
+    "source": {
+      "label": "Wikipedia: “Starting in 1690, Bada began to study the styles of Wei and Jin calligraphers like Wang Xizhi”",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    }
+  },
+  "tags": [
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Wikipedia: “Starting in 1690, Bada began to study the styles of Wei and Jin calligraphers like Wang Xizhi”",
+        "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Starting in 1690, Bada began to study the styles of Wei and Jin calligraphers like Wang Xizhi and incorporated them in his writing. His brushstrokes became rounded and centered, deviating from his earlier characteristic sharp strokes.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Bada Shanren",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Commons record of the Met work: 軸 (hanging scroll)",
+        "url": "https://commons.wikimedia.org/wiki/File:%E6%B8%85_%E6%9C%B1%E8%80%B7_(%E5%85%AB%E5%A4%A7%E5%B1%B1%E4%BA%BA)_%E5%80%A3%E7%8E%8B%E7%BE%B2%E4%B9%8B_%E8%98%AD%E4%BA%AD%E5%BA%8F_%E8%BB%B8-After_Wang_Xizhi%27s_(303%3F-361%3F)_%22Preface_to_the_Orchid_Pavilion_Gathering%22_MET_1989_363_136_O.jpg"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Despite having established his own style, Bada remained devoted to the study of past calligraphic masters, including Wang Xizhi and the monk Huaisu, in the final years of his life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The script of the Lantingji Xu was often celebrated as the high point of the running style in the history of Chinese calligraphy.",
+        "lead": "The text he copied, Wang Xizhi’s preface of 353:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Lantingji Xu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Lantingji_Xu",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In writing, too, [one] must be free from fear in order to be competent",
+        "lead": "Bada Shanren, in an inscription of 1693:",
+        "source": {
+          "author": "Bada Shanren",
+          "title": "Inscription on Birds and Fish (Shanghai Museum), 1693, translated in In Pursuit of Heavenly Harmony",
+          "publisher": "Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution (Internet Archive scan)",
+          "year": "1693 (trans. 2003)",
+          "url": "https://archive.org/details/inpursuitofheave00zhud",
+          "readAt": "https://archive.org/stream/inpursuitofheave00zhud/inpursuitofheave00zhud_djvu.txt",
+          "accessed": "2026-11-22",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Bada's family members, including his grandfather and father, were calligraphers, whose works Bada studied from a young age.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bada Shanren",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bada_Shanren",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}
