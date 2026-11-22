@@ -1,0 +1,120 @@
+{
+  "id": "gentileschi-annunciation",
+  "artist": "artemisia-gentileschi",
+  "title": "Annunciation",
+  "date": "1630",
+  "year": 1630,
+  "medium": "oil paint on canvas",
+  "dimensions": "257 × 179 cm",
+  "museum": {
+    "name": "Museo di Capodimonte (Q 375)",
+    "url": "https://www.wikidata.org/wiki/Q29018074"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Verk%C3%BCndigung_an_maria.jpg/1280px-Verk%C3%BCndigung_an_maria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1742,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Verkündigung an maria.jpg)"
+  },
+  "archive": {
+    "wd": "Q29018074"
+  },
+  "phase": {
+    "label": "Naples, from 1630",
+    "source": {
+      "label": "Wikipedia: “In 1630, Gentileschi moved to Naples”",
+      "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Mann: “Bissell (1968) first posited that it was a church altarpiece”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Mann: “the intense light and shadow”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q29018074"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Gentileschi's Neapolitan debut is represented by the Annunciation in the Capodimonte Museum.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Its newly cleaned state may help to revise our understanding of Artemisia's Neapolitan career. She uses, to some degree, a more Caravaggesque [presentation], evident in the intense light and shadow",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Annunciation",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A number of scholars have noted (Whitfield, Gregori, Bissell 1999) that it may have been a climate more receptive to Caravaggism that led Artemisia to relocate to Naples",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Annunciation",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Artemisia left Venice to flee the plague in 1630. Her decision to go to Naples was motivated by the possibilities for patronage she saw there, given the Spanish viceroy's passion for purchasing paintings.",
+        "source": {
+          "author": "Elizabeth Cropper",
+          "title": "Life on the Edge: Artemisia Gentileschi, Famous Woman Painter",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

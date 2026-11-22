@@ -1,0 +1,123 @@
+{
+  "id": "gentileschi-esther-ahasuerus",
+  "artist": "artemisia-gentileschi",
+  "title": "Esther before Ahasuerus",
+  "date": "1629",
+  "year": 1629,
+  "medium": "oil paint on canvas",
+  "dimensions": "208.3 × 273.7 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (69.281)",
+    "url": "https://www.wikidata.org/wiki/Q3733425"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg/1280px-Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg/2560px-Gentileschi%2C_Artemisia_-_Esther_before_Ahasuerus_-_c._1628%E2%80%931635.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 915,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Gentileschi, Artemisia - Esther before Ahasuerus - c. 1628–1635.jpg)"
+  },
+  "archive": {
+    "wd": "Q3733425"
+  },
+  "phase": {
+    "label": "Venice, 1626/27–1630",
+    "source": {
+      "label": "Wikipedia: “Three years in Venice (1626/27–1630)”",
+      "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "venetian-school",
+      "source": {
+        "label": "Wikipedia: “her assimilation of the lessons of Venetian colourism”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Knowledge of her commissions during the time is vague, but her The Sleeping Venus, today in the Virginia Museum of Fine Arts, Richmond, and her Esther before Ahasuerus, now in the Metropolitan Museum of Art in New York, are testaments to her assimilation of the lessons of Venetian colourism.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Artemisia Gentileschi",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Mann: the story of Esther",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3733425"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Artemisia did not base her Ahasuerus on the Venetian prototype but created an absolutely [original] king, something of a dandy with a youthful swagger.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Esther Before Ahasuerus",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In Venice in 1627-28, Artemisia was the subject of several literary tributes from academic writers.",
+        "source": {
+          "author": "Elizabeth Cropper",
+          "title": "Life on the Edge: Artemisia Gentileschi, Famous Woman Painter",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In designing the figures of Esther and Ahasuerus, the artist selected poses that suggest imminent change — Esther will fall and Ahasuerus will rise.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Esther Before Ahasuerus",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

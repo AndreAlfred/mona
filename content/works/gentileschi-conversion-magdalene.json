@@ -1,0 +1,106 @@
+{
+  "id": "gentileschi-conversion-magdalene",
+  "artist": "artemisia-gentileschi",
+  "title": "Conversion of the Magdalene",
+  "date": "1616",
+  "year": 1616,
+  "medium": "oil paint on canvas",
+  "dimensions": "146.5 × 108 cm",
+  "museum": {
+    "name": "Galleria Palatina (142)",
+    "url": "https://www.wikidata.org/wiki/Q3689716"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1614,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Artemisia Gentileschi Mary Magdalene Pitti.jpg)"
+  },
+  "archive": {
+    "wd": "Q3689716"
+  },
+  "phase": {
+    "label": "Florence, 1613–20",
+    "source": {
+      "label": "Met catalogue section: “Artemisia in Florence: 1613-20”",
+      "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Mann: scenes “from the saint's life”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "baroque",
+      "source": {
+        "label": "Wikipedia: “an Italian Baroque painter”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3689716"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Artemisia's dazzling technique in her treatment of the gold drapery makes the Magdalene one of the high points of her [Florentine] years.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Conversion of the Magdalene",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Counter-Reformation theology championed the repentant saint, and Mary Magdalene's dramatic rejection of a life of sensual vanity exemplified the virtue of penitence.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Conversion of the Magdalene",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Her involvement in the courtly culture of Florence not only provided access to patrons, but it widened her education and exposure to the arts. She learned to read and write and became familiar with musical and theatrical performances.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

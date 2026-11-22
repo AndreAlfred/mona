@@ -1,0 +1,133 @@
+{
+  "id": "gentileschi-susanna-elders",
+  "artist": "artemisia-gentileschi",
+  "title": "Susanna and the Elders",
+  "date": "1610",
+  "year": 1610,
+  "medium": "oil paint on canvas",
+  "dimensions": "170 × 121 cm",
+  "museum": {
+    "name": "Schloss Weißenstein (191)",
+    "url": "https://www.wikidata.org/wiki/Q3978274"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Susanna_and_the_Elders_%281610%29%2C_Artemisia_GentileschiFXD.jpg/1280px-Susanna_and_the_Elders_%281610%29%2C_Artemisia_GentileschiFXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Susanna_and_the_Elders_%281610%29%2C_Artemisia_GentileschiFXD.jpg/2560px-Susanna_and_the_Elders_%281610%29%2C_Artemisia_GentileschiFXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1705,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Susanna and the Elders (1610), Artemisia GentileschiFXD.jpg)"
+  },
+  "archive": {
+    "wd": "Q3978274"
+  },
+  "phase": {
+    "label": "Rome, 1610–13",
+    "source": {
+      "label": "Met catalogue section: “Artemisia in Rome: 1610-13”",
+      "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "caravaggisti",
+      "source": {
+        "label": "Wikipedia: style “Caravaggisti (early)”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Mann: “The story of Susanna in the Apocrypha”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3978274"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Her earliest surviving work, completed aged 17, is Susanna and the Elders (1610, Schönborn collection in Pommersfelden).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This superb painting must serve as the touchstone for understanding Artemisia's early development, her artistic relationship with her father",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Susanna and the Elders",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting shows how Gentileschi assimilated the realism of and effects used by Caravaggio without being indifferent to the classicism of Annibale Carracci and the Bolognese School of Baroque style.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "By spreading the two elders across the top of the fountain wall and depicting them as dark elements literally on top of the pale, nearly nude Susanna, the artist enables the viewer to empathize with the terrible plight of the defenseless woman.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Susanna and the Elders",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Garrard has also examined how Gentileschi’s early painting Susanna and the Elders has been interpreted as offering a distinct perspective on female vulnerability and resistance when compared to earlier depictions of the subject by male artists.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

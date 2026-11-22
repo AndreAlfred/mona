@@ -1,0 +1,137 @@
+{
+  "id": "gentileschi-judith-slaying-holofernes-uffizi",
+  "artist": "artemisia-gentileschi",
+  "title": "Judith Slaying Holofernes",
+  "date": "c. 1620",
+  "year": 1620,
+  "medium": "oil paint on canvas",
+  "dimensions": "199 × 162.5 cm",
+  "museum": {
+    "name": "Uffizi Gallery (1567)",
+    "url": "https://www.wikidata.org/wiki/Q3769169"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg/1280px-Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg/2560px-Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1475,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Artemisia Gentileschi - Giuditta decapita Oloferne - Google Art Project-Adjust.jpg)"
+  },
+  "archive": {
+    "wd": "Q3769169"
+  },
+  "phase": {
+    "label": "Rome and Venice, 1620–29",
+    "source": {
+      "label": "Met catalogue section: “Artemisia in Rome and Venice: 1620-29”",
+      "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "caravaggisti",
+      "source": {
+        "label": "Mann: her “reacquaintance in Rome with the realist work of Caravaggio”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Mann: “the biblical story”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3769169"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "If the name Artemisia Gentileschi has come to be associated with any single image, it is this one of Judith slaying Holofernes.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith Slaying Holofernes (Florence)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Artemisia signed her work prominently on the [blade] of the sword, and she clearly intended the picture as a demonstration of artistic prowess.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith Slaying Holofernes (Florence)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "the former representing Judith slaying Holofernes, is a picture of a strong colouring, of a tone and perspicuity that inspires awe",
+        "lead": "Luigi Lanzi, describing the picture in the Medici gallery in the 1790s:",
+        "source": {
+          "author": "Luigi Lanzi",
+          "title": "The History of Painting in Italy, vol. 1 (trans. Thomas Roscoe)",
+          "publisher": "Project Gutenberg (Internet Archive mirror)",
+          "year": "1795–96 (trans. 1847)",
+          "url": "https://www.gutenberg.org/ebooks/34479",
+          "readAt": "https://archive.org/stream/thehistoryofpain34479gut/34479.txt",
+          "tier": 3,
+          "accessed": "2026-11-22"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Who could think in fact that over a sheet so candid, a so brutal and terrible massacre could happen … but—it's natural to say—this is a terrible woman! A woman painted all this?",
+        "lead": "The critic Roberto Longhi, in 1916:",
+        "source": {
+          "author": "Roberto Longhi",
+          "title": "“Gentileschi, padre e figlia” (1916), as quoted on Wikipedia",
+          "publisher": "Wikipedia",
+          "year": "1916",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Her achievements as an artist were long overshadowed by the story of her rape at around 18 years old by Agostino Tassi and her being tortured to give evidence during his subsequent trial.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

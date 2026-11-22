@@ -1,0 +1,157 @@
+{
+  "id": "gentileschi-allegory-of-painting",
+  "artist": "artemisia-gentileschi",
+  "title": "Self-Portrait as the Allegory of Painting",
+  "date": "c. 1630",
+  "year": 1630,
+  "medium": "oil paint on canvas",
+  "dimensions": "98.6 × 75.2 cm",
+  "museum": {
+    "name": "Royal Collection (RCIN 405551)",
+    "url": "https://www.wikidata.org/wiki/Q3630745"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/1280px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/2560px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1621,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Self-portrait as the Allegory of Painting (La Pittura) - Artemisia Gentileschi.jpg)"
+  },
+  "archive": {
+    "wd": "Q3630745"
+  },
+  "phase": {
+    "label": "London, 1638–c. 1642",
+    "source": {
+      "label": "Wikipedia: “worked as an expatriate painter in the court of Charles I of England from 1638 to 1642”",
+      "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "self-portrait",
+      "source": {
+        "label": "Wikipedia: “The scene depicts Gentileschi painting herself”",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_as_the_Allegory_of_Painting"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It seems hard to imagine that Artemisia, in making an image of Painting, did not reflect on the special significance this allegory held for her as a woman artist.",
+          "source": {
+            "author": "Judith W. Mann",
+            "title": "Catalogue entry: Self-Portrait as the Allegory of Painting (La Pittura)",
+            "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+            "year": "2001",
+            "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+            "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+            "tier": 2,
+            "accessed": "2026-11-22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Wikipedia: “a chiaroscuro technique”",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_as_the_Allegory_of_Painting"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: self-portrait as well as an allegory",
+        "url": "https://en.wikipedia.org/wiki/Self-Portrait_as_the_Allegory_of_Painting"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3630745"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The London Allegory of Painting does not [fit] easily into any of the established self-portrait types.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Self-Portrait as the Allegory of Painting (La Pittura)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Abstract concepts like \"Painting\" were traditionally represented by female allegorical figures, and therefore the painting was not one that any male painter could present in the same way, as both self-portrait and allegory.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Self-Portrait as the Allegory of Painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_as_the_Allegory_of_Painting",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A beautiful woman, with full black hair, disheveled, and twisted in various ways, with arched eyebrows that show imaginative thought",
+        "lead": "Cesare Ripa’s handbook of allegory prescribed Painting as:",
+        "source": {
+          "author": "Cesare Ripa",
+          "title": "Iconologia, as quoted on Wikipedia",
+          "publisher": "Wikipedia",
+          "year": "1593",
+          "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_as_the_Allegory_of_Painting",
+          "accessed": "2026-11-22",
+          "tier": 3,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1638, Gentileschi joined her father in London at the court of Charles I of England, where Orazio had become court painter",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Gentileschi's portrayal of herself as the epitome of the arts was a bold statement to make for the period",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Self-Portrait as the Allegory of Painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Self-Portrait_as_the_Allegory_of_Painting",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}

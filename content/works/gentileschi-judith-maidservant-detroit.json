@@ -1,0 +1,128 @@
+{
+  "id": "gentileschi-judith-maidservant-detroit",
+  "artist": "artemisia-gentileschi",
+  "title": "Judith and Her Maidservant with the Head of Holofernes",
+  "date": "c. 1623",
+  "year": 1623,
+  "medium": "oil paint on canvas",
+  "dimensions": "187.2 × 142 cm",
+  "museum": {
+    "name": "Detroit Institute of Arts (52.253)",
+    "url": "https://www.wikidata.org/wiki/Q3769173"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Artemisia_Gentileschi_-_Judith_and_Her_Maidservant_with_the_Head_of_Holofernes_-_52.253_-_Detroit_Institute_of_Arts.jpg/1280px-Artemisia_Gentileschi_-_Judith_and_Her_Maidservant_with_the_Head_of_Holofernes_-_52.253_-_Detroit_Institute_of_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1557,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Artemisia Gentileschi - Judith and Her Maidservant with the Head of Holofernes - 52.253 - Detroit Institute of Arts.jpg)"
+  },
+  "archive": {
+    "wd": "Q3769173"
+  },
+  "phase": {
+    "label": "Rome and Venice, 1620–29",
+    "source": {
+      "label": "Met catalogue section: “Artemisia in Rome and Venice: 1620-29”",
+      "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+    }
+  },
+  "tags": [
+    {
+      "id": "tenebrism",
+      "source": {
+        "label": "Wikipedia: “her mastery of chiaroscuro and tenebrism”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The Detroit painting is notable for her mastery of chiaroscuro and tenebrism (the effects of extreme lights and darks), techniques for which Gerrit van Honthorst and many others in Rome were famous.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Artemisia Gentileschi",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+            "accessed": "2026-11-22",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Wikipedia: “her mastery of chiaroscuro”",
+        "url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+      }
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Mann: “the Judith narrative”",
+        "url": "https://archive.org/details/OrazioandArtemisiaGentileschi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3769173"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting is generally recognized as Artemisia's finest work. … The Detroit canvas represents Artemisia's most complex rendering of the Judith narrative.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith and Her Maidservant (Detroit)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Her arrival in Rome offered the opportunity to cooperate with other painters and to seek patronage from the wide network of art collectors in the city, opportunities that Gentileschi grasped.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Artemisia Gentileschi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+          "accessed": "2026-11-22",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Positioned [close] to the heroine's raised hand, the gauntlet encourages the viewer to consider the defeat of the seasoned military hero by the hand of the young widow.",
+        "source": {
+          "author": "Judith W. Mann",
+          "title": "Catalogue entry: Judith and Her Maidservant (Detroit)",
+          "publisher": "Orazio and Artemisia Gentileschi (exh. cat.), The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "2001",
+          "url": "https://archive.org/details/OrazioandArtemisiaGentileschi",
+          "readAt": "https://archive.org/stream/OrazioandArtemisiaGentileschi/OrazioandArtemisiaGentileschi_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-22"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-22",
+    "by": "claude-routine"
+  }
+}
