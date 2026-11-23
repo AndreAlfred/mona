@@ -1,0 +1,130 @@
+{
+  "id": "schongauer-christ-carrying-the-cross",
+  "artist": "martin-schongauer",
+  "title": "Christ Carrying the Cross",
+  "date": "1475–90",
+  "year": 1470,
+  "medium": "engraving",
+  "dimensions": "Sheet: 29 x 43.6 cm (11 7/16 x 17 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1941.389"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.389/1941.389_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1941.389/1941.389_print.jpg",
+    "width": 900,
+    "height": 614,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 120632
+  },
+  "phase": {
+    "label": "Early ambitious plates, 1470s",
+    "source": {
+      "label": "Hind: “Another comparatively early plate, the March to Calvary (B. 21), is again one of the largest”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/120632"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Another comparatively early plate, the March to Calvary … is again one of the largest, as so often happens with the young and ambitious artist. The strength of his genius for composition is here fully developed",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "28"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For the large Christ Carrying the Cross, the largest engraving yet made, the equivalent figures are about seventy and fifteen.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On how many impressions survive, and how many are of the first quality:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His Road to Calvary … one of the largest early northern copperplates, masses together more figures than any other Gothic print, and fuses them into a processional surge that inspired artists from Memling to Guido Reni.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Rembrandt perfected the tradition of drawing crowds that was first published by Schongauer in his Road to Calvary",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Martin Schongauer made Christ's gaze the only one directly confronting and involving the viewer in his anguish. Images like this functioned as devotional tools meant to help the faithful to meditate on Christ's suffering during his trial, torture, and execution.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Christ Carrying the Cross",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/120632",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

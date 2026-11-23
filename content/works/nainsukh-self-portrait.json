@@ -1,0 +1,146 @@
+{
+  "id": "nainsukh-self-portrait",
+  "artist": "nainsukh",
+  "title": "Self-Portrait",
+  "date": "c. 1730",
+  "year": 1730,
+  "medium": "gouache paint, gold on paper",
+  "dimensions": "18.5 × 11.5 cm",
+  "museum": {
+    "name": "Indian Museum (R.224)",
+    "url": "https://www.wikidata.org/wiki/Q115109519"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Nainsukh_9ae694329ffaa615aea645b29c4f183f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1800,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nainsukh 9ae694329ffaa615aea645b29c4f183f.jpg)"
+  },
+  "archive": {
+    "wd": "Q115109519"
+  },
+  "phase": {
+    "label": "Early years in Guler, c. 1730",
+    "source": {
+      "label": "Wikipedia: “Self-Portrait at the age of 20”; “His early work is very poorly documented”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "self-portrait",
+      "source": {
+        "label": "Wikipedia: “There are at least two self-portraits, one from early in his career”",
+        "url": "https://en.wikipedia.org/wiki/Nainsukh"
+      }
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikidata record: gouache paint, gold on paper",
+        "url": "https://www.wikidata.org/wiki/Q115109519"
+      }
+    },
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “Nainsukh was a famous master of the mid-18th century, followed by his family workshop”",
+        "url": "https://en.wikipedia.org/wiki/Pahari_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "There are at least two self-portraits, one from early in his career, and the other in a group scene with Balwant Singh",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His early work is very poorly documented, and his distinctive style emerges almost fully formed in the next phase of his career.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Generally in India, despite a great vividness of expression and sophistication of aesthetics, even the most glorious works of paintings from those feudal times proclaim strongly their commissioned nature; the voice of the artist as an individual, can be perceived only as a whisper.",
+        "source": {
+          "author": "Amit Dutta",
+          "title": "Nainsukh of Guler – Delight of the Eyes (film treatment, with Ayswarya Sankaranarayanan)",
+          "publisher": "Internet Archive",
+          "year": "2010",
+          "url": "https://archive.org/details/Nainsukh",
+          "readAt": "https://archive.org/stream/Nainsukh/Nainsukh_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 6
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Another portrait of Nainsukh with a golden background is in the Indian Museum, Calcutta.",
+        "source": {
+          "author": "Karl Khandalavala",
+          "title": "Pahari Miniature Painting",
+          "publisher": "The New Book Company, Bombay (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited",
+          "readAt": "https://archive.org/stream/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited/Pahari%20Miniature%20Painting%20by%20Karl%20Khandalavala%201958%20Bombay%20%E2%80%93%20The%20New%20Book%20Company%20Private%20Limited_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        },
+        "lead": "Karl Khandalavala, listing the known likenesses of the painter:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was the younger son of the painter Pandit Seu and, like his older brother Manaku of Guler, was an important practitioner of Pahari painting",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Along with his brother who was around ten years older than him, he was trained by his father in all aspects of painting from an early age.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

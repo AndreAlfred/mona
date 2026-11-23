@@ -1,0 +1,114 @@
+{
+  "id": "schongauer-angel-annunciation",
+  "artist": "martin-schongauer",
+  "title": "The Angel of the Annunciation\r\n",
+  "date": "c. 1470–75",
+  "year": 1465,
+  "medium": "engraving",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1958.173"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.173/1958.173_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1958.173/1958.173_print.jpg",
+    "width": 644,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 135140
+  },
+  "phase": {
+    "label": "Two-sheet Annunciation; often placed among his last prints",
+    "source": {
+      "label": "Wikipedia: “his pair showing the Annuciation with each figure occupying its own sheet, often thought to be his last prints”",
+      "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/135140"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "By the time of his pair showing the Annuciation with each figure occupying its own sheet, often thought to be his last prints, the background is only represented by a simple groundline.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Cleveland dates this impression earlier, c. 1470–75, so the sheet’s place in his career is not settled; the bare ground is the point either way."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He went beyond Master E. S. in the system of depicting volume by means of cross-hatching (lines in two directions) which was further developed by Dürer, and was the first engraver to curve parallel lines, probably by rotating the plate against a steady burin.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This engraving is half of a two-print scene depicting the Annunciation to the Virgin, when the angel Gabriel told Mary she would miraculously give birth to the Son of God. Presumably buyers could purchase the prints separately, although Schongauer probably hoped people would want to collect them both.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Angel of the Annunciation",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135140",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His engraved lines masterfully emulate different natural qualities and textures, for example the spiraling locks of hair and the angel’s wings.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Angel of the Annunciation",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/135140",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

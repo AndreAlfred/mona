@@ -1,0 +1,103 @@
+{
+  "id": "nainsukh-disrobing-draupadi",
+  "artist": "nainsukh",
+  "title": "The Disrobing of Draupadi",
+  "date": "1760",
+  "year": 1760,
+  "medium": "paper",
+  "museum": {
+    "name": "Metropolitan Museum of Art (2022.247)",
+    "url": "https://www.metmuseum.org/art/collection/search/825669"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Disrobing_of_Draupadi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 875,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Disrobing of Draupadi.jpg)"
+  },
+  "archive": {
+    "wd": "Q50812963"
+  },
+  "phase": {
+    "label": "After Balwant Singh: the turn to the Hindu epics, 1760s",
+    "source": {
+      "label": "Wikipedia: Nainsukh turned “to the more typical Pahari subject matter of illustrating poems recounting the stories from the great Hindu religious epics”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikimedia Commons record: “a miniature of the Basohli School”",
+        "url": "https://commons.wikimedia.org/wiki/File:Disrobing_of_Draupadi.jpg"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "After Balwant Singh's death in 1763, around 1765 Nainsukh moved and entered the service of Amrit Pal (ruled 1757–1778), a nephew of Balwant Singh and ruler of Basohli, a very devout Hindu who eventually abdicated the throne in order to devote himself to a life of meditation.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His later work is less well known than that of his Jasrota period, and in the opinion of many scholars under-rated.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Some late sheets by Nainsukh that were not taken beyond the stage of preliminary drawings have comments by priests and scholars on the appropriateness of the images and their faithfulness to the texts they illustrate. This indicates that the religious function of such illustrations remained important.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Dushasana attempts to disrobe her, but she is miraculously protected when Dushasana finds that as he continues to unwrap the layers of her sari, the amount of fabric covering her never lessens. Dushasana is eventually reduced to exhaustion, as the awed court observes that Draupadi is still chastely dressed.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Draupadi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Draupadi",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The episode, from the Mahabharata:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

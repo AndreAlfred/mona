@@ -1,0 +1,72 @@
+{
+  "id": "nainsukh",
+  "name": "Nainsukh",
+  "born": 1710,
+  "died": 1778,
+  "active": "c. 1730–1778",
+  "nationality": "Indian",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: Nainsukh “was an important practitioner of Pahari painting”",
+        "url": "https://en.wikipedia.org/wiki/Nainsukh"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q1252229",
+  "archive": {
+    "cma": [
+      51524
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "He was the younger son of the painter Pandit Seu and, like his older brother Manaku of Guler, was an important practitioner of Pahari painting, and has been called \"one of the most original and brilliant of Indian painters\".",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Nainsukh",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+        "accessed": "2026-11-23",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Devices and mannerisms associated with Nainsukh include: a preference for uncoloured grounds; shading through a light wash that imparts volume and weight to figures and groups; a fine horizontal line that separates ground from background; a rich green in which his landscapes are usually bathed",
+      "source": {
+        "author": "B. N. Goswamy",
+        "title": "quoted in Wikipedia, “Nainsukh”",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+        "accessed": "2026-11-23",
+        "tier": 2,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "For the first time, we see an Indian artist throwing himself into his work, and speaking through it with the most unassuming engagement with his themes, subjects and self.",
+      "source": {
+        "author": "Amit Dutta",
+        "title": "Nainsukh of Guler – Delight of the Eyes (film treatment, with Ayswarya Sankaranarayanan)",
+        "publisher": "Internet Archive",
+        "year": "2010",
+        "url": "https://archive.org/details/Nainsukh",
+        "readAt": "https://archive.org/stream/Nainsukh/Nainsukh_djvu.txt",
+        "accessed": "2026-11-23",
+        "tier": 6
+      },
+      "lead": "From the treatment for Amit Dutta’s 2010 film about him:"
+    }
+  ],
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

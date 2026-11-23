@@ -1,0 +1,134 @@
+{
+  "id": "nainsukh-balwant-singh-examining-painting",
+  "artist": "nainsukh",
+  "title": "Raja Balwant Singh of Jasrota examining a painting with Nainsukh",
+  "date": "1747",
+  "year": 1747,
+  "medium": "gouache paint, gold on paper",
+  "dimensions": "21 × 30 cm",
+  "museum": {
+    "name": "Museum Rietberg (RVI 1551)",
+    "url": "https://emp-web-101.zetcom.ch:443/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=39189&viewType=detailView"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Raja_Balwant_Singh_of_Jasrota_examining_a_painting_with_Nainsukh.jpg/1280px-Raja_Balwant_Singh_of_Jasrota_examining_a_painting_with_Nainsukh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 845,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Raja Balwant Singh of Jasrota examining a painting with Nainsukh.jpg)"
+  },
+  "archive": {
+    "wd": "Q115509788"
+  },
+  "phase": {
+    "label": "Jasrota, in the service of Balwant Singh, c. 1740–63",
+    "source": {
+      "label": "Wikipedia: “Around 1740 he left the family workshop in Guler and moved to Jasrota … This is the best known and documented phase of his career”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "self-portrait",
+      "source": {
+        "label": "Wikipedia: the second self-portrait is “in a group scene with Balwant Singh, who is looking at a miniature”",
+        "url": "https://en.wikipedia.org/wiki/Nainsukh"
+      }
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikimedia Commons record (Museum Rietberg RVI 1551): “Opaque watercolor and gold on paper”",
+        "url": "https://commons.wikimedia.org/wiki/File:Raja_Balwant_Singh_of_Jasrota_examining_a_painting_with_Nainsukh.jpg"
+      }
+    },
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “Nainsukh was a famous master of the mid-18th century, followed by his family workshop”",
+        "url": "https://en.wikipedia.org/wiki/Pahari_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "the other in a group scene with Balwant Singh, who is looking at a miniature, with the artist seated below him. Nainsukh peers over the raja's shoulder, perhaps offering his comments on the work, or ready to do so.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Of his two known self-portraits,"
+      },
+      {
+        "kind": "quote",
+        "text": "Raja Balwant Singh of Jammu examining a picture presented by the artist, Nainsukh. Jammu, c. 1747.",
+        "source": {
+          "author": "W. G. Archer",
+          "title": "Indian Paintings from the Punjab Hills, vol. 2 (plates)",
+          "publisher": "Sotheby Parke Bernet (Internet Archive scan)",
+          "year": "1973",
+          "url": "https://archive.org/details/dli.pahar.3437",
+          "readAt": "https://archive.org/stream/dli.pahar.3437/1973%20Indian%20Paintings%20from%20the%20Punjab%20Hills%20Vol%202%20Plates%20by%20Archer%20s_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        },
+        "lead": "W. G. Archer’s title for the scene:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Intimate depictions of Rajput rulers were not entirely unprecedented; Raja Sidhi Sen, 10th Raja of Mandi (died 1727) had had many images of himself painted, but these emphasized what was evidently a very impressive physique, and evoked the tradition of the mahapurusha, or supernaturally perfect being.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The relationship between the art-loving Balwant Singh and Nainsukh must have been very close, since Nainsukh seems to have been employed by him often and able to see and record intimate scenes of his everyday life.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Nainsukh's works are like leaves from an autobiography.",
+        "source": {
+          "author": "Amit Dutta",
+          "title": "Nainsukh of Guler – Delight of the Eyes (film treatment, with Ayswarya Sankaranarayanan)",
+          "publisher": "Internet Archive",
+          "year": "2010",
+          "url": "https://archive.org/details/Nainsukh",
+          "readAt": "https://archive.org/stream/Nainsukh/Nainsukh_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 6
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

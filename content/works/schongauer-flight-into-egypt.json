@@ -1,0 +1,111 @@
+{
+  "id": "schongauer-flight-into-egypt",
+  "artist": "martin-schongauer",
+  "title": "The Flight into Egypt",
+  "date": "1470–74",
+  "year": 1465,
+  "medium": "engraving",
+  "dimensions": "Image: 25.5 x 17.1 cm (10 1/16 x 6 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1954.260"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.260/1954.260_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1954.260/1954.260_print.jpg",
+    "width": 590,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 131670
+  },
+  "phase": {
+    "label": "Early engravings: the Life of the Virgin set, early 1470s",
+    "source": {
+      "label": "Cleveland Museum of Art: “a set of four engravings considered to be an incomplete series of episodes of the Life of the Virgin”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/131670"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/131670"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Rest on the Flight into Egypt survives in some sixty impressions, though only seven are \"of the first quality\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Various details of costume, and the exotic plants in the Rest on the Flight into Egypt, have suggested to some scholars that he also visited Spain, and possibly Portugal.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The following year Dürer, on his wanderjahre, travelled to Colmar to meet him, only to find he had died. Dürer was an admirer who collected his drawings and no doubt prints. His own print of the Flight into Egypt, in his Life of the Virgin series, includes the same two exotic trees as Schongauer's, as an hommage.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to the apocryphal Gospel by Pseudo-Matthew, while resting in Egypt after fleeing the Massacre of the Innocents and their home in Israel, the Virgin Mary asked Joseph to harvest some dates from a palm. … Five hovering angels are pulling down the top of the tree to enable Joseph to pick dates.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Flight into Egypt",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/131670",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

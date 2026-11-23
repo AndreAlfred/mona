@@ -1,0 +1,109 @@
+{
+  "id": "nainsukh-balwant-singh-writing-camp-bed",
+  "artist": "nainsukh",
+  "title": "Balwant Singh Seated Writing on a Camp-Bed",
+  "date": "1757",
+  "year": 1757,
+  "dimensions": "21 × 28 cm",
+  "museum": {
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (33.108)",
+    "url": "https://www.wikidata.org/wiki/Q116445719"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Balwant_Singh_Seated_Writing_on_a_Camp-Bed.jpg/1280px-Balwant_Singh_Seated_Writing_on_a_Camp-Bed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 875,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Balwant Singh Seated Writing on a Camp-Bed.jpg)"
+  },
+  "archive": {
+    "wd": "Q116445719"
+  },
+  "phase": {
+    "label": "Jasrota, in the service of Balwant Singh, c. 1740–63",
+    "source": {
+      "label": "Wikipedia: “Around 1740 he left the family workshop in Guler and moved to Jasrota … This is the best known and documented phase of his career”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: paintings by Nainsukh “show the raja … writing a letter”",
+        "url": "https://en.wikipedia.org/wiki/Nainsukh"
+      }
+    },
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “Nainsukh was a famous master of the mid-18th century, followed by his family workshop”",
+        "url": "https://en.wikipedia.org/wiki/Pahari_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In his naturalistic depiction of buildings and books and his efforts to depict depth, Nainsukh shows the influence of his study of works by Mughal painters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The most intimate Pahari portraitures of rulers are those of Raja Balwant Singh of Jasrota, Raja Sidh Sen and Raja Shamsher Sen of Mandi, and Raja Chattar Singh of Chamba.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pahari painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pahari_painting",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Balwant Singh must have lacked the normal attitude of other Indian royalty to only allow images to be produced that displayed the magnificence of his life; who between patron and painter first suggested this very informal approach is unknown.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When Balwant Singh had to spend a period in exile in Guler Nainsukh accompanied him.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}
