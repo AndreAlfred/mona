@@ -1,0 +1,144 @@
+{
+  "id": "schongauer-madonna-rose-bower",
+  "artist": "martin-schongauer",
+  "title": "Madonna of the Rose Bower",
+  "date": "1473",
+  "year": 1473,
+  "medium": "oil paint on wood",
+  "dimensions": "200 × 114.5 cm",
+  "museum": {
+    "name": "Dominican Church, Colmar",
+    "url": "https://www.wikidata.org/wiki/Q648068"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Martin_Schongauer_Madonna_in_Rose_Garden.jpg/1280px-Martin_Schongauer_Madonna_in_Rose_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1724,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Martin Schongauer Madonna in Rose Garden.jpg)"
+  },
+  "archive": {
+    "wd": "Q648068"
+  },
+  "phase": {
+    "label": "Colmar workshop: his only dated painting, 1473",
+    "source": {
+      "label": "Wikipedia: the Madonna of the Rose Bower “is dated 1473 (his only dated painting)”",
+      "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “a monumental 1473 panel painting”; medium “oil paint on panel”",
+        "url": "https://en.wikipedia.org/wiki/Madonna_of_the_Rose_Bower_(Schongauer)"
+      }
+    },
+    {
+      "id": "international-gothic",
+      "source": {
+        "label": "Wikipedia infobox: movement International Gothic, Northern Renaissance",
+        "url": "https://en.wikipedia.org/wiki/Madonna_of_the_Rose_Bower_(Schongauer)"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia infobox: movement International Gothic, Northern Renaissance",
+        "url": "https://en.wikipedia.org/wiki/Madonna_of_the_Rose_Bower_(Schongauer)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His Madonna of the Rose Bower, long displayed in the church in Colmar it was made for, but moved to the Dominican church nearby in 1973, is dated 1473 (his only dated painting). Its style corresponds with the earliest of his engravings",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "though his prints spread his fame widely across Europe, he may have relied more on the income from his \"major vocation\" of painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The theme and the general composition present similarities with Stefan Lochner's earlier and much smaller Madonna of the Rose Bower, while the appearance of the Virgin is modelled on Rogier van der Weyden's Saint Columba Altarpiece",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna of the Rose Bower (Schongauer)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_of_the_Rose_Bower_(Schongauer)",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Besides being the first virtuoso engraver, Schongauer also somehow learned to paint and draw at the center of northern art in Flanders, mastering so much of the grace of Rogier van der Weyden that Vasari thought him a Fleming.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Madonna of the Rose Bower (French: La Vierge au buisson de roses) is a monumental 1473 panel painting by the German artist Martin Schongauer, depicting Mary and Christ Child in a hortus conclusus, surrounded by roses and finches.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna of the Rose Bower (Schongauer)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_of_the_Rose_Bower_(Schongauer)",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Madonna of the Rose Bower was painted in 1473 as a reredos for St Martin's Church, Colmar's largest Christian sanctuary, and stood there until it was stolen in January 1972. After the painting was recovered in June 1973, it was moved to its present location, in the choir of the former Dominican church.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Madonna of the Rose Bower (Schongauer)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Madonna_of_the_Rose_Bower_(Schongauer)",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

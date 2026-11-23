@@ -1,0 +1,160 @@
+{
+  "id": "nainsukh-elephants-fighting-muhammad-shah",
+  "artist": "nainsukh",
+  "title": "Two Elephants Fighting in a Courtyard Before Muhammad Shah",
+  "date": "c. 1730–40",
+  "year": 1725,
+  "medium": "Gum tempera, ink, and gold on paper",
+  "dimensions": "Overall: 62.5 x 42 cm (24 5/8 x 16 9/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2005.1"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2005.1/2005.1_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/2005.1/2005.1_print.jpg",
+    "width": 900,
+    "height": 419,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 163580
+  },
+  "phase": {
+    "label": "Early years: at the Mughal court in Delhi, 1730s",
+    "source": {
+      "label": "Cleveland Museum of Art: made by an artist “who stayed at the Mughal court in Delhi and painted scenes of his experiences”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/163580"
+    }
+  },
+  "tags": [
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Cleveland Museum of Art record: gum tempera, ink, and gold on paper",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/163580"
+      }
+    },
+    {
+      "id": "mughal-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: Muhammad Shah, the Mughal emperor “responsible for a revival of courtly arts”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/163580"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "At this very time, examples of Moghul painting were increasingly coming to the valleys of the west Himalayas, and it seems probable that Nainsukh came into contact with the works of Mughul painters early on. Possibly he had worked at a Mughal court, where Hindu artists were common.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Nainsukh",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+            "accessed": "2026-11-23",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “Muhammad Shah enjoyed watching elephant fights”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/163580"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This painting was made by an artist from a small kingdom in the western Himalayas who stayed at the Mughal court in Delhi and painted scenes of his experiences.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Two Elephants Fighting in a Courtyard Before Muhammad Shah",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163580",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Unlike his stylistically more conservative brother Manaku, who remained in Guler and closely conformed to the style of his father Seu, Nainsukh introduced many of the novel elements of Moghul painting into the traditional Pahari style employed by his family.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Mughal emperor responsible for a revival of courtly arts and pastimes was Muhammad Shah (reigned 1719–48).",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Two Elephants Fighting in a Courtyard Before Muhammad Shah",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163580",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the members of this artist family spread out after settling in Jasrota State and offered their talents to whichever court or nobleman favoured the Moghul style of the Mahomed Shah period.",
+        "source": {
+          "author": "Karl Khandalavala",
+          "title": "Pahari Miniature Painting",
+          "publisher": "The New Book Company, Bombay (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited",
+          "readAt": "https://archive.org/stream/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited/Pahari%20Miniature%20Painting%20by%20Karl%20Khandalavala%201958%20Bombay%20%E2%80%93%20The%20New%20Book%20Company%20Private%20Limited_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Like his predecessors, Muhammad Shah enjoyed watching elephant fights. He is shown in his window of public audience, marked by a golden carpet, smoking a hookah. Women from his harem can be seen looking on from behind painted screens.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Two Elephants Fighting in a Courtyard Before Muhammad Shah",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163580",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The intensity of the fight—captured at a moment when one mahout, or elephant trainer, has dropped his goad and is about to jump off—is augmented by the dense colors and forms in contrast to the otherwise pale planes",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Two Elephants Fighting in a Courtyard Before Muhammad Shah",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/163580",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

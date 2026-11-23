@@ -1,0 +1,99 @@
+{
+  "id": "martin-schongauer",
+  "name": "Martin Schongauer",
+  "born": 1450,
+  "died": 1491,
+  "active": "c. 1469–1491",
+  "nationality": "German",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “He was the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "source": {
+        "label": "Wikipedia: “Dürer was an admirer who collected his drawings and no doubt prints”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    },
+    {
+      "id": "israhel-van-meckenem",
+      "name": "Israhel van Meckenem",
+      "source": {
+        "label": "Wikipedia: van Meckenem “did close copies of 58 engravings, exactly half of Schongauer's surviving output”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    },
+    {
+      "id": "hans-burgkmair",
+      "name": "Hans Burgkmair",
+      "source": {
+        "label": "Wikipedia: “His pupils included Hans Burgkmair the Elder”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "wikidata": "Q155575",
+  "archive": {
+    "cma": [
+      12292
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Martin Schongauer (c. 1450–1453, Colmar – 2 February 1491, Breisach), also known as Martin Schön (\"Martin beautiful\") or Hübsch Martin (\"pretty Martin\") by his contemporaries, was an Alsatian engraver and painter. He was the most important printmaker north of the Alps before Albrecht Dürer, a younger artist who collected his work.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Martin Schongauer",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+        "accessed": "2026-11-23",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "After the first northern engravers had tentatively scratched, and ES had started to vary the strokes with method, Schongauer organized the basic rhythm of lines that all later engravings developed.",
+      "source": {
+        "author": "A. Hyatt Mayor",
+        "title": "Prints & People: A Social History of Printed Pictures",
+        "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+        "year": "1971",
+        "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+        "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+        "accessed": "2026-11-23",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "in the north Schongauer is almost the only engraver who at all closely approaches the level of a great master, and he is still too trammelled by Gothic conventions to rise to the height of a great personality.",
+      "source": {
+        "author": "Arthur M. Hind",
+        "title": "A Short History of Engraving and Etching",
+        "publisher": "Archibald Constable (Internet Archive scan)",
+        "year": "1908",
+        "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+        "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+        "accessed": "2026-11-23",
+        "tier": 2,
+        "license": "Public domain"
+      },
+      "lead": "Arthur M. Hind, weighing the fifteenth century:"
+    }
+  ],
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

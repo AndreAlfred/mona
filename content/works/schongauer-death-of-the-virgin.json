@@ -1,0 +1,129 @@
+{
+  "id": "schongauer-death-of-the-virgin",
+  "artist": "martin-schongauer",
+  "title": "The Death of the Virgin",
+  "date": "1470–75",
+  "year": 1465,
+  "medium": "engraving",
+  "dimensions": "Sheet: 25.5 x 16.9 cm (10 1/16 x 6 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1956.744"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.744/1956.744_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1956.744/1956.744_print.jpg",
+    "width": 600,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Fanny Tewksbury King Collection"
+  },
+  "archive": {
+    "cma": 134265
+  },
+  "phase": {
+    "label": "Early Gothic style, early 1470s",
+    "source": {
+      "label": "Hind: the Gothic spirit “is seen to perfection in one of his best and largest prints of this period, the Death of Mary”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/134265"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "in this early period all the essential features of the Gothic pervade Schongauer's style. There are the long figures, the sharp folds, the … slender fingers with exaggerated knuckles, the lined and knotted faces. It is the spirit which is seen to perfection in one of his best and largest prints of this period, the Death of Mary",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "27–28"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This print belongs to a set of four engravings considered to be an incomplete series of episodes of the Life of the Virgin",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Death of the Virgin",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/134265",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[Flemish training] enabled him to make the first prints that situate furniture convincingly in a room and people the depth with complex and expressive groups",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His Death of the Virgin was copied in some 40 paintings, carvings, and textiles, showing a special wonder at the boldly foreshortened bed and the intricate linking of the two kneeling apostles.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Here, the apostles all gather around Mary's deathbed, as Christ's mother—shown as a young woman due to her immaculate state—is about to draw her last breath. Saint John supports the lighted candle that the Virgin can not longer hold by herself.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Death of the Virgin",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/134265",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "schongauer-christ-appearing-magdalen",
+  "artist": "martin-schongauer",
+  "title": "Christ Appearing to the Magdalen",
+  "date": "1480–90",
+  "year": 1475,
+  "medium": "engraving",
+  "dimensions": "Sheet: 15.9 x 15.9 cm (6 1/4 x 6 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1956.743"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.743/1956.743_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1956.743/1956.743_print.jpg",
+    "width": 882,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Fanny Tewksbury King Collection"
+  },
+  "archive": {
+    "cma": 134264
+  },
+  "phase": {
+    "label": "Maturity, 1480s",
+    "source": {
+      "label": "Hind: “In the Christ appearing to Mary Magdalene … the full blossom of his art is seen”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/134264"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Little by little Schongauer rises above the Gothic limitations both of setting and of type. Ornament and architecture are simplified, and everything is concentrated on the expression of the central idea.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "28"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In the Christ appearing to Mary Magdalene … the full blossom of … his art is seen. The concentration of interest on the central theme is noteworthy. In the former the distant landscape is mere outline, the tree is bare, the grass is without the varied and distracting collection of goldsmiths' plants",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "28–29"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The generally agreed sequence of his engravings shows an increasing sophistication of technique, but the most crowded and detailed, but highly organized, compositions are placed rather early, with \"late-Gothic complexity\" giving way to simpler compositions with more empty space and \"an almost classical orderliness and decorum\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to the Gospel of John, right after his resurrection, Christ appeared to Mary Magdalene, who had come to anoint his body at his tomb. At first, she mistook Christ for a gardener.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Christ Appearing to the Magdalen",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/134264",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Schongauer conveys the emotion and surprise of the Magdalen by showing her drapery flying behind her in the wind.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Christ Appearing to the Magdalen",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/134264",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "nainsukh-balwant-singh-tiger-hunt",
+  "artist": "nainsukh",
+  "title": "Balwant Singh Hunts a Tiger",
+  "date": "c. 1750",
+  "year": 1750,
+  "medium": "gold, gouache paint on paper",
+  "museum": {
+    "name": "Metropolitan Museum of Art (2022.248)",
+    "url": "https://www.wikidata.org/wiki/Q50812840"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Raja_Balwant_Dev_Singh_on_a_Tiger_Hunt.jpg/1280px-Raja_Balwant_Dev_Singh_on_a_Tiger_Hunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 564,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Raja Balwant Dev Singh on a Tiger Hunt.jpg)"
+  },
+  "archive": {
+    "wd": "Q50812840"
+  },
+  "phase": {
+    "label": "Jasrota, in the service of Balwant Singh, c. 1740–63",
+    "source": {
+      "label": "Wikipedia: “Around 1740 he left the family workshop in Guler and moved to Jasrota … This is the best known and documented phase of his career”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikidata record: gold, gouache paint on paper",
+        "url": "https://www.wikidata.org/wiki/Q50812840"
+      }
+    },
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “Nainsukh was a famous master of the mid-18th century, followed by his family workshop”",
+        "url": "https://en.wikipedia.org/wiki/Pahari_painting"
+      }
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Wikipedia: scenes “showing the raja hunting with a retinue”",
+        "url": "https://en.wikipedia.org/wiki/Nainsukh"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His work for Balwant Singh is his most celebrated, showing unusually intimate, informal, and sometimes downright unflattering scenes of the raja going about his daily round of pleasures.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "All these drawings and paintings studied together afford us valuable material for analysing the trends and development of the ‘pre-Kangra’ phase in Jammu. They also yield us an insight into the daily existence of these Hill princes and their manner of living.",
+        "source": {
+          "author": "Karl Khandalavala",
+          "title": "Pahari Miniature Painting",
+          "publisher": "The New Book Company, Bombay (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited",
+          "readAt": "https://archive.org/stream/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited/Pahari%20Miniature%20Painting%20by%20Karl%20Khandalavala%201958%20Bombay%20%E2%80%93%20The%20New%20Book%20Company%20Private%20Limited_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        },
+        "lead": "Karl Khandalavala, on the surviving pictures of Balwant Singh:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As well as some more conventional scenes, such as showing the raja hunting with a retinue or watching dancers, paintings by Nainsukh show the raja getting his beard trimmed, writing a letter, performing a puja, looking out of a palace window, sitting in front of the fire wrapped in a blanket, or smoking a hookah and inspecting a painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

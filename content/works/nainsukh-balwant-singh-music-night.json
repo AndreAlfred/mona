@@ -1,0 +1,129 @@
+{
+  "id": "nainsukh-balwant-singh-music-night",
+  "artist": "nainsukh",
+  "title": "Music in the Night: Balwant Singh Listening to Music",
+  "date": "1748",
+  "year": 1748,
+  "medium": "gouache paint on paper",
+  "dimensions": "21.8 × 30.7 cm",
+  "museum": {
+    "name": "Lahore Museum (G-34)",
+    "url": "https://www.wikidata.org/wiki/Q122883915"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Music_in_the_Night_-_Balwant_Singh_Listening_to_Music.jpg/1280px-Music_in_the_Night_-_Balwant_Singh_Listening_to_Music.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 817,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Music in the Night - Balwant Singh Listening to Music.jpg)"
+  },
+  "archive": {
+    "wd": "Q122883915"
+  },
+  "phase": {
+    "label": "Jasrota, dated 1748",
+    "source": {
+      "label": "Khandalavala: “painted in 1748 A.D. by Nainsukh who describes himself as Nainsukh of Jasrota”",
+      "url": "https://archive.org/details/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited"
+    }
+  },
+  "tags": [
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “in his oeuvre that flourished under the patronage of Raja Balwant Singh, the Guler paintings reached their state of maturity”",
+        "url": "https://en.wikipedia.org/wiki/Guler_State"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Later, while Manaku worked at Guler, Nainsukh migrated to Jasrota court, and in his oeuvre that flourished under the patronage of Raja Balwant Singh, the Guler paintings reached their state of maturity and creative finessee.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Guler State",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Guler_State",
+            "accessed": "2026-11-23",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikidata record: gouache paint on paper",
+        "url": "https://www.wikidata.org/wiki/Q122883915"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "There is an inscribed miniature in the Lahore Museum of Balvant Singh of Jammu at a music party … painted in 1748 A.D. by Nainsukh who describes himself as Nainsukh of Jasrota.",
+        "source": {
+          "author": "Karl Khandalavala",
+          "title": "Pahari Miniature Painting",
+          "publisher": "The New Book Company, Bombay (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited",
+          "readAt": "https://archive.org/stream/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited/Pahari%20Miniature%20Painting%20by%20Karl%20Khandalavala%201958%20Bombay%20%E2%80%93%20The%20New%20Book%20Company%20Private%20Limited_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Raja Balwant Singh of Jammu listening to his singing-girls and musicians at Jasrota. By Nainsukh. May-June 1748.",
+        "source": {
+          "author": "W. G. Archer",
+          "title": "Indian Paintings from the Punjab Hills, vol. 2 (plates)",
+          "publisher": "Sotheby Parke Bernet (Internet Archive scan)",
+          "year": "1973",
+          "url": "https://archive.org/details/dli.pahar.3437",
+          "readAt": "https://archive.org/stream/dli.pahar.3437/1973%20Indian%20Paintings%20from%20the%20Punjab%20Hills%20Vol%202%20Plates%20by%20Archer%20s_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        },
+        "lead": "W. G. Archer’s catalogue entry:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A study of Balvant Singh listening to music, by Vajan Sah, is in the N. C. Mehta collection, Bombay. An inscription thereon states that it was painted in the year 1748 A.D. It is very similar to the Lahore Museum study by Nainsukh",
+        "source": {
+          "author": "Karl Khandalavala",
+          "title": "Pahari Miniature Painting",
+          "publisher": "The New Book Company, Bombay (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited",
+          "readAt": "https://archive.org/stream/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited/Pahari%20Miniature%20Painting%20by%20Karl%20Khandalavala%201958%20Bombay%20%E2%80%93%20The%20New%20Book%20Company%20Private%20Limited_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It is characteristic of Nainsukh that he captures such specific situations and settings with great sensitivity. In his depictions of scenes, he moved away from stylised types in favour of realistic depictions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

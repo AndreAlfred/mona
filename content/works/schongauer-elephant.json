@@ -1,0 +1,128 @@
+{
+  "id": "schongauer-elephant",
+  "artist": "martin-schongauer",
+  "title": "An Elephant with Howdah",
+  "date": "c. 1485",
+  "year": 1480,
+  "medium": "engraving",
+  "dimensions": "Sheet: 10.8 x 14.6 cm (4 1/4 x 5 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1927.199"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1927.199/1927.199_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1927.199/1927.199_print.jpg",
+    "width": 1231,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 109031
+  },
+  "phase": {
+    "label": "Mature engravings, 1480s",
+    "source": {
+      "label": "Cleveland Museum of Art record: dated c. 1485",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/109031"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/109031"
+      }
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Wikipedia: “A print of an elephant is a unique venture into the popular \"prodigy\" genre”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A print of an elephant is a unique venture into the popular \"prodigy\" genre; it turns out that an elephant was indeed being toured around Germany in 1483, before drowning in a canal near Muiden.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The great majority of his subjects are religious, but there are a handful of comic scenes of ordinary life such as the early Peasant Family Going to Market or the Two Apprentices Fighting",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "From his family background and time at university he was no doubt familiar with the emerging bourgeoisie of trade and the professions who provided the core market for high quality engravings",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Prints like this one travelled further than the animal itself: for most buyers north of the Alps, a sheet such as this was the only elephant they would ever see."
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1483, an elephant was brought to Germany and taken from town to town to be exhibited as a curiosity. It is likely that Martin Schongauer and his brother Ludwig, who were living in Ulm at that time, witnessed the arrival of this exotic animal.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "An Elephant with Howdah",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/109031",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "While he may have seen the elephant in person, Schongauer's portrayal—with its twisted trunk and shell-like ear—was likely made from memory rather than direct study of the beast.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "An Elephant with Howdah",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/109031",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "nainsukh-balwant-singh-vision-krishna-radha",
+  "artist": "nainsukh",
+  "title": "Raja Balwant Singh’s Vision of Krishna and Radha",
+  "date": "1747",
+  "year": 1747,
+  "medium": "ink, gouache paint, gold on paper",
+  "dimensions": "19.7 × 15.6 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1994.377)",
+    "url": "https://www.metmuseum.org/art/collection/search/38009"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Raja_Balwant_Singh%E2%80%99s_Vision_of_Krishna_and_Radha_MET_DT3740.jpg/1280px-Raja_Balwant_Singh%E2%80%99s_Vision_of_Krishna_and_Radha_MET_DT3740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Raja_Balwant_Singh%E2%80%99s_Vision_of_Krishna_and_Radha_MET_DT3740.jpg/2560px-Raja_Balwant_Singh%E2%80%99s_Vision_of_Krishna_and_Radha_MET_DT3740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1500,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Raja Balwant Singh’s Vision of Krishna and Radha MET DT3740.jpg)"
+  },
+  "archive": {
+    "wd": "Q78876516"
+  },
+  "phase": {
+    "label": "Jasrota, in the service of Balwant Singh, c. 1740–63",
+    "source": {
+      "label": "Wikipedia: “Around 1740 he left the family workshop in Guler and moved to Jasrota … This is the best known and documented phase of his career”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikidata record: ink, gouache paint, gold on paper",
+        "url": "https://www.wikidata.org/wiki/Q78876516"
+      }
+    },
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “Nainsukh was a famous master of the mid-18th century, followed by his family workshop”",
+        "url": "https://en.wikipedia.org/wiki/Pahari_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Nainsukh (1710–1778), succeeded by two generations of his family workshop, introduced a distinctive style that combined Mughal elements with personal innovations.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kangra painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kangra_painting",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Here the intimate court record turns devotional: the patron Nainsukh usually painted at his daily round is shown in the presence of the divine lovers."
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Through his adaptation of elements of Mughal painting, he was a central force in the development of Pahari painting in the middle of the eighteenth century, bringing Mughal elements into what had been a school mainly concerned with Hindu religious subjects.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The central theme of Pahari painting is depiction of eternal love of the Hindu deities Radha and Krishna. A distinct lyricism, spontaneous rhythm, softness, minute intricate details of composition, and intense perception and portrayal of human emotions and physical features distinguish the Pahari miniatures from the other miniature schools like Deccan, Mughal and Rajasthani-Rajput.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pahari painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pahari_painting",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

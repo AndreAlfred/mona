@@ -1,0 +1,113 @@
+{
+  "id": "nainsukh-balwant-singh-hawk",
+  "artist": "nainsukh",
+  "title": "Raja Balwant Singh of Jammu Holding a Hawk",
+  "date": "1746",
+  "year": 1746,
+  "medium": "paper",
+  "dimensions": "20 × 12.5 cm",
+  "museum": {
+    "name": "National Museum (51.207/E IV)",
+    "url": "https://www.wikidata.org/wiki/Q117088195"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Raja_Balwant_Singh_%281724-63%29_of_Jammu_holding_a_hawk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1963,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Raja Balwant Singh (1724-63) of Jammu holding a hawk.jpg)"
+  },
+  "archive": {
+    "wd": "Q117088195"
+  },
+  "phase": {
+    "label": "Jasrota, in the service of Balwant Singh, c. 1740–63",
+    "source": {
+      "label": "Wikipedia: “Around 1740 he left the family workshop in Guler and moved to Jasrota … This is the best known and documented phase of his career”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "W. G. Archer: “Raja Balwant Singh of Jammu standing holding a hawk. … By Nainsukh”",
+        "url": "https://archive.org/details/dli.pahar.3437"
+      }
+    },
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “Nainsukh was a famous master of the mid-18th century, followed by his family workshop”",
+        "url": "https://en.wikipedia.org/wiki/Pahari_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Raja Balwant Singh of Jammu standing holding a hawk. … By Nainsukh, Jammu, April-May 1746.",
+        "source": {
+          "author": "W. G. Archer",
+          "title": "Indian Paintings from the Punjab Hills, vol. 2 (plates)",
+          "publisher": "Sotheby Parke Bernet (Internet Archive scan)",
+          "year": "1973",
+          "url": "https://archive.org/details/dli.pahar.3437",
+          "readAt": "https://archive.org/stream/dli.pahar.3437/1973%20Indian%20Paintings%20from%20the%20Punjab%20Hills%20Vol%202%20Plates%20by%20Archer%20s_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        },
+        "lead": "W. G. Archer’s catalogue entry:"
+      },
+      {
+        "kind": "quote",
+        "text": "The most important was Raja Balwant Singh (1724–1763), who employed him for almost twenty years, until his untimely death.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "We have definite evidence that Balvant Singh … maintained an atelier of artists. It has already been observed that the artist Nainsukh worked at his court and we know the names of two more of his painters namely Vajan Sah and Didi. It is apparent that all of them were trained in the Moghul school of the Mahomed Shah period.",
+        "source": {
+          "author": "Karl Khandalavala",
+          "title": "Pahari Miniature Painting",
+          "publisher": "The New Book Company, Bombay (Internet Archive scan)",
+          "year": "1958",
+          "url": "https://archive.org/details/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited",
+          "readAt": "https://archive.org/stream/irqb_pahari-miniature-painting-by-karl-khandalavala-1958-bombay-the-new-book-company-private-limited/Pahari%20Miniature%20Painting%20by%20Karl%20Khandalavala%201958%20Bombay%20%E2%80%93%20The%20New%20Book%20Company%20Private%20Limited_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Balwant Singh ranked very low in the ranks of Hindu princes, and was barely a ruler as opposed to a landowner. The hill states gained in prosperity from the turmoil to the south after the capture of Delhi by the Persian Nadir Shah in 1739 diverted trade routes their way.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

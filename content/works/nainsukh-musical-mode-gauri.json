@@ -1,0 +1,110 @@
+{
+  "id": "nainsukh-musical-mode-gauri",
+  "artist": "nainsukh",
+  "title": "The Musical Mode, Gauri",
+  "date": "c. 1770",
+  "year": 1770,
+  "medium": "gouache paint, gold on paper",
+  "dimensions": "24.2 × 18.7 cm",
+  "museum": {
+    "name": "San Diego Museum of Art (1990.1227)",
+    "url": "https://collection.sdmart.org/objects-1/info/6223"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Musical_Mode%2C_Gauri_%286124588729%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1622,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The Musical Mode, Gauri (6124588729).jpg)"
+  },
+  "archive": {
+    "wd": "Q100291247"
+  },
+  "phase": {
+    "label": "Final phase at Basohli, c. 1765–78",
+    "source": {
+      "label": "Wikipedia: “In his final phase at Basholi, from about 1765 until his death in 1778, Nainsukh returned to religious subject matter”",
+      "url": "https://en.wikipedia.org/wiki/Nainsukh"
+    }
+  },
+  "tags": [
+    {
+      "id": "opaque-watercolour",
+      "source": {
+        "label": "Wikidata record: gouache paint, gold on paper",
+        "url": "https://www.wikidata.org/wiki/Q100291247"
+      }
+    },
+    {
+      "id": "pahari-painting",
+      "source": {
+        "label": "Wikipedia: “Nainsukh was a famous master of the mid-18th century, followed by his family workshop”",
+        "url": "https://en.wikipedia.org/wiki/Pahari_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In his final phase at Basholi, from about 1765 until his death in 1778, Nainsukh returned to religious subject matter, but retaining his stylistic innovations. By the end of his career, with an active family workshop continuing his style, he was probably not executing the works himself anymore, but leaving them to his children and nephew as his artistic heirs.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nainsukh",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nainsukh",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "From the 16th through the 17th centuries, Ragamala paintings were created in most schools of Indian painting. Today, they are named accordingly as Pahari Ragamala, Rajasthan or Rajput Ragamala, Deccan Ragamala, and Mughal Ragamala.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ragamala paintings",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ragamala_paintings",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Ragamala paintings are a form of Indian miniature painting, a set of illustrative paintings of the Ragamala or \"Garland of Ragas\", depicting variations of the Indian musical modes called ragas. They stand as a classical example of the amalgamation of art, poetry and classical music in medieval India.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ragamala paintings",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ragamala_paintings",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "each raga is personified by a colour, mood, a verse describing a story of a hero and heroine (nayaka and nayika), it also elucidates the season and the time of day and night in which a particular raga is to be sung",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ragamala paintings",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ragamala_paintings",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

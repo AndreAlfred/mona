@@ -1,0 +1,131 @@
+{
+  "id": "schongauer-archangel-michael",
+  "artist": "martin-schongauer",
+  "title": "The Archangel Michael Piercing the Dragon",
+  "date": "c. 1475",
+  "year": 1470,
+  "medium": "engraving",
+  "dimensions": "Platemark: 16.2 x 11.5 cm (6 3/8 x 4 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1952.99"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.99/1952.99_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1952.99/1952.99_print.jpg",
+    "width": 639,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 130334
+  },
+  "phase": {
+    "label": "Early style at its turning point, mid-1470s",
+    "source": {
+      "label": "Hind: St. Michael “is another plate essentially in the early style, but almost at its turning point”",
+      "url": "https://archive.org/details/shorthistoryofen00hinduoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/130334"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The St. Michael and the Dragon (B. 53) is another plate essentially in the early style, but almost at its turning point, so fine and skilful is its engraving.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "28"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "St. Michael and the Dragon … could hardly have originated without some suggestion from the corresponding subjects in Schongauer's work",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "31"
+        },
+        "lead": "Hind, on a print by the Master of the Amsterdam Cabinet:"
+      },
+      {
+        "kind": "quote",
+        "text": "With Master E.S., he was the first northern printmaker not only to have his prints very widely copied by other printmakers, but to have his designs taken by painters, sculptors and artists in all media.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He portrayed the dragon as a hybrid creature with horns, bird talons, crayfish claws, snake-like tail, and fur. Its ugliness and spiky forms contrast with the graceful feathery wings of the archangel",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Archangel Michael Piercing the Dragon",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/130334",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In late medieval devotion, images of the Archangel Michael vanquishing the dragon were believed to be a protective tool that warded off evil.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Archangel Michael Piercing the Dragon",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/130334",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

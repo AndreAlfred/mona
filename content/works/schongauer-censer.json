@@ -1,0 +1,140 @@
+{
+  "id": "schongauer-censer",
+  "artist": "martin-schongauer",
+  "title": "A Censer",
+  "date": "c. 1480–90",
+  "year": 1480,
+  "medium": "engraving",
+  "dimensions": "Sheet: 26.4 x 21 cm (10 3/8 x 8 1/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1951.429"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1951.429/1951.429_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1951.429/1951.429_print.jpg",
+    "width": 711,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 128806
+  },
+  "phase": {
+    "label": "Mature engravings, 1480s",
+    "source": {
+      "label": "Cleveland Museum of Art record: dated c. 1480–90",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/128806"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/128806"
+      }
+    },
+    {
+      "id": "ornament-print",
+      "source": {
+        "label": "Wikipedia: “He also produced nine of the first ornament prints … There are also two prints of metalwork objects, a censer and crosier”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He also produced nine of the first ornament prints, initially intended to be used by craftsmen in various media, including woodcarvers and goldsmiths, as patterns for the elaborate and sophisticated designs. There are also two prints of metalwork objects, a censer and crosier.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Martin Schongauer",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+            "accessed": "2026-11-23",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Schongauer is the first German painter to be a significant engraver, although he seems to have had the family background and training in goldsmithing which was usual for early engravers.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He presumably taught his son the art of engraving, which is a distinct and difficult skill that goldsmiths had long used on metal vessels.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "On his father Caspar, a goldsmith:"
+      },
+      {
+        "kind": "quote",
+        "text": "With the arrival of the print, ornament prints became an important part of the output of printmakers, especially in Germany, and played a vital role in the rapid diffusion of new Renaissance styles to makers of all sorts of object.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Ornament (art)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Ornament_(art)",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Censers are liturgical containers swung back and forth on long chains to disperse incense during the celebration of the mass. In this print, Martin Schongauer exploited his early training as a goldsmith to create a detailed reproduction of a life-size censer.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "A Censer",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/128806",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the minute figurines of angels holding chains that crumple on the ground and cast slight shadows suggest that Schongauer's Censer could have been a close replica of an existing censer, or a model for a goldsmith.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "A Censer",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/128806",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}

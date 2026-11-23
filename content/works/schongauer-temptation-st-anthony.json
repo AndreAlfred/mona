@@ -1,0 +1,145 @@
+{
+  "id": "schongauer-temptation-st-anthony",
+  "artist": "martin-schongauer",
+  "title": "The Temptation of St. Anthony",
+  "date": "1470–75",
+  "year": 1465,
+  "medium": "engraving",
+  "dimensions": "Sheet: 29.9 x 22.1 cm (11 3/4 x 8 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1923.227"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1923.227/1923.227_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1923.227/1923.227_print.jpg",
+    "width": 678,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Dudley P. Allen Fund"
+  },
+  "archive": {
+    "cma": 105001
+  },
+  "phase": {
+    "label": "Early engravings, early 1470s",
+    "source": {
+      "label": "Wikipedia: “the most crowded and detailed, but highly organized, compositions are placed rather early … These include The Temptation of St Anthony”",
+      "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+    }
+  },
+  "tags": [
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium engraving",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/105001"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the most important printmaker north of the Alps before Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Martin_Schongauer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Schongauer's most formative print was his Bedeviling of Saint Anthony … which sums up the spooky drolleries that the late Middle Ages shaped into [gargoyles] and misericords and painted on the margins of books.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His power of fantasy, akin to the grotesque in Gothic, is wonderfully exemplified in the St. Anthony tempted by Devils",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "28"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The demons in his The Temptation of St Anthony established the hybrids of fish, bird and insect types followed by Hieronymus Bosch and other artists throughout the next century.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Martin Schongauer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+          "accessed": "2026-11-23",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Monsters patched together out of giblets from fish and poultry stalls here congregate in one engraving … that spawned a whole category of art.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "there had come to Florence at that time a scene by the above-named Martino, of the [Devils] beating S. Anthony, engraved on copper, and Michelagnolo copied it with the pen in such a manner that it could not be detected, and then painted that same sheet in colours",
+        "source": {
+          "author": "Giorgio Vasari",
+          "title": "Life of Michelagnolo Buonarroti, in Lives of the Most Eminent Painters, Sculptors & Architects, vol. IX (trans. Gaston du C. de Vere)",
+          "publisher": "Medici Society (Internet Archive scan)",
+          "year": "1568",
+          "url": "https://archive.org/details/cu31924020574202",
+          "readAt": "https://archive.org/stream/cu31924020574202/cu31924020574202_djvu.txt",
+          "accessed": "2026-11-23",
+          "tier": 2,
+          "license": "Public domain"
+        },
+        "lead": "Vasari, on the boy Michelangelo:"
+      },
+      {
+        "kind": "quote",
+        "text": "Nine whimsical monsters—composed of reptilian, mammalian, and fish- and bird-like parts—flap, blow, and grasp a stiff and indifferent Saint Anthony. With his firm discipline, the saint epitomizes the Christian's struggle to resist evil temptations.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Temptation of St. Anthony",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/105001",
+          "accessed": "2026-11-23",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-23",
+    "by": "claude-routine"
+  }
+}
