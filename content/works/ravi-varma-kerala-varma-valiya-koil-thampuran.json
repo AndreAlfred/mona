@@ -1,0 +1,112 @@
+{
+  "id": "ravi-varma-kerala-varma-valiya-koil-thampuran",
+  "artist": "raja-ravi-varma",
+  "title": "Kerala Varma Valiya Koil Thampuran",
+  "date": "1880",
+  "year": 1880,
+  "medium": "oil paint on canvas",
+  "dimensions": "137 × 106 cm",
+  "museum": {
+    "name": "Sree Chitra Art Gallery",
+    "url": "https://www.wikidata.org/wiki/Q107433652"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg/1280px-Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg/2560px-Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1537,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kerala Varma Valiya Koil Thampuran Changanassery Lakshmipuram Palace.jpg)"
+  },
+  "archive": {
+    "wd": "Q107433652"
+  },
+  "phase": {
+    "label": "Portraits for the Travancore royal circle, 1880s",
+    "source": {
+      "label": "Encyclopaedia Britannica (quoted on Wikiquote): “He became a much-sought-after artist among both the Indian nobility and the Europeans in India, who commissioned him to paint their portraits.”",
+      "url": "https://en.wikiquote.org/wiki/Raja_Ravi_Varma"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia caption: “Painting of Kerala Varma Valiya Koil Thampuran”",
+        "url": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q107433652"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Kerala Varma is also known as the Kalidasa of Kerala, and was both brother-in-law and cousin to painter Raja Ravi Varma, also a prince of Parappanad, though from the Kilimanoor branch, whom he presented with his first oil paints.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kerala Varma Valiya Koil Thampuran",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kerala_Varma_Valiya_Koil_Thampuran",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Kerala Varma has been called \"a colossal Renaissance figure in 19th century Kerala\" and \"perhaps the first of the major [Malayalam language] writers who consciously and deliberately began to absorb and celebrate the Western influence\" on his native literature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kerala Varma Valiya Koil Thampuran",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kerala_Varma_Valiya_Koil_Thampuran",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Matters took a turn for the worse when, with the sanction of the Paramount Power, who were apprised of facts, Kerala Varma was arrested by the Maharajah in 1875 and imprisoned at Alapuzha in north Travancore.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bharani Thirunal Lakshmi Bayi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1880, Maharajah Ayilyam Thirunal died and was succeeded by Visakham Thirunal. He immediately ordered the release of Kerala Varma. Thus, after a period of five years, the Rani was reunited with her husband.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bharani Thirunal Lakshmi Bayi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        },
+        "lead": "The year this portrait is dated:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

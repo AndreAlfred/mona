@@ -1,0 +1,141 @@
+{
+  "id": "hilliard-young-man-among-roses",
+  "artist": "nicholas-hilliard",
+  "title": "Young Man Among Roses",
+  "date": "c. 1587",
+  "year": 1587,
+  "medium": "watercolor paint on vellum, cardboard",
+  "dimensions": "13 × 7 cm",
+  "museum": {
+    "name": "Victoria and Albert Museum (P.163-1910)",
+    "url": "https://www.wikidata.org/wiki/Q21082977"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Nicholas_Hilliard_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 2251,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nicholas Hilliard 013.jpg)"
+  },
+  "archive": {
+    "wd": "Q21082977"
+  },
+  "phase": {
+    "label": "The Gutter Lane workshop, 1580s",
+    "source": {
+      "label": "Wikipedia: “After his return from France he lived and worked in a house in Gutter Lane, off Cheapside, from 1579 to 1613”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: “Nicholas Hilliard's Young Man Among Roses; 1587”, in the tradition of the portrait miniature",
+        "url": "https://en.wikipedia.org/wiki/English_art"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Howe then the curious drawer wach, and as it [were] catch thesse louely graces, wittye smilings, and thesse stolne glances which sudainely like lighting passe and another countenance taketh place",
+          "source": {
+            "author": "Nicholas Hilliard",
+            "title": "A Treatise Concerning the Arte of Limning (c. 1600), ed. Philip Norman",
+            "publisher": "The Walpole Society, vol. 1 (Internet Archive scan)",
+            "year": "1912",
+            "url": "https://archive.org/details/volumeofwalpoles01walpuoft",
+            "readAt": "https://archive.org/stream/volumeofwalpoles01walpuoft/volumeofwalpoles01walpuoft_djvu.txt",
+            "tier": 1,
+            "accessed": "2026-11-24"
+          },
+          "lead": "Hilliard on what a limner must capture:"
+        }
+      ]
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia caption: “Melancholy youth representing the Earl of Essex, c.1588, miniature by Nicholas Hilliard”",
+        "url": "https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Young Man Among Roses, c. 1585–1595, Victoria & Albert Museum. Believed to be Robert Devereux, 2nd Earl of Essex",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Melancholy youth representing the Earl of Essex, c.1588, miniature by Nicholas Hilliard",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Robert Devereux, 2nd Earl of Essex",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Nicholas Hilliard (c. 1547–7 January 1619) – \"the first native-born genius of English painting\" – began a strong English tradition in the portrait miniature.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "English art",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/English_art",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Courtiers wore the image of the Queen to signify their devotion, and had their portraits painted wearing her colours of black and white.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portraiture of Elizabeth I",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portraiture_of_Elizabeth_I",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In other paintings, she holds or wears a red rose, symbol of the Tudor Dynasty's descent from the House of Lancaster, or white roses, symbols of the House of York and of maidenly chastity.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portraiture of Elizabeth I",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portraiture_of_Elizabeth_I",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        },
+        "lead": "On the roses of Elizabeth’s imagery:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

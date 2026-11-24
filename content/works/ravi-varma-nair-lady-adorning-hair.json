@@ -1,0 +1,115 @@
+{
+  "id": "ravi-varma-nair-lady-adorning-hair",
+  "artist": "raja-ravi-varma",
+  "title": "Nair Lady Adorning Her Hair",
+  "date": "1873",
+  "year": 1873,
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q52252533"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nair_Lady_Adorning_Her_Hair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1796,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nair Lady Adorning Her Hair.jpg)"
+  },
+  "archive": {
+    "wd": "Q52252533"
+  },
+  "phase": {
+    "label": "Breakthrough in Madras and Vienna, 1873",
+    "source": {
+      "label": "Wikipedia: “the first major award-winning work that Ravi Varma had completed”",
+      "url": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia infobox: “Oil on Canvas”",
+        "url": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: “The painting depicts a domestic scene”",
+        "url": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)"
+      }
+    },
+    {
+      "id": "academic-art",
+      "source": {
+        "label": "Wikipedia: “Ravi Varma was trained in the European styles of painting——employing the techniques for illusionism and oil painting”",
+        "url": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting was notable for being the first major award-winning work that Ravi Varma had completed. Receiving praise at the international and national level, the painting had brought the young Ravi Varma into the attention of the global artistic community, as well as leading him on to later become one of the most well known modern Indian painters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nair Lady Adorning Her Hair (Varma)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painting was awarded the first prize, the prestigious Governor's Gold Medal, when it was presented at the Madras Fine Arts Society Exhibition of 1873, bringing Raja Ravi Varma into the limelight. He also received a Certificate of Merit at the International Exhibition held in Vienna for the painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nair Lady Adorning Her Hair (Varma)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Later, he was trained in water painting by Rama Swami Naidu and rather reluctantly in oil painting by British portraitist Theodore Jenson.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raja Ravi Varma",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Ravi Varma's paintings of Nair women in general were seen as part of a turning point in the discourse on female sexuality within the matrilineal context. It has been described that a notable feature about Ravi Varma's paintings of such women were the passive beauty and unerotic sensuality.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nair Lady Adorning Her Hair (Varma)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

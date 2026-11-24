@@ -1,0 +1,124 @@
+{
+  "id": "hilliard-lyte-jewel",
+  "artist": "nicholas-hilliard",
+  "title": "The Lyte Jewel",
+  "date": "1610",
+  "year": 1610,
+  "medium": "gold, diamond, vitreous enamel on vellum",
+  "museum": {
+    "name": "British Museum (WB.167)",
+    "url": "https://www.britishmuseum.org/collection/object/H_WB-167"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Waddesdon_Bequest%2C_British_Museum_DSCF9632_09.JPG/1280px-Waddesdon_Bequest%2C_British_Museum_DSCF9632_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1728,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Waddesdon Bequest, British Museum DSCF9632 09.JPG)"
+  },
+  "archive": {
+    "wd": "Q137006020"
+  },
+  "phase": {
+    "label": "Under James I, 1603–1619",
+    "source": {
+      "label": "Wikipedia: “He was in high favour with James I as well as with Elizabeth”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: Hilliard produced “jewelled lockets for miniatures … such as the Lyte Jewel in the British Museum”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “a miniature portrait of himself [James I] as a young man by Nicholas Hilliard”",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Lyte_(antiquary)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He continued to work as a goldsmith, and produced some spectacular \"picture boxes\" or jewelled lockets for miniatures, worn round the neck, such as the Lyte Jewel in the British Museum, which, typically, was given by James I (more generous in this respect than Elizabeth) to a courtier, Thomas Lyte, in 1610.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I am disposed to attribute to Isaac Oliver the painting contained in the celebrated Lyte jewel",
+        "source": {
+          "author": "George C. Williamson",
+          "title": "The History of Portrait Miniatures, vol. 1",
+          "publisher": "George Bell and Sons (Internet Archive scan)",
+          "year": "1904",
+          "url": "https://archive.org/details/gri_33125009509601",
+          "readAt": "https://archive.org/stream/gri_33125009509601/gri_33125009509601_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-24"
+        },
+        "lead": "An older view of the attribution, from 1904:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "many of his later repetitions of James I and his family are much weaker than his early works. James did not like sitting for his portrait and Hilliard probably had few sittings with him.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Lyte is best remembered today for drawing up a most royally ennobled genealogy of James I, known as the Lyte Pedigree, which he presented to the king.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Thomas Lyte (antiquary)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Thomas_Lyte_(antiquary)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In return James I gave Lyte a pendant jewel containing a miniature portrait of himself as a young man by Nicholas Hilliard in an oval gold frame set with twenty-five square table diamonds and four rose diamonds, with a cover in open-work with diamonds on the outside and enamel within.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Thomas Lyte (antiquary)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Thomas_Lyte_(antiquary)",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "hilliard-self-portrait-1577",
+  "artist": "nicholas-hilliard",
+  "title": "Self-portrait, aged 30",
+  "date": "1577",
+  "year": 1577,
+  "medium": "watercolor paint, card stock on vellum",
+  "museum": {
+    "name": "Victoria and Albert Museum (P.155-1910)",
+    "url": "https://www.wikidata.org/wiki/Q107106081"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Nicholas_Hilliard_021_%282%29.jpg/1280px-Nicholas_Hilliard_021_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1202,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nicholas Hilliard 021 (2).jpg)"
+  },
+  "archive": {
+    "wd": "Q107106081"
+  },
+  "phase": {
+    "label": "In France, 1576–79",
+    "source": {
+      "label": "Wikipedia: “in 1576 the recently married Hilliard left for France … He remained until 1578–79”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "self-portrait",
+      "source": {
+        "label": "Wikidata: “Self-portrait, aged 30”",
+        "url": "https://www.wikidata.org/wiki/Q107106081"
+      }
+    },
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: Hilliard was “best known for his portrait miniatures”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He remained until 1578–79, mixing in the artistic circles round the court, staying with Germain Pilon and George of Ghent, respectively the Queen's sculptor and painter, and meeting Ronsard",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        },
+        "lead": "In Paris:"
+      },
+      {
+        "kind": "quote",
+        "text": "Hilliard painted a portrait of himself at the age of 13 in 1560",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "in 1576 the recently married Hilliard left for France \"with no other intent than to increase his knowledge by this voyage, and upon hope to get a piece of money of the lords and ladies here for his better maintenance in England at his return\", carefully reported the English Ambassador in Paris, Sir Amyas Paulet",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Now therfor I wish it weare so that none should medle with limning but gentelmen alone, for that it is a kind of gentill painting of lesse subiection then any other ; for one may leaue when hee will, his coullers nor his work taketh any harme by it.",
+        "source": {
+          "author": "Nicholas Hilliard",
+          "title": "A Treatise Concerning the Arte of Limning (c. 1600), ed. Philip Norman",
+          "publisher": "The Walpole Society, vol. 1 (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/volumeofwalpoles01walpuoft",
+          "readAt": "https://archive.org/stream/volumeofwalpoles01walpuoft/volumeofwalpoles01walpuoft_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Hilliard, in his treatise on limning:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

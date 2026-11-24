@@ -1,0 +1,125 @@
+{
+  "id": "hilliard-earl-of-cumberland",
+  "artist": "nicholas-hilliard",
+  "title": "George Clifford, 3rd Earl of Cumberland",
+  "date": "c. 1590",
+  "year": 1590,
+  "medium": "fruitwood panel, watercolor paint, gouache paint on vellum",
+  "dimensions": "258 × 176 mm",
+  "museum": {
+    "name": "Royal Museums Greenwich (MNT0193)",
+    "url": "https://www.wikidata.org/wiki/Q107157792"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Nicholas_Hilliard_003.jpg/1280px-Nicholas_Hilliard_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1804,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nicholas Hilliard 003.jpg)"
+  },
+  "archive": {
+    "wd": "Q107157792"
+  },
+  "phase": {
+    "label": "Cabinet miniatures, c. 1590–95",
+    "source": {
+      "label": "Wikipedia: “He mostly painted small oval miniatures, but also some larger cabinet miniatures, up to about 10 inches (25 centimetres) tall”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: “Large miniature of George Clifford, 3rd Earl of Cumberland, by Hilliard, c. 1590”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “his portrait miniature by Nicholas Hilliard (c. 1590, now National Maritime Museum)”",
+        "url": "https://en.wikipedia.org/wiki/George_Clifford,_3rd_Earl_of_Cumberland"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Large miniature of George Clifford, 3rd Earl of Cumberland, by Hilliard, c. 1590, after his appointment as the Queen's Champion, in tilting attire (which survives) with the Queen's glove as her favour pinned to his hat.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Every jewel, every thread of lace, and every detail of costume is painted with faultless accuracy and care, and the miniatures are triumphs of skill and vividly record the appearance of the heroes of that romantic period of history.",
+        "source": {
+          "author": "George C. Williamson",
+          "title": "The History of Portrait Miniatures, vol. 1",
+          "publisher": "George Bell and Sons (Internet Archive scan)",
+          "year": "1904",
+          "url": "https://archive.org/details/gri_33125009509601",
+          "readAt": "https://archive.org/stream/gri_33125009509601/gri_33125009509601_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Williamson, on Hilliard’s full-length miniatures of Cumberland and Leicester:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The tilts combined theatrical elements with jousting, in which Elizabeth's courtiers competed to outdo each other in allegorical armour and costume, poetry, and pageantry to exalt the queen and her realm of England.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Accession Day tilt",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Accession_Day_tilt",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Clifford rose in the world as an accomplished jouster, and became Queen Elizabeth's second Champion on the retirement of Sir Henry Lee of Ditchley.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "George Clifford, 3rd Earl of Cumberland",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/George_Clifford,_3rd_Earl_of_Cumberland",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On the other hand, he was a gambler and a spendthrift, a faithless husband, and later, for several years before his death, was separated from his wife.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "George Clifford, 3rd Earl of Cumberland",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/George_Clifford,_3rd_Earl_of_Cumberland",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

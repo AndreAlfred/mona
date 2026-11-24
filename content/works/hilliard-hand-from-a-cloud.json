@@ -1,0 +1,98 @@
+{
+  "id": "hilliard-hand-from-a-cloud",
+  "artist": "nicholas-hilliard",
+  "title": "Unknown Man Clasping a Hand from a Cloud",
+  "date": "1588",
+  "year": 1588,
+  "medium": "watercolor paint on vellum, cardboard",
+  "dimensions": "60 × 49.5 mm",
+  "museum": {
+    "name": "Victoria and Albert Museum (P.21-1942)",
+    "url": "https://collections.vam.ac.uk/item/O16580/unknown-man-clasping-a-hand-portrait-miniature-hilliard-nicholas/"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Nicholas_Hilliard_015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1452,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nicholas Hilliard 015.jpg)"
+  },
+  "archive": {
+    "wd": "Q107142803"
+  },
+  "phase": {
+    "label": "The Gutter Lane workshop, 1580s",
+    "source": {
+      "label": "Wikipedia: “After his return from France he lived and worked in a house in Gutter Lane, off Cheapside, from 1579 to 1613”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: Hilliard was “best known for his portrait miniatures”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “A Man Clasping a Hand from a Cloud, by Nicholas Hilliard dated 1588”",
+        "url": "https://en.wikipedia.org/wiki/Portraits_of_Shakespeare"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The colours are opaque, and gold is used to heighten the effect, while the paintings are on card. They are often signed, and have frequently also a Latin motto upon them.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait miniature",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_miniature",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        },
+        "lead": "Of Hilliard’s miniatures in general:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "They were often painted when a family member was going to be absent for a significant period, whether a husband or son going to war, a loved one emigrating, or a daughter getting married.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portrait miniature",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portrait_miniature",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "A Man Clasping a Hand from a Cloud, by Nicholas Hilliard dated 1588. This was identified as Shakespeare by Leslie Hotson in his book Shakespeare by Hilliard (1977). Sceptical scholars believe this is unlikely. Roy Strong suggested that it is Lord Thomas Howard, first Earl of Suffolk.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portraits of Shakespeare",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portraits_of_Shakespeare",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

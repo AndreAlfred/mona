@@ -1,0 +1,110 @@
+{
+  "id": "ravi-varma-tilottama",
+  "artist": "raja-ravi-varma",
+  "title": "Tilottama",
+  "date": "1896",
+  "year": 1896,
+  "medium": "chromolithography",
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q3275998"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Half-clothed_Tilottama_flying_in_the_sky_playing_with_a_red_Wellcome_V0045104.jpg/1280px-Half-clothed_Tilottama_flying_in_the_sky_playing_with_a_red_Wellcome_V0045104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1644,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Half-clothed Tilottama flying in the sky playing with a red Wellcome V0045104.jpg)"
+  },
+  "archive": {
+    "wd": "Q3275998"
+  },
+  "phase": {
+    "label": "The Ravi Varma Press, Bombay, from 1894",
+    "source": {
+      "label": "Wikipedia: “Ravi Varma started a lithographic printing press in Ghatkopar, Mumbai in 1894”",
+      "url": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Wikimedia Commons record (Wellcome Collection V0045104): medium “chromolithograph”",
+        "url": "https://commons.wikimedia.org/wiki/File:Half-clothed_Tilottama_flying_in_the_sky_playing_with_a_red_Wellcome_V0045104.jpg"
+      }
+    },
+    {
+      "id": "printmaking",
+      "source": {
+        "label": "Wikipedia: the press produced “oleographs … printed in thousands”",
+        "url": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The oleographs produced by the press were mostly of Hindu gods and goddesses in scenes adapted mainly from the Mahabharata, the Ramayana and the Puranas. These oleographs were very popular and continued to be printed in thousands for many years, even after the 1906 death of Ravi Varma.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raja Ravi Varma",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Ravi Varma’s work is but too well known and widely distributed in India through the medium of cheap oleographs, which do not even give it a fair chance.",
+        "source": {
+          "author": "Ananda K. Coomaraswamy",
+          "title": "Art and Swadeshi",
+          "publisher": "Ganesh & Co., Madras (Internet Archive scan)",
+          "url": "https://archive.org/details/gtu_32400004035394",
+          "readAt": "https://archive.org/stream/gtu_32400004035394/gtu_32400004035394_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Ananda Coomaraswamy, in Art and Swadeshi:"
+      },
+      {
+        "kind": "quote",
+        "text": "The Ravi Varma press was the largest and most innovative press in India at that time. The press was managed by Varma's brother, Raja Varma, but under their management, it was a commercial failure.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raja Ravi Varma",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the Hindu epic Mahabharata, Tilottama is described to have been created by the divine architect Vishvakarma, at Brahma's request, by taking the best quality of everything as the ingredients. She is responsible for bringing about the mutual destruction of the asuras (a class of malevolent beings), Sunda and Upasunda.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Tilottama",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Tilottama",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}
