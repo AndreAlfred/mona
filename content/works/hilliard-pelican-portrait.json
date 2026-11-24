@@ -1,0 +1,124 @@
+{
+  "id": "hilliard-pelican-portrait",
+  "artist": "nicholas-hilliard",
+  "title": "Elizabeth I: The Pelican Portrait",
+  "date": "c. 1575",
+  "year": 1575,
+  "medium": "oil paint on panel",
+  "dimensions": "78.7 × 61 cm",
+  "museum": {
+    "name": "Walker Art Gallery (WAG 2994)",
+    "url": "https://www.wikidata.org/wiki/Q104180756"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Nicholas_Hilliard_Elizabeth_I_The_Pelican_Portrait.jpg/1280px-Nicholas_Hilliard_Elizabeth_I_The_Pelican_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Nicholas_Hilliard_Elizabeth_I_The_Pelican_Portrait.jpg/2560px-Nicholas_Hilliard_Elizabeth_I_The_Pelican_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1559,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nicholas Hilliard Elizabeth I The Pelican Portrait.jpg)"
+  },
+  "archive": {
+    "wd": "Q104180756"
+  },
+  "phase": {
+    "label": "Limner to Elizabeth I, early 1570s",
+    "source": {
+      "label": "Wikipedia: Hilliard’s “first known miniature of the Queen is dated 1572”; the Phoenix and Pelican panels “are dated c. 1572–76”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “an oil painting of Queen Elizabeth I of England on a wood panel”",
+        "url": "https://en.wikipedia.org/wiki/Pelican_Portrait"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: a portrait of Elizabeth I “generally attributed to Nicholas Hilliard”",
+        "url": "https://en.wikipedia.org/wiki/Pelican_Portrait"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Best known for his miniatures, Hilliard is also known to have painted some larger portraits, such as this. The portrait has been compared in particular to one of Hilliard's known miniatures of the Queen.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pelican Portrait",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pelican_Portrait",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A technical analysis of the painting alongside another of the Queen from the same period, known as the Phoenix Portrait, was carried out in September 2010 and concluded that they came from the same workshop. The wooden panels on which they are painted were made from the same two oak trees, and the two face patterns match exactly in mirror image.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pelican Portrait",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pelican_Portrait",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Hilliard painted Elizabeth from life over many years from the early 1570s on and came nearest to being her appointed court painter. He was instrumental in building the Queen's image as an icon of virtue and splendour.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pelican Portrait",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pelican_Portrait",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "From the 1570s, the government sought to manipulate the image of the Queen as an object of devotion and veneration.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portraiture of Elizabeth I",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portraiture_of_Elizabeth_I",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The female pelican was then believed to feed its young with blood from its own body, and the one in the pendant has its wings outstretched and is pecking its breast. This is taken as an allusion to Elizabeth as a self-sacrificing mother of the English nation, and the Queen was herself fond of the symbolism of the pelican.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pelican Portrait",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pelican_Portrait",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

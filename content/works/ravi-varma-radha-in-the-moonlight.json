@@ -1,0 +1,111 @@
+{
+  "id": "ravi-varma-radha-in-the-moonlight",
+  "artist": "raja-ravi-varma",
+  "title": "Radha in the Moonlight",
+  "date": "1890",
+  "year": 1890,
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q140467993"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Radha_in_the_Moonlight.jpg/1280px-Radha_in_the_Moonlight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Radha_in_the_Moonlight.jpg/2560px-Radha_in_the_Moonlight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1671,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Radha in the Moonlight.jpg)"
+  },
+  "archive": {
+    "wd": "Q140467993"
+  },
+  "phase": {
+    "label": "Epic and mythological subjects, 1890s",
+    "source": {
+      "label": "Wikipedia: “His religious depictions of Hindu deities and works from Indian epic poetry and Puranas have received critical acclaim.”",
+      "url": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia infobox: “Oil on Canvas”",
+        "url": "https://en.wikipedia.org/wiki/Radha_in_the_Moonlight"
+      }
+    },
+    {
+      "id": "academic-art",
+      "source": {
+        "label": "Wikipedia: his works are “the fusion of European academic art with a purely Indian sensibility and iconography”",
+        "url": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting depicts Radha sitting beside shimmering water under moonlight, symbolising the blend of human and divine love associated with Radha and Krishna.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Radha in the Moonlight",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Radha_in_the_Moonlight",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He often modelled Hindu Goddesses on Indian women, whom he considered beautiful.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raja Ravi Varma",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I say ‘woman’ advisedly, because Ravi Varma’s divinities, in spite of their many arms, are very human, and often not very noble human types.",
+        "source": {
+          "author": "Ananda K. Coomaraswamy",
+          "title": "“The Influence of Modern Europe on Indian Art”, in Essays in National Idealism",
+          "publisher": "Internet Archive scan",
+          "year": "1909",
+          "url": "https://archive.org/details/in.ernet.dli.2015.213135",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.213135/2015.213135.Essays-In_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Ananda Coomaraswamy, criticising his goddesses in 1909:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Radha is portrayed as an idealising figure of beauty, grace and sensitivity reflecting the concept of the \"uttam nayika\" in classic Indian literature. Radha has the pooja thali, the platter of flower, and sweetmeat near her, the ritual of worship and adulation to be completed before the love play starts.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Radha in the Moonlight",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Radha_in_the_Moonlight",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

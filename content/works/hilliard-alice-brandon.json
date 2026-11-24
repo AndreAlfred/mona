@@ -1,0 +1,125 @@
+{
+  "id": "hilliard-alice-brandon",
+  "artist": "nicholas-hilliard",
+  "title": "Alice Brandon, Mrs Hilliard",
+  "date": "1578",
+  "year": 1578,
+  "medium": "watercolor paint on vellum, cardboard",
+  "dimensions": "5.1 × 4.1 cm",
+  "museum": {
+    "name": "Victoria and Albert Museum (P.2-1942)",
+    "url": "https://collections.vam.ac.uk/item/O16582/alice-brandon-mrs-hilliard-portrait-miniature-hilliard-nicholas/"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Nicholas_Hilliard_001.jpg/1280px-Nicholas_Hilliard_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1451,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Nicholas Hilliard 001.jpg)"
+  },
+  "archive": {
+    "wd": "Q107218383"
+  },
+  "phase": {
+    "label": "In France, 1576–79",
+    "source": {
+      "label": "Wikipedia caption: “Hilliard's wife Alice, an example of the influence from French art in his work. 1578”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: Hilliard was “best known for his portrait miniatures”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia caption: “Hilliard's wife Alice … 1578”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Hilliard's wife Alice, an example of the influence from French art in his work.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It is a portrait, in good condition, delicately wrought, of Alicia Brandon, whose features are delightful from their vivacity and ingenuousness.",
+        "source": {
+          "author": "J. J. Foster",
+          "title": "British Miniature Painters and Their Works",
+          "publisher": "Sampson Low, Marston & Co. (Internet Archive scan)",
+          "year": "1898",
+          "url": "https://archive.org/details/britishminiature00fost",
+          "readAt": "https://archive.org/stream/britishminiature00fost/britishminiature00fost_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He also learned from French art, including their chalk drawings, and refers to the artist and theoretical writer Gian Paolo Lomazzo.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This lady was the daughter of John Brandon, Chamberlain of the City of London, and Nicholas Hilliard married and painted her, as we see from the inscription",
+        "source": {
+          "author": "J. J. Foster",
+          "title": "British Miniature Painters and Their Works",
+          "publisher": "Sampson Low, Marston & Co. (Internet Archive scan)",
+          "year": "1898",
+          "url": "https://archive.org/details/britishminiature00fost",
+          "readAt": "https://archive.org/stream/britishminiature00fost/britishminiature00fost_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On 15 July 1576, at St Vedast church in Foster Lane, London, he married Brandon's daughter Alice (1556–1611) and they had seven children",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

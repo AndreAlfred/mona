@@ -1,0 +1,83 @@
+{
+  "id": "nicholas-hilliard",
+  "name": "Nicholas Hilliard",
+  "born": 1547,
+  "died": 1619,
+  "active": "c. 1560–1619",
+  "nationality": "English",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: Horenbout and Hilliard were “respectively the founder and the greatest exponent of the distinctively English tradition of the portrait miniature”",
+        "url": "https://en.wikipedia.org/wiki/Artists_of_the_Tudor_court"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "hans-holbein-the-younger",
+      "name": "Hans Holbein the Younger",
+      "source": {
+        "label": "Wikipedia: “The masters mentioned in The Art of Limning are Hans Holbein the Younger … and Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    }
+  ],
+  "wikidata": "Q318114",
+  "archive": {
+    "cma": [
+      2562
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Holbeans maner of limning I haue euer imitated and howld it for the best",
+      "source": {
+        "author": "Nicholas Hilliard",
+        "title": "A Treatise Concerning the Arte of Limning (c. 1600), ed. Philip Norman",
+        "publisher": "The Walpole Society, vol. 1 (Internet Archive scan)",
+        "year": "1912",
+        "url": "https://archive.org/details/volumeofwalpoles01walpuoft",
+        "readAt": "https://archive.org/stream/volumeofwalpoles01walpuoft/volumeofwalpoles01walpuoft_djvu.txt",
+        "tier": 1,
+        "accessed": "2026-11-24"
+      },
+      "lead": "In his own words, on his model:"
+    },
+    {
+      "kind": "quote",
+      "text": "He enjoyed continuing success as an artist, and continuing financial troubles, for forty-five years. His paintings still exemplify the visual image of Elizabethan England, very different from that of most of Europe in the late sixteenth century.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Nicholas Hilliard",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-24"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "our first great English miniaturist, whose portraits had a marvellous reputation in his lifetime and among his immediate successors.",
+      "source": {
+        "author": "Philip Norman",
+        "title": "Introductory note on Nicholas Hilliard’s Treatise concerning ‘The Arte of Limning’",
+        "publisher": "The Walpole Society, vol. 1 (Internet Archive scan)",
+        "year": "1912",
+        "url": "https://archive.org/details/volumeofwalpoles01walpuoft",
+        "readAt": "https://archive.org/stream/volumeofwalpoles01walpuoft/volumeofwalpoles01walpuoft_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-24"
+      },
+      "lead": "Philip Norman, introducing Hilliard’s treatise in 1912:"
+    }
+  ],
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

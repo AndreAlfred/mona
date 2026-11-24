@@ -1,0 +1,125 @@
+{
+  "id": "hilliard-phoenix-portrait",
+  "artist": "nicholas-hilliard",
+  "title": "Queen Elizabeth I (The Phoenix Portrait)",
+  "date": "1575",
+  "year": 1575,
+  "medium": "oil paint on panel",
+  "dimensions": "78.7 × 61 cm",
+  "museum": {
+    "name": "National Portrait Gallery (NPG 190)",
+    "url": "https://www.wikidata.org/wiki/Q28042627"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Queen_Elizabeth_I_by_Nicholas_Hilliard.jpg/1280px-Queen_Elizabeth_I_by_Nicholas_Hilliard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1574,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Queen Elizabeth I by Nicholas Hilliard.jpg)"
+  },
+  "archive": {
+    "wd": "Q28042627"
+  },
+  "phase": {
+    "label": "Limner to Elizabeth I, early 1570s",
+    "source": {
+      "label": "Wikipedia: Hilliard’s “first known miniature of the Queen is dated 1572”; the Phoenix and Pelican panels “are dated c. 1572–76”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikimedia Commons record (NPG 190): “oil on panel”",
+        "url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_I_by_Nicholas_Hilliard.jpg"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: “The Phoenix Portrait, c. 1575, attributed to Hilliard”",
+        "url": "https://en.wikipedia.org/wiki/Portraiture_of_Elizabeth_I"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Two panel portraits long attributed to him, the Phoenix and Pelican portraits, are dated c. 1572–76. These paintings are named after the jewels the queen wears, her personal badges of the pelican in her piety and the phoenix.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portraiture of Elizabeth I",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portraiture_of_Elizabeth_I",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The analysis discovered that the mouth, nose, and eyes of the Phoenix portrait have been altered and were first painted a little lower within the outline of the face",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Pelican Portrait",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Pelican_Portrait",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "However, Hilliard's panel portraits seem to have been found wanting at the time, and in 1576 the recently married Hilliard left for France to improve his skills.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Portraiture of Elizabeth I",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Portraiture_of_Elizabeth_I",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "for beauty and good fauor is like cleare truth, which is not shamed with the light, nor neede to bee obscured",
+        "source": {
+          "author": "Nicholas Hilliard",
+          "title": "A Treatise Concerning the Arte of Limning (c. 1600), ed. Philip Norman",
+          "publisher": "The Walpole Society, vol. 1 (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/volumeofwalpoles01walpuoft",
+          "readAt": "https://archive.org/stream/volumeofwalpoles01walpuoft/volumeofwalpoles01walpuoft_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Hilliard, arguing against heavy shadow in portraits:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Elizabeth was often connected to the phoenix, and she is referred to as the \"maiden phoenix\" in the play Henry VIII, partly written by Shakespeare",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Phoenix and the Turtle",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Phoenix_and_the_Turtle",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

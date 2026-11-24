@@ -1,0 +1,124 @@
+{
+  "id": "hilliard-earl-of-northumberland",
+  "artist": "nicholas-hilliard",
+  "title": "Henry Percy, 9th Earl of Northumberland",
+  "date": "1590",
+  "year": 1590,
+  "medium": "vellum, cardboard",
+  "dimensions": "257 × 173 mm",
+  "museum": {
+    "name": "Rijksmuseum (RP-T-1981-2)",
+    "url": "http://hdl.handle.net/10934/RM0001.COLLECT.327804"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Portret_van_een_liggende_edelman_in_een_begroeide_hof_Portret_van_Henry_Percy%2C_9th_Earl_of_Northumberland%2C_RP-T-1981-2.jpg/1280px-Portret_van_een_liggende_edelman_in_een_begroeide_hof_Portret_van_Henry_Percy%2C_9th_Earl_of_Northumberland%2C_RP-T-1981-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Portret_van_een_liggende_edelman_in_een_begroeide_hof_Portret_van_Henry_Percy%2C_9th_Earl_of_Northumberland%2C_RP-T-1981-2.jpg/2560px-Portret_van_een_liggende_edelman_in_een_begroeide_hof_Portret_van_Henry_Percy%2C_9th_Earl_of_Northumberland%2C_RP-T-1981-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1729,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Portret van een liggende edelman in een begroeide hof Portret van Henry Percy, 9th Earl of Northumberland, RP-T-1981-2.jpg)"
+  },
+  "archive": {
+    "wd": "Q107216104"
+  },
+  "phase": {
+    "label": "Cabinet miniatures, c. 1590–95",
+    "source": {
+      "label": "Wikipedia: “He mostly painted small oval miniatures, but also some larger cabinet miniatures, up to about 10 inches (25 centimetres) tall”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia caption: “Large portrait miniature by Nicholas Hilliard, 1590–95”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia caption: “Large portrait miniature by Nicholas Hilliard, 1590–95”",
+        "url": "https://en.wikipedia.org/wiki/Henry_Percy,_9th_Earl_of_Northumberland"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Henry Percy, 9th Earl of Northumberland, the \"Wizard Earl\", 1590–95.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Nicholas Hilliard",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Nicholas_Hilliard",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Around 1586, he first employed the artist Nicolas Hilliard, paying 60 shillings for his portrait.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Henry Percy, 9th Earl of Northumberland",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Henry_Percy,_9th_Earl_of_Northumberland",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He acquired the sobriquet The Wizard Earl (also given to Gerald FitzGerald, 11th Earl of Kildare), from his scientific and alchemical experiments, his passion for cartography, and his large library.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Henry Percy, 9th Earl of Northumberland",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Henry_Percy,_9th_Earl_of_Northumberland",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This theory of the \"diabolical triplicity\" rested on innuendo, about the occult interests supposedly cultivated by the intellectual circles led by Percy and Raleigh",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Henry Percy, 9th Earl of Northumberland",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Henry_Percy,_9th_Earl_of_Northumberland",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Under James I, Northumberland was a long-term prisoner in the Tower of London, due to the suspicion that he was complicit in the Gunpowder Plot.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Henry Percy, 9th Earl of Northumberland",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Henry_Percy,_9th_Earl_of_Northumberland",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

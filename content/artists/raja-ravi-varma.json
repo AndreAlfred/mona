@@ -1,0 +1,67 @@
+{
+  "id": "raja-ravi-varma",
+  "name": "Raja Ravi Varma",
+  "born": 1848,
+  "died": 1906,
+  "active": "1870s–1906",
+  "nationality": "Indian",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "academic-art",
+      "source": {
+        "label": "Wikipedia: his works are “the fusion of European academic art with a purely Indian sensibility and iconography”",
+        "url": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+      }
+    }
+  ],
+  "peers": [],
+  "wikidata": "Q333453",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Ravi Varma is the indisputable father figure of modern Indian art. Naive and ambitious at the same time, he opens up the debate for his later compatriots in the specific matter of defining individual genius through professional acumen",
+      "source": {
+        "author": "Geeta Kapur",
+        "title": "quoted in Wikipedia, “Raja Ravi Varma”",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+        "tier": 2,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-24"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "His works are one of the best examples of the fusion of European academic art with a purely Indian sensibility and iconography. He greatly enhanced his reach and influence as a painter and public figure by making affordable lithographs of his paintings available to the public.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Raja Ravi Varma",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-24"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He is the landmark of a great opportunity, not perhaps wholly missed, but ill availed of",
+      "source": {
+        "author": "Ananda K. Coomaraswamy",
+        "title": "“The Influence of Modern Europe on Indian Art”, in Essays in National Idealism",
+        "publisher": "Internet Archive scan",
+        "year": "1909",
+        "url": "https://archive.org/details/EssaysInNationalIdealism",
+        "readAt": "https://archive.org/stream/EssaysInNationalIdealism/EssaysInNationalIdealism_djvu.txt",
+        "tier": 3,
+        "accessed": "2026-11-24"
+      },
+      "lead": "The critic Ananda Coomaraswamy, in 1909:"
+    }
+  ],
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

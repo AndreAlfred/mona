@@ -1,0 +1,126 @@
+{
+  "id": "ravi-varma-lakshmi-bayi",
+  "artist": "raja-ravi-varma",
+  "title": "Maharani Bharani Thirunal Lakshmi Bayi",
+  "date": "1883",
+  "year": 1883,
+  "medium": "oil paint on canvas",
+  "dimensions": "135 × 105 cm",
+  "museum": {
+    "name": "Sree Chitra Art Gallery",
+    "url": "https://www.wikidata.org/wiki/Q107438882"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_%281848%E2%80%931901%29.jpg/1280px-Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_%281848%E2%80%931901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_%281848%E2%80%931901%29.jpg/2560px-Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_%281848%E2%80%931901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1516,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Rani Bharani Thirunal Lakshmi Bayi of Travancore (1848–1901).jpg)"
+  },
+  "archive": {
+    "wd": "Q107438882"
+  },
+  "phase": {
+    "label": "Portraits for the Travancore royal circle, 1880s",
+    "source": {
+      "label": "Encyclopaedia Britannica (quoted on Wikiquote): “He became a much-sought-after artist among both the Indian nobility and the Europeans in India, who commissioned him to paint their portraits.”",
+      "url": "https://en.wikiquote.org/wiki/Raja_Ravi_Varma"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia caption: “Painting of The Maharani by Raja Ravi Varma”",
+        "url": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q107438882"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In 1859 three suitable boys from chosen families were presented to her, including the famous artist Raja Ravi Varma. The Rani picked the brother of the Rajah of Parappanad, whose family had also settled in Travancore at Changanassery, namely Kerala Varma Valiya Koil Thampuran. Raja Ravi Varma later went on to marry her youngest sister",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bharani Thirunal Lakshmi Bayi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "but she herself in national costume, looks like a charming personification of India. She has a regular profile, pure features and magnificent large eyes, in fact all the beauty of her race.",
+        "source": {
+          "author": "Pierre Loti",
+          "title": "quoted in Wikipedia, “Bharani Thirunal Lakshmi Bayi”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+          "tier": 3,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        },
+        "lead": "Pierre Loti, who met her in 1900:"
+      },
+      {
+        "kind": "quote",
+        "text": "for her face does not seem to belong to our times, and it is only in old Indian miniatures that I have had a glimpse of such princesses.",
+        "source": {
+          "author": "Pierre Loti",
+          "title": "quoted in Wikipedia, “Bharani Thirunal Lakshmi Bayi”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+          "tier": 3,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "When the Rani's strong will and refusal to abandon her husband, amidst all pressures and tribulations, reached the ears of Queen Victoria, she admitted her in 1881 into the Order of the Crown of India.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Bharani Thirunal Lakshmi Bayi",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "My angel, my life, my darling, my all and all, my love, my pride, my idol, my sweetheart- alas! and what not- expired quietly at 8 pm.",
+        "source": {
+          "author": "Kerala Varma Valiya Koil Thampuran",
+          "title": "quoted in Wikipedia, “Bharani Thirunal Lakshmi Bayi”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+          "tier": 6,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        },
+        "lead": "Her husband’s diary, the night she died in 1901:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

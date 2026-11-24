@@ -1,0 +1,34 @@
+{
+  "id": "academic-art",
+  "kind": "style",
+  "name": "Academic art",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Academic art, academicism, or academism, is a style of painting and sculpture produced under the influence of European academies of art.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Academic art",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Academic_art",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-24"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The Bengal school arose as an avant garde and nationalist movement reacting against the academic art styles previously promoted in India, both by Indian artists such as Raja Ravi Varma and in British art schools.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Bengal School of Art",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Bengal_School_of_Art",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-24"
+      }
+    }
+  ],
+  "archiveTerm": "academic"
+}

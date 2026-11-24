@@ -1,0 +1,131 @@
+{
+  "id": "ravi-varma-there-comes-papa",
+  "artist": "raja-ravi-varma",
+  "title": "There Comes Papa",
+  "date": "1893",
+  "year": 1893,
+  "medium": "oil paint on canvas",
+  "dimensions": "125 × 81 cm",
+  "museum": {
+    "name": "Kowdiar Palace",
+    "url": "https://www.wikidata.org/wiki/Q55373382"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg/1280px-Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg/2560px-Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1878,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Raja Ravi Varma, There Comes Papa (1893).jpg)"
+  },
+  "archive": {
+    "wd": "Q55373382"
+  },
+  "phase": {
+    "label": "Paintings for the Chicago World’s Fair, 1893",
+    "source": {
+      "label": "Wikipedia: “part of a series of paintings titled \"The Life of Native Peoples\" that were shown in the 1893 World's Fair in Chicago”",
+      "url": "https://en.wikipedia.org/wiki/There_Comes_Papa"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikimedia Commons record: genre “double portrait”",
+        "url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_There_Comes_Papa_(1893).jpg"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia infobox: “Oil on canvas”",
+        "url": "https://en.wikipedia.org/wiki/There_Comes_Papa"
+      }
+    },
+    {
+      "id": "academic-art",
+      "source": {
+        "label": "Wikipedia: Varma “employed techniques from well-regarded European artists to represent the Indian ideals of domesticity and femininity”",
+        "url": "https://en.wikipedia.org/wiki/There_Comes_Papa"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting focuses on Varma's daughter (Mahaprabha Thampuratty) and grandson (Marthanda Varma), looking towards the left at an approaching father.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "There Comes Papa",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/There_Comes_Papa",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The figure of his daughter, believed to be modeled from a photograph, is dressed as was typical for an upper-class Nair, but the woman's stance is evocative of European styles.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "There Comes Papa",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/There_Comes_Papa",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The set of paintings were displayed in the ethnography section rather than the fine arts section. Varma was awarded two certificates of merit praising his realism, form, and detail, among other qualities.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "There Comes Papa",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/There_Comes_Papa",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "With the dog on her right, it is clearly a bourgeois offshoot of contemporary Victorian images of the expectant mother waiting for the father to complete the picture of the small, happy nuclear family. The central figure in the painting was Ravi Varma’s own daughter, someone whose own life was spent within the traditional tharavad, yet she is represented here as an icon for the new family ideal.",
+        "source": {
+          "author": "Niharika Dinkar",
+          "title": "quoted in Wikipedia, “There Comes Papa”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/There_Comes_Papa",
+          "tier": 2,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The absent but approaching father (who the audience would not know was approaching without reading the title) represents the Nair matrilineal system. The nuclear family depicted acts as a call for the end of matrilineality.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "There Comes Papa",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/There_Comes_Papa",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

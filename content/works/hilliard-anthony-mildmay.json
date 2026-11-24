@@ -1,0 +1,117 @@
+{
+  "id": "hilliard-anthony-mildmay",
+  "artist": "nicholas-hilliard",
+  "title": "Sir Anthony Mildmay, Knight of Apethorpe, Northamptonshire",
+  "date": "c. 1590–93",
+  "year": 1585,
+  "medium": "Watercolor on vellum, laid on card, mounted on wood",
+  "dimensions": "Sheet: 23.2 x 17.1 cm (9 1/8 x 6 3/4 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1926.554"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1926.554/1926.554_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1926.554/1926.554_print.jpg",
+    "width": 664,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 108884
+  },
+  "phase": {
+    "label": "Cabinet miniatures, c. 1590–95",
+    "source": {
+      "label": "Wikipedia: “He mostly painted small oval miniatures, but also some larger cabinet miniatures, up to about 10 inches (25 centimetres) tall”",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+    }
+  },
+  "tags": [
+    {
+      "id": "portrait-miniature",
+      "source": {
+        "label": "Wikipedia: Hilliard was “best known for his portrait miniatures”",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Hilliard"
+      }
+    },
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Cleveland Museum of Art record: a portrait of Sir Anthony Mildmay",
+        "url": "https://clevelandart.org/art/1926.554"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Despite its small scale, this portrait reveals Nicholas Hilliard’s emulation of (and rivalry with) life-size court portraiture, while his meticulous attention to detail and use of costly materials like shell gold reflect the refined world of courtly tournaments.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Sir Anthony Mildmay, Knight of Apethorpe, Northamptonshire (1926.554)",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1926.554",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/108884",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "a tall mans picture exactly drawne but in the lenght of sixe inches shall shewe to be a taller mans picture then a littel mans picture",
+        "source": {
+          "author": "Nicholas Hilliard",
+          "title": "A Treatise Concerning the Arte of Limning (c. 1600), ed. Philip Norman",
+          "publisher": "The Walpole Society, vol. 1 (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/volumeofwalpoles01walpuoft",
+          "readAt": "https://archive.org/stream/volumeofwalpoles01walpuoft/volumeofwalpoles01walpuoft_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Hilliard, on scale:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This train of thought leads him on to recall a conversation that he once had with Sir Philip Sidney, who asked him how he could express on a small scale the difference in figure between a tall man and a short one.",
+        "source": {
+          "author": "Philip Norman",
+          "title": "Introductory note on Nicholas Hilliard’s Treatise concerning ‘The Arte of Limning’",
+          "publisher": "The Walpole Society, vol. 1 (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/volumeofwalpoles01walpuoft",
+          "readAt": "https://archive.org/stream/volumeofwalpoles01walpuoft/volumeofwalpoles01walpuoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Philip Norman, summarising the treatise:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Framed by the folds of a circular tent, Sir Anthony Mildmay strikes a relaxed and confident pose, with his right hand resting on a cloth-covered table and his left grasping the hilt of his thin, double-edged sword called a rapier. Helmet, gauntlet, and leg coverings are scattered about, as if Mildmay has been interrupted in the act of putting on or taking off his armor.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Sir Anthony Mildmay, Knight of Apethorpe, Northamptonshire (1926.554)",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1926.554",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/108884",
+          "tier": 4,
+          "license": "CC0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}

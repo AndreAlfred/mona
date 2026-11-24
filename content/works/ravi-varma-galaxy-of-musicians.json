@@ -1,0 +1,118 @@
+{
+  "id": "ravi-varma-galaxy-of-musicians",
+  "artist": "raja-ravi-varma",
+  "title": "Galaxy of Musicians",
+  "date": "1889",
+  "year": 1889,
+  "medium": "oil paint on canvas",
+  "museum": {
+    "name": "Jaganmohan Palace",
+    "url": "https://www.wikidata.org/wiki/Q55373282"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raja_Ravi_Varma%2C_Galaxy_of_Musicians.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 942,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Raja Ravi Varma, Galaxy of Musicians.jpg)"
+  },
+  "archive": {
+    "wd": "Q55373282"
+  },
+  "phase": {
+    "label": "Commissions for the princely courts, 1880s",
+    "source": {
+      "label": "Wikipedia: “Originally painted for the Maharaja of Mysore”",
+      "url": "https://en.wikipedia.org/wiki/Galaxy_of_Musicians"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia infobox: “Oil on Canvas”",
+        "url": "https://en.wikipedia.org/wiki/Galaxy_of_Musicians"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikimedia Commons record: genre “genre art”",
+        "url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Galaxy_of_Musicians.jpg"
+      }
+    },
+    {
+      "id": "academic-art",
+      "source": {
+        "label": "Wikipedia: his works are “the fusion of European academic art with a purely Indian sensibility and iconography”",
+        "url": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting shows a group of Indian women from various backgrounds playing their traditional instruments; from the Muslim courtesan on the right to the Nair woman playing a veena on the left and Marathi woman at centre the painting emphasizes the dresses and adornments of women from all over India.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Galaxy of Musicians",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Galaxy_of_Musicians",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "For example, modern artist Nalini Malani recreated Ravi Varma's Galaxy of Musicians in her video installation Unity in Diversity to interrogate Ravi Varma's idealistic nationalism.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Raja Ravi Varma",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His art is not truly national—he merely plays with local colour.",
+        "source": {
+          "author": "Ananda K. Coomaraswamy",
+          "title": "“The Influence of Modern Europe on Indian Art”, in Essays in National Idealism",
+          "publisher": "Internet Archive scan",
+          "year": "1909",
+          "url": "https://archive.org/details/EssaysInNationalIdealism",
+          "readAt": "https://archive.org/stream/EssaysInNationalIdealism/EssaysInNationalIdealism_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-24"
+        },
+        "lead": "Ananda Coomaraswamy’s objection, 1909:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Originally painted for the Maharaja of Mysore, Ravi Varma focused in one painting on each group's customs and how they all characterized music.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Galaxy of Musicians",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Galaxy_of_Musicians",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-24"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-24",
+    "by": "claude-routine"
+  }
+}
