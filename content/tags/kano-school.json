@@ -1,0 +1,36 @@
+{
+  "id": "kano-school",
+  "kind": "style",
+  "name": "Kanō school",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Kanō school of painting was the dominant style of painting from the late 15th century until the Meiji period which began in 1868, by which time the school had divided into many different branches.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Kanō school",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+        "accessed": "2026-11-25",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The artists of the Kano school were the hereditary painters of the Tokugawa [dynasty]. … All were shizoku, and there was a rule that no person of the merchant class could be admitted as a pupil.",
+      "source": {
+        "author": "Josiah Conder",
+        "title": "Paintings and Studies by Kawanabé Kyōsai",
+        "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+        "year": "1911",
+        "url": "https://archive.org/details/paintingsstudie00cond",
+        "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+        "accessed": "2026-11-25",
+        "tier": 2
+      },
+      "lead": "Josiah Conder, who studied under a former Kanō painter:"
+    }
+  ],
+  "archiveTerm": "Kano"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "yokai",
+  "kind": "subject",
+  "name": "Yōkai",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Yōkai are a vast range of beings, including shapeshifters, ghosts, demons, and tricksters. They can be mischievous, helpful, or malevolent, often appearing as animal-like figures, possessed objects, or humanoids.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Yōkai",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Y%C5%8Dkai",
+        "accessed": "2026-11-25",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "goblins"
+}

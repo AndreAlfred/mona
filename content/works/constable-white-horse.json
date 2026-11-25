@@ -1,0 +1,155 @@
+{
+  "id": "constable-white-horse",
+  "artist": "john-constable",
+  "title": "The White Horse",
+  "date": "1819",
+  "year": 1819,
+  "medium": "oil paint on canvas",
+  "dimensions": "131.4 × 188.3 cm",
+  "museum": {
+    "name": "The Frick Collection (1943.1.147)",
+    "url": "http://collections.frick.org/view/objects/asitem/items$0040:80"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_White_Horse_by_John_Constable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 824,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (The White Horse by John Constable.jpg)"
+  },
+  "archive": {
+    "wd": "Q19857203"
+  },
+  "phase": {
+    "label": "The six-footers, 1819–25",
+    "source": {
+      "label": "Wikipedia: “a series of six monumental landscapes … now known as the 'six-footers'”",
+      "url": "https://en.wikipedia.org/wiki/John_Constable"
+    }
+  },
+  "tags": [
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “an oil-on-canvas landscape painting”",
+        "url": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Six feet was not an unprecedented size for a painting; many other paintings were wider or taller. … However, paintings of this size were reserved for more 'important' subjects, such as historical, religious or mythological topics.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The White Horse (Constable)",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)",
+            "accessed": "2026-11-25",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum record (Wikidata): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q19857203"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting marked a vital turning point in the artist's career. It was the first in a series of six so called 'six-footers', depicting scenes on the River Stour, which includes his celebrated work The Hay Wain.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The White Horse (Constable)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "There are generally in the life of an artist perhaps one, two or three pictures, on which hang more than usual interest – this is mine.",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 1826, quoted in “The White Horse (Constable)”",
+          "publisher": "Wikipedia",
+          "year": "1826",
+          "readAt": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)",
+          "accessed": "2026-11-25",
+          "tier": 1,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He does not give a sentiment, a soul to the exterior of Nature, as Mr TURNER does; he does not at all exalt the spectator’s mind, which Mr TURNER eminently does, but he gives her outward look, her complexion and physical countenance, with more exactness.",
+        "lead": "The Examiner’s critic, comparing it with Turner at the 1819 Academy:",
+        "source": {
+          "author": "Robert Hunt",
+          "title": "Review in The Examiner, 1819, quoted in “The White Horse (Constable)”",
+          "publisher": "Wikipedia",
+          "year": "1819",
+          "readAt": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)",
+          "accessed": "2026-11-25",
+          "tier": 3,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "For the first time, an artist was using extra-ordinary proportions for the most ordinary of English scenes",
+        "source": {
+          "author": "Nicola Moorby",
+          "title": "Turner and Constable: Art, Life, and Landscape (2025), quoted in “The White Horse (Constable)”",
+          "publisher": "Wikipedia",
+          "year": "2025",
+          "readAt": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)",
+          "accessed": "2026-11-25",
+          "tier": 2,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Constable was voted an Associate of the Royal Academy on the strength of it. The painting was purchased for 100 guineas by Constable's friend John Fisher",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The White Horse (Constable)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "This purchase finally provided Constable with financial security and it’s arguable that without it, he may have given up painting altogether.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The White Horse (Constable)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_White_Horse_(Constable)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

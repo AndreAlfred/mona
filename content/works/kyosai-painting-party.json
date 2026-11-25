@@ -1,0 +1,124 @@
+{
+  "id": "kyosai-painting-party",
+  "artist": "kawanabe-kyosai",
+  "title": "Calligraphy and Painting Party",
+  "date": "1880",
+  "year": 1880,
+  "medium": "hanging scroll; ink and color on paper",
+  "dimensions": "Painting only: 139 x 69 cm (54 3/4 x 27 3/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1983.88"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1983.88/1983.88_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1983.88/1983.88_print.jpg",
+    "width": 452,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Purchase from the J. H. Wade Fund"
+  },
+  "archive": {
+    "cma": 151543
+  },
+  "phase": {
+    "label": "Meiji-era fame, 1870s–1880s",
+    "source": {
+      "label": "Wikipedia: after the Meiji Restoration he renamed himself in 1871 and was known as a caricaturist",
+      "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art record: hanging scroll; ink and color on paper",
+        "url": "https://clevelandart.org/art/1983.88"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: ten bunjin (literati) completed the painting",
+        "url": "https://clevelandart.org/art/1983.88"
+      }
+    },
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Cleveland Museum of Art: each calligraphy and painting has a signature",
+        "url": "https://clevelandart.org/art/1983.88"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He relates an incident which happened at a large entertainment given to [distinguished] guests at the Enryokwan when he with two other painters were engaged to amuse the assembly by making paintings. Commencing about the middle of the day [Kyōsai] made over a hundred paintings in eight hours.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "His pupil Josiah Conder, from Kyōsai’s own account:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In this collaborative painting, artists create works in response to patrons’ requests. Kawanabe Kyōsai painted the figures and outlines of the screens and scrolls, and 10 bunjin completed them.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Calligraphy and Painting Party",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1983.88",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/151543",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Physician and calligrapher Nakane Hanrei (中根半嶺) (1831–1914) wrote “longevity” (壽) with an enormous ink-filled brush.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Calligraphy and Painting Party",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1983.88",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/151543",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the former case, should there be any fault in his paintings, it would be excusable, as they were made as a pastime for the guests, but the pictures deliberately carried out in his studio were his life’s work, to remain as evidence of the extent of his powers",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "His answer to an official who asked why such quick work did not come faster:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

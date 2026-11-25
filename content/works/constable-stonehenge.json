@@ -1,0 +1,125 @@
+{
+  "id": "constable-stonehenge",
+  "artist": "john-constable",
+  "title": "Stonehenge",
+  "date": "1835",
+  "year": 1835,
+  "museum": {
+    "name": "Victoria and Albert Museum (1629-1888)",
+    "url": "https://www.wikidata.org/wiki/Q138940684"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Constable_-_Stonehenge%2C_1629-1888%2C_2006AK8142.jpg/1280px-Constable_-_Stonehenge%2C_1629-1888%2C_2006AK8142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 795,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Constable - Stonehenge, 1629-1888, 2006AK8142.jpg)"
+  },
+  "archive": {
+    "wd": "Q138940684"
+  },
+  "phase": {
+    "label": "Late work, after Maria's death, 1829–37",
+    "source": {
+      "label": "Wikipedia: “This period saw his art move from the serenity of its earlier phase, to a more broken and accented style.”",
+      "url": "https://en.wikipedia.org/wiki/John_Constable"
+    }
+  },
+  "tags": [
+    {
+      "id": "watercolour",
+      "source": {
+        "label": "Wikipedia: “A watercolour it features a view of Stonehenge”",
+        "url": "https://en.wikipedia.org/wiki/Stonehenge_(painting)"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In the 18th century, watercolour painting, mostly of landscapes, became an English specialty, with both a buoyant market for professional works, and a large number of amateur painters",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Landscape painting",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Landscape_painting",
+            "accessed": "2026-11-25",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “an 1835 landscape painting”",
+        "url": "https://en.wikipedia.org/wiki/Stonehenge_(painting)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Constable's watercolours were also remarkably free for their time: the almost mystical Stonehenge, 1835, with its double rainbow, is often considered to be one of the greatest watercolours ever painted.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Constable",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Its expressive use of sky matches some of the experimental oil sketches he produced late in his career.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Stonehenge (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Stonehenge_(painting)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "By the beginning of the 19th century the English artists with the highest modern reputations were mostly dedicated landscape painters, showing the wide range of Romantic interpretations of the English landscape found in the works of John Constable, J. M. W. Turner, and Samuel Palmer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Landscape painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Landscape_painting",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The mysterious monument of Stonehenge, standing remote on a bare and boundless heath, as much unconnected with the events of past ages as it is with the uses of the present, carries you back beyond all historical records into the obscurity of a totally unknown period.",
+        "lead": "The text he hung with it at the 1836 Academy:",
+        "source": {
+          "author": "John Constable",
+          "title": "Text appended to the title, Royal Academy exhibition, 1836, quoted in “John Constable”",
+          "publisher": "Wikipedia",
+          "year": "1836",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 1,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "kyosai-shaka-goma",
+  "artist": "kawanabe-kyosai",
+  "title": "Shakyamuni Conquering the Demons (Shaka Gōma-zu)",
+  "date": "c. 1888",
+  "year": 1888,
+  "dimensions": "36.8 × 27.9 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (14.76.61.51)",
+    "url": "https://www.metmuseum.org/art/collection/search/54688"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kawanabe_Ky%C5%8Dsai_-_Shakyamuni_Conquering_the_Demons_%28Shaka_G%C5%8Dma-zu%29_-_14.76.61.51_-_Metropolitan_Museum_of_Art.jpg/1280px-Kawanabe_Ky%C5%8Dsai_-_Shakyamuni_Conquering_the_Demons_%28Shaka_G%C5%8Dma-zu%29_-_14.76.61.51_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kawanabe_Ky%C5%8Dsai_-_Shakyamuni_Conquering_the_Demons_%28Shaka_G%C5%8Dma-zu%29_-_14.76.61.51_-_Metropolitan_Museum_of_Art.jpg/2560px-Kawanabe_Ky%C5%8Dsai_-_Shakyamuni_Conquering_the_Demons_%28Shaka_G%C5%8Dma-zu%29_-_14.76.61.51_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1599,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kawanabe Kyōsai - Shakyamuni Conquering the Demons (Shaka Gōma-zu) - 14.76.61.51 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78750568"
+  },
+  "phase": {
+    "label": "Last years as the lay monk Jioku, 1885–89",
+    "source": {
+      "label": "Josiah Conder: about four years before his death he shaved his head and took the Buddhist name Jioku",
+      "url": "https://archive.org/details/paintingsstudie00cond"
+    }
+  },
+  "tags": [
+    {
+      "id": "buddhist-painting",
+      "source": {
+        "label": "Wikidata (museum record): genre religious art; depicts the Buddha",
+        "url": "https://www.wikidata.org/wiki/Q78750568"
+      }
+    },
+    {
+      "id": "kano-school",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "[Kyōsai] possessed an extensive knowledge of Buddhist history and [Buddhist] art. He had carefully studied and copied old paintings by Kose Kanaoka, [Takuma Hōin], and other famous Butsu-gwa painters",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Josiah Conder, his pupil:"
+      },
+      {
+        "kind": "quote",
+        "text": "It may be said of Kyosai that he died at the zenith of his powers, for his latest works, while losing none of the careful and cultivated execution of his earlier [productions], excel them in strength, and in originality of conception.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "he received his formal artistic training in the Kanō school under Maemura Tōwa (前村洞和, ? – 1841), who gave him the nickname \"The Painting Demon\", but Kyōsai soon abandoned the formal traditions for the greater freedom of the popular school.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kawanabe Kyōsai",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Kanō school of painting was the dominant style of painting from the late 15th century until the Meiji period which began in 1868, by which time the school had divided into many different branches.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In the story of the Awakening of Prince Siddhartha Māra appears as a powerful deva, trying to seduce him with his celestial army and a vision of beautiful maidens",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mara (demon)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Mara_(demon)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "The subject:"
+      },
+      {
+        "kind": "quote",
+        "text": "Mara, in Buddhism, refers to any form of malicious force hindering enlightenment.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Mara (demon)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Mara_(demon)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

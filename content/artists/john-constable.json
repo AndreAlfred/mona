@@ -1,0 +1,105 @@
+{
+  "id": "john-constable",
+  "name": "John Constable",
+  "born": 1776,
+  "died": 1837,
+  "active": "1799–1837",
+  "nationality": "British",
+  "period": "romantic",
+  "movements": [
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: “an English landscape painter in the Romantic tradition”",
+        "url": "https://en.wikipedia.org/wiki/John_Constable"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "joseph-mallord-william-turner",
+      "name": "J. M. W. Turner",
+      "source": {
+        "label": "Wikipedia: “For the first time, the art critics compared him with Turner”",
+        "url": "https://en.wikipedia.org/wiki/John_Constable"
+      }
+    },
+    {
+      "id": "thomas-girtin",
+      "name": "Thomas Girtin",
+      "source": {
+        "label": "Leslie: “it was fortunate for him that he began with Claude and Girtin”",
+        "url": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt"
+      }
+    },
+    {
+      "id": "thomas-gainsborough",
+      "name": "Thomas Gainsborough",
+      "source": {
+        "label": "Constable, writing from Ipswich: “I fancy I see Gainsborough in every hedge and hollow tree”",
+        "url": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt"
+      }
+    },
+    {
+      "id": "david-lucas",
+      "name": "David Lucas",
+      "source": {
+        "label": "Wikipedia: “Constable collaborated closely with mezzotinter David Lucas on 40 prints”",
+        "url": "https://en.wikipedia.org/wiki/John_Constable"
+      }
+    }
+  ],
+  "wikidata": "Q159297",
+  "archive": {
+    "aic": 34023,
+    "cma": [
+      1536
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "The world is wide; no two days are alike, nor even two hours; neither were there ever two leaves of a tree alike since the creation of the world; and the genuine productions of art, like those of nature, are all distinct from each other.",
+      "source": {
+        "author": "John Constable",
+        "title": "From Constable's papers, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+        "publisher": "Internet Archive",
+        "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+        "accessed": "2026-11-25",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "was an English landscape painter in the Romantic tradition. Born in Suffolk, he is known principally for revolutionising the genre of landscape painting with his pictures of Dedham Vale, the area on the borderland of Suffolk and north Essex surrounding his home",
+      "lead": "John Constable (1776–1837)",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "John Constable",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+        "accessed": "2026-11-25",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "I have seen him admire a fine tree with an ecstasy of delight like that with which he would catch up a beautiful child in his arms.",
+      "lead": "His friend and first biographer:",
+      "source": {
+        "author": "C. R. Leslie",
+        "title": "Life and Letters of John Constable, R.A. (1896 ed.)",
+        "publisher": "Internet Archive",
+        "year": "1843",
+        "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+        "accessed": "2026-11-25",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

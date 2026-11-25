@@ -1,0 +1,142 @@
+{
+  "id": "kyosai-shintomi-za-curtain",
+  "artist": "kawanabe-kyosai",
+  "title": "Theatre Curtain of Shintomi-za, with an Impromputu Sketch Monster",
+  "date": "1880",
+  "year": 1880,
+  "dimensions": "401 × 1704 cm",
+  "museum": {
+    "name": "Waseda University Tsubouchi Memorial Theatre Museum",
+    "url": "https://www.wikidata.org/wiki/Q112136995"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kawanabe_Ky%C5%8Dsai_-_Theatre_Curtain_of_the_Shintomi-za%2C_with_an_Impromptu_Sketch_Monsters.jpg/1280px-Kawanabe_Ky%C5%8Dsai_-_Theatre_Curtain_of_the_Shintomi-za%2C_with_an_Impromptu_Sketch_Monsters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kawanabe_Ky%C5%8Dsai_-_Theatre_Curtain_of_the_Shintomi-za%2C_with_an_Impromptu_Sketch_Monsters.jpg/2560px-Kawanabe_Ky%C5%8Dsai_-_Theatre_Curtain_of_the_Shintomi-za%2C_with_an_Impromptu_Sketch_Monsters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 296,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kawanabe Kyōsai - Theatre Curtain of the Shintomi-za, with an Impromptu Sketch Monsters.jpg)"
+  },
+  "archive": {
+    "wd": "Q112136995"
+  },
+  "phase": {
+    "label": "Meiji-era fame, 1870s–1880s",
+    "source": {
+      "label": "Wikipedia: after the Meiji Restoration he renamed himself in 1871 and was known as a caricaturist",
+      "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+    }
+  },
+  "tags": [
+    {
+      "id": "yokai",
+      "source": {
+        "label": "Wikipedia: “Theatre Curtain with Yokai by Kawanabe Kyōsai (1880)”",
+        "url": "https://en.wikipedia.org/wiki/Y%C5%8Dkai"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "They are also frequently depicted in ukiyo-e, and there are artists that have drawn famous yōkai like Utagawa Kuniyoshi, Yoshitoshi, Kawanabe Kyōsai, and Hokusai",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Yōkai",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Y%C5%8Dkai",
+            "accessed": "2026-11-25",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caricature",
+      "source": {
+        "label": "Wikimedia Commons description: the yōkai are modelled on popular kabuki actors",
+        "url": "https://commons.wikimedia.org/wiki/File:Kawanabe_Ky%C5%8Dsai_-_Theatre_Curtain_of_the_Shintomi-za,_with_an_Impromptu_Sketch_Monsters.jpg"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Kanagaki Robun, a playwright at the end of the Edo period and the Meiji era, presented the curtain to Shintomiza, a theater that represented Tokyo in the early Meiji period. On June 30, 1880 (Meiji 13), Kyosai, a friend of Robun, completed the work in four hours while enjoying sake.",
+        "source": {
+          "author": "Wikimedia Commons contributors",
+          "title": "File:Kawanabe Kyōsai - Theatre Curtain of the Shintomi-za, with an Impromptu Sketch Monsters.jpg",
+          "publisher": "Wikimedia Commons",
+          "readAt": "https://commons.wikimedia.org/wiki/File:Kawanabe_Ky%C5%8Dsai_-_Theatre_Curtain_of_the_Shintomi-za,_with_an_Impromptu_Sketch_Monsters.jpg",
+          "accessed": "2026-11-25",
+          "tier": 6,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Kyōsai's collaboration with the writer Kanagaki Robun is said to have begun when Robun met the painter while writing an account of the 1855 Edo earthquake, the day after it struck",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kawanabe Kyōsai",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The yōkai, modeled after popular actors such as Ichikawa Danjuro IX and Onoe Kikugoro V, who were representatives of the Kabuki world at the time, are drawn out of their kuzu baskets and rushing out into the audience at the Shintomiza Theater.",
+        "source": {
+          "author": "Wikimedia Commons contributors",
+          "title": "File:Kawanabe Kyōsai - Theatre Curtain of the Shintomi-za, with an Impromptu Sketch Monsters.jpg",
+          "publisher": "Wikimedia Commons",
+          "readAt": "https://commons.wikimedia.org/wiki/File:Kawanabe_Ky%C5%8Dsai_-_Theatre_Curtain_of_the_Shintomi-za,_with_an_Impromptu_Sketch_Monsters.jpg",
+          "accessed": "2026-11-25",
+          "tier": 6,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "before starting the huge drawing he asked for saké, and drank three long draughts from a large temple bowl.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Conder, on Kyōsai painting a sixty-foot temple ceiling dragon:"
+      },
+      {
+        "kind": "quote",
+        "text": "Hearing this, Kyosai started off to the temple and in three hours designed and completed the painting that he had put off for as many years.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "And on a shrine panel he had delayed for three years:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "kyosai-crows-plum-moon",
+  "artist": "kawanabe-kyosai",
+  "title": "Full Moon with Crow on Plum Branch",
+  "date": "1880s",
+  "year": 1880,
+  "medium": "color woodblock print",
+  "dimensions": "Overall: 37.5 x 52.1 cm (14 3/4 x 20 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1930.203"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.203/1930.203_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1930.203/1930.203_print.jpg",
+    "width": 900,
+    "height": 648,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Edward L. Whittemore"
+  },
+  "archive": {
+    "cma": 111673
+  },
+  "phase": {
+    "label": "Meiji-era fame, 1870s–1880s",
+    "source": {
+      "label": "Wikipedia: after the Meiji Restoration he renamed himself in 1871 and was known as a caricaturist",
+      "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art record: color woodblock print",
+        "url": "https://clevelandart.org/art/1930.203"
+      }
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: crow on plum branch",
+        "url": "https://clevelandart.org/art/1930.203"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "To the first Art Exhibition at [Ueno] in 1877, Kyosai sent a bold and [life-like] painting of a crow, fixing upon it the price of one hundred yen.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Josiah Conder on the bird that made his name:"
+      },
+      {
+        "kind": "quote",
+        "text": "a sketch of a catfish by Kyōsai that accompanied Robun's text became Kyōsai's first single-sheet ukiyo-e woodblock print",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "His career in prints began in 1855:",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The plum accompanies their squawking forms; Its fragrance assaults their feathers. Beautiful shadows of the branches in the moonlight Climb toward the study curtain.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Full Moon with Crow on Plum Branch",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1930.203",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/111673",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        },
+        "lead": "The poem printed with the image, in the museum’s translation:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "To this the painter replied that the sum named was not intended for the value of the bird represented, which everybody knew could be bought for a few sen, but that it was a very small part of the cost of the fifty years of study and practice which had enabled him to dash off the life-like painting in this manner.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "When the judges objected to the price:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

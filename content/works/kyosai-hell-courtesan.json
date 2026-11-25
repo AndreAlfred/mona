@@ -1,0 +1,147 @@
+{
+  "id": "kyosai-hell-courtesan",
+  "artist": "kawanabe-kyosai",
+  "title": "Hell Courtesan",
+  "date": "1871–89",
+  "year": 1871,
+  "medium": "Hanging scroll; ink, color, gold, and silver on silk",
+  "dimensions": "Image: 144.2 x 67.6 cm (56 3/4 x 26 5/8 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1985.268"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1985.268/1985.268_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1985.268/1985.268_print.jpg",
+    "width": 415,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Kelvin Smith Collection, given by Mrs. Kelvin Smith"
+  },
+  "archive": {
+    "cma": 152440
+  },
+  "phase": {
+    "label": "Meiji-era fame, 1870s–1880s",
+    "source": {
+      "label": "Wikipedia: after the Meiji Restoration he renamed himself in 1871 and was known as a caricaturist",
+      "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Cleveland Museum of Art record: hanging scroll; ink, color, gold, and silver on silk",
+        "url": "https://clevelandart.org/art/1985.268"
+      }
+    },
+    {
+      "id": "mitate-e",
+      "source": {
+        "label": "Cleveland Museum of Art: “a parody depiction of the garment”",
+        "url": "https://clevelandart.org/art/1985.268"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Here, in a parody depiction of the garment, the courtesan stands in for Benzaiten, the goddess of everything that flows, while the remaining members of the Seven Gods of Good Fortune appear on her outer robe.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Hell Courtesan",
+            "publisher": "The Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1985.268",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152440",
+            "accessed": "2026-11-25",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Kawanabe Kyōsai repeated this large-scale composition with variations a number of times.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Hell Courtesan",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1985.268",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152440",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One of the master’s most wonderful productions was a painting of the [Jigoku-dayū], a famous courtesan of the fifteenth century",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "His pupil Josiah Conder, on another version:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "For a considerable period from the year 1889, counterfeit Kyosai paintings were to be seen adorning the walls of residences worthy of more genuine works of art.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Conder on the market after the painter’s death:"
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In this version, a famous 15th-century courtesan known for wearing a robe with images of the Buddhist hells stands before a folding screen. Legend has it that she was abducted by bandits, and wore the garment to symbolize her belief that her suffering in her current life was punishment for sins committed in a former life.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Hell Courtesan",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1985.268",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152440",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One of them reports sins to Enma, the King of Hell, who is writing out his judgments on the recently deceased.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Hell Courtesan",
+          "publisher": "The Cleveland Museum of Art",
+          "url": "https://clevelandart.org/art/1985.268",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/152440",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

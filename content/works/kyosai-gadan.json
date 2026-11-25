@@ -1,0 +1,112 @@
+{
+  "id": "kyosai-gadan",
+  "artist": "kawanabe-kyosai",
+  "title": "Kyosai Gaden Gaihen (First Part)",
+  "date": "1887",
+  "year": 1887,
+  "dimensions": "9.5 × 6.75",
+  "museum": {
+    "name": "Vanderbilt Museum of Art (1978.111a)",
+    "url": "https://www.wikidata.org/wiki/Q103302228"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kyosai_Gaden_Gaihen_%28First_Part%29_-_Vanderbilt_Fine_Arts_Gallery_-_1978.111a.tif/lossy-page1-1280px-Kyosai_Gaden_Gaihen_%28First_Part%29_-_Vanderbilt_Fine_Arts_Gallery_-_1978.111a.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1600,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kyosai Gaden Gaihen (First Part) - Vanderbilt Fine Arts Gallery - 1978.111a.tif)"
+  },
+  "archive": {
+    "wd": "Q103302228"
+  },
+  "phase": {
+    "label": "Last years as the lay monk Jioku, 1885–89",
+    "source": {
+      "label": "Josiah Conder: about four years before his death he shaved his head and took the Buddhist name Jioku",
+      "url": "https://archive.org/details/paintingsstudie00cond"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Art Institute of Chicago record: Kyōsai gadan (1887), woodblock-printed book",
+        "url": "https://www.artic.edu/artworks/232532"
+      }
+    },
+    {
+      "id": "caricature",
+      "source": {
+        "label": "Josiah Conder: in the Gwa-den he “introduces the comic element”",
+        "url": "https://archive.org/details/paintingsstudie00cond"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The most important work about Kyōsai's art and life was written by himself: Kyōsai Gadan (暁斎画談, Kyōsai's Treatise on Painting), half autobiography and half painting manual.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kawanabe Kyōsai",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the references to the life of [Kyōsai] in these pages have been taken from the “[Kyōsai] Gwaden” an illustrated autobiographical work issued by the painter in 1887.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Conder built his biography of his teacher on it:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "On starting his own academy, [Kyōsai] attached paramount importance to [studies] and copies from Nature. The grounds round his studio were stocked with all kinds of living creatures which his pupils were set to draw from. In the Gwa-den he gives an amusing sketch of the students at work on different living objects, and introduces the comic element in the form of a monkey playing gymnastics",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "His first shock was at the age of nine when he picked up a human head separated from a corpse in the Kanda river.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "One of the childhood episodes in his life story:",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

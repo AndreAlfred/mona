@@ -1,0 +1,162 @@
+{
+  "id": "constable-stoke-by-nayland",
+  "artist": "john-constable",
+  "title": "Stoke-by-Nayland",
+  "date": "1836",
+  "year": 1836,
+  "medium": "Oil on canvas",
+  "dimensions": "126 × 169 cm (49 5/8 × 66 1/2 in.); Framed: 170.2 × 212.1 × 16.6 cm (67 × 83 1/2 × 6 1/2 in.)",
+  "museum": {
+    "name": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/4758"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/John_Constable_-_Stoke-by-Nayland_-_1922.4453_-_Art_Institute_of_Chicago.jpg/1280px-John_Constable_-_Stoke-by-Nayland_-_1922.4453_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/John_Constable_-_Stoke-by-Nayland_-_1922.4453_-_Art_Institute_of_Chicago.jpg/2560px-John_Constable_-_Stoke-by-Nayland_-_1922.4453_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 883,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Constable - Stoke-by-Nayland - 1922.4453 - Art Institute of Chicago.jpg)"
+  },
+  "archive": {
+    "aic": 4758
+  },
+  "phase": {
+    "label": "Late work, after Maria's death, 1829–37",
+    "source": {
+      "label": "Wikipedia: “This period saw his art move from the serenity of its earlier phase, to a more broken and accented style.”",
+      "url": "https://en.wikipedia.org/wiki/John_Constable"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-sketch",
+      "source": {
+        "label": "Art Institute of Chicago: “a full-scale sketch for a work that he never realized”",
+        "url": "https://www.artic.edu/artworks/4758"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Constable painted many full-scale preliminary sketches of his landscapes to test the composition in advance of finished pictures. These large sketches, with their free and vigorous brushwork, were revolutionary at the time",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "John Constable",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+            "accessed": "2026-11-25",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum record: oil on canvas",
+        "url": "https://www.artic.edu/artworks/4758"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Art Institute of Chicago: “Constable continued to portray the countryside”",
+        "url": "https://www.artic.edu/artworks/4758"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Painted as much with a palette knife as with brushes, Stoke-by-Nayland lacks the finish of pictures Constable exhibited publicly; it was meant as a full-scale sketch for a work that he never realized.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Stoke-by-Nayland",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/4758",
+          "readAt": "https://api.artic.edu/api/v1/artworks/4758?fields=id,title,description",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The large picture of Stoke was never painted; but a sketch of the subject furnished a plate for \"The English Landscape.\"",
+        "source": {
+          "author": "C. R. Leslie",
+          "title": "Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1843",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The impressive solemnity of a summer's noon, when attended as it often is during the heats of the season, by thunder clouds, is attempted to be expressed in this picture; at the same time, the appearance of a noon-day rainbow is hinted at, when the arc it describes is at its lowest.",
+        "lead": "His text for David Lucas’s mezzotint of the subject:",
+        "source": {
+          "author": "John Constable",
+          "title": "Text for the Stoke-by-Nayland plate of English Landscape Scenery, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1830s",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Constable collaborated closely with mezzotinter David Lucas on 40 prints after his landscapes, one of which went through 13 proof stages, corrected by Constable in pencil and paint.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Constable",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "What say you to a summer morning, July or August, at eight or nine o'clock, after a slight shower during the night, to enhance the dews in the shadowed part of the picture, under 'Hedgerow elms and hillocks green'?",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to William Purton, 1836, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1836",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Even after many years living in London, Constable continued to portray the countryside, dear to him from boyhood. Stoke-by-Nayland lies a few miles from his native village of East Bergholt in Suffolk.",
+        "source": {
+          "author": "Art Institute of Chicago",
+          "title": "Collection description: Stoke-by-Nayland",
+          "publisher": "Art Institute of Chicago",
+          "url": "https://www.artic.edu/artworks/4758",
+          "readAt": "https://api.artic.edu/api/v1/artworks/4758?fields=id,title,description",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC BY 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}
