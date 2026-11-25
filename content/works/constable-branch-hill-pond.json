@@ -1,0 +1,140 @@
+{
+  "id": "constable-branch-hill-pond",
+  "artist": "john-constable",
+  "title": "Branch Hill Pond, Hampstead",
+  "date": "1828",
+  "year": 1828,
+  "medium": "oil on canvas",
+  "dimensions": "Framed: 89 x 105.5 x 11.5 cm (35 1/16 x 41 9/16 x 4 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1972.48"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.48/1972.48_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1972.48/1972.48_print.jpg",
+    "width": 1155,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 147017
+  },
+  "phase": {
+    "label": "Hampstead sky studies, 1820s",
+    "source": {
+      "label": "Cleveland Museum of Art: “the summerhouse he rented at Hampstead from 1819–26”",
+      "url": "https://www.clevelandart.org/art/1972.48"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum record: oil on canvas",
+        "url": "https://www.clevelandart.org/art/1972.48"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “Constable painted a landscape”",
+        "url": "https://www.clevelandart.org/art/1972.48"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "An amateur meteorologist, John Constable was most at home painting meticulously observed cloud formations, weather conditions, and natural light effects.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Branch Hill Pond, Hampstead",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/1972.48",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147017",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "That landscape painter who does not make his skies a very material part of his composition neglects to avail himself of one of his greatest aids.",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 23 October 1821, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1821",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Working from the summerhouse he rented at Hampstead from 1819–26, Constable painted a landscape focusing more on the dark rain clouds than on the laborers in the foreground, keeping the details of their backbreaking work at a picturesque distance.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Branch Hill Pond, Hampstead",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/1972.48",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147017",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Branch Hill, then largely open countryside, was a favourite landscape of the artist John Constable and he painted it on a number of occasions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Branch Hill",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Branch_Hill_Pond",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "My wife is sadly ill at Brighton; her letter to-day is, however, cheerful. Hampstead, sweet Hampstead, is deserted.",
+        "lead": "In the spring of 1828:",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 11 June 1828, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1828",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "After the birth of their seventh child in January 1828, they returned to Hampstead where Maria died on 23 November at the age of 41.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Constable",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "constable-hay-wain",
+  "artist": "john-constable",
+  "title": "The Hay Wain",
+  "date": "1821",
+  "year": 1821,
+  "medium": "oil paint on canvas",
+  "dimensions": "130.2 × 185.4 cm",
+  "museum": {
+    "name": "National Gallery (NG1207)",
+    "url": "https://www.wikidata.org/wiki/Q2366825"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/1280px-John_Constable_-_The_Hay_Wain_%281821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/2560px-John_Constable_-_The_Hay_Wain_%281821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 828,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Constable - The Hay Wain (1821).jpg)"
+  },
+  "archive": {
+    "wd": "Q2366825"
+  },
+  "phase": {
+    "label": "The six-footers, 1819–25",
+    "source": {
+      "label": "Wikipedia: “a series of six monumental landscapes … now known as the 'six-footers'”",
+      "url": "https://en.wikipedia.org/wiki/John_Constable"
+    }
+  },
+  "tags": [
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Wikipedia: “one of the quintessential paintings from the Romantic movement”",
+        "url": "https://en.wikipedia.org/wiki/The_Hay_Wain"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "It is considered as one of the quintessential paintings from the Romantic movement of arts and literature.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Hay Wain",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Hay_Wain",
+            "accessed": "2026-11-25",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Painted in oils on canvas”",
+        "url": "https://en.wikipedia.org/wiki/The_Hay_Wain"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “a rural scene on the River Stour”",
+        "url": "https://en.wikipedia.org/wiki/The_Hay_Wain"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Hay Wain is one of a series of paintings by Constable called the \"six-footers\", large-scale canvasses which he painted for the annual summer exhibitions at the Royal Academy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Hay Wain",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Hay_Wain",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it is not so grand as Tinney's. Owing, perhaps, to the masses not being so impressive, the power of the chiaroscuro is lessened, but it has a more novel look than I expected.",
+        "lead": "Before the 1821 exhibition, where it hung as “Landscape: Noon”:",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 1 April 1821, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1821",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "We have never seen anything like these pictures before. It is their truthfulness that is so striking.",
+        "lead": "At the Paris Salon of 1824:",
+        "source": {
+          "author": "Stendhal",
+          "title": "On the Paris Salon of 1824, quoted in “The Hay Wain”",
+          "publisher": "Wikipedia",
+          "year": "1824",
+          "readAt": "https://en.wikipedia.org/wiki/The_Hay_Wain",
+          "accessed": "2026-11-25",
+          "tier": 3,
+          "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Delacroix repainted the background of his 1824 Massacre de Scio after seeing the Constables at Arrowsmith's Gallery, which he said had done him a great deal of good.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Constable",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I should paint my own places best; painting is with me but another word for feeling, and I associate 'my careless boyhood' with all that lies on the banks of the Stour. Those scenes made me a painter, and I am grateful",
+        "lead": "Writing to Fisher, the autumn after it was shown:",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 23 October 1821, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1821",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The house on the left side of the painting belonged to a neighbour, Willy Lott, a tenant farmer, who was said to have been born in the house and never to have left it for more than four days in his lifetime.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Hay Wain",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Hay_Wain",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

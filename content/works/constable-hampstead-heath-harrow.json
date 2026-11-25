@@ -1,0 +1,162 @@
+{
+  "id": "constable-hampstead-heath-harrow",
+  "artist": "john-constable",
+  "title": "Hampstead Heath, Looking Toward Harrow",
+  "date": "c. 1821",
+  "year": 1821,
+  "medium": "oil on paper, mounted on canvas",
+  "dimensions": "Framed: 39 x 44.5 x 5 cm (15 3/8 x 17 1/2 x 1 15/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1916.1027"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1916.1027/1916.1027_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1916.1027/1916.1027_print.jpg",
+    "width": 1077,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade"
+  },
+  "archive": {
+    "cma": 95253
+  },
+  "phase": {
+    "label": "Hampstead sky studies, 1820s",
+    "source": {
+      "label": "Cleveland Museum of Art: “the summerhouse he rented at Hampstead from 1819–26”",
+      "url": "https://www.clevelandart.org/art/1972.48"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-sketch",
+      "source": {
+        "label": "Cleveland Museum of Art: “swift oil sketches on paper”",
+        "url": "https://www.clevelandart.org/art/1916.1027"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Possibly more than any other aspect of Constable's work, the oil sketches reveal him in retrospect to have been an avant-garde painter, one who demonstrated that landscape painting could be taken in a totally new direction.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "John Constable",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+            "accessed": "2026-11-25",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plein-air",
+      "source": {
+        "label": "Cleveland Museum of Art: “often worked outdoors”",
+        "url": "https://www.clevelandart.org/art/1916.1027"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “He focused on painting the countryside of his native England”",
+        "url": "https://www.clevelandart.org/art/1916.1027"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Constable was interested in the changing light effects of weather and often worked outdoors, making swift oil sketches on paper.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Hampstead Heath, Looking Toward Harrow",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/1916.1027",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/95253",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I have done a good deal of skying, for I am determined to conquer all difficulties, and that among the rest.",
+        "lead": "Writing to John Fisher from Hampstead, October 1821:",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, Hampstead, 23 October 1821, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1821",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In addition to the full-scale oil sketches, Constable completed numerous observational studies of landscapes and clouds, determined to become more scientific in his recording of atmospheric conditions.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Constable",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In this habit he is known to have been influenced by the pioneering work of the meteorologist Luke Howard on the classification of clouds",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Constable",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The sky is the source of light in nature, and governs everything; even our common observations on the weather of every day are altogether suggested by it.",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 23 October 1821, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1821",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He focused on painting the countryside of his native England, which he never left. He wrote to a fellow artist that he would “rather be a poor man [in England] than a rich man abroad.”",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Collection description: Hampstead Heath, Looking Toward Harrow",
+          "publisher": "Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/1916.1027",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/95253",
+          "accessed": "2026-11-25",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "landscape-painting",
+  "kind": "subject",
+  "name": "Landscape painting",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Landscape painting, also known as landscape art, is the depiction in painting of natural scenery such as mountains, valleys, rivers, trees, and forests, especially where the main subject is a wide view—with its elements arranged into a coherent composition.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Landscape painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Landscape_painting",
+        "accessed": "2026-11-25",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "A major contrast between landscape painting in the West and East Asia has been that while in the West until the 19th century it occupied a low position in the accepted hierarchy of genres, in East Asia the classic Chinese mountain-water ink painting was traditionally the most prestigious form of visual art.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Landscape painting",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Landscape_painting",
+        "accessed": "2026-11-25",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "landscape"
+}

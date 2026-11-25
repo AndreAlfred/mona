@@ -1,0 +1,138 @@
+{
+  "id": "constable-dedham-vale",
+  "artist": "john-constable",
+  "title": "Dedham Vale",
+  "date": "1802",
+  "year": 1802,
+  "medium": "oil paint on canvas",
+  "dimensions": "43.5 × 34.4 cm",
+  "museum": {
+    "name": "Victoria and Albert Museum (124-1888)",
+    "url": "https://www.wikidata.org/wiki/Q4574726"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Constable_DeadhamVale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1552,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Constable DeadhamVale.jpg)"
+  },
+  "archive": {
+    "wd": "Q4574726"
+  },
+  "phase": {
+    "label": "Early career: the return to Bergholt, 1802",
+    "source": {
+      "label": "Wikipedia: “In 1802 he refused the position of drawing master … to become a professional landscape painter”",
+      "url": "https://en.wikipedia.org/wiki/John_Constable"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum record (Wikidata): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q4574726"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “an 1802 landscape painting by the British artist John Constable”",
+        "url": "https://en.wikipedia.org/wiki/Dedham_Vale_(painting)"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Although Constable displayed an untitled landscape at the Royal Academy Exhibition of 1802 at Somerset House, his exhibition debut, it is not known whether this was the work in question.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Dedham Vale (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Dedham_Vale_(painting)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In 1828 Constable produced a painting with a similar view The Vale of Dedham which is now in the Scottish National Gallery.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Dedham Vale (painting)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Dedham_Vale_(painting)",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "There is little or nothing in the exhibition worth looking up to. There is room enough for a natural painter. The great vice of the present day is bravura, an attempt to do something beyond the truth.",
+        "lead": "Writing from London after the 1802 Academy exhibition:",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Dunthorne, 29 May 1802, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1802",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His early style has many qualities associated with his mature work, including a freshness of light, colour and touch, and reveals the compositional influence of the old masters he had studied, notably of Claude Lorrain.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "John Constable",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I shall return to Bergholt, where I shall endeavour to get a pure and unaffected manner of representing the scenes that may employ me.",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Dunthorne, 29 May 1802, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1802",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it was fortunate for him that he began with Claude and Girtin.",
+        "lead": "His biographer, on his first models:",
+        "source": {
+          "author": "C. R. Leslie",
+          "title": "Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1843",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

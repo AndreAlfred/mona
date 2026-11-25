@@ -1,0 +1,146 @@
+{
+  "id": "constable-boat-building",
+  "artist": "john-constable",
+  "title": "Boat-building near Flatford Mill",
+  "date": "1815",
+  "year": 1815,
+  "medium": "oil paint on canvas",
+  "dimensions": "51 × 62 cm",
+  "museum": {
+    "name": "Victoria and Albert Museum (FA.37)",
+    "url": "https://www.wikidata.org/wiki/Q3634799"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Boat-building_near_Flatford_Mill_%28Constable%29.jpg/1280px-Boat-building_near_Flatford_Mill_%28Constable%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 982,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Boat-building near Flatford Mill (Constable).jpg)"
+  },
+  "archive": {
+    "wd": "Q3634799"
+  },
+  "phase": {
+    "label": "Suffolk summers, 1814–17",
+    "source": {
+      "label": "Wikipedia: “Constable adopted a routine of spending winter in London and painting at East Bergholt in summer.”",
+      "url": "https://en.wikipedia.org/wiki/John_Constable"
+    }
+  },
+  "tags": [
+    {
+      "id": "plein-air",
+      "source": {
+        "label": "Leslie: “painted entirely in the open air”",
+        "url": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Constable was passionate about his objective of painting truthful pictures of nature and he usually painted on location (en plain air).",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "John Constable",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/John_Constable",
+            "accessed": "2026-11-25",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum record (Wikidata): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3634799"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “an 1815 landscape painting”",
+        "url": "https://en.wikipedia.org/wiki/Boat-Building_Near_Flatford_Mill"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Among the landscapes mentioned in this letter was one which I have heard him say he painted entirely in the open air. It was exhibited the following year at the Academy, with the title of \"Boat-building.\"",
+        "source": {
+          "author": "C. R. Leslie",
+          "title": "Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1843",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Portraying the process of boat building, it has been described as a forerunner of his best-known Six-Foot paintings depicting scenes from the area.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boat-Building Near Flatford Mill",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Boat-Building_Near_Flatford_Mill",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The picture is a proof that in landscape what painters call warm colours are not necessary to produce a warm effect. It has indeed no positive colour, and there is much of grey and green in it; but such is its atmospheric truth, that the tremulous vibration of the heated air near the ground seems visible.",
+        "source": {
+          "author": "C. R. Leslie",
+          "title": "Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1843",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "It depicts a scene on the River Stour near to Flatford Mill on the Essex-Suffolk border. Constable's father owned Flatford Mill and the area around it is now known as Constable Country.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Boat-Building Near Flatford Mill",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Boat-Building_Near_Flatford_Mill",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "the sound of water, escaping from mill-dams, etc., willows, old rotten planks, slimy posts, and brickwork, I love such things.",
+        "lead": "Remembering the Stour, years later:",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 23 October 1821, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1821",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "constable-salisbury-cathedral",
+  "artist": "john-constable",
+  "title": "Salisbury Cathedral from the Bishop's Grounds",
+  "date": "1823",
+  "year": 1823,
+  "medium": "oil paint on canvas",
+  "dimensions": "87.6 × 111.8 cm",
+  "museum": {
+    "name": "Victoria and Albert Museum (FA.33[O])",
+    "url": "https://www.wikidata.org/wiki/Q398973"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/John_Constable_-_Salisbury_Cathedral_from_the_Bishop%27s_Grounds.jpg/1280px-John_Constable_-_Salisbury_Cathedral_from_the_Bishop%27s_Grounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/John_Constable_-_Salisbury_Cathedral_from_the_Bishop%27s_Grounds.jpg/2560px-John_Constable_-_Salisbury_Cathedral_from_the_Bishop%27s_Grounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 934,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (John Constable - Salisbury Cathedral from the Bishop's Grounds.jpg)"
+  },
+  "archive": {
+    "wd": "Q398973"
+  },
+  "phase": {
+    "label": "Salisbury and the Fishers, 1820s",
+    "source": {
+      "label": "Wikipedia: “Salisbury, a city whose cathedral and surrounding landscape were to inspire some of his greatest paintings”",
+      "url": "https://en.wikipedia.org/wiki/John_Constable"
+    }
+  },
+  "tags": [
+    {
+      "id": "chiaroscuro",
+      "source": {
+        "label": "Constable: “made my escape in the evanescence of the chiaroscuro”",
+        "url": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Museum record (Wikidata): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q398973"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “an 1823 landscape painting”",
+        "url": "https://en.wikipedia.org/wiki/Salisbury_Cathedral_from_the_Bishop%27s_Grounds"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It was the most difficult subject in landscape I ever had on my easel. I have not flinched at the windows, buttresses, &c., but I have still kept to my grand organ colour, and have, as usual, made my escape in the evanescence of the chiaroscuro.",
+        "lead": "After the 1823 Academy opened:",
+        "source": {
+          "author": "John Constable",
+          "title": "Letter to John Fisher, 9 May 1823, in C. R. Leslie, Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1823",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Constable visited Salisbury in 1811 and made a series of sketches of the cathedral, from the south-east, the south-west and from the east end.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Salisbury Cathedral from the Bishop's Grounds",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Salisbury_Cathedral_from_the_Bishop%27s_Grounds",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It is an extremely beautiful work, and one with which he took great pains — a view of the Cathedral from the Bishop's Grounds.",
+        "source": {
+          "author": "C. R. Leslie",
+          "title": "Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1843",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His patron took exception to the dark cloud over the cathedral, and when he commissioned a smaller replica, requested \"a more serene sky\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Salisbury Cathedral from the Bishop's Grounds",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Salisbury_Cathedral_from_the_Bishop%27s_Grounds",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Included in the paintings are figures of Dr. Fisher and his wife at the bottom left.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Salisbury Cathedral from the Bishop's Grounds",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Salisbury_Cathedral_from_the_Bishop%27s_Grounds",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "it is a curious mark of Constable's fondness for everything connected with his native country, that scarcely an instance can be found of a cow in any of his pictures, be the scene where it may, with horns.",
+        "lead": "On the Suffolk cattle in the foreground:",
+        "source": {
+          "author": "C. R. Leslie",
+          "title": "Life and Letters of John Constable, R.A. (1896 ed.)",
+          "publisher": "Internet Archive",
+          "year": "1843",
+          "readAt": "https://archive.org/stream/lifelettersofjoh00lesluoft/lifelettersofjoh00lesluoft_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}
