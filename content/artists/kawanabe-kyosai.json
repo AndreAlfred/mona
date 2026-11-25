@@ -1,0 +1,113 @@
+{
+  "id": "kawanabe-kyosai",
+  "name": "Kawanabe Kyōsai",
+  "born": 1831,
+  "died": 1889,
+  "active": "1840s–1889",
+  "nationality": "Japanese",
+  "period": "modern-life",
+  "movements": [
+    {
+      "id": "ukiyo-e",
+      "source": {
+        "label": "Wikipedia infobox: Movement — Ukiyo-e",
+        "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+      }
+    },
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikipedia: “he received his formal artistic training in the Kanō school”",
+        "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+      }
+    },
+    {
+      "id": "caricature",
+      "source": {
+        "label": "Wikipedia: “a Japanese painter and caricaturist”",
+        "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "utagawa-kuniyoshi",
+      "name": "Utagawa Kuniyoshi",
+      "source": {
+        "label": "Wikipedia: as a boy he worked for a short time with Kuniyoshi",
+        "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+      }
+    },
+    {
+      "id": "katsushika-hokusai",
+      "name": "Katsushika Hokusai",
+      "source": {
+        "label": "Wikipedia: “considered by many to be the greatest successor of Hokusai”",
+        "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+      }
+    },
+    {
+      "id": "tsukioka-yoshitoshi",
+      "name": "Tsukioka Yoshitoshi",
+      "source": {
+        "label": "Wikipedia: Kuniyoshi, Yoshitoshi and Kyōsai among the artists who drew famous yōkai",
+        "url": "https://en.wikipedia.org/wiki/Y%C5%8Dkai"
+      }
+    }
+  ],
+  "wikidata": "Q2838030",
+  "archive": {
+    "aic": 35361,
+    "cma": [
+      6187
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "an individualist and an independent, perhaps the last virtuoso in traditional Japanese painting",
+      "lead": "In the words of the art historian Timothy Clark:",
+      "source": {
+        "author": "Timothy Clark",
+        "title": "Quoted in “Kawanabe Kyōsai”",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+        "accessed": "2026-11-25",
+        "tier": 2,
+        "license": "Quoted in Wikipedia (CC BY-SA 4.0)"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Throughout his career as a painter, Kyosai seems always to have retained a certain fascination for the weird and horrible aspects of art.",
+      "source": {
+        "author": "Josiah Conder",
+        "title": "Paintings and Studies by Kawanabé Kyōsai",
+        "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+        "year": "1911",
+        "url": "https://archive.org/details/paintingsstudie00cond",
+        "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+        "accessed": "2026-11-25",
+        "tier": 2
+      },
+      "lead": "Josiah Conder, his pupil for eight years:"
+    },
+    {
+      "kind": "quote",
+      "text": "Living through the Edo period to the Meiji period, Kyōsai witnessed Japan transform itself from a feudal country into a modern state.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Kawanabe Kyōsai",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+        "accessed": "2026-11-25",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "kyosai-crow-and-moon",
+  "artist": "kawanabe-kyosai",
+  "title": "Crow and the Moon",
+  "date": "c. 1887",
+  "year": 1887,
+  "dimensions": "36.2 × 27.6 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (14.76.61.25)",
+    "url": "https://www.metmuseum.org/art/collection/search/54631"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Kawanabe_Ky%C5%8Dsai_-_Crow_and_the_Moon_-_14.76.61.25_-_Metropolitan_Museum_of_Art.jpg/1280px-Kawanabe_Ky%C5%8Dsai_-_Crow_and_the_Moon_-_14.76.61.25_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Kawanabe_Ky%C5%8Dsai_-_Crow_and_the_Moon_-_14.76.61.25_-_Metropolitan_Museum_of_Art.jpg/2560px-Kawanabe_Ky%C5%8Dsai_-_Crow_and_the_Moon_-_14.76.61.25_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1565,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kawanabe Kyōsai - Crow and the Moon - 14.76.61.25 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78753208"
+  },
+  "phase": {
+    "label": "Last years as the lay monk Jioku, 1885–89",
+    "source": {
+      "label": "Josiah Conder: about four years before his death he shaved his head and took the Buddhist name Jioku",
+      "url": "https://archive.org/details/paintingsstudie00cond"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "ai": true
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikidata (museum record): depicts bird, Moon",
+        "url": "https://www.wikidata.org/wiki/Q78753208"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His paintings of crows he generally stamped with a seal bearing a device of two crows and the word on (“gratitude”) between, thereby [signifying] his indebtedness to Nature’s teachings.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Josiah Conder, his pupil:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Kyōsai is considered by many to be the greatest successor of Hokusai (of whom, however, he was not a pupil), as well as the first political caricaturist of Japan.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kawanabe Kyōsai",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "it may be supposed that he acknowledged the same indebtedness to the crow, in the painting of which bird [he so remarkably] excelled.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Conder, comparing it to a carp the young painter once revered as a teacher:"
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

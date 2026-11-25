@@ -1,0 +1,130 @@
+{
+  "id": "kyosai-white-robed-kannon",
+  "artist": "kawanabe-kyosai",
+  "title": "White-Robed Kannon",
+  "date": "c. 1887",
+  "year": 1887,
+  "dimensions": "36.5 × 27.9 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (14.76.61.1)",
+    "url": "https://www.metmuseum.org/art/collection/search/54608"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%E7%99%BD%E8%A1%A3%E8%A6%B3%E9%9F%B3%E5%9B%B3-White-Robed_Kannon_MET_DP211789.jpg/1280px-%E7%99%BD%E8%A1%A3%E8%A6%B3%E9%9F%B3%E5%9B%B3-White-Robed_Kannon_MET_DP211789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%E7%99%BD%E8%A1%A3%E8%A6%B3%E9%9F%B3%E5%9B%B3-White-Robed_Kannon_MET_DP211789.jpg/2560px-%E7%99%BD%E8%A1%A3%E8%A6%B3%E9%9F%B3%E5%9B%B3-White-Robed_Kannon_MET_DP211789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1547,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (白衣観音図-White-Robed Kannon MET DP211789.jpg)"
+  },
+  "archive": {
+    "wd": "Q78754624"
+  },
+  "phase": {
+    "label": "Last years as the lay monk Jioku, 1885–89",
+    "source": {
+      "label": "Josiah Conder: about four years before his death he shaved his head and took the Buddhist name Jioku",
+      "url": "https://archive.org/details/paintingsstudie00cond"
+    }
+  },
+  "tags": [
+    {
+      "id": "buddhist-painting",
+      "source": {
+        "label": "Wikidata (museum record): depicts Bodhisattva",
+        "url": "https://www.wikidata.org/wiki/Q78754624"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "he states that the ancient painters were in the habit of daily making a painting of both a Shinto and a Buddhist deity as an offering and [invocation] to each. For this reason, he says, he for many years made a practice of executing every morning one painting of the Buddhist goddess Kwannon",
+          "source": {
+            "author": "Josiah Conder",
+            "title": "Paintings and Studies by Kawanabé Kyōsai",
+            "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+            "year": "1911",
+            "url": "https://archive.org/details/paintingsstudie00cond",
+            "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+            "accessed": "2026-11-25",
+            "tier": 2
+          },
+          "lead": "From his autobiography, as Josiah Conder retells it:"
+        }
+      ]
+    },
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikipedia: White-robed Kannon was painted by the Kanō master Kano Motonobu",
+        "url": "https://en.wikipedia.org/wiki/Japanese_Buddhist_art"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "To those who associate [Kyōsai’s] style of painting merely with his [caricatures] and hasty humorous productions, this selection of a master by pious students of the highest style of religious art may appear somewhat incongruous.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Conder, on the two Buddhist priests who studied with him:"
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In addition to his caricatures, Kyōsai painted a large number of pictures and sketches, often choosing subjects from Japanese folklore, Noh plays, nature, and religion, for example The Temptation of Shaka Niorai or The Goddess Kwannon on a dragon (on kakejiku frame).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kawanabe Kyōsai",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Because this Bodhisattva is considered the personification of compassion and kindness, a mother goddess and patron of mothers and seamen",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Guanyin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Guanyin",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        },
+        "lead": "Kannon is the Japanese name of Guanyin, the bodhisattva of compassion:"
+      },
+      {
+        "kind": "quote",
+        "text": "She is usually portrayed in statues and painting as a young woman dressed in a white robe which sometimes covers the head, acting as a veil.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Guanyin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Guanyin",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}

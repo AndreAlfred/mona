@@ -1,0 +1,121 @@
+{
+  "id": "kyosai-farting-contest",
+  "artist": "kawanabe-kyosai",
+  "title": "Courtiers' Farting Contest from Sketch Album",
+  "date": "mid- to late 1800s",
+  "year": 1855,
+  "medium": "Accordion-style book of 26 double-leaves; ink and color on paper",
+  "dimensions": "Album, closed: 28 x 18 cm (11 x 7 1/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1991.125.i"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1991.125.i/1991.125.i_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1991.125.i/1991.125.i_print.jpg",
+    "width": 900,
+    "height": 714,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Given by Anne and Anthony d'Offay in honor of Evan Turner"
+  },
+  "archive": {
+    "cma": 679293
+  },
+  "phase": {
+    "label": "Humorous and satirical sketches",
+    "source": {
+      "label": "Josiah Conder: “Kyosai painted a great many humorous and satirical works”",
+      "url": "https://archive.org/details/paintingsstudie00cond"
+    }
+  },
+  "tags": [
+    {
+      "id": "caricature",
+      "source": {
+        "label": "Wikipedia: Kyōsai’s scroll “The battle of the farts” as caricature",
+        "url": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai"
+      }
+    },
+    {
+      "id": "drawing",
+      "source": {
+        "label": "Cleveland Museum of Art record: sketch album, ink and color on paper",
+        "url": "https://clevelandart.org/art/1991.125.i"
+      }
+    },
+    {
+      "id": "satire",
+      "source": {
+        "label": "Josiah Conder: “humorous and satirical works”",
+        "url": "https://archive.org/details/paintingsstudie00cond"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Kyosai painted a great many humorous and satirical works, so many indeed that to the majority of his admirers and critics he is known by paintings of this class alone.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        },
+        "lead": "Josiah Conder, his pupil:"
+      },
+      {
+        "kind": "quote",
+        "text": "Subjects which had long been used as art motives by painters in a [serious] and traditional manner, he would sometimes present in a new aspect by treating ludicrously, and into trite comical subjects he would often introduce fresh and [original] humour.",
+        "source": {
+          "author": "Josiah Conder",
+          "title": "Paintings and Studies by Kawanabé Kyōsai",
+          "publisher": "Maruzen, Tokyo (Internet Archive full text)",
+          "year": "1911",
+          "url": "https://archive.org/details/paintingsstudie00cond",
+          "readAt": "https://archive.org/stream/paintingsstudie00cond/paintingsstudie00cond_djvu.txt",
+          "accessed": "2026-11-25",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "During the political foment which produced and followed the revolution of 1867, Kyōsai attained a reputation as a caricaturist. His very long painting on makimono (a horizontal type of Japanese handscroll/scroll) \"The battle of the farts\" may be seen as a caricature of this foment.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kawanabe Kyōsai",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was arrested three times and imprisoned by the authorities of the shogunate. … He again expressed his opinion of the new movement in a caricature, which had a great popular success, but also brought him into the hands of the police, this time of the opposite party.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kawanabe Kyōsai",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kawanabe_Ky%C5%8Dsai",
+          "accessed": "2026-11-25",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-25",
+    "by": "claude-routine"
+  }
+}
