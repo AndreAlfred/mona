@@ -1,0 +1,34 @@
+{
+  "id": "etching-revival",
+  "kind": "movement",
+  "name": "Etching revival",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The etching revival was the re-emergence and invigoration of etching as an original form of printmaking during the period approximately from 1850 to 1930. The main centres were France, Britain and the United States, but other countries, such as the Netherlands, also participated.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Etching revival",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Etching_revival",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-26"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The most common subjects were landscapes and townscapes, portraits, and genre scenes of ordinary people. The mythological and historical subjects still very prominent in contemporary painting rarely feature.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Etching revival",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Etching_revival",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-26"
+      }
+    }
+  ],
+  "archiveTerm": "etching"
+}

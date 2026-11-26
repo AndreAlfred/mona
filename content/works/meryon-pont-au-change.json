@@ -1,0 +1,122 @@
+{
+  "id": "meryon-pont-au-change",
+  "artist": "charles-meryon",
+  "title": "Etchings of Paris:  The Exchange Bridge",
+  "date": "1854",
+  "year": 1854,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1942.750"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.750/1942.750_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1942.750/1942.750_print.jpg",
+    "width": 1263,
+    "height": 614,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of John L. Severance"
+  },
+  "archive": {
+    "cma": 122484
+  },
+  "phase": {
+    "label": "Eaux-fortes sur Paris, 1850–54",
+    "source": {
+      "label": "Dodgson: the “Eaux-Fortes sur Paris,” which extend in date from 1850 to 1854",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching”",
+        "url": "https://clevelandart.org/art/1942.750"
+      }
+    },
+    {
+      "id": "veduta",
+      "source": {
+        "label": "Keppel: Meryon gave “exact pictures of the buildings of his native city”",
+        "url": "https://archive.org/details/charlesmeryonbio00kepp"
+      }
+    },
+    {
+      "id": "etching-revival",
+      "source": {
+        "label": "Wikipedia (Etching revival): Meryon “was an early inspiration” of the French revival",
+        "url": "https://en.wikipedia.org/wiki/Etching_revival"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "From the second to the sixth state of Delteil there is a balloon floating in the sky towards the left … In the seventh state this balloon disappears ; in its stead there are great flights of birds across the sky",
+        "lead": "Campbell Dodgson, on the plate’s many changing skies:",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "16"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "At this time Baron Haussmann, under the commands of Louis Napoleon, was constructing his monotonously handsome modern streets and boulevards out of the picturesque labyrinth of old Paris",
+        "source": {
+          "author": "Frederick Keppel",
+          "title": "Charles Meryon: A Biographical Sketch",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "url": "https://archive.org/details/charlesmeryonbio00kepp",
+          "readAt": "https://archive.org/stream/charlesmeryonbio00kepp/charlesmeryonbio00kepp_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This is all rather crazy, and the alterations were made, like those on other plates to which we shall refer later, after Meryon's mind had finally become deranged.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "16"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "By the mid-1850s he had periods of depression when he could do nothing, and developed a conviction that he was being persecuted by Emperor Napoleon III",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

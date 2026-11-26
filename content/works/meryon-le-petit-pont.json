@@ -1,0 +1,124 @@
+{
+  "id": "meryon-le-petit-pont",
+  "artist": "charles-meryon",
+  "title": "The Petit Pont",
+  "date": "1850",
+  "year": 1850,
+  "medium": "etching with engraving",
+  "dimensions": "Sheet: 26.4 x 19.6 cm (10 3/8 x 7 11/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1953.10"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1953.10/1953.10_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1953.10/1953.10_print.jpg",
+    "width": 669,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 130336
+  },
+  "phase": {
+    "label": "Eaux-fortes sur Paris, 1850–54",
+    "source": {
+      "label": "Dodgson: the “Eaux-Fortes sur Paris,” which extend in date from 1850 to 1854",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching with engraving”",
+        "url": "https://clevelandart.org/art/1953.10"
+      }
+    },
+    {
+      "id": "engraving",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching with engraving”",
+        "url": "https://clevelandart.org/art/1953.10"
+      }
+    },
+    {
+      "id": "etching-revival",
+      "source": {
+        "label": "Dodgson: the Paris etchings “led the way in what is called the modern revival of etching”",
+        "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Le Petit Pont is the first of his mature works, and marks an astonishing advance upon the exercises in copying other etchers",
+        "lead": "Campbell Dodgson, in 1921:",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "7"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Having proved himself a skilled copyist, he began doing original work, notably a series of etchings which are the greatest embodiments of his greatest conceptions—the series called \"Eaux-fortes sur Paris.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He deliberately renounced any competition with the camera of the photographer, and claimed the right to arrange the [different] parts of what he drew in the manner best calculated to convey a certain impression, while preserving the utmost exactness in the representation of detail in each part.",
+        "lead": "On Le Petit Pont, whose towers of Notre-Dame Meryon drew higher than they stand:",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "7"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Meryon's real master in art was Reinier Zeeman, a Dutch etcher of the seventeenth century, whose views of the Paris of his day inspired our artist to undertake the great work of his life—his “Eaux fortes sur Paris.”",
+        "source": {
+          "author": "Frederick Keppel",
+          "title": "Charles Meryon: A Biographical Sketch",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "url": "https://archive.org/details/charlesmeryonbio00kepp",
+          "readAt": "https://archive.org/stream/charlesmeryonbio00kepp/charlesmeryonbio00kepp_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

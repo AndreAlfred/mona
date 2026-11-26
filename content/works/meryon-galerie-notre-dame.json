@@ -1,0 +1,133 @@
+{
+  "id": "meryon-galerie-notre-dame",
+  "artist": "charles-meryon",
+  "title": "Etchings of Paris:  The Gallery of Notre Dame",
+  "date": "1853",
+  "year": 1853,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1942.749"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.749/1942.749_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1942.749/1942.749_print.jpg",
+    "width": 568,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of John L. Severance"
+  },
+  "archive": {
+    "cma": 122482
+  },
+  "phase": {
+    "label": "Eaux-fortes sur Paris, 1850–54",
+    "source": {
+      "label": "Dodgson: the “Eaux-Fortes sur Paris,” which extend in date from 1850 to 1854",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching”",
+        "url": "https://clevelandart.org/art/1942.749"
+      }
+    },
+    {
+      "id": "etching-revival",
+      "source": {
+        "label": "Wikipedia (Etching revival): Meryon “was an early inspiration” of the French revival",
+        "url": "https://en.wikipedia.org/wiki/Etching_revival"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "La Galerie Notre-Dame (plate 9) is a very beautiful rendering of Gothic architecture, and a most delicate study of effects of light, direct and reflected. The impressions vary much, some being rich in tone and rather veiled, others clean wiped and of a silvery clearness.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "13"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "That gallery of Notre Dame, with Wotan's ravens flying through the slim pillars from a dream city bathed in sinister light, is not the only striking conception of the poet-etcher.",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist",
+          "publisher": "T. Werner Laurie (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/promenadesofimpr00huneuoft",
+          "readAt": "https://archive.org/stream/promenadesofimpr00huneuoft/promenadesofimpr00huneuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26",
+          "page": "180"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His Galerie Notre-Dame was refused by the Salon in 1853, and though many of his Paris etchings were exhibited there, they gained no prize.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "2"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "These etchings are magnificent things. We must not allow this splendid imagination to be worsted in the struggle. Strengthen him by all the encouragements possible.",
+        "lead": "Victor Hugo, during Meryon’s lifetime:",
+        "source": {
+          "author": "Victor Hugo",
+          "title": "Letter on Meryon’s etchings, quoted in Keppel, Charles Meryon: A Biographical Sketch",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "url": "https://archive.org/details/charlesmeryonbio00kepp",
+          "readAt": "https://archive.org/stream/charlesmeryonbio00kepp/charlesmeryonbio00kepp_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He said that he had created an epoch in etching — which was the literal truth — and he had saved a rapidly vanishing Paris for the pious curiosity of future generations.",
+        "lead": "Huneker, on Meryon’s letter sending his Views of Paris to Baudelaire in 1860:",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist",
+          "publisher": "T. Werner Laurie (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/promenadesofimpr00huneuoft",
+          "readAt": "https://archive.org/stream/promenadesofimpr00huneuoft/promenadesofimpr00huneuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26",
+          "page": "175"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

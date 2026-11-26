@@ -1,0 +1,116 @@
+{
+  "id": "meryon-saint-etienne-du-mont",
+  "artist": "charles-meryon",
+  "title": "Etchings of Paris:  Church of St. Stephen of the Mount",
+  "date": "1852",
+  "year": 1852,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1955.528"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1955.528/1955.528_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1955.528/1955.528_print.jpg",
+    "width": 480,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Milton Curtiss Rose Collection in memory of Evelyn Curtiss Rose"
+  },
+  "archive": {
+    "cma": 133131
+  },
+  "phase": {
+    "label": "Eaux-fortes sur Paris, 1850–54",
+    "source": {
+      "label": "Dodgson: the “Eaux-Fortes sur Paris,” which extend in date from 1850 to 1854",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching”",
+        "url": "https://clevelandart.org/art/1955.528"
+      }
+    },
+    {
+      "id": "veduta",
+      "source": {
+        "label": "Keppel: Meryon gave “exact pictures of the buildings of his native city”",
+        "url": "https://archive.org/details/charlesmeryonbio00kepp"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "It gives, again, a beautiful effect of sunlight, and the [architectural] details of the church are shown with an exquisite [clearness]. The little figures are lively and interesting",
+        "lead": "Campbell Dodgson on Saint-Étienne-du-Mont, etched in 1852:",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "14"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His method was this—First, he made not a sketch but a number of sketches, two or three inches square, of parts of his picture, which he put together and [arranged] into a harmonious whole.",
+        "lead": "The etcher Seymour Haden, who visited him:",
+        "source": {
+          "author": "Francis Seymour Haden",
+          "title": "Quoted in Keppel, Charles Meryon: A Biographical Sketch",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "url": "https://archive.org/details/charlesmeryonbio00kepp",
+          "readAt": "https://archive.org/stream/charlesmeryonbio00kepp/charlesmeryonbio00kepp_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Nearly every etching in the series reveals technical skill, but even the technical skill is exercised most enthusiastically in those etchings which have the advantage of impressive subjects, and which the collector willingly cherishes for their mysterious suggestiveness or for their pure beauty.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In solitary wanderings about the old streets of Paris and meditations in his garret in the Rue St. Etienne-du-Mont, he formed plans for his series of etchings of old Paris and began to make studies for them.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "6"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}
