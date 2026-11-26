@@ -1,0 +1,99 @@
+{
+  "id": "huizong-listening-to-the-qin",
+  "artist": "emperor-huizong",
+  "title": "Listening to the Qin",
+  "date": "early 12th century",
+  "year": 1110,
+  "medium": "silk",
+  "dimensions": "147.2 × 51.3 cm",
+  "museum": {
+    "name": "The Palace Museum (故00005873)",
+    "url": "https://minghuaji.dpm.org.cn/paint/detail?id=na7xf64uvkwrsd5fj2z2ynzcek8iqtbb"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%E8%B5%B5%E4%BD%B6%E5%90%AC%E7%90%B4%E5%9B%BE%E8%BD%B4.png/1280px-%E8%B5%B5%E4%BD%B6%E5%90%AC%E7%90%B4%E5%9B%BE%E8%BD%B4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%E8%B5%B5%E4%BD%B6%E5%90%AC%E7%90%B4%E5%9B%BE%E8%BD%B4.png/2560px-%E8%B5%B5%E4%BD%B6%E5%90%AC%E7%90%B4%E5%9B%BE%E8%BD%B4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 3190,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (赵佶听琴图轴.png)"
+  },
+  "archive": {
+    "wd": "Q116459640"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Palace Museum record: 听琴图轴 (hanging scroll)",
+        "url": "https://minghuaji.dpm.org.cn/paint/detail?id=na7xf64uvkwrsd5fj2z2ynzcek8iqtbb"
+      }
+    },
+    {
+      "id": "gongbi",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Emperor Huizong was a great painter, poet, and calligrapher. He was also a player of the guqin (as exemplified by his famous painting Listening to the qin",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emperor Huizong of Song",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The painter Zeng Fanzhi regards Listening to the Qin as \"the most beautiful painting from the Song dynasty. For more than 10 years, I've been observing the beauty of the pine tree in that painting.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emperor Huizong of Song",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Many individuals through the ages have played the guqin, both occupationally and avocationally; however, it is often associated with literati or gentlemen in particular.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Guqin",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Guqin",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "ai",
+        "text": "The robed player under the pine is traditionally taken to be Huizong himself, with two officials listening. It shows the emperor as he wished to be seen: not as a ruler at work but as a cultivated gentleman at his instrument."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

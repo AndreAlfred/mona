@@ -1,0 +1,152 @@
+{
+  "id": "huizong-poem-slender-gold",
+  "artist": "emperor-huizong",
+  "title": "Poem (詩帖), in Slender Gold script",
+  "date": "early 12th century",
+  "year": 1110,
+  "dimensions": "27.2 × 263.8 cm",
+  "museum": {
+    "name": "National Palace Museum (中書000001N000000000)",
+    "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=13889&Dept=P"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Huizong-Calligraphy1.jpg/1280px-Huizong-Calligraphy1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Huizong-Calligraphy1.jpg/2560px-Huizong-Calligraphy1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 94,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Huizong-Calligraphy1.jpg)"
+  },
+  "archive": {
+    "wd": "Q121699234"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "slender-gold-script",
+      "source": {
+        "label": "Wikipedia: Huizong invented the “Slender Gold” style of calligraphy",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The name \"Slender Gold\" came from the fact that the emperor's writing resembled the way gold filaments twisted and turned",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Emperor Huizong of Song",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+            "accessed": "2026-11-26",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "calligraphy",
+      "source": {
+        "label": "Wikipedia: Huizong was a great painter, poet, and calligrapher",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+      }
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "National Palace Museum record: 詩帖 卷 (handscroll)",
+        "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=13889&Dept=P"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Emperor Huizong invented the \"Slender Gold\" (瘦金體) style of calligraphy.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emperor Huizong of Song",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The thin, firm strokes resemble the fine gold and silver inlay techniques found in ancient bronze vessels, hence it is referred to as 'Slender Gold Script.'",
+        "lead": "A Chinese grading dictionary of painting and calligraphy, describing Huizong’s brushwork:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Thousand Character Classic in Cursive Script by Zhao Ji",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Thousand_Character_Classic_in_Cursive_Script_by_Zhao_Ji",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "when it was completed Mi Fei flung his brush on the ground and shouted out, Now I have washed away the dirty styles of the Two Wangs",
+        "lead": "Herbert Giles, translating an anecdote of the calligrapher Mi Fu, writing an inscription at Huizong’s command:",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Bernard Quaritch (Internet Archive scan)",
+          "year": "1918",
+          "page": "134",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Emperor, who had been secretly watching from behind a 'screen, forgot his concealment and came hastily forth to admire the beautiful inscription",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Bernard Quaritch (Internet Archive scan)",
+          "year": "1918",
+          "page": "134",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "\"Chong Ning Tongbao\" in the style of Emperor Huizong's Slender Gold calligraphy.",
+        "lead": "A coin of his reign carried his handwriting:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emperor Huizong of Song",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

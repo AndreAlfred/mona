@@ -1,0 +1,113 @@
+{
+  "id": "huizong-golden-pheasant",
+  "artist": "emperor-huizong",
+  "title": "Golden Pheasant and Cotton Rose (芙蓉锦鸡图)",
+  "date": "early 12th century",
+  "year": 1110,
+  "medium": "silk",
+  "dimensions": "81.5 × 53.6 cm",
+  "museum": {
+    "name": "The Palace Museum (故00005872)",
+    "url": "https://minghuaji.dpm.org.cn/paint/detail?id=rftirqk1izod2ta70dyd5rohbmps783c"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E8%B5%B5%E4%BD%B6%E8%8A%99%E8%93%89%E9%94%A6%E9%B8%A1%E5%9B%BE%E8%BD%B4.png/1280px-%E8%B5%B5%E4%BD%B6%E8%8A%99%E8%93%89%E9%94%A6%E9%B8%A1%E5%9B%BE%E8%BD%B4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E8%B5%B5%E4%BD%B6%E8%8A%99%E8%93%89%E9%94%A6%E9%B8%A1%E5%9B%BE%E8%BD%B4.png/2560px-%E8%B5%B5%E4%BD%B6%E8%8A%99%E8%93%89%E9%94%A6%E9%B8%A1%E5%9B%BE%E8%BD%B4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1684,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (赵佶芙蓉锦鸡图轴.png)"
+  },
+  "archive": {
+    "wd": "Q116459621"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Waley: Huizong “was chiefly famous for his realistic pictures of birds and flowers”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.69786"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Palace Museum record: 芙蓉锦鸡图轴 (hanging scroll)",
+        "url": "https://minghuaji.dpm.org.cn/paint/detail?id=rftirqk1izod2ta70dyd5rohbmps783c"
+      }
+    },
+    {
+      "id": "gongbi",
+      "source": {
+        "label": "Wikipedia lists Huizong as a representative of gongbi bird-and-flower painting",
+        "url": "https://en.wikipedia.org/wiki/Bird-and-flower_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "As a painter Hui Tsung was chiefly famous for his realistic pictures of birds and flowers. “In painting birds he gave them eyes of lacquer the size of a bean, which stood out in relief,” says Teng Ch'un, writing about 1180 A.D.",
+        "lead": "Arthur Waley:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "page": "179",
+          "url": "https://archive.org/details/in.ernet.dli.2015.69786",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.69786/2015.69786.Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Once some of them were called in to paint a pheasant walking in the garden. They made wonderful pictures, rich in colour and striking in their naturalness ; but the emperor said that they all were wrong. … when a pheasant is climbing a rockery, it does not lift the right foot first (as represented in their pictures) but the left.",
+        "lead": "Osvald Sirén, retelling an anecdote of the emperor and his Academy painters:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "7",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He was the supreme authority in all matters relating to art and took an active part, for instance, in selecting subjects for the examinations and in criticizing and correcting the works of the painters.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "7",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

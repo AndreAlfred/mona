@@ -1,0 +1,117 @@
+{
+  "id": "huizong-wintersweet-and-birds",
+  "artist": "emperor-huizong",
+  "title": "Chimonanthus and Birds",
+  "date": "early 12th century",
+  "year": 1110,
+  "medium": "silk",
+  "dimensions": "83.3 × 53.3 cm",
+  "museum": {
+    "name": "National Palace Museum (故畫000068)",
+    "url": "https://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1183"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Songhuizong3.jpg/1280px-Songhuizong3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1876,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Songhuizong3.jpg)"
+  },
+  "archive": {
+    "wd": "Q121366588"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: Huizong “personally painted” Birds in a blossom wax-plum tree",
+        "url": "https://en.wikipedia.org/wiki/Chinese_painting"
+      }
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "National Palace Museum record: 蠟梅山禽 軸 (hanging scroll)",
+        "url": "https://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1183"
+      }
+    },
+    {
+      "id": "three-perfections",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Emperor Huizong personally painted a painting called Birds in a blossom wax-plum tree, features with two \"hoary headed birds,\" \"Baitou weng\" resting on a tree branch together.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Chinese painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Chinese_painting",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "During Huizong's rule, literati rebus is embedded in court painting academy and became part of the test routine to enter the imperial court. During Song dynasty, the connection between painters and literati, paintings and poem is closer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Chinese painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Chinese_painting",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The bamboos envelop the inn by the bridge. The representation which was considered the best did not show a pot-house in a bamboo grove, but simply the sign of the inn with the words “spirits” written on it, peeping through the thicket of bamboos.",
+        "lead": "Osvald Sirén, on one of the subjects the emperor set for the Academy’s examinations:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "7",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "\"Baitou\" in Chinese culture is allusion to faithful love and marriage. In a well-known love poem, it wrote: \"I wish for a lover in whose heart I alone exist, unseparated even our heads turn hoary.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Chinese painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Chinese_painting",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "emperor-huizong",
+  "name": "Emperor Huizong of Song",
+  "born": 1082,
+  "died": 1135,
+  "active": "1100–1126 (reign)",
+  "nationality": "Chinese",
+  "period": "medieval",
+  "movements": [
+    {
+      "id": "northern-song-academy",
+      "source": {
+        "label": "Sirén: “The Imperial Academy of Art. Emperor Hui Tsung as a Critic and Painter”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Waley: “chiefly famous for his realistic pictures of birds and flowers”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.69786"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "zhao-mengfu",
+      "name": "Zhao Mengfu",
+      "source": {
+        "label": "Giles: Zhao Mengfu inscribed a Huizong picture of bamboos and birds",
+        "url": "https://archive.org/details/introductiontohi00gileuoft"
+      }
+    },
+    {
+      "id": "ma-yuan",
+      "name": "Ma Yuan",
+      "source": {
+        "label": "Fenollosa: Huizong’s landscape strokes “foreshadow the incisiveness of Bayen” (Ma Yuan)",
+        "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft"
+      }
+    }
+  ],
+  "wikidata": "Q7486",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Despite his political failures, Huizong was an accomplished painter, poet, calligrapher, and musician, as well as a major patron of the arts. His imperial collection included more than 6,000 paintings.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Emperor Huizong of Song",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+        "accessed": "2026-11-26",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The Emperor himself came nearest to this high standard. Most imperial attempts at art are only flattered mediocrity ; but Kiso's work really rises to the heights.",
+      "lead": "Ernest Fenollosa, using Huizong’s Japanese name, Kiso:",
+      "source": {
+        "author": "Ernest F. Fenollosa",
+        "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+        "publisher": "William Heinemann (Internet Archive scan)",
+        "year": "1913",
+        "page": "27",
+        "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+        "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+        "accessed": "2026-11-26",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Hui Tsung must have been not only a skilful technician and prominent calligraphist, but also a really fine painter.",
+      "lead": "Osvald Sirén:",
+      "source": {
+        "author": "Osvald Sirén",
+        "title": "A History of Early Chinese Painting, vol. II",
+        "publisher": "The Medici Society (Internet Archive scan)",
+        "year": "1933",
+        "page": "8",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+        "accessed": "2026-11-26",
+        "tier": 2
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "huizong-literary-gathering",
+  "artist": "emperor-huizong",
+  "title": "Literary Gathering",
+  "date": "early 12th century",
+  "year": 1110,
+  "medium": "silk",
+  "dimensions": "184.4 × 123.9 cm",
+  "museum": {
+    "name": "National Palace Museum (故畫000836)",
+    "url": "https://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=50"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E6%96%87%E4%BC%9A%E5%9B%BE%E8%BD%B4.%E5%AE%8B%E4%BB%A3.%E5%AE%8B%E5%BE%BD%E5%AE%97%E8%B5%B5%E4%BD%B6.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg/1280px-%E6%96%87%E4%BC%9A%E5%9B%BE%E8%BD%B4.%E5%AE%8B%E4%BB%A3.%E5%AE%8B%E5%BE%BD%E5%AE%97%E8%B5%B5%E4%BD%B6.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E6%96%87%E4%BC%9A%E5%9B%BE%E8%BD%B4.%E5%AE%8B%E4%BB%A3.%E5%AE%8B%E5%BE%BD%E5%AE%97%E8%B5%B5%E4%BD%B6.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg/2560px-%E6%96%87%E4%BC%9A%E5%9B%BE%E8%BD%B4.%E5%AE%8B%E4%BB%A3.%E5%AE%8B%E5%BE%BD%E5%AE%97%E8%B5%B5%E4%BD%B6.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1823,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (文会图轴.宋代.宋徽宗赵佶.绢本设色.台北故宫博物院藏.jpg)"
+  },
+  "archive": {
+    "wd": "Q121366599"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "National Palace Museum record: 文會圖 軸 (hanging scroll)",
+        "url": "https://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=50"
+      }
+    },
+    {
+      "id": "three-perfections",
+      "source": {
+        "label": "Sirén: “inscribed with poems by the emperor and his minister Ts‘ai Ching”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A more important work, which evidently has the strongest criteria of being authentic, is the landscape with figures called Wen Hsu t'u (A Literary Meeting)",
+        "lead": "Osvald Sirén, after dismissing most pictures that carry the emperor’s signature:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "9",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The themes set by the examiners were discussed by the candidates pictorially instead of in writing. Painting became, in fact, a new branch of literature.",
+        "lead": "Arthur Waley, on the examinations of Huizong’s painting Academy:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "page": "178",
+          "url": "https://archive.org/details/in.ernet.dli.2015.69786",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.69786/2015.69786.Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Emperor graciously took his associates through the Museum, pointing out the characteristic beauties, and urging the influence of the best models.",
+        "lead": "Ernest Fenollosa, on the imperial collection:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "27",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The picture measures 5 ft. 8 in. by 3 ft. 9 in. and is inscribed with poems by the emperor and his minister Ts‘ai Ching. It looks like an illustration to some of the gatherings of scholars in the imperial garden that are described by the chroniclers.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "9",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

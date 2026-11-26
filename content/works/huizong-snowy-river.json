@@ -1,0 +1,123 @@
+{
+  "id": "huizong-snowy-river",
+  "artist": "emperor-huizong",
+  "title": "Returning Boats on a Snowy River (雪江归棹图)",
+  "date": "early 12th century",
+  "year": 1110,
+  "medium": "silk",
+  "dimensions": "30.3 × 190.8 cm",
+  "museum": {
+    "name": "The Palace Museum (新00138445)",
+    "url": "https://minghuaji.dpm.org.cn/paint/detail?id=x9qkf09pfyinm2pz5fxr1linq0rqnzos"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%E8%B5%B5%E4%BD%B6%E9%9B%AA%E6%B1%9F%E5%BD%92%E6%A3%B9%E5%9B%BE%E5%8D%B7.png/1280px-%E8%B5%B5%E4%BD%B6%E9%9B%AA%E6%B1%9F%E5%BD%92%E6%A3%B9%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%E8%B5%B5%E4%BD%B6%E9%9B%AA%E6%B1%9F%E5%BD%92%E6%A3%B9%E5%9B%BE%E5%8D%B7.png/2560px-%E8%B5%B5%E4%BD%B6%E9%9B%AA%E6%B1%9F%E5%BD%92%E6%A3%B9%E5%9B%BE%E5%8D%B7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 70,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (赵佶雪江归棹图卷.png)"
+  },
+  "archive": {
+    "wd": "Q116459606"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "shan-shui",
+      "source": {
+        "label": "Binyon ranks Huizong with the Song landscape (“mountain and water picture”) masters",
+        "url": "https://archive.org/details/histpicteastin00binyuoft"
+      }
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Palace Museum record: 雪江归棹图卷 (handscroll)",
+        "url": "https://minghuaji.dpm.org.cn/paint/detail?id=x9qkf09pfyinm2pz5fxr1linq0rqnzos"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His glorification of extreme realism was evidently only a phase. However, of the sixteen paintings by him which the Emperor Ch'ien Lung possessed only two were landscapes.",
+        "lead": "Arthur Waley:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "page": "179",
+          "url": "https://archive.org/details/in.ernet.dli.2015.69786",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.69786/2015.69786.Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It uses lines with great force, but they are elegant and few. It does not attempt to render space and glow by great patches of light and dark ; nor does it blur its masses into impressionistic effects. Every detail is drawn with utmost crispness, yet the effect is large, due to the perfection of the drawing. The grandeur lies in the spacing.",
+        "lead": "Ernest Fenollosa, on the landscapes attributed to Huizong in Japan:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "28",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Emperor Hui Tsung (Kiso Kotei) is not unworthy to be ranked with these. Loftiness and simplicity, a deep feeling for solitary places, give their character to the art of these masters",
+        "lead": "Laurence Binyon, on the Song landscape painters:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1908",
+          "page": "137",
+          "url": "https://archive.org/details/histpicteastin00binyuoft",
+          "readAt": "https://archive.org/stream/histpicteastin00binyuoft/histpicteastin00binyuoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "One cannot help pitying poor Kiso in his long captivity among the Kins, who now established their capital near the present Peking.",
+        "lead": "Ernest Fenollosa, on Huizong’s last years as a prisoner of the Jin:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "31",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

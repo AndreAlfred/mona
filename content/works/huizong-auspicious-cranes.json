@@ -1,0 +1,139 @@
+{
+  "id": "huizong-auspicious-cranes",
+  "artist": "emperor-huizong",
+  "title": "Auspicious Cranes",
+  "date": "1112",
+  "year": 1112,
+  "museum": {
+    "name": "Liaoning Provincial Museum",
+    "url": "https://www.wikidata.org/wiki/Q60992034"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/%E5%AE%8B%E5%BE%BD%E5%AE%97_-_%E7%91%9E%E9%B6%B4%E5%9C%96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 836,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (宋徽宗 - 瑞鶴圖.jpg)"
+  },
+  "archive": {
+    "wd": "Q60992034"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1112",
+    "source": {
+      "label": "Wikipedia: depicts a scene above the Kaifeng city gate on 16 January 1112",
+      "url": "https://en.wikipedia.org/wiki/Chinese_painting"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Waley: Huizong “was chiefly famous for his realistic pictures of birds and flowers”",
+        "url": "https://archive.org/details/in.ernet.dli.2015.69786"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "“His expert knowledge was complete and thorough, his brush-work divine; he mastered every kind of subject and combined perfectly all the Six Principles, but he specialized in feathers and furs.”",
+          "lead": "Osvald Sirén, quoting a Song-dynasty account of the emperor:",
+          "source": {
+            "author": "Osvald Sirén",
+            "title": "A History of Early Chinese Painting, vol. II",
+            "publisher": "The Medici Society (Internet Archive scan)",
+            "year": "1933",
+            "page": "8",
+            "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+            "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+            "accessed": "2026-11-26",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "gongbi",
+      "source": {
+        "label": "Wikipedia lists Huizong as a representative of gongbi bird-and-flower painting",
+        "url": "https://en.wikipedia.org/wiki/Bird-and-flower_painting"
+      }
+    },
+    {
+      "id": "three-perfections",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The eyes of the birds he put in with dots of raw (thick) varnish, almost as large as beans; they stood out in relief and seemed to be moving with life.",
+        "lead": "Osvald Sirén, quoting the same Song-dynasty account:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "8",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Auspicious Cranes, by Emperor Huizong depicting a scene on top of Kaifeng city gate on 16th January 1112.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Chinese painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Chinese_painting",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "“Painters are not to imitate their predecessors, but to depict objects as they exist, true to colour and form. Simplicity and nobility of line is to be their aim.”",
+        "lead": "Arthur Waley, quoting the regulations issued to the painting Academy in the first year of Huizong’s reign:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "page": "178",
+          "url": "https://archive.org/details/in.ernet.dli.2015.69786",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.69786/2015.69786.Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The responsibility for this stupendous misfortune has been laid by all chroniclers at the door of Kiso's impious aestheticism. He has been represented as a Chinese Nero, fiddling away his soul ecstasy with brush and pen, while Kaifong burned.",
+        "lead": "Ernest Fenollosa (who calls Huizong “Kiso”), on the fall of Kaifeng to the Jin in 1126:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "30",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "huizong-pigeon-peach-branch",
+  "artist": "emperor-huizong",
+  "title": "Pigeon on a Peach Branch",
+  "date": "1107",
+  "year": 1107,
+  "museum": {
+    "name": "Private collection, Japan",
+    "url": "https://www.wikidata.org/wiki/Q11537142"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Momohatozu_Huizong.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1311,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Momohatozu Huizong.JPG)"
+  },
+  "archive": {
+    "wd": "Q11537142"
+  },
+  "phase": {
+    "label": "Early reign, 1107",
+    "source": {
+      "label": "Wikidata: dated 1107",
+      "url": "https://www.wikidata.org/wiki/Q11537142"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Sirén names “the Dove at a Branch of Peach Blossoms” among the emperor’s bird pictures",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952"
+      }
+    },
+    {
+      "id": "gongbi",
+      "source": {
+        "label": "Wikipedia lists Huizong as a representative of gongbi bird-and-flower painting",
+        "url": "https://en.wikipedia.org/wiki/Bird-and-flower_painting"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Best known among these are the Quail and a Daffodil in Marquis Asano’s collection … the Dove at a Branch of Peach Blossoms in Marquis Inouye’s collection",
+        "lead": "Osvald Sirén, on the bird pictures he thought were very likely by the emperor’s own brush:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "9",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The bird and the flowering branch (or the plant) are placed at the one extremity of the design, the rest is empty ; but so perfect is the balance and the proportion between the painted volume and the blank space that a definite distance and atmosphere is suggested.",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "9",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Kiso's white hawk and iridescent pigeon among peach blossoms show how he could create in the manner of Joki.",
+        "lead": "Ernest Fenollosa, using the Japanese names for Huizong (Kiso) and the tenth-century bird painter Xu Xi (Joki):",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "28",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "ai",
+        "text": "Dated 1107, it was painted when Huizong was about twenty-five and six years on the throne. It travelled to Japan, where Sirén knew it in a marquis’s collection, and it remains there."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

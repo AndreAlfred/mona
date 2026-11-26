@@ -1,0 +1,39 @@
+{
+  "id": "northern-song-academy",
+  "kind": "movement",
+  "name": "Northern Song Painting Academy",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Closely connected with these efforts was the re-establishment of the Imperial Academy of Painting, known as Hua Yuan.",
+      "lead": "Osvald Sirén, on the court at Kaifeng:",
+      "source": {
+        "author": "Osvald Sirén",
+        "title": "A History of Early Chinese Painting, vol. II",
+        "publisher": "The Medici Society (Internet Archive scan)",
+        "year": "1933",
+        "page": "5",
+        "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+        "accessed": "2026-11-26",
+        "tier": 2
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Painting examinations were instituted, modelled as closely as possible upon the literary examinations. The themes set by the examiners were discussed by the candidates pictorially instead of in writing. Painting became, in fact, a new branch of literature.",
+      "lead": "Arthur Waley, on the Academy under Huizong:",
+      "source": {
+        "author": "Arthur Waley",
+        "title": "An Introduction to the Study of Chinese Painting",
+        "publisher": "Ernest Benn (Internet Archive scan)",
+        "year": "1923",
+        "page": "178",
+        "url": "https://archive.org/details/in.ernet.dli.2015.69786",
+        "readAt": "https://archive.org/stream/in.ernet.dli.2015.69786/2015.69786.Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+        "accessed": "2026-11-26",
+        "tier": 2
+      }
+    }
+  ]
+}
