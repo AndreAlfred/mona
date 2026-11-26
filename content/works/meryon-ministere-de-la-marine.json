@@ -1,0 +1,116 @@
+{
+  "id": "meryon-ministere-de-la-marine",
+  "artist": "charles-meryon",
+  "title": "The Admiralty, Paris",
+  "date": "1865",
+  "year": 1865,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1963.603"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1963.603/1963.603_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1963.603/1963.603_print.jpg",
+    "width": 783,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Gift of Mrs. Malcolm L. McBride"
+  },
+  "archive": {
+    "cma": 139924
+  },
+  "phase": {
+    "label": "Late Paris views, 1860s",
+    "source": {
+      "label": "Dodgson, “The Late Etchings”: Le Ministère de la Marine among the last views of Paris",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching”",
+        "url": "https://clevelandart.org/art/1963.603"
+      }
+    },
+    {
+      "id": "etching-revival",
+      "source": {
+        "label": "Wikipedia (Etching revival): Cadart’s Société des Aquafortistes (1862) and Meryon as “an early inspiration”",
+        "url": "https://en.wikipedia.org/wiki/Etching_revival"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In his last Paris etchings, or his last revisions of them, the fantastic flying creatures that appear in the sky in prints like Le Ministere de la Marine (\"The Admiralty\"), the last Paris scene, of 1865, include fishing boats from Oceania, and whales hunted or ridden, by harpoon-wielding horsemen. In this case the figures in the sky were present from the first state of the print.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The streets of all the etchings of the sixties are filled with excited crowds or little groups of tall, unnatural looking people, and all kinds of curious monsters and allegorical figures hover in the sky or swoop in rapid flight across it.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "23"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Cadart founded the Société des Aquafortistes in 1862, reviving the awareness of the beautiful, original etching in the minds of the collecting public. Charles Meryon was an early inspiration, and close collaborator with Delâtre, laying out the various possible techniques of modern etching and producing works that would be ranked with Rembrandt and Dürer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Etching revival",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Etching_revival",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Starting at the age of 16, Meryon spent ten years as a naval cadet and finally officer",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "The Ministère de la Marine was France’s navy ministry — the service Meryon had left in 1848. Over it he sends the boats and whales of his Pacific years, a year before his final return to the asylum at Charenton."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

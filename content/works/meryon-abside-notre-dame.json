@@ -1,0 +1,138 @@
+{
+  "id": "meryon-abside-notre-dame",
+  "artist": "charles-meryon",
+  "title": "Etchings of Paris:  The Apse of the Cathedral of Notre Dame",
+  "date": "1854",
+  "year": 1854,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1942.751"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.751/1942.751_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1942.751/1942.751_print.jpg",
+    "width": 1263,
+    "height": 730,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of John L. Severance"
+  },
+  "archive": {
+    "cma": 122485
+  },
+  "phase": {
+    "label": "Eaux-fortes sur Paris, 1850–54",
+    "source": {
+      "label": "Dodgson: the “Eaux-Fortes sur Paris,” which extend in date from 1850 to 1854",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching”",
+        "url": "https://clevelandart.org/art/1942.751"
+      }
+    },
+    {
+      "id": "etching-revival",
+      "source": {
+        "label": "Wikipedia (Etching revival) illustrates the movement with Meryon’s Abside de Notre Dame",
+        "url": "https://en.wikipedia.org/wiki/Etching_revival"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In collaboration with Auguste Delatre, the best printer of etchings of his day, Meryon [produced] exquisite proofs of the early states of the “Eaux-fortes sur Paris” printed in carefully composed brown and black inks on the choicest papers … This was a complete innovation in 1850, and he set an example which the most scrupulous etchers and printers have endeavoured to follow to this day but have never surpassed.",
+          "source": {
+            "author": "Campbell Dodgson",
+            "title": "The Etchings of Charles Meryon",
+            "publisher": "The Studio (Internet Archive scan)",
+            "year": "1921",
+            "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+            "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+            "tier": 2,
+            "accessed": "2026-11-26",
+            "page": "18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "veduta",
+      "source": {
+        "label": "Keppel: Meryon gave “exact pictures of the buildings of his native city”",
+        "url": "https://archive.org/details/charlesmeryonbio00kepp"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The Abside de Notre Dame is held by some to be Méryon's masterpiece. Light and shade are used in the great fabric of the church, seen over the spaces of the river.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The design of the whole plate, the lighting of the sky and of the side of the majestic cathedral, the proportion of the towers and high-pitched roof of Notre-Dame to the massive but comparatively insignificant buildings along the line of the Seine combine to produce a total effect of unrivalled dignity and charm.",
+        "lead": "Campbell Dodgson, in 1921:",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "18"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The dark, grand and often vertical format townscapes of Charles Meryon, also mostly from the 1850s, provided models for a very different type of subject and style which was to remain in use until the end of the revival, though more in Britain than France.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Etching revival",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Etching_revival",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "“Meryon came stealing into my atelier, looking even more nervous and wild than usual, and bringing with him two sheets of paper and the plate of his Abside de Notre Dame. ‘Monsieur Beillet,’ said he, ‘I want you to print me two proofs of this plate,’ and added, timidly, ‘I cannot pay you till I sell them — don’t refuse me!’”",
+        "lead": "The printer Beillet’s memory of Meryon, as told to Frederick Keppel:",
+        "source": {
+          "author": "Frederick Keppel",
+          "title": "Charles Meryon: A Biographical Sketch",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "url": "https://archive.org/details/charlesmeryonbio00kepp",
+          "readAt": "https://archive.org/stream/charlesmeryonbio00kepp/charlesmeryonbio00kepp_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

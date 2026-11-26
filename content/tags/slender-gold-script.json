@@ -1,0 +1,20 @@
+{
+  "id": "slender-gold-script",
+  "kind": "style",
+  "name": "Slender Gold script",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Emperor Huizong invented the \"Slender Gold\" (瘦金體) style of calligraphy. The name \"Slender Gold\" came from the fact that the emperor's writing resembled the way gold filaments twisted and turned",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Emperor Huizong of Song",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+        "accessed": "2026-11-26",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

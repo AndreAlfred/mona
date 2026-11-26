@@ -1,0 +1,111 @@
+{
+  "id": "huizong-finches-and-bamboo",
+  "artist": "emperor-huizong",
+  "title": "Finches and bamboo",
+  "date": "1113",
+  "year": 1113,
+  "medium": "India ink on silk",
+  "dimensions": "33.7 × 55.4 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1981.278)",
+    "url": "https://www.metmuseum.org/art/collection/search/39936"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%E5%8C%97%E5%AE%8B_%E5%BE%BD%E5%AE%97_%E7%AB%B9%E7%A6%BD%E5%9C%96_%E5%8D%B7-Finches_and_bamboo_MET_DP151504_CRD.jpg/1280px-%E5%8C%97%E5%AE%8B_%E5%BE%BD%E5%AE%97_%E7%AB%B9%E7%A6%BD%E5%9C%96_%E5%8D%B7-Finches_and_bamboo_MET_DP151504_CRD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%E5%8C%97%E5%AE%8B_%E5%BE%BD%E5%AE%97_%E7%AB%B9%E7%A6%BD%E5%9C%96_%E5%8D%B7-Finches_and_bamboo_MET_DP151504_CRD.jpg/2560px-%E5%8C%97%E5%AE%8B_%E5%BE%BD%E5%AE%97_%E7%AB%B9%E7%A6%BD%E5%9C%96_%E5%8D%B7-Finches_and_bamboo_MET_DP151504_CRD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 648,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (北宋 徽宗 竹禽圖 卷-Finches and bamboo MET DP151504 CRD.jpg)"
+  },
+  "archive": {
+    "wd": "Q29383312"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia’s Chinese painting article illustrates Huizong with Finches and bamboo",
+        "url": "https://en.wikipedia.org/wiki/Chinese_painting"
+      }
+    },
+    {
+      "id": "handscroll",
+      "source": {
+        "label": "Met record: 竹禽圖 卷 (handscroll)",
+        "url": "https://www.metmuseum.org/art/collection/search/39936"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "“At the back of a picture of some bamboos and birds painted by the Emperor Hui Tsung of the Sung dynasty, Chao Meng-fu … inscribed these words: What joy for trivial things to be limned by a hand that is divine!”",
+        "lead": "Herbert Giles, translating an old record:",
+        "source": {
+          "author": "Herbert A. Giles",
+          "title": "An Introduction to the History of Chinese Pictorial Art",
+          "publisher": "Bernard Quaritch (Internet Archive scan)",
+          "year": "1918",
+          "page": "136",
+          "url": "https://archive.org/details/introductiontohi00gileuoft",
+          "readAt": "https://archive.org/stream/introductiontohi00gileuoft/introductiontohi00gileuoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His method in ink-paintings of bamboos was very tight and minute. He used one tone of dry ink without gradations (without notan, as the Japanese would say), getting the effect of density, where required, by letting less of the white ground show.",
+        "lead": "Arthur Waley, quoting the Hua Shih Hui Yao:",
+        "source": {
+          "author": "Arthur Waley",
+          "title": "An Introduction to the Study of Chinese Painting",
+          "publisher": "Ernest Benn (Internet Archive scan)",
+          "year": "1923",
+          "page": "179",
+          "url": "https://archive.org/details/in.ernet.dli.2015.69786",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.69786/2015.69786.Introduction-To-The-Study-Of-Chinese-Painting_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The emperor’s predilection for small pictures of birds and flowers became naturally a reason for an abundant production of similar things by the members of the Academy and also by later imitators.",
+        "lead": "Osvald Sirén:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "9",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "ai",
+        "text": "Zhao Mengfu, whose praise of a Huizong bamboo-and-bird picture survives, was himself a descendant of the Song imperial family serving the Mongols: admiring the emperor’s brush was also remembering a fallen house."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

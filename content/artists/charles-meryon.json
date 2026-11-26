@@ -1,0 +1,104 @@
+{
+  "id": "charles-meryon",
+  "name": "Charles Meryon",
+  "born": 1821,
+  "died": 1868,
+  "active": "1849–1866",
+  "nationality": "French",
+  "period": "modern-life",
+  "movements": [
+    {
+      "id": "etching-revival",
+      "source": {
+        "label": "Wikipedia (Etching revival): “Charles Meryon was an early inspiration”",
+        "url": "https://en.wikipedia.org/wiki/Etching_revival"
+      }
+    },
+    {
+      "id": "romanticism",
+      "source": {
+        "label": "Huneker: Meryon’s Le Stryge is “in the Romantic, Hugoesque key”",
+        "url": "https://archive.org/details/promenadesofimpr00huneuoft"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "felix-bracquemond",
+      "name": "Félix Bracquemond",
+      "source": {
+        "label": "Dodgson: Bracquemond “gave him all the support of his appreciation”",
+        "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+      }
+    },
+    {
+      "id": "francis-seymour-haden",
+      "name": "Francis Seymour Haden",
+      "source": {
+        "label": "Keppel: “His brother etcher, Sir Seymour Haden”",
+        "url": "https://archive.org/details/charlesmeryonbio00kepp"
+      }
+    },
+    {
+      "id": "james-mcneill-whistler",
+      "name": "James McNeill Whistler",
+      "source": {
+        "label": "Dodgson: “About no other modern etcher, save Whistler, is there an equal consensus”",
+        "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+      }
+    }
+  ],
+  "wikidata": "Q247505",
+  "archive": {
+    "cma": [
+      29529
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "getting ready to give myself completely to the study of Art",
+      "lead": "Back from four years at sea, to his father, November 1846:",
+      "source": {
+        "author": "Charles Meryon",
+        "title": "Letter to his father, 5 November 1846",
+        "publisher": "quoted in Wikipedia, Charles Meryon",
+        "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+        "tier": 1,
+        "accessed": "2026-11-26"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Charles Meryon (sometimes Méryon, 23 November 1821 – 14 February 1868) was a French artist who worked almost entirely in etching, as he had colour blindness. Although now little-known in the English-speaking world, he is generally recognised as the most significant etcher of 19th century France.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Charles Meryon",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+        "tier": 5,
+        "license": "CC BY-SA 4.0",
+        "accessed": "2026-11-26"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "About no other modern etcher, save Whistler, is there an equal consensus of opinion among those whose opinion counts, that he ranks among the great masters of his art.",
+      "source": {
+        "author": "Campbell Dodgson",
+        "title": "The Etchings of Charles Meryon",
+        "publisher": "The Studio (Internet Archive scan)",
+        "year": "1921",
+        "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+        "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+        "tier": 2,
+        "accessed": "2026-11-26",
+        "page": "1"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

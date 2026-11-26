@@ -1,0 +1,130 @@
+{
+  "id": "meryon-akaroa-seine-fishing",
+  "artist": "charles-meryon",
+  "title": "Seine Fishing off Charcoal Burner's Point, Akaroa",
+  "date": "1865",
+  "year": 1865,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1959.365"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1959.365/1959.365_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1959.365/1959.365_print.jpg",
+    "width": 1263,
+    "height": 618,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Milton Curtiss Rose Collection in memory of Evelyn Curtiss Rose"
+  },
+  "archive": {
+    "cma": 135859
+  },
+  "phase": {
+    "label": "Late South Seas etchings, 1860s",
+    "source": {
+      "label": "Dodgson: “a long series of etchings founded on his sketches and reminiscences of his early voyage to the South Seas”",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching”",
+        "url": "https://clevelandart.org/art/1959.365"
+      }
+    },
+    {
+      "id": "etching-revival",
+      "source": {
+        "label": "Wikipedia (Etching revival): Meryon “was an early inspiration” of the French revival",
+        "url": "https://en.wikipedia.org/wiki/Etching_revival"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Le Pilote de Tonga, a prose poem in a frame, etched in 1856, is the first of what grew, in the sixties, into a long series of etchings founded on his sketches and reminiscences of his early voyage to the South Seas.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "22"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Throughout his voyage on the Rhin he made drawings, many of which he turned into etchings some twenty years later.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The French base in New Zealand was Akaroa, or Port Louis-Philippe as the French still called it, then a small whaling-station, with a mostly French population.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Distorted in form and pinched and puny from its birth, I could not but pity it … could not deny it a place in my souvenirs de voyage, and so I drew it carefully.",
+        "lead": "Meryon, remembering a little fungus he sketched at Akaroa:",
+        "source": {
+          "author": "Charles Meryon",
+          "title": "On a small fungus he drew at Akaroa, quoted in Huneker, Promenades of an Impressionist",
+          "publisher": "T. Werner Laurie (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/promenadesofimpr00huneuoft",
+          "readAt": "https://archive.org/stream/promenadesofimpr00huneuoft/promenadesofimpr00huneuoft_djvu.txt",
+          "tier": 1,
+          "accessed": "2026-11-26",
+          "page": "176"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Long afterwards, in conversations with Burty, Meryon used to say how his thoughts dwelt on the rocky coast of New [Caledonia] … where he had breathed an air overladen with balm, where, if he could, he should like one day to return to finish life free and happy.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "5"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

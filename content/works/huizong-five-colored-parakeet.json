@@ -1,0 +1,129 @@
+{
+  "id": "huizong-five-colored-parakeet",
+  "artist": "emperor-huizong",
+  "title": "Five-colored parakeet on a blossoming apricot tree",
+  "date": "c. 1110",
+  "year": 1110,
+  "dimensions": "533 × 1251 mm",
+  "museum": {
+    "name": "Museum of Fine Arts Boston (33.364)",
+    "url": "https://www.wikidata.org/wiki/Q28801723"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Emperor_Huizong_-_Five-colored_parakeet_on_a_blossoming_apricot_tree_-_Google_Art_Project.jpg/1280px-Emperor_Huizong_-_Five-colored_parakeet_on_a_blossoming_apricot_tree_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Emperor_Huizong_-_Five-colored_parakeet_on_a_blossoming_apricot_tree_-_Google_Art_Project.jpg/2560px-Emperor_Huizong_-_Five-colored_parakeet_on_a_blossoming_apricot_tree_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 871,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Emperor Huizong - Five-colored parakeet on a blossoming apricot tree - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q28801723"
+  },
+  "phase": {
+    "label": "Reign at Kaifeng, 1100–1126",
+    "source": {
+      "label": "Wikipedia: Huizong, a painter, poet and calligrapher, reigned until the Jin conquest of 1126",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: “The primary subjects of his paintings are birds and flowers. Among his works is Five-Colored Parakeet…”",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "They represent a new stage in the development of flower- and bird-painting; their absolute fidelity to nature is … combined with a refinement of design and colouring that sometimes almost becomes prettiness. It is an art which sought perfection within rather narrow limits and consequently became a classic model for later generations.",
+          "lead": "Osvald Sirén, on the emperor’s bird pictures:",
+          "source": {
+            "author": "Osvald Sirén",
+            "title": "A History of Early Chinese Painting, vol. II",
+            "publisher": "The Medici Society (Internet Archive scan)",
+            "year": "1933",
+            "page": "46–47",
+            "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+            "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+            "accessed": "2026-11-26",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "gongbi",
+      "source": {
+        "label": "Wikipedia lists Huizong as a representative of gongbi bird-and-flower painting",
+        "url": "https://en.wikipedia.org/wiki/Bird-and-flower_painting"
+      }
+    },
+    {
+      "id": "slender-gold-script",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The primary subjects of his paintings are birds and flowers. Among his works is Five-Colored Parakeet on Blossoming Apricot Tree.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Emperor Huizong of Song",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+          "accessed": "2026-11-26",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "These highly finished and delicately coloured pictures are masterpieces of their kind, but they are evidently done by an artist who has had his whole attention concentrated on the minute representation of natural models with no inclination to transpose the motives in an expressionistic sense.",
+        "lead": "Osvald Sirén, on the small bird pictures that carry the emperor’s signature:",
+        "source": {
+          "author": "Osvald Sirén",
+          "title": "A History of Early Chinese Painting, vol. II",
+          "publisher": "The Medici Society (Internet Archive scan)",
+          "year": "1933",
+          "page": "9",
+          "url": "https://archive.org/details/in.ernet.dli.2015.103952",
+          "readAt": "https://archive.org/stream/in.ernet.dli.2015.103952/2015.103952.History-Of-Early-Chinese-Painting-Vol2_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The Senkwa art, indeed, often ran to minuteness …",
+        "lead": "Ernest Fenollosa, on the art of Huizong’s Xuanhe (“Senkwa”) era:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, vol. II (new and revised edition)",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1913",
+          "page": "28",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-26",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "ai",
+        "text": "The painting is one of Huizong’s “three perfections”: beside the bird he wrote, in his own Slender Gold hand, a poem about it and signed it. Picture, verse and writing were all meant to be read as the emperor’s."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "meryon-tour-de-l-horloge",
+  "artist": "charles-meryon",
+  "title": "Etchings of Paris:  The Clock Tower",
+  "date": "1852",
+  "year": 1852,
+  "medium": "etching",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1954.885"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.885/1954.885_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1954.885/1954.885_print.jpg",
+    "width": 646,
+    "height": 893,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, The Milton Curtiss Rose Collection in memory of Evelyn Curtiss Rose"
+  },
+  "archive": {
+    "cma": 132436
+  },
+  "phase": {
+    "label": "Eaux-fortes sur Paris, 1850–54",
+    "source": {
+      "label": "Dodgson: the “Eaux-Fortes sur Paris,” which extend in date from 1850 to 1854",
+      "url": "https://archive.org/details/etchingsofcharle00dodguoft"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium “etching”",
+        "url": "https://clevelandart.org/art/1954.885"
+      }
+    },
+    {
+      "id": "veduta",
+      "source": {
+        "label": "Keppel: Meryon gave “exact pictures of the buildings of his native city”",
+        "url": "https://archive.org/details/charlesmeryonbio00kepp"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "[La Tour de l'Horloge] was drawn and etched in 1852 while alterations were in progress which materially altered the appearance of Le Chatelet. This plate has always struck me as being a very straightforward and masterly portrait of a building, but without so much personal expression as Meryon generally contrived to impart to his other etchings.",
+        "source": {
+          "author": "Campbell Dodgson",
+          "title": "The Etchings of Charles Meryon",
+          "publisher": "The Studio (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/etchingsofcharle00dodguoft",
+          "readAt": "https://archive.org/stream/etchingsofcharle00dodguoft/etchingsofcharle00dodguoft_djvu.txt",
+          "tier": 2,
+          "accessed": "2026-11-26",
+          "page": "14"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Louis Napoleon and Baron Haussmann destroyed picturesque Paris to the consternation of Meryon, who to the eye of an archaeologist united the soul of an artist. He loved old Paris.",
+        "source": {
+          "author": "James Huneker",
+          "title": "Promenades of an Impressionist",
+          "publisher": "T. Werner Laurie (Internet Archive scan)",
+          "year": "1910",
+          "url": "https://archive.org/details/promenadesofimpr00huneuoft",
+          "readAt": "https://archive.org/stream/promenadesofimpr00huneuoft/promenadesofimpr00huneuoft_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26",
+          "page": "180"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In more than one case, for instance, he hurried with particular affection to etch his impression of some old-world building which was on the point of destruction, as Napoleon III tore down buildings to reconstruct Paris with wide boulevards.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Forty years ago Meryon would gladly have sold one of his finest prints for the price of his breakfast.",
+        "source": {
+          "author": "Frederick Keppel",
+          "title": "Charles Meryon: A Biographical Sketch",
+          "publisher": "Frederick Keppel & Co. (Internet Archive scan)",
+          "url": "https://archive.org/details/charlesmeryonbio00kepp",
+          "readAt": "https://archive.org/stream/charlesmeryonbio00kepp/charlesmeryonbio00kepp_djvu.txt",
+          "tier": 3,
+          "accessed": "2026-11-26"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A \"Tour de l'Horloge,\" which two or three years after it was first issued sold for half a crown, in May 1903 fetched [£]70.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Charles Meryon",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Charles_Meryon",
+          "tier": 5,
+          "license": "CC BY-SA 4.0",
+          "accessed": "2026-11-26"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-26",
+    "by": "claude-routine"
+  }
+}
