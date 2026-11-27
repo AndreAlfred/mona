@@ -1,0 +1,159 @@
+{
+  "id": "altdorfer-resurrection",
+  "artist": "albrecht-altdorfer",
+  "title": "The Resurrection of Christ",
+  "date": "1518",
+  "year": 1518,
+  "medium": "oil paint on panel",
+  "dimensions": "70.5 × 37 cm",
+  "museum": {
+    "name": "Kunsthistorisches Museum (GG_6796)",
+    "url": "https://www.wikidata.org/wiki/Q27978390"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Albrecht_Altdorfer%2C_%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Auferstehung_Christi_-_GG_6796_-_Kunsthistorisches_Museum.jpg/1280px-Albrecht_Altdorfer%2C_%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Auferstehung_Christi_-_GG_6796_-_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 2326,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Altdorfer, , Kunsthistorisches Museum Wien, Gemäldegalerie - Auferstehung Christi - GG 6796 - Kunsthistorisches Museum.jpg)"
+  },
+  "archive": {
+    "wd": "Q27978390"
+  },
+  "phase": {
+    "label": "Sebastian Altar for St. Florian, c. 1509–18",
+    "source": {
+      "label": "Wikipedia: “Sebastian Altar in St. Florian's Priory, c. 1509–1516” … “The date of completion on the resurrection panel is 1518”",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+    }
+  },
+  "tags": [
+    {
+      "id": "altarpiece",
+      "source": {
+        "label": "Wikipedia: the predellas of the Sebastian Altar, “Entombment and Resurrection”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "When closed the altarpiece displayed the four panels of the legend of St. Sebastian's Martyrdom, while the opened wings displayed the Stations of the Cross.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Albrecht Altdorfer",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+            "accessed": "2026-11-27",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q27978390"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: the Battle of Issus “forms part of the Northern Renaissance”",
+        "url": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His sacral masterpiece and one of the most famous religious works of art of the later Middle Ages is The Legend of St. Sebastian and The Passion of Christ of the so-called Sebastian Altar in St. Florian's Priory (Stift Sankt Florian) near Linz, Upper Austria.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Today the altarpiece is dismantled and the predellas depicting the two final scenes, Entombment and Resurrection were sold to Kunsthistorisches Museum in Vienna in 1923 and 1930. Both these paintings share a similar formal structure that consists of an open landscape that is seen beyond and through the opening of a dark grotto.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "His best religious scenes are intense, with their glistening lights and glowing colours sometimes verging on the expressionistic.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "They were among the first painters to regularly use pure landscape painting, and their figures, influenced by Matthias Grünewald, are often highly expressive, if not expressionist.",
+        "lead": "On the Danube school:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Danube school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Danube_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Altdorfer also produced a great deal of religious artwork, in reflection of his devout Catholicism. His most frequent subjects were the Virgin Mary and the life and crucifixion of Christ.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "these paintings often feature settings of great majesty and use the sky to convey symbolic meaning.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

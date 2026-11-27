@@ -1,0 +1,34 @@
+{
+  "id": "folding-screen",
+  "kind": "material",
+  "name": "Folding screen (byōbu)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Byōbu (屏風 … 'wind wall') are Japanese folding screens made from several joined panels, bearing decorative painting and calligraphy, used to separate interiors and enclose private spaces, among other uses.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Byōbu",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/By%C5%8Dbu",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Byōbu adorned samurai residences, conveying high rank and demonstrating wealth and power. This led to radical changes in byōbu crafting, such as backgrounds made from gold leaf (金箔, kinpaku) and highly colorful paintings depicting nature and scenes from daily life, a style pioneered by the Kanō school.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Byōbu",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/By%C5%8Dbu",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "screen"
+}

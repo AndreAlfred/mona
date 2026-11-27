@@ -1,0 +1,78 @@
+{
+  "id": "kano-eitoku",
+  "name": "Kanō Eitoku",
+  "born": 1543,
+  "died": 1590,
+  "active": "1560s–1590",
+  "nationality": "Japanese",
+  "period": "late-renaissance",
+  "movements": [
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikipedia (Kanō school): “Kanō Eitoku (1543–1590), a grandson of Motonobu and probably his pupil, was the most important painter of this generation”",
+        "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_school"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "kaiho-yusho",
+      "name": "Kaihō Yūshō",
+      "source": {
+        "label": "Fenollosa, Epochs of Chinese and Japanese Art: “Kaihoku Yusho was one of the greatest of Yeitoku's pupils”",
+        "url": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q536696",
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Kanō Eitoku (1543–1590), a grandson of Motonobu and probably his pupil, was the most important painter of this generation, and is believed to have been the first to use a gold-leaf background in large paintings.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Kanō school",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Eitoku's patrons included Oda Nobunaga and Toyotomi Hideyoshi. He was hired by Nobunaga at the age of 34. His standing screen, sliding door, wall, and ceiling paintings decorated Nobunaga's Azuchi castle and Hideyoshi's residence in Kyoto and Osaka Castle.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Kanō Eitoku",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "It was a revolution in Kano style, in Japanese art — in short, a brief but brilliant epoch in painting.",
+      "lead": "Ernest Fenollosa, who spent twenty years studying the school:",
+      "source": {
+        "author": "Ernest F. Fenollosa",
+        "title": "Epochs of Chinese and Japanese Art, Vol. II",
+        "publisher": "William Heinemann (Internet Archive scan)",
+        "year": "1912",
+        "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+        "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+        "accessed": "2026-11-27",
+        "tier": 2,
+        "license": "Public domain",
+        "page": "104–110"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

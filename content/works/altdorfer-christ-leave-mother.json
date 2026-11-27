@@ -1,0 +1,132 @@
+{
+  "id": "altdorfer-christ-leave-mother",
+  "artist": "albrecht-altdorfer",
+  "title": "Christ Taking Leave of his Mother",
+  "date": "1520",
+  "year": 1520,
+  "medium": "oil paint on panel",
+  "dimensions": "141 × 111 cm",
+  "museum": {
+    "name": "National Gallery (NG6463)",
+    "url": "https://www.wikidata.org/wiki/Q18683046"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Albrecht_Altdorfer_-_Christ_taking_Leave_of_his_Mother_-_Google_Art_Project.jpg/1280px-Albrecht_Altdorfer_-_Christ_taking_Leave_of_his_Mother_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1543,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Altdorfer - Christ taking Leave of his Mother - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q18683046"
+  },
+  "phase": {
+    "label": "Religious panels, c. 1520",
+    "source": {
+      "label": "Wikipedia: “It was executed c. 1520 and is held at the National Gallery in London”",
+      "url": "https://en.wikipedia.org/wiki/Christ_Taking_Leave_of_His_Mother_(Altdorfer)"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q18683046"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: Altdorfer, “a German painter, engraver and architect of the Renaissance”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the painting, Altdorfer presents a group of the most important figures of the New Testament. In the central part, Jesus is blessing his Mother. The gesture of his hand is to calm the rest of the women who mourn over the coming events.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ Taking Leave of His Mother (Altdorfer)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_Taking_Leave_of_His_Mother_(Altdorfer)",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I know of but one picture by him in England, of large size, in the J. F. Russell collection … It represents the Saviour taking leave of his Mother, and is … remarkable for its powerful colouring, and for the developed character of the landscape.",
+        "lead": "Kugler's Handbook, when the panel was in an English private collection:",
+        "source": {
+          "author": "Franz Kugler, rev. Gustav Waagen and Joseph A. Crowe",
+          "title": "The German, Flemish and Dutch Schools of Painting, Part I",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1904",
+          "url": "https://archive.org/details/germanflemishdut01crow",
+          "readAt": "https://archive.org/stream/germanflemishdut01crow/germanflemishdut01crow_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "180–183"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "All characters are depicted in a very earthly way, and the emotions of individual people are expressed through unnaturally elongated bodies, large feet, hand gestures and simplicity of faces. Altdorfer completely ignored the rules of form, perspective, and proportion.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ Taking Leave of His Mother (Altdorfer)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_Taking_Leave_of_His_Mother_(Altdorfer)",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When, like all men of the Reformation, Altdorfer turned to the Bible, he went to episodes of intimacy and feminine tenderness",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The landscape, divided into two parts, harmonizes with the mood of the scene. On the left, there are dry branches of a withered tree symbolizing the Passion of the Lord, on the right, the lush vegetation announces the New Covenant.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Christ Taking Leave of His Mother (Altdorfer)",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Christ_Taking_Leave_of_His_Mother_(Altdorfer)",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "The farewell is not in the Gospels: it comes from late-medieval devotional writing, which asked believers to imagine Mary's grief as a mother's on the eve of the Passion."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

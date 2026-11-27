@@ -1,0 +1,33 @@
+{
+  "id": "danube-school",
+  "kind": "movement",
+  "name": "Danube school",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The Danube school or Donau school (German: Donauschule or Donaustil) was a circle of painters of the first third of the 16th century in Bavaria and Austria (mainly along the Danube valley). Many were also innovative printmakers, usually in etching. They were among the first painters to regularly use pure landscape painting",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Danube school",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Danube_school",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Rugged mountain terrain, towering fir trees and dramatic lighting effects of sunset and dawn are the main characteristics of the Danube school.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Danube school",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Danube_school",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

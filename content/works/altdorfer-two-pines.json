@@ -1,0 +1,165 @@
+{
+  "id": "altdorfer-two-pines",
+  "artist": "albrecht-altdorfer",
+  "title": "Landscape with Two Pines",
+  "date": "1521–22",
+  "year": 1521,
+  "medium": "etching",
+  "dimensions": "Platemark: 11.8 x 16.3 cm (4 5/8 x 6 7/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1953.627"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1953.627/1953.627_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1953.627/1953.627_print.jpg",
+    "width": 900,
+    "height": 658,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 130938
+  },
+  "phase": {
+    "label": "Landscape etchings, c. 1520–25",
+    "source": {
+      "label": "Cleveland Museum of Art record: dated 1521–22; “Those he made between 1522 and 1525”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/130938"
+    }
+  },
+  "tags": [
+    {
+      "id": "etching",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium etching",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/130938"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Early etchings, such as this one, were made on iron rather than copper plates, which rendered the lines slightly hazy.",
+          "source": {
+            "author": "The Cleveland Museum of Art",
+            "title": "Landscape with Two Pines",
+            "publisher": "The Cleveland Museum of Art",
+            "readAt": "https://openaccess-api.clevelandart.org/api/artworks/130938",
+            "accessed": "2026-11-27",
+            "tier": 4,
+            "license": "CC0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “the first prints in European art to depict pure landscape”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/130938"
+      }
+    },
+    {
+      "id": "danube-school",
+      "source": {
+        "label": "Wikipedia (Danube school): “Many were also innovative printmakers, usually in etching”",
+        "url": "https://en.wikipedia.org/wiki/Danube_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Primarily a painter and draftsman, Albrecht Altdorfer made only nine etchings, which were intended to imitate his drawings. Those he made between 1522 and 1525—printed in very small numbers for a growing market of print collector—are considered the first prints in European art to depict pure landscape without narrative or devotional content.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Landscape with Two Pines",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/130938",
+          "accessed": "2026-11-27",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His style in landscape etching is simply the transference to metal of the manner of his pen drawing.",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "about 1500 Daniel Hopfer and his two sons, armor decorators in Augsburg, began to etch designs on flat iron plates for printing like engravings. Within 20 years their application of etching (from the Dutch etsen, to eat) had spread to Urs Graf in Switzerland, Altdorfer in Regensburg, [Dürer] in Nuremberg, and Parmigiano in Parma.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[Altdorfer] was a more successful and prolific etcher than Beham, and is of considerable importance as one of the earliest interpreters of landscape for its own sake.",
+        "lead": "Arthur M. Hind:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Here, he displayed remarkable freedom of draftsmanship and apparent spontaneity. The site depicted cannot be readily identified, and Altdorfer probably composed it from his imagination.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "Landscape with Two Pines",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/130938",
+          "accessed": "2026-11-27",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Of particular interest is a group of ten delicately hand-coloured impressions of the etchings (8 in Albertina, 1 in Veste Coburg, and 1 in the British Museum). These are thought to have been painted in the artist's studio, perhaps even by Altdorfer himself (it was, in fact, his father's trade).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "List of landscapes by Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/List_of_landscapes_by_Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

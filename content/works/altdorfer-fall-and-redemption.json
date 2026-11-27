@@ -1,0 +1,146 @@
+{
+  "id": "altdorfer-fall-and-redemption",
+  "artist": "albrecht-altdorfer",
+  "title": "The Fall and Redemption of Man",
+  "date": "c. 1515",
+  "year": 1510,
+  "medium": "woodcut",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1952.38"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.38/1952.38_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1952.38/1952.38_print.jpg",
+    "width": 616,
+    "height": 900,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 129951
+  },
+  "phase": {
+    "label": "Woodcut series, c. 1513–15",
+    "source": {
+      "label": "Cleveland Museum of Art record: dated c. 1515; “By 1513, Altdorfer had already executed a number of small, finely detailed engravings”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/129951"
+    }
+  },
+  "tags": [
+    {
+      "id": "woodblock-printing",
+      "source": {
+        "label": "Cleveland Museum of Art record: medium woodcut",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/129951"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In his slightly larger woodcuts, Altdorfer developed the delicate Venetian book illustrations of the 1480s and 90s … by adding shading.",
+          "source": {
+            "author": "A. Hyatt Mayor",
+            "title": "Prints & People: A Social History of Printed Pictures",
+            "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+            "year": "1971",
+            "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+            "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+            "accessed": "2026-11-27",
+            "tier": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: Altdorfer, “a German painter, engraver and architect of the Renaissance”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "By 1513, Altdorfer had already executed a number of small, finely detailed engravings. Because it is difficult to achieve the same degree of precision using woodcut, The Fall and Redemption of Man is a technical tour de force.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Fall and Redemption of Man",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129951",
+          "accessed": "2026-11-27",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "These eight woodcuts come from a series of forty which illustrate the story of Christian redemption from original sin to the Last Judgement.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Fall and Redemption of Man",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129951",
+          "accessed": "2026-11-27",
+          "tier": 4,
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Probably inspired by Albrecht Dürer's Small Passion (1511)-but almost double the size-the only contemporaneous comparable set of fine miniature woodcuts, Dance of Death, was designed by Hans Holbein in about 1526",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Fall and Redemption of Man",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129951",
+          "accessed": "2026-11-27",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On wood he restricted himself almost exclusively to religious subjects.",
+        "source": {
+          "author": "Alfred Woltmann and Karl Woermann",
+          "title": "A History of Painting, Vol. II: The Painting of the Renascence (trans. Clara Bell)",
+          "publisher": "Dodd, Mead and Company (Internet Archive scan)",
+          "year": "1894",
+          "url": "https://archive.org/details/historyofpaintin02wolt",
+          "readAt": "https://archive.org/stream/historyofpaintin02wolt/historyofpaintin02wolt_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "162–164"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Probably to maximize printing efficiency and quality, eight woodblocks were printed on each of five sheets of paper, but the subjects are not in the correct chronological order. Prior to sale, the sheets were cut into eight pieces.",
+        "source": {
+          "author": "The Cleveland Museum of Art",
+          "title": "The Fall and Redemption of Man",
+          "publisher": "The Cleveland Museum of Art",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/129951",
+          "accessed": "2026-11-27",
+          "tier": 4,
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Forty small cuts let a buyer hold the whole Christian story, from Eden to the Last Judgement, in two hands: devotion sized for a private room rather than a church."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

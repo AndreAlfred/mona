@@ -1,0 +1,125 @@
+{
+  "id": "altdorfer-satyr-family",
+  "artist": "albrecht-altdorfer",
+  "title": "Landscape with Satyr Family",
+  "date": "1507",
+  "year": 1507,
+  "medium": "oil paint, lime panel",
+  "dimensions": "23 × 20 cm",
+  "museum": {
+    "name": "Gemäldegalerie Berlin (638A)",
+    "url": "https://www.wikidata.org/wiki/Q47009548"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Landschaft_mit_Satyrfamilie_-_Gem%C3%A4ldegalerie_Berlin_-_5406528.jpg/1280px-Landschaft_mit_Satyrfamilie_-_Gem%C3%A4ldegalerie_Berlin_-_5406528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1386,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Landschaft mit Satyrfamilie - Gemäldegalerie Berlin - 5406528.jpg)"
+  },
+  "archive": {
+    "wd": "Q47009548"
+  },
+  "phase": {
+    "label": "First signed works, Regensburg, c. 1506–10",
+    "source": {
+      "label": "Wikipedia: “His first signed works date to c. 1506”",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on lime panel",
+        "url": "https://www.wikidata.org/wiki/Q47009548"
+      }
+    },
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikidata record: Landscape with Satyr Family",
+        "url": "https://www.wikidata.org/wiki/Q47009548"
+      }
+    },
+    {
+      "id": "danube-school",
+      "source": {
+        "label": "Wikipedia: Altdorfer “the main representative of the Danube School”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "At the start of his career, he won public attention by creating small, intimate modestly scaled works in unconventional media and with eccentric subject matter.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His first signed works date to c. 1506, including engravings and drawings such as the Stygmata of St. Francis and St. Jerome. His models were niellos and copper engravings from the workshops of Jacopo de Barbari and Albrecht Dürer.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A general connexion of ideas may be noted in several of the prints of [Dürer] and Barbari, e.g. in their Satyr Families",
+        "lead": "Arthur M. Hind, on the engravers the young Altdorfer learned from:",
+        "source": {
+          "author": "Arthur M. Hind",
+          "title": "A Short History of Engraving and Etching",
+          "publisher": "Archibald Constable (Internet Archive scan)",
+          "year": "1908",
+          "url": "https://archive.org/details/shorthistoryofen00hinduoft",
+          "readAt": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "They show little Italian influence and represent a decisive break with the high finish of Northern Renaissance painting, using a more painterly style that was in many ways ahead of its time.",
+        "lead": "On the Danube school painters:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Danube school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Danube_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "ai",
+        "text": "Satyrs were creatures of the classical past that German humanists and printmakers had just taken up. Altdorfer, in one of his earliest dated paintings, sets a satyr family not in Arcadia but in a dark northern wood, on a panel barely 23 cm high."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}
