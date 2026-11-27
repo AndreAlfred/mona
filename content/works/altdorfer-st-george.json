@@ -1,0 +1,152 @@
+{
+  "id": "altdorfer-st-george",
+  "artist": "albrecht-altdorfer",
+  "title": "Countryside of Wood with Saint George Fighting the Dragon",
+  "date": "1510",
+  "year": 1510,
+  "medium": "oil paint on panel, parchment",
+  "dimensions": "28.2 × 22.5 cm",
+  "museum": {
+    "name": "Bavarian State Painting Collections (WAF 29)",
+    "url": "https://www.wikidata.org/wiki/Q1807195"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Albrecht_Altdorfer_Laubwald_mit_dem_Heiligen_Georg_1510.jpg/1280px-Albrecht_Altdorfer_Laubwald_mit_dem_Heiligen_Georg_1510.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1542,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Altdorfer Laubwald mit dem Heiligen Georg 1510.jpg)"
+  },
+  "archive": {
+    "wd": "Q1807195"
+  },
+  "phase": {
+    "label": "Early forest pictures, 1510",
+    "source": {
+      "label": "Wikipedia: “his small St. George and the Dragon (1510), in oil on parchment”",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+    }
+  },
+  "tags": [
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: the two figures are “almost submerged in the lush, dense forest that towers over them”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    },
+    {
+      "id": "danube-school",
+      "source": {
+        "label": "Wikipedia: Altdorfer “the main representative of the Danube School”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Rugged mountain terrain, towering fir trees and dramatic lighting effects of sunset and dawn are the main characteristics of the Danube school.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Danube school",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Danube_school",
+            "accessed": "2026-11-27",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on panel, parchment",
+        "url": "https://www.wikidata.org/wiki/Q1807195"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "his small St. George and the Dragon (1510), in oil on parchment, where the two figures are tiny and almost submerged in the lush, dense forest that towers over them. Altdorfer seems to exaggerate the measurements of the forest in comparison to the figures: the leaves appear to be larger than the horse, showing the significance of nature and landscape.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The accessory material of landscape [in Altdorfer's work] is played with and ornamentally elaborated so that it reverberates with the sense of a sequestered and inhospitable environment",
+        "lead": "The art historian Mark W. Roskill, on this panel:",
+        "source": {
+          "author": "Mark W. Roskill",
+          "title": "The Languages of Landscape",
+          "publisher": "Penn State Press (quoted in Wikipedia)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "CC BY-SA 4.0",
+          "year": "1997"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The painters of the Danube school often followed him in [subordinating] figures to cliffs and sunny forests, and Hercules Seghers in Holland etched Altdorfer's moss-hung larches, which he never saw at home.",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Altdorfer's figures are invariably the complement of his romantic landscapes; for them he borrowed Albrecht Dürer's inventive iconography, but the panoramic setting is personal and has nothing to do with the fantasy landscapes of the Netherlands",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He believed that the human figure should not disrupt nature, but rather participate in it or imitate its natural processes.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Saint George, the knight who kills the dragon, was a favourite saint of the German nobility. Altdorfer shrinks the legend to a glint of armour in a clearing; the forest itself has become the subject."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "altdorfer-danube-landscape",
+  "artist": "albrecht-altdorfer",
+  "title": "Landscape of Danube near Regensburg",
+  "date": "c. 1528",
+  "year": 1528,
+  "medium": "parchment, panel",
+  "dimensions": "30.5 × 22.2 cm",
+  "museum": {
+    "name": "Bavarian State Painting Collections (WAF 30)",
+    "url": "https://www.wikidata.org/wiki/Q29480551"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Albrecht_Altdorfer_007.jpg/1280px-Albrecht_Altdorfer_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1693,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Altdorfer 007.jpg)"
+  },
+  "archive": {
+    "wd": "Q29480551"
+  },
+  "phase": {
+    "label": "Pure landscapes, 1520s",
+    "source": {
+      "label": "Wikipedia (Danube school): Danube Landscape “has been dated between 1520 and 1525 which is a result from Altdorfer's mature years”",
+      "url": "https://en.wikipedia.org/wiki/Danube_school"
+    }
+  },
+  "tags": [
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “one of the earliest accurate topographical paintings of a particular building in its setting”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    },
+    {
+      "id": "danube-school",
+      "source": {
+        "label": "Wikipedia (Danube school): “Of all the artists within the Danube school, Albrecht Altdorfer is one that has mastered the landscapes of the Danube”",
+        "url": "https://en.wikipedia.org/wiki/Danube_school"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Of all the artists within the Danube school, Albrecht Altdorfer is one that has mastered the landscapes of the Danube. His painting, Danube Landscape has been dated between 1520 and 1525 which is a result from Altdorfer's mature years capturing the Danube landscapes.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Danube school",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Danube_school",
+            "accessed": "2026-11-27",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikipedia: “Another small oil on parchment, Danube Landscape with Castle Wörth”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Another small oil on parchment, Danube Landscape with Castle Wörth (c. 1520) is one of the earliest accurate topographical paintings of a particular building in its setting, of a type that was to become a cliché in later centuries.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The earliest landscape painting of a known place, the surroundings of the Wörth an der Donau Castle … near Regensburg. Altdorfer also produced an engraving of the same locale.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "List of landscapes by Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/List_of_landscapes_by_Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Most of Altdorfer's landscapes were made with a vertical format, in contrast with the modern conception of the genre. The horizontal landscape was an innovation of Altdorfer's Flemish contemporary Joachim Patinir and his followers.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The river valleys of Austria and western Bavaria have often been praised as the land of the 'beautiful Danube' and not in just song but in the pictorial arts as well.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Danube school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Danube_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He settled in the free imperial city of Regensburg, a town located on the Danube River in 1505, eventually becoming the town architect and a town councillor.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Wörth lies a short way downriver from Regensburg. This is Altdorfer's own country, the river he lived beside for thirty years, painted for its own sake."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

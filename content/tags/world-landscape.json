@@ -1,0 +1,33 @@
+{
+  "id": "world-landscape",
+  "kind": "style",
+  "name": "World landscape",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The world landscape, a translation of the German Weltlandschaft, is a type of composition in Western painting showing an imaginary panoramic landscape seen from an elevated viewpoint that includes mountains and lowlands, water, and buildings. The subject of each painting is usually a Biblical or historical narrative, but the figures comprising this narrative element are dwarfed by their surroundings.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "World landscape",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/World_landscape",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "The world landscape first appeared in painting in the work of the Early Netherlandish painter Joachim Patinir (c. 1480–1524)",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "World landscape",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/World_landscape",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

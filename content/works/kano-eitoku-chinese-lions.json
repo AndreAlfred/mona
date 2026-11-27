@@ -1,0 +1,144 @@
+{
+  "id": "kano-eitoku-chinese-lions",
+  "artist": "kano-eitoku",
+  "title": "Chinese Lions (Karajishi)",
+  "date": "16th century",
+  "year": 1550,
+  "museum": {
+    "name": "Museum of the Imperial Collections (SZK002944)",
+    "url": "https://www.wikidata.org/wiki/Q81818937"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kano_Eitoku_002.jpg/1280px-Kano_Eitoku_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kano_Eitoku_002.jpg/2560px-Kano_Eitoku_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 594,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kano Eitoku 002.jpg)"
+  },
+  "archive": {
+    "wd": "Q81818937"
+  },
+  "phase": {
+    "label": "Mature “monumental style”",
+    "source": {
+      "label": "Wikipedia: “His signal contribution to the Kanō repertoire was the so-called ‘monumental style’ (taiga)”",
+      "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku"
+    }
+  },
+  "tags": [
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Wikipedia (National Treasures list): “A six-section folding screen (byōbu)”",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia (National Treasures list): “ink and color on paper with gold leaf background”",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Wikipedia: “Chinese guardian lions (Karajishi)”",
+        "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku"
+      }
+    },
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikidata record: creator Kanō Eitoku",
+        "url": "https://www.wikidata.org/wiki/Q81818937"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His signal contribution to the Kanō repertoire was the so-called \"monumental style\" (taiga), characterized by bold, rapid brushwork, an emphasis on foreground, and motifs that are large relative to the pictorial space.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō Eitoku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Eitoku's screen, Chinese Lions … reveals the bold, brightly colored style of painting preferred by the samurai.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Japanese art",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Japanese_art",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In sharp contrast to the previous Muromachi period, the Azuchi–Momoyama period was characterized by a grandiose polychrome style, with extensive use of gold and silver foil that would be applied to paintings, garments, architecture, etc.; and by works on a very large scale.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Japanese painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Japanese_painting",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Byōbu adorned samurai residences, conveying high rank and demonstrating wealth and power.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Byōbu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/By%C5%8Dbu",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "[It] should impress his subjects with the insignia and outward magnificence of the greatest imperialism his continent had known.",
+        "lead": "Fenollosa, on what Hideyoshi wanted from Eitoku's art:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "104–110"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Karajishi, “Chinese lions”, were guardian beasts Japan knew only from Chinese and Buddhist art; no one painting them had seen a lion. Huge and striding across gold, they are an emblem of power fit for a warlord's hall."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

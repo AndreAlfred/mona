@@ -1,0 +1,162 @@
+{
+  "id": "kano-eitoku-cypress-trees",
+  "artist": "kano-eitoku",
+  "title": "Cypress Trees",
+  "date": "c. 1590",
+  "year": 1590,
+  "dimensions": "170.3 × 460.5 mm",
+  "museum": {
+    "name": "Tokyo National Museum (A-1069)",
+    "url": "https://www.wikidata.org/wiki/Q20982926"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kano_Eitoku_-_Cypress_Trees_-_Google_Art_Project.jpg/1280px-Kano_Eitoku_-_Cypress_Trees_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kano_Eitoku_-_Cypress_Trees_-_Google_Art_Project.jpg/2560px-Kano_Eitoku_-_Cypress_Trees_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 444,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kano Eitoku - Cypress Trees - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q20982926"
+  },
+  "phase": {
+    "label": "Last works, c. 1590",
+    "source": {
+      "label": "Wikipedia: “The painting stretches across two four-panel folding screens from around 1590”",
+      "url": "https://en.wikipedia.org/wiki/Cypress_Trees"
+    }
+  },
+  "tags": [
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia: “a polychrome-and-gold screen”",
+        "url": "https://en.wikipedia.org/wiki/Cypress_Trees"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "In Kano Eitoku's Cypress Trees screen (c. 1590), most of the \"sky\" behind the trees is gold, but the coloured areas of the foreground and the distant mountain peaks show that this gold is intended to represent a mountain mist. The immediate foreground surface is also a duller gold.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Gold ground",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Gold_ground",
+            "accessed": "2026-11-27",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Wikipedia: “a Kanō-school byōbu or folding screen”",
+        "url": "https://en.wikipedia.org/wiki/Cypress_Trees"
+      }
+    },
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikipedia: “a Kanō-school byōbu or folding screen attributed to the Japanese painter Kanō Eitoku”",
+        "url": "https://en.wikipedia.org/wiki/Cypress_Trees"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This work is considered a representative work of Eitoku, who pioneered the bold \"colour and gold\" style. The painting is a polychrome-and-gold screen that depicts a cypress tree against the backdrop of gold-leafed clouds, and surrounded by the dark blue waters of a pond.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cypress Trees",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cypress_Trees",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Commonly attributed to Kanō Eitoku (1543–1590), there is another theory based on a reference to a commission in The Diary of Prince Toshihito (智仁観王日記) that the painting was instead made by Eitoku's younger brother Kanō Sōshū (狩野宗秀).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cypress Trees",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cypress_Trees",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "This eight panel screen attributed to Eitoku, around 1590, shows the vigour of the new Momoyama castle style, which he is probably mainly responsible for developing.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "typical for hurried sweep of composition, for pure nature design, and for strength of individual brush stroke. ... Golden cloud-like areas representing mist are placed arbitrarily in the background, and emphasize the decorative magnitude of what is otherwise the powerful drawing of giant tree forms",
+        "lead": "The historian of Japanese art Robert Treat Paine describes the screen as",
+        "source": {
+          "author": "Robert Treat Paine",
+          "title": "The Art and Architecture of Japan (Pelican History of Art)",
+          "publisher": "Penguin (quoted in Wikipedia)",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "it is made of paper covered with gold leaf, depicting a cypress tree, a symbol of longevity in Japan.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Cypress Trees",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Cypress_Trees",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Yeitoku himself died at a comparatively early age, before his master Hideyoshi, and Mitsunobu became successor as head of the family. Had Yeitoku lived, he would probably have influenced the art of Iyeyasu into different channels from those it finally took.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "104–110"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "altdorfer-landscape-footbridge",
+  "artist": "albrecht-altdorfer",
+  "title": "Landscape with a Footbridge",
+  "date": "1518",
+  "year": 1518,
+  "medium": "oil paint on panel",
+  "dimensions": "41.2 × 35.5 cm",
+  "museum": {
+    "name": "National Gallery (NG6320)",
+    "url": "https://www.wikidata.org/wiki/Q3888854"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Albrecht_Altdorfer_-_Landscape_with_a_Footbridge_-_Google_Art_Project.jpg/1280px-Albrecht_Altdorfer_-_Landscape_with_a_Footbridge_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1449,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Altdorfer - Landscape with a Footbridge - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q3888854"
+  },
+  "phase": {
+    "label": "First pure landscapes, c. 1518–22",
+    "source": {
+      "label": "Wikipedia: “Landscape with Footbridge … of 1518–1520 is claimed to be the first pure landscape in oil”",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+    }
+  },
+  "tags": [
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Wikipedia: “the first pure landscape in oil”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Altdorfer painted a number of landscapes that contain no figures at all, including Landscape with a Footbridge (c. 1516) and Danube Landscape near Regensburg (c. 1522–25). These were the first \"pure\" landscapes since antiquity.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "The Battle of Alexander at Issus",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+            "accessed": "2026-11-27",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on panel",
+        "url": "https://www.wikidata.org/wiki/Q3888854"
+      }
+    },
+    {
+      "id": "danube-school",
+      "source": {
+        "label": "Wikipedia (World landscape): the single foreground tree, “a formula invented by Albrecht Altdorfer, the most significant artist of the group”",
+        "url": "https://en.wikipedia.org/wiki/World_landscape"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His Landscape with Footbridge (National Gallery, London) of 1518–1520 is claimed to be the first pure landscape in oil. In this painting, Altdorfer places a large tree that is cut off by the margins at the center of the landscape, making it the central axis and focus within the piece.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Only five surviving landscape paintings are generally accepted to have been painted by Altdorfer. Two of them, one in Munich (30.5 × 22.2 cm) and one in London (41.2 × 35.5 cm), were painted in oils on parchment glued on wood.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "List of landscapes by Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/List_of_landscapes_by_Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "[Just after] Giovanni Bellini and Giorgione had discovered landscape in Venice, Altdorfer became the first German landscapist.",
+        "lead": "A. Hyatt Mayor:",
+        "source": {
+          "author": "A. Hyatt Mayor",
+          "title": "Prints & People: A Social History of Printed Pictures",
+          "publisher": "The Metropolitan Museum of Art (Internet Archive scan)",
+          "year": "1971",
+          "url": "https://archive.org/details/PrintsandPeopleASocialHistoryofPrintedPictures",
+          "readAt": "https://archive.org/stream/PrintsandPeopleASocialHistoryofPrintedPictures/PrintsandPeopleASocialHistoryofPrintedPictures_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Their landscapes revel in the forests of the Upper Danube, and the place of a foreground figure is often taken by a single tree, a formula invented by Albrecht Altdorfer, the most significant artist of the group, and used, mostly in drawings and prints, by Wolf Huber and Augustin Hirschvogel.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "World landscape",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/World_landscape",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Some viewers perceive anthropomorphic stylisation—the tree supposedly exhibiting human qualities such as the drapery of its limbs.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Inspired by his travels around the Austrian Alps and the Danube River, Altdorfer painted a number of landscapes that contain no figures at all",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

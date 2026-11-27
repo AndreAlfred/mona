@@ -1,0 +1,121 @@
+{
+  "id": "albrecht-altdorfer",
+  "name": "Albrecht Altdorfer",
+  "born": 1480,
+  "died": 1538,
+  "active": "c. 1504–1537",
+  "nationality": "German",
+  "period": "renaissance",
+  "movements": [
+    {
+      "id": "danube-school",
+      "source": {
+        "label": "Wikipedia: “he is regarded to be the main representative of the Danube School”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “a German painter, engraver and architect of the Renaissance working in Regensburg”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    },
+    {
+      "id": "little-masters",
+      "source": {
+        "label": "Wikipedia: “he is seen to belong to the Nuremberg Little Masters”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "source": {
+        "label": "Wikipedia: “His models were niellos and copper engravings from the workshops of Jacopo de Barbari and Albrecht Dürer”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    },
+    {
+      "id": "lucas-cranach",
+      "name": "Lucas Cranach",
+      "source": {
+        "label": "Wikipedia: “Taking and developing the landscape style of Lucas Cranach the Elder”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    },
+    {
+      "id": "hans-burgkmair",
+      "name": "Hans Burgkmair",
+      "source": {
+        "label": "Wikipedia: in the Triumphs of Maximilian “he followed the overall style presumably set by Hans Burgkmair”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    },
+    {
+      "id": "augustin-hirschvogel",
+      "name": "Augustin Hirschvogel",
+      "source": {
+        "label": "Hind, A Short History of Engraving and Etching: “Altdorfer's closest followers in landscape are Augustin Hirschvogel and Hans Sebald Lautensack”",
+        "url": "https://archive.org/stream/shorthistoryofen00hinduoft/shorthistoryofen00hinduoft_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q153746",
+  "archive": {
+    "cma": [
+      11620
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Albrecht Altdorfer (c. 1480 – 12 February 1538) was a German painter, engraver and architect of the Renaissance working in Regensburg. Along with Lucas Cranach the Elder and Wolf Huber he is regarded to be the main representative of the Danube School, setting biblical and historical subjects against landscape backgrounds of expressive colours.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Albrecht Altdorfer",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He seized the fantastic tendency of the time with a poetic [feeling] at once rich and pleasing, and he developed it so as to attain a perfection in [this] sort of romantic painting, such as no other artist has ever reached.",
+      "lead": "Kugler's Handbook of Painting, the standard English guide of the nineteenth century:",
+      "source": {
+        "author": "Franz Kugler, rev. Gustav Waagen and Joseph A. Crowe",
+        "title": "The German, Flemish and Dutch Schools of Painting, Part I",
+        "publisher": "John Murray (Internet Archive scan)",
+        "year": "1904",
+        "url": "https://archive.org/details/germanflemishdut01crow",
+        "readAt": "https://archive.org/stream/germanflemishdut01crow/germanflemishdut01crow_djvu.txt",
+        "accessed": "2026-11-27",
+        "tier": 2,
+        "license": "Public domain",
+        "page": "180–183"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Around 1511 or earlier, he travelled down the river and south into the Alps, where the scenery moved him so deeply that he became the first landscape painter in the modern sense",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Albrecht Altdorfer",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+        "accessed": "2026-11-27",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

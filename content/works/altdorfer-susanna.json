@@ -1,0 +1,138 @@
+{
+  "id": "altdorfer-susanna",
+  "artist": "albrecht-altdorfer",
+  "title": "Susanna and the Elders",
+  "date": "1526",
+  "year": 1526,
+  "medium": "oil paint, lime panel",
+  "dimensions": "74.8 × 61.2 cm",
+  "museum": {
+    "name": "Bavarian State Painting Collections (698)",
+    "url": "https://www.bildindex.de/document/obj20283888"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Albrecht_Altdorfer_-_Susanna_und_die_beiden_Alten.jpg/1280px-Albrecht_Altdorfer_-_Susanna_und_die_beiden_Alten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1496,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Altdorfer - Susanna und die beiden Alten.jpg)"
+  },
+  "archive": {
+    "wd": "Q25986"
+  },
+  "phase": {
+    "label": "Later works, 1520s–30s",
+    "source": {
+      "label": "Wikipedia: “In his later works, Altdorfer moved more towards mannerism”",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on lime panel",
+        "url": "https://www.wikidata.org/wiki/Q25986"
+      }
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: painted for a set of famous women from history for the Duke of Bavaria",
+        "url": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus"
+      }
+    },
+    {
+      "id": "mannerism",
+      "source": {
+        "label": "Wikipedia: “In his later works, Altdorfer moved more towards mannerism”",
+        "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "A Susanna in the Bath and the Stoning of the Elders (1526) set outside an Italianate skyscraper of a palace shows his interest in architecture.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Another picture by this artist, in the Munich Gallery, Cabinets, No. 289, is inscribed with his monogram and the date 1526. It represents the history of Susanna. The garden with the bath, on the left, and a mass of varied architecture on the right, make up a rich and fanciful composition.",
+        "source": {
+          "author": "Franz Kugler, rev. Gustav Waagen and Joseph A. Crowe",
+          "title": "The German, Flemish and Dutch Schools of Painting, Part I",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1904",
+          "url": "https://archive.org/details/germanflemishdut01crow",
+          "readAt": "https://archive.org/stream/germanflemishdut01crow/germanflemishdut01crow_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "180–183"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Another eight, each portraying a famous woman from history, were later added to the set, probably at the behest of the Duke's wife, Jacobaea of Baden. Altdorfer's Susanna and the Elders (1526) was among these.",
+        "lead": "On Duke William IV of Bavaria's cycle of history paintings:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In his later works, Altdorfer moved more towards mannerism and began to depict the human form to the conformity of the Italian model, as well as dominate the picture with frank colors.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As the superintendent of the municipal buildings Altdorfer had overseen the construction of several commercial structures, such as a slaughterhouse and a building for wine storage, possibly even designing them.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Albrecht Altdorfer",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "In the Book of Daniel, Susanna is falsely accused by two elders who spied on her bathing, and saved when Daniel exposes their lie. Altdorfer puts the bath and the elders' punishment in one picture, with the painter-architect's palace towering over both."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

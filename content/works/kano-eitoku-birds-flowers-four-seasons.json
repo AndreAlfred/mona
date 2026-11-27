@@ -1,0 +1,152 @@
+{
+  "id": "kano-eitoku-birds-flowers-four-seasons",
+  "artist": "kano-eitoku",
+  "title": "Birds and Flowers of the Four Seasons",
+  "date": "1566",
+  "year": 1566,
+  "medium": "ink on paper",
+  "museum": {
+    "name": "Jukō-in",
+    "url": "https://www.wikidata.org/wiki/Q134595911"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Birds_and_flowers_of_the_four_seasons.jpg/1280px-Birds_and_flowers_of_the_four_seasons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 380,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Birds and flowers of the four seasons.jpg)"
+  },
+  "archive": {
+    "wd": "Q134595911"
+  },
+  "phase": {
+    "label": "Early commissions, mid-1560s",
+    "source": {
+      "label": "Wikipedia: “in his early twenties, he created two works that are now considered National Treasures”",
+      "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikidata record: ink on paper",
+        "url": "https://www.wikidata.org/wiki/Q134595911"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "They have the lightning splintering of stroke that recalls the old Kano patriarch at his best, but with a new proportioning and radiation.",
+          "lead": "Fenollosa, on these ink doors:",
+          "source": {
+            "author": "Ernest F. Fenollosa",
+            "title": "Epochs of Chinese and Japanese Art, Vol. II",
+            "publisher": "William Heinemann (Internet Archive scan)",
+            "year": "1912",
+            "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+            "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+            "accessed": "2026-11-27",
+            "tier": 2,
+            "license": "Public domain",
+            "page": "104–110"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Wikipedia: “Kachō zu fusuma (花鳥図襖, Birds and flowers of the four seasons)”",
+        "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku"
+      }
+    },
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikipedia (Kanō school): room decorations “by Kanō Eitoku and his father Shōei, in the Jukō-in”",
+        "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_school"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "While there are various theories regarding the exact years of creation, in his early twenties, he created two works that are now considered National Treasures: Rakuchū rakugai zu byōbu (洛中洛外図屏風, Views in and around Kyoto) and the fusuma (襖, sliding doors) paintings entitled Kachō zu fusuma (花鳥図襖, Birds and flowers of the four seasons) at Jukō-in, a subtemple of the Daitoku-ji Temple.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō Eitoku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[Eitoku,] as a boy, had known the personal influence of his grandfather, Motonobu ; and during the regime of his father, had occasionally produced works in the old style whose vigour threatened the repose of the school. Of these, the most splendid are the vigorous mural work of pine trees and blossoming plums in ink, done on the sliding doors of Daitokuji.",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "104–110"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The decoration of the main room facing the garden of the Jukō-in, a subtemple of Daitoku-ji (a Zen temple in Kyoto), is perhaps the best extant example of Eitoku's work. A massive ume tree and twin pines are depicted on pairs of sliding screens in diagonally opposite corners, their trunks repeating the verticals of the corner posts and their branches extending to left and right, unifying the adjoining panels.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Japanese art",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Japanese_art",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Jukō-in (聚光院) is a sub-temple of Daitoku-ji, Kyoto, Japan. It was founded in 1566 as the mortuary temple of Miyoshi Nagayoshi. In 1589 Sen no Rikyū designated it as the mortuary temple for his family.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Jukō-in",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Juk%C5%8D-in",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "From the Momoyama period there is a set of room decorations on walls, doors and screens by Kanō Eitoku and his father Shōei, in the Jukō-in (abbot's lodging) at the Daitoku-ji monastery in Kyoto",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

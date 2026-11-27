@@ -1,0 +1,146 @@
+{
+  "id": "kano-eitoku-rakuchu-rakugai",
+  "artist": "kano-eitoku",
+  "title": "Scenes in and around Kyoto (Rakuchū rakugai zu), Uesugi screens",
+  "date": "16th century",
+  "year": 1565,
+  "dimensions": "160.4 × 364.2 cm",
+  "museum": {
+    "name": "Yonezawa City Uesugi Museum (A1990-001)",
+    "url": "https://www.wikidata.org/wiki/Q107044831"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kan%C5%8D_Eitoku_-_Rakuch%C5%AB_rakugai_zu_%28Uesugi%29_-_right_screen.jpg/1280px-Kan%C5%8D_Eitoku_-_Rakuch%C5%AB_rakugai_zu_%28Uesugi%29_-_right_screen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kan%C5%8D_Eitoku_-_Rakuch%C5%AB_rakugai_zu_%28Uesugi%29_-_right_screen.jpg/2560px-Kan%C5%8D_Eitoku_-_Rakuch%C5%AB_rakugai_zu_%28Uesugi%29_-_right_screen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 547,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kanō Eitoku - Rakuchū rakugai zu (Uesugi) - right screen.jpg)"
+  },
+  "archive": {
+    "wd": "Q107044831"
+  },
+  "phase": {
+    "label": "Early commissions, mid-1560s",
+    "source": {
+      "label": "Wikipedia: “He painted the Rakuchū rakugai zu in 1565 at the request of Ashikaga Yoshiteru”",
+      "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku"
+    }
+  },
+  "tags": [
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Wikipedia: “The Rakuchū rakugai zu is a byōbu (屏風, folding screen)”",
+        "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku"
+      }
+    },
+    {
+      "id": "gold-ground",
+      "source": {
+        "label": "Wikipedia (National Treasures list): “ink and color on paper with gold leaf background”",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_treasures_of_Japan_(paintings)"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: a folding screen “depicting the scenery and customs of Kyoto”",
+        "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku"
+      }
+    },
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikidata record: creator Kanō Eitoku",
+        "url": "https://www.wikidata.org/wiki/Q107044831"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He painted the Rakuchū rakugai zu in 1565 at the request of Ashikaga Yoshiteru. Subsequently, Oda Nobunaga acquired the artwork to demonstrate his control over Kyoto and the shogunate, and presented it to Uesugi Kenshin.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō Eitoku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The Rakuchū rakugai zu is a byōbu (屏風, folding screen) depicting the scenery and customs of Kyoto, and among the designated National Treasures, there are only two: the version known as the Uesugi edition by Kano Eitoku and the Funaki edition by Iwasa Matabei.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō Eitoku",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_Eitoku",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was Yeitoku who for the first time conceived of expanding the gold leaf clouding until it should occupy perhaps half … of the background",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "104–110"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Common subjects were landscapes, often as a background for animals and dragons, or birds, trees or flowers, or compositions with a few large figures, but crowded panoramic scenes from a high viewpoint were also painted.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "This period began the unification of \"warring\" leaders under a central government. The initial dating for this period is often believed to be 1568 when Nobunaga entered Kyoto or 1573 when the last Ashikaga Shogun was removed from Kyoto.",
+        "lead": "On the Azuchi–Momoyama period that followed:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Japanese painting",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Japanese_painting",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Ashikaga Yoshiteru, the shogun who asked for this portrait of his capital, was killed in 1565. The screens outlived him and became a gift between warlords."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

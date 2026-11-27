@@ -1,0 +1,192 @@
+{
+  "id": "altdorfer-battle-of-issus",
+  "artist": "albrecht-altdorfer",
+  "title": "The Battle of Alexander at Issus",
+  "date": "1529",
+  "year": 1529,
+  "medium": "oil paint, lime panel",
+  "dimensions": "158.4 × 120.3 cm",
+  "museum": {
+    "name": "Bavarian State Painting Collections (688)",
+    "url": "https://www.wikidata.org/wiki/Q241455"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Albrecht_Altdorfer_-_Schlacht_bei_Issus_%28Alte_Pinakothek%2C_M%C3%BCnchen%29_-_Google_Art_Project.jpg/1280px-Albrecht_Altdorfer_-_Schlacht_bei_Issus_%28Alte_Pinakothek%2C_M%C3%BCnchen%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Albrecht_Altdorfer_-_Schlacht_bei_Issus_%28Alte_Pinakothek%2C_M%C3%BCnchen%29_-_Google_Art_Project.jpg/2560px-Albrecht_Altdorfer_-_Schlacht_bei_Issus_%28Alte_Pinakothek%2C_M%C3%BCnchen%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1568,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Albrecht Altdorfer - Schlacht bei Issus (Alte Pinakothek, München) - Google Art Project.jpg)"
+  },
+  "archive": {
+    "wd": "Q241455"
+  },
+  "phase": {
+    "label": "Court commission for William IV of Bavaria, 1528–29",
+    "source": {
+      "label": "Wikipedia: “Duke William IV of Bavaria commissioned The Battle of Alexander at Issus in 1528”",
+      "url": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: commissioned “as part of a set of historical pieces”",
+        "url": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus"
+      }
+    },
+    {
+      "id": "world-landscape",
+      "source": {
+        "label": "Wikipedia: “one of the most famous examples of the type of Renaissance landscape painting known as the world landscape”",
+        "url": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "Altdorfer's painted landscapes are usually vertical, and, if only because it was commissioned for a vertical space, this is the case for the most extreme of all large world landscapes, his The Battle of Alexander at Issus (1529, Munich).",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "World landscape",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/World_landscape",
+            "accessed": "2026-11-27",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on lime panel",
+        "url": "https://www.wikidata.org/wiki/Q241455"
+      }
+    },
+    {
+      "id": "northern-renaissance",
+      "source": {
+        "label": "Wikipedia: “the painting forms part of the Northern Renaissance”",
+        "url": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The painting is widely regarded as Altdorfer's masterpiece, and is one of the most famous examples of the type of Renaissance landscape painting known as the world landscape, which here reaches an unprecedented grandeur.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Instead of the peaceful landscape of retreat for Christian events or holy figures, this panel offers just the opposite: a battleground for one of ancient history's principal epoch-making encounters ... Yet despite its global or cosmic dimensions, the Battle of Issus still looks like Altdorfer's earlier, contemplative liminal landscapes of retreat, complete with craggy peaks, bodies of water, and distant castles.",
+        "lead": "The art historian Larry Silver:",
+        "source": {
+          "author": "Larry Silver",
+          "title": "Nature and Nature's God: Landscape and Cosmos of Albrecht Altdorfer",
+          "publisher": "The Art Bulletin (quoted in Wikipedia)",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "CC BY-SA 4.0",
+          "year": "1999",
+          "url": "https://doi.org/10.2307/3050689"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "I scarcely know whether to call it a landscape, an historical painting, or a battle-piece, — it is indeed all these combined, and much more. I cannot describe the [astonishment] I felt on first beholding this wonderful work.",
+        "lead": "Friedrich Schlegel saw it in Paris, where Napoleon's armies had taken it:",
+        "source": {
+          "author": "Friedrich von Schlegel",
+          "title": "Letters on Christian Art, Letter IV (1804), in The Aesthetic and Miscellaneous Works of Frederick von Schlegel",
+          "publisher": "Henry G. Bohn (Internet Archive scan)",
+          "year": "1849",
+          "url": "https://archive.org/details/aestheticandmis00schlgoog",
+          "readAt": "https://archive.org/stream/aestheticandmis00schlgoog/aestheticandmis00schlgoog_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 3,
+          "license": "Public domain",
+          "page": "113–114"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One may withdraw to so great a distance from this picture, that nothing else can be discerned, and yet this group [Alexander and Darius] is still clearly defined, and excites feelings of the deepest sympathy. It is a little Iliad on canvas",
+        "source": {
+          "author": "Friedrich von Schlegel",
+          "title": "Letters on Christian Art, Letter IV (1804), in The Aesthetic and Miscellaneous Works of Frederick von Schlegel",
+          "publisher": "Henry G. Bohn (Internet Archive scan)",
+          "year": "1849",
+          "url": "https://archive.org/details/aestheticandmis00schlgoog",
+          "readAt": "https://archive.org/stream/aestheticandmis00schlgoog/aestheticandmis00schlgoog_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 3,
+          "license": "Public domain",
+          "page": "113–114"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "It may moreover be remarked that the landscape rivals the works of the contemporary [Netherlanders], Patenier and others, or rather it surpasses them [in] truth and grandeur.",
+        "source": {
+          "author": "Franz Kugler, rev. Gustav Waagen and Joseph A. Crowe",
+          "title": "The German, Flemish and Dutch Schools of Painting, Part I",
+          "publisher": "John Murray (Internet Archive scan)",
+          "year": "1904",
+          "url": "https://archive.org/details/germanflemishdut01crow",
+          "readAt": "https://archive.org/stream/germanflemishdut01crow/germanflemishdut01crow_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "180–183"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As a result of over a decade of involvement with the Regensburg city council, Altdorfer was offered the position of Burgomaster on 18 September 1528. He declined; the council annals reported his reasoning as such: \"He much desires to execute a special work in Bavaria for my Serene Highness and gracious Lord, Duke [William].\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "By dressing Alexander's men in 16th-century steel armour and Darius' men in Turkish battle dress, Altdorfer draws deliberate parallels between the Macedonian campaign and the contemporary European–Ottoman conflict.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Battle of Alexander at Issus",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}

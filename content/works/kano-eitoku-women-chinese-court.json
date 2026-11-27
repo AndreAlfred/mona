@@ -1,0 +1,120 @@
+{
+  "id": "kano-eitoku-women-chinese-court",
+  "artist": "kano-eitoku",
+  "title": "Women at Chinese Court",
+  "date": "16th century",
+  "year": 1562,
+  "museum": {
+    "name": "Metropolitan Museum of Art (29.100.495g, h)",
+    "url": "https://www.metmuseum.org/art/collection/search/45219"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Kano_Eitoku_-_Women_at_Chinese_Court_-_29.100.495g%2C_h_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1574,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kano Eitoku - Women at Chinese Court - 29.100.495g, h - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78849429"
+  },
+  "phase": {
+    "label": "Chinese court subjects",
+    "source": {
+      "label": "Fenollosa: Eitoku conceived “great panels … where coarsely drawn but dignified figures of Chinese worthies should crowd a ground”",
+      "url": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "kano-school",
+      "source": {
+        "label": "Wikidata record: creator Kanō Eitoku",
+        "url": "https://www.wikidata.org/wiki/Q78849429"
+      }
+    },
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Fenollosa: court scenes of “Chinese lords and ladies, Emperors and their suites”",
+        "url": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "And when Hideyoshi, after his triumph of 1582, began to carve out a Court career, Yeitoku was on hand to conceive great panels of, say, forty feet in length by fifteen in height, where coarsely drawn but dignified figures of Chinese worthies should crowd a ground already largely prepared with gold.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "104–110"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "while his importance is fairly clear there are few if any certain attributions to him, especially to his hand alone; in the larger works attributed to him he probably worked together with one of more other artists of the school.",
+        "lead": "A caution on attributions:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The art that should decorate their enormous and brilliant walls should consist of great Tang Court pageants crowded with figures of Chinese lords and ladies, Emperors and their suites, in the most gorgeous costume, and backed by endless reaches of pavilions in enamelled architecture, and of gardens stocked with rare plants and animals.",
+        "lead": "Fenollosa, on the programme Eitoku devised for Hideyoshi:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-27",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "104–110"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The animals and plants shown often had moral or perhaps political significance that is not always obvious today",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Kanō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Kan%C5%8D_school",
+          "accessed": "2026-11-27",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "A Japanese warlord's hall hung with the ladies of an ancient Chinese court was a claim to culture as much as to power: China was the classical past every educated Japanese looked back to."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-27",
+    "by": "claude-routine"
+  }
+}
