@@ -1,0 +1,133 @@
+{
+  "id": "mucha-jan-hus-preaching",
+  "artist": "alphonse-mucha",
+  "title": "Master Jan Hus Preaching at the Bethlehem Chapel (Kázání Mistra Jana Husa v kapli Betlémské)",
+  "date": "1916",
+  "year": 1916,
+  "medium": "oil paint on canvas",
+  "dimensions": "610 × 810 cm",
+  "museum": {
+    "name": "museum collection of the Prague City Gallery",
+    "url": "https://www.wikidata.org/wiki/Q60616781"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Kazani_mistra_jana_husa_v_kapli_betlemske_81x61m.jpg/1280px-Kazani_mistra_jana_husa_v_kapli_betlemske_81x61m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Kazani_mistra_jana_husa_v_kapli_betlemske_81x61m.jpg/2560px-Kazani_mistra_jana_husa_v_kapli_betlemske_81x61m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 867,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Kazani mistra jana husa v kapli betlemske 81x61m.jpg)"
+  },
+  "archive": {
+    "wd": "Q60616781"
+  },
+  "phase": {
+    "label": "The Slav Epic, 1910–1928",
+    "source": {
+      "label": "Wikipedia: The Slav Epic, “a cycle of 20 large canvases painted … between 1910 and 1928”",
+      "url": "https://en.wikipedia.org/wiki/The_Slav_Epic"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “The cycle depicts the mythology and history of Czechs and other Slavic peoples”",
+        "url": "https://en.wikipedia.org/wiki/The_Slav_Epic"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q60616781"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The people of all elements of society attended the preaching of Jan Hus, paying the most careful attention to his words, for he it was who unveiled the vicious doings of those who claimed to be servants of God, but lived unrighteous lives and countenanced wicked practices.",
+        "lead": "From the notes to the 1921 American exhibition:",
+        "source": {
+          "author": "Šárka Hrbková",
+          "title": "Notes on the paintings, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "On the seat, at the right hand side of the picture, may be seen Queen Sophia, wife of Vaclav the Fourth, and beside her are the court ladies.",
+        "source": {
+          "author": "Šárka Hrbková",
+          "title": "Notes on the paintings, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Alfons Mucha is an ardent apostle of nationalism in art",
+        "lead": "Christian Brinton, 1921:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He grew up in an environment of intense Czech nationalism in all the arts, from music to literature and painting.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Let it announce to foreign friends – and even to enemies – who we were, who we are, and what we hope for. May the strength of the Slav spirit command their respect, because from respect, love is born.",
+        "lead": "Opening the first showing of the Epic in Prague, 1919:",
+        "source": {
+          "author": "Alphonse Mucha",
+          "title": "Speech at the first showing of The Slav Epic, Prague, 1919, quoted in “The Slav Epic”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Slav_Epic",
+          "accessed": "2026-11-28",
+          "tier": 1,
+          "year": "1919"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

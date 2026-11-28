@@ -1,0 +1,132 @@
+{
+  "id": "mucha-abolition-of-serfdom",
+  "artist": "alphonse-mucha",
+  "title": "The Abolition of Serfdom in Russia (Zrušení nevolnictví na Rusi)",
+  "date": "1914",
+  "year": 1914,
+  "medium": "oil paint on canvas",
+  "dimensions": "610 × 810 cm",
+  "museum": {
+    "name": "museum collection of the Prague City Gallery",
+    "url": "https://www.wikidata.org/wiki/Q60616794"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Mucha_Zruseni_nevolnictvi.jpg/1280px-Mucha_Zruseni_nevolnictvi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Mucha_Zruseni_nevolnictvi.jpg/2560px-Mucha_Zruseni_nevolnictvi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 871,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mucha Zruseni nevolnictvi.jpg)"
+  },
+  "archive": {
+    "wd": "Q60616794"
+  },
+  "phase": {
+    "label": "The Slav Epic, 1910–1928",
+    "source": {
+      "label": "Wikipedia: The Slav Epic, “a cycle of 20 large canvases painted … between 1910 and 1928”",
+      "url": "https://en.wikipedia.org/wiki/The_Slav_Epic"
+    }
+  },
+  "tags": [
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “The cycle depicts the mythology and history of Czechs and other Slavic peoples”",
+        "url": "https://en.wikipedia.org/wiki/The_Slav_Epic"
+      }
+    },
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record: oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q60616794"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The picture represents the square before the Kremlin of Moscow in the shadow of the cathedral of St. Vasilij. Here are gathered people from the town and from the country — those who were serfs up to that day.",
+        "lead": "From the notes to the 1921 American exhibition:",
+        "source": {
+          "author": "Šárka Hrbková",
+          "title": "Notes on the paintings, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The common people remain — they debate — deliberate — thank God — give praise, but do not yet quite comprehend the meaning of their new liberty.",
+        "source": {
+          "author": "Šárka Hrbková",
+          "title": "Notes on the paintings, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The series had twenty paintings, half devoted to the history of the Czechs, and ten to other Slavic peoples (Russians, Poles, Serbs, Hungarians, Bulgarians, and the Balkans, including the Orthodox monasteries of Mount Athos).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He worked throughout the First World War, when the Austrian Empire was at war with France, despite wartime restrictions, which made canvas hard to obtain.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "these imposing mural compositions, which so graphically depict the determination of the Slavic peoples to cast off the yoke of the oppressor, whether temporal or spiritual",
+        "lead": "Christian Brinton, introducing this canvas and four others to American audiences in 1921:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

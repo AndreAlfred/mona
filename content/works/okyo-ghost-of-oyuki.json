@@ -1,0 +1,144 @@
+{
+  "id": "okyo-ghost-of-oyuki",
+  "artist": "maruyama-okyo",
+  "title": "The Ghost of Oyuki",
+  "date": "second half of the 18th century",
+  "year": 1760,
+  "medium": "ink on silk; hanging scroll",
+  "museum": {
+    "name": "Berkeley Art Museum and Pacific Film Archive",
+    "url": "https://webapps.cspace.berkeley.edu/bampfa/object/CJ.164"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Oyuki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 3872,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Oyuki.jpg)"
+  },
+  "archive": {
+    "wd": "Q7736328"
+  },
+  "phase": {
+    "label": "Date debated (c. 1750–1780)",
+    "source": {
+      "label": "Wikipedia (Yūrei-zu): sources date it variously to 1750, around 1760, or c. 1778",
+      "url": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu"
+    }
+  },
+  "tags": [
+    {
+      "id": "yurei-zu",
+      "source": {
+        "label": "Wikipedia: “one of the earliest paintings of a yūrei”",
+        "url": "https://en.wikipedia.org/wiki/The_Ghost_of_Oyuki"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The earliest yūrei-zu is considered to be by Maruyama Ōkyo (円山 応挙), founder of the Maruyama school and one of the most significant artists of the 18th century.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Yūrei-zu",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+            "accessed": "2026-11-28",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanging-scroll",
+      "source": {
+        "label": "Wikipedia (Yūrei-zu): “a silk scroll painting dating to the second half of the 18th century”",
+        "url": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu"
+      }
+    },
+    {
+      "id": "maruyama-shijo-school",
+      "source": {
+        "label": "Wikipedia: “by Maruyama Ōkyo (1733–1795), founder of the Maruyama-Shijō school of painting”",
+        "url": "https://en.wikipedia.org/wiki/The_Ghost_of_Oyuki"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "This is one of the earliest paintings of a yūrei with the basic late-Edo period ghost characteristics: disheveled hair, white kimono, limp hands, nearly transparent, lack of lower body.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Ghost of Oyuki",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Ghost_of_Oyuki",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In Maruyama's naturalistic style, it depicts a faintly coloured female ghost whose body tapers into transparency. It has been described as an \"image of haunting beauty\".",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Yūrei-zu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Japan has long had a vibrant folkloric tradition of ghost stories, and in the early eighteenth century these began to be dramatized for the nō stage and bunraku puppet theatre. As kabuki began to flourish throughout the later 1700s, so too did the number of dramas based on ghost stories, particularly those involving vengeful female ghosts returning to punish their wrong-doers.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Yūrei-zu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The public's perception of Ōkyo's skill is evident in a legend recounted by Van Briessen. The story goes that a daimyō commissioned Ōkyo to paint a \"ghost image\" of a lost family member. Once the work was completed, the ghost image came off the painting and flew away.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "According to a scroll box inscription by a one-time owner, the subject of the painting is Maruyama's lover, a geisha who died young. Her ghost is said to have visited the artist in a dream and inspired him to paint her portrait.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Yūrei-zu",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Y%C5%ABrei-zu",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

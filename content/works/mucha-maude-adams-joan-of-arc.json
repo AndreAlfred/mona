@@ -1,0 +1,108 @@
+{
+  "id": "mucha-maude-adams-joan-of-arc",
+  "artist": "alphonse-mucha",
+  "title": "Maude Adams (1872–1953) as Joan of Arc",
+  "date": "1909",
+  "year": 1909,
+  "medium": "oil paint on canvas",
+  "dimensions": "208.9 × 76.2 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (20.33)",
+    "url": "https://www.metmuseum.org/art/collection/search/437169"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mucha-Maud_Adams_as_Joan_of_Arc-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 3384,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mucha-Maud Adams as Joan of Arc-1909.jpg)"
+  },
+  "archive": {
+    "wd": "Q19912129"
+  },
+  "phase": {
+    "label": "American years, 1904–1909",
+    "source": {
+      "label": "Wikipedia: “Mucha made five trips to the U.S., between 1904 and 1909”",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+    }
+  },
+  "tags": [
+    {
+      "id": "oil-painting",
+      "source": {
+        "label": "Wikidata record (Metropolitan Museum of Art): oil paint on canvas",
+        "url": "https://www.wikidata.org/wiki/Q19912129"
+      }
+    },
+    {
+      "id": "portraiture",
+      "ai": true
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He made posters for the U.S. actress Mrs. Leslie Carter (known as 'The U.S. Sarah Bernhardt') and the Broadway star Maude Adams, but they were largely echoes of his Bernhardt posters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Artistically, the trip was not a success; portrait painting was not his strong point",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "In 1909 she played Joan of Arc in Friedrich Schiller's The Maid of Orleans. This was produced on a huge scale at the Harvard University Stadium by Adams.",
+        "lead": "The role:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maude Adams",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maude_Adams",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "His principal income in the United States came from teaching; he taught illustration and design at the New York School of Applied Design for Women, at the Philadelphia School of Art for five weeks, and became a visiting professor at the Art Institute of Chicago.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

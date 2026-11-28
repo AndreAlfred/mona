@@ -1,0 +1,128 @@
+{
+  "id": "mucha-zodiac",
+  "artist": "alphonse-mucha",
+  "title": "Zodiac",
+  "date": "1896",
+  "year": 1896,
+  "medium": "lithograph print",
+  "dimensions": "65.7 × 48.2 cm",
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q4193020"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Alphonse_Mucha_-_Zodiac%2C_1869.jpg/1280px-Alphonse_Mucha_-_Zodiac%2C_1869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1594,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Alphonse Mucha - Zodiac, 1869.jpg)"
+  },
+  "archive": {
+    "wd": "Q4193020"
+  },
+  "phase": {
+    "label": "Champenois years, 1896–1904",
+    "source": {
+      "label": "Wikipedia: “Between 1896 and 1904 Mucha created over one hundred poster designs for Champenois”",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+    }
+  },
+  "tags": [
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Wikidata record: lithograph print",
+        "url": "https://www.wikidata.org/wiki/Q4193020"
+      }
+    },
+    {
+      "id": "art-nouveau",
+      "source": {
+        "label": "Wikipedia: Mucha was known for “decorative theatrical posters” and as “Master of Art Nouveau”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He also designed a calendar with a woman's head surrounded by the signs of the zodiac. The rights were resold to Léon Deschamps, the editor of the arts review La Plume, who brought it out with great success in 1897.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "With Champenois, he also created a new kind of product, a decorative panel, a poster without text, purely for decoration. They were published in large print runs for a modest price.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The supple flow of his line, his profuse use of ornament, and his passionate lyric aspiration all reflected the current taste of the day.",
+        "lead": "Christian Brinton, 1921:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "These were sold in various formats, ranging from expensive versions printed on Japanese paper or vellum, to less expensive versions which combined multiple images, to calendars and postcards.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "And yet this art at once floral, astral, and feminine, which revealed with tender nonchalance the supple beauty of the body … was not destined to be Alfons Mucha's final expression.",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

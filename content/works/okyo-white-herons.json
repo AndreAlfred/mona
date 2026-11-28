@@ -1,0 +1,122 @@
+{
+  "id": "okyo-white-herons",
+  "artist": "maruyama-okyo",
+  "title": "White Herons",
+  "date": "1769",
+  "year": 1769,
+  "dimensions": "35.5 × 56.6 cm",
+  "museum": {
+    "name": "Metropolitan Museum of Art (1975.268.71)",
+    "url": "https://www.metmuseum.org/art/collection/search/49031"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Maruyama_%C5%8Ckyo_-_White_Herons_-_1975.268.71_-_Metropolitan_Museum_of_Art.jpg/1280px-Maruyama_%C5%8Ckyo_-_White_Herons_-_1975.268.71_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 902,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Maruyama Ōkyo - White Herons - 1975.268.71 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78830034"
+  },
+  "phase": {
+    "label": "Enman'in years, late 1760s",
+    "source": {
+      "label": "Wikipedia: “Ōkyo's first major commission came in 1768 from Yūjō, abbot of a temple in Ōtsu called Enman'in”",
+      "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+    }
+  },
+  "tags": [
+    {
+      "id": "ink-wash-painting",
+      "ai": true
+    },
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Binyon: “birds in flight seen as we might see them if we had an eagle's eye”",
+        "url": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt"
+      }
+    },
+    {
+      "id": "maruyama-shijo-school",
+      "source": {
+        "label": "Wikipedia: “Ōkyo founded the Maruyama school of painting”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "His Geese Alighting on Water, painted at Enman'in, Ōtsu in 1767, is an early example of his mature style. The subject is treated as a part of nature; nothing philosophical is implied as had been done with such imagery in the East Asian tradition.",
+        "lead": "On a closely related bird painting of two years earlier:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "[His flying birds] are not generalized blots like the flying birds of Kano, nor are they all line like the careful birds of Sesshu. They are as alive as Toba Sojo's animals, yet finished in all their modelling, spotting and colouring.",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Maruyama Ōkyo was an experienced and expert painter of sumi-e ink paintings, and accomplished a great degree of realism in his creations, emphasizing direct observation of depicted subjects which was a direct contravention of the officially sponsored schools of the time, Kanō and Tosa",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shijō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shij%C5%8D_school",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "And so we prize him most in those wonderful [pictures] … of birds in flight seen as we might see them if we had an eagle's eye to follow them through the air",
+        "lead": "Laurence Binyon, 1913:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East (2nd edition)",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "228–233"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

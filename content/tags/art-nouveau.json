@@ -1,0 +1,34 @@
+{
+  "id": "art-nouveau",
+  "kind": "style",
+  "name": "Art Nouveau",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "[Art Nouveau] is an international style of art, architecture, and applied art, especially the decorative arts. It was often inspired by natural forms such as the sinuous curves of plants and flowers.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Art Nouveau",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Art_Nouveau",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "One major objective of Art Nouveau was to break down the traditional distinction between fine arts (especially painting and sculpture) and applied arts.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Art Nouveau",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Art_Nouveau",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "Art Nouveau"
+}

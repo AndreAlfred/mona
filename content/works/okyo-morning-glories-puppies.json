@@ -1,0 +1,139 @@
+{
+  "id": "okyo-morning-glories-puppies",
+  "artist": "maruyama-okyo",
+  "title": "Morning Glories and Puppies",
+  "date": "1784",
+  "year": 1784,
+  "medium": "mineral pigments (iwa-enogu) on cedar (sugi)",
+  "dimensions": "168 × 162.8 cm",
+  "museum": {
+    "name": "Tokyo National Museum (A-12124)",
+    "url": "https://colbase.nich.go.jp/collection_items/tnm/A-12124?locale=ja"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/A-12124_E0078531-whole.jpg/1280px-A-12124_E0078531-whole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/A-12124_E0078531-whole.jpg/2560px-A-12124_E0078531-whole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1297,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (A-12124 E0078531-whole.jpg)"
+  },
+  "archive": {
+    "wd": "Q121544312"
+  },
+  "phase": {
+    "label": "Most active years, An'ei–Tenmei eras (1772–1789)",
+    "source": {
+      "label": "Anderson, The Pictorial Arts of Japan: his most active period “corresponding to the periods Anyei and Temmei” (1772–1789)",
+      "url": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Fenollosa: “He was specially fond of painting little fat roly-poly puppies”",
+        "url": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt"
+      }
+    },
+    {
+      "id": "maruyama-shijo-school",
+      "source": {
+        "label": "Wikipedia: “Ōkyo founded the Maruyama school of painting”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "What seems at first most novel in Okio's work is his animal painting. Here are the furry bodies of monkeys, dogs, cats, and foxes and deer, conceived as new pictorial substances. He was specially fond of painting little fat roly-poly puppies.",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "A sweet playfulness comes out in him when he paints his delightful pictures of puppies",
+        "lead": "Laurence Binyon:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East (2nd edition)",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "228–233"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Ōkyo's intricately detailed plant and animal sketches show a great influence from European nature drawings.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Puppies at play. After a painting by Okio in the Ernest Hart Collection (1777).",
+        "lead": "His puppies reached Western readers early; William Anderson's 1886 survey reproduced one, captioned:",
+        "source": {
+          "author": "William Anderson",
+          "title": "The Pictorial Arts of Japan",
+          "publisher": "Sampson Low, Marston, Searle & Rivington (Internet Archive scan)",
+          "year": "1886",
+          "url": "https://archive.org/details/pictorialartsofj00ande",
+          "readAt": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "87–88"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "He kept about him hens and monkeys and swimming fish, and loved to sketch them in every attitude of motion.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

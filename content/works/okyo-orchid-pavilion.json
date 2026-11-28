@@ -1,0 +1,143 @@
+{
+  "id": "okyo-orchid-pavilion",
+  "artist": "maruyama-okyo",
+  "title": "Literary Gathering in the Orchid Pavilion",
+  "date": "late 1700s",
+  "year": 1755,
+  "medium": "Six-panel folding screen; ink and slight color on paper",
+  "dimensions": "Image: 83 x 191.8 cm (32 11/16 x 75 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1977.1"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1977.1/1977.1_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1977.1/1977.1_print.jpg",
+    "width": 1263,
+    "height": 476,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund"
+  },
+  "archive": {
+    "cma": 148864
+  },
+  "phase": {
+    "label": "Most active years, An'ei–Tenmei eras (1772–1789)",
+    "source": {
+      "label": "Anderson, The Pictorial Arts of Japan: his most active period “corresponding to the periods Anyei and Temmei” (1772–1789)",
+      "url": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Cleveland Museum of Art record: six-panel folding screen",
+        "url": "https://clevelandart.org/art/1977.1"
+      }
+    },
+    {
+      "id": "literati-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “one the most popular themes of East Asian literati paintings”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/148864"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: ink and slight color on paper",
+        "url": "https://clevelandart.org/art/1977.1"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He has left a few pictures which by motive and treatment belong rather to the classical than to the naturalistic schools, but these works add nothing to his reputation.",
+        "lead": "William Anderson, 1886, less impressed:",
+        "source": {
+          "author": "William Anderson",
+          "title": "The Pictorial Arts of Japan",
+          "publisher": "Sampson Low, Marston, Searle & Rivington (Internet Archive scan)",
+          "year": "1886",
+          "url": "https://archive.org/details/pictorialartsofj00ande",
+          "readAt": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "87–88"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "In figures he is the weakest, because he allowed himself to work largely from ancient Chinese subjects where he had to follow Shunkio or some other Chinese tradition.",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "A cheerful gathering of poets was one the most popular themes of East Asian literati paintings. Literary Gathering in the Orchid Pavilion depicts a poets’ party hosted in AD 353 by the famous Chinese calligrapher Wang Xizhi to celebrate the Spring Purification Festival, observed annually on the third day of the third month.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Literary Gathering in the Orchid Pavilion",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/148864",
+          "accessed": "2026-11-28",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "indeed Okio occasionally essayed the pure bunjinga manner, and he was well acquainted with many of the Buson extremists.",
+        "lead": "Fenollosa, on the literati (bunjinga) painters of Ōkyo's Kyoto:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Wang invited 41 scholar-poets to compose poetry and drink while seated along the bank of a winding rivulet. This screen would have appeared on the left and shows preparations for the gathering. The lost right screen is assumed to have depicted the poets sitting along the stream.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Literary Gathering in the Orchid Pavilion",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/148864",
+          "accessed": "2026-11-28",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

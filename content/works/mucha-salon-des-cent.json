@@ -1,0 +1,140 @@
+{
+  "id": "mucha-salon-des-cent",
+  "artist": "alphonse-mucha",
+  "title": "Salon des cent",
+  "date": "1897",
+  "year": 1897,
+  "museum": {
+    "name": "Unknown collection",
+    "url": "https://www.wikidata.org/wiki/Q4405980"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Salon_des_cent_1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1749,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Salon des cent 1897.jpg)"
+  },
+  "archive": {
+    "wd": "Q4405980"
+  },
+  "phase": {
+    "label": "Champenois years, 1896–1904",
+    "source": {
+      "label": "Wikipedia: “Between 1896 and 1904 Mucha created over one hundred poster designs for Champenois”",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+    }
+  },
+  "tags": [
+    {
+      "id": "poster",
+      "source": {
+        "label": "Wikipedia: “he was invited by Deschamps to show his work in the Salon des Cent exhibition”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    },
+    {
+      "id": "art-nouveau",
+      "source": {
+        "label": "Wikipedia: Mucha was known for “decorative theatrical posters” and as “Master of Art Nouveau”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The fame of his posters led to success in the art world; he was invited by Deschamps to show his work in the Salon des Cent exhibition in 1896, and then, in 1897, to have a major retrospective in the same gallery showing 448 works.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The magazine La Plume made a special edition devoted to his work, and his exhibition travelled to Vienna, Prague, Munich, Brussels, London, and New York, giving him an international reputation.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Their commercial success was such that some fine artists took up poster design in earnest.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Poster",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Poster",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Successful exhibitions of his work at La Bodiniere and the Salon des Cent had meanwhile attracted to him numerous pupils, and about this period he opened an atelier in the passage Stanislas, whither flocked students from nearly every country in Europe, not to mention numerous admiring Americans of both sexes.",
+        "lead": "Christian Brinton, 1921:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "With his increased income, Mucha was able to move to a three-bedroom apartment with a large studio inside a large historic house at 6 Rue du Val-de-Grâce originally built by François Mansart.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "The roses and clematis that during spring and summer beckoned to the door, and the blossoms clustering about the room showed his abiding love for flowers.",
+        "lead": "Brinton, on that studio:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "maruyama-okyo",
+  "name": "Maruyama Ōkyo",
+  "born": 1733,
+  "died": 1795,
+  "active": "1760s–1795",
+  "nationality": "Japanese",
+  "period": "eighteenth-century",
+  "movements": [
+    {
+      "id": "maruyama-shijo-school",
+      "source": {
+        "label": "Wikipedia: “Ōkyo founded the Maruyama school of painting”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "matsumura-goshun",
+      "name": "Matsumura Goshun",
+      "source": {
+        "label": "Wikipedia: Ōkyo and Goshun “became fast friends”; “Goshun later went on to found the Shijō school”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    },
+    {
+      "id": "nagasawa-rosetsu",
+      "name": "Nagasawa Rosetsu",
+      "source": {
+        "label": "Wikipedia: “Noteworthy pupils include Ōkyo's son, Maruyama Ōzui, Nagasawa Rosetsu, and Matsumura Goshun”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    },
+    {
+      "id": "watanabe-shiko",
+      "name": "Watanabe Shikō",
+      "source": {
+        "label": "Fenollosa: “in literature and in handwriting Okio's master was a prince of the bunjinga, Watanabe Shiko”",
+        "url": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt"
+      }
+    },
+    {
+      "id": "ito-jakuchu",
+      "name": "Itō Jakuchū",
+      "source": {
+        "label": "Binyon: “Jakuchiu was another contemporary of marked independence”, working in Kyoto alongside Ōkyo",
+        "url": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt"
+      }
+    },
+    {
+      "id": "soga-shohaku",
+      "name": "Soga Shōhaku",
+      "source": {
+        "label": "Binyon: Shōhaku “poured scorn on the successful Okio”",
+        "url": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt"
+      }
+    }
+  ],
+  "wikidata": "Q405444",
+  "archive": {
+    "aic": 35633,
+    "cma": [
+      6166
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "[Maruyama Ōkyo,] born Maruyama Masataka, was a Japanese artist active in the late 18th century. He moved to Kyoto, during which he studied artworks from Chinese, Japanese and Western sources. A personal style of Western naturalism mixed with Eastern decorative design emerged, and Ōkyo founded the Maruyama school of painting.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Maruyama Ōkyo",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Okio was born in 1733. He was the son of a farmer, and as a child showed a passion for drawing. He studied the styles of all the older schools … He copied European engravings with his brush, and aspired to infuse a greater spirit of realism into the art of his own country.",
+      "lead": "Laurence Binyon, 1913:",
+      "source": {
+        "author": "Laurence Binyon",
+        "title": "Painting in the Far East (2nd edition)",
+        "publisher": "Edward Arnold (Internet Archive scan)",
+        "year": "1913",
+        "url": "https://archive.org/details/paintinginfareas00binyuoft",
+        "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+        "accessed": "2026-11-28",
+        "tier": 2,
+        "license": "Public domain",
+        "page": "228–233"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "He wandered through the mountains and learned composition and the laws of tree growth from every picturesque site. He kept about him hens and monkeys and swimming fish, and loved to sketch them in every attitude of motion.",
+      "lead": "Ernest Fenollosa:",
+      "source": {
+        "author": "Ernest F. Fenollosa",
+        "title": "Epochs of Chinese and Japanese Art, Vol. II",
+        "publisher": "William Heinemann (Internet Archive scan)",
+        "year": "1912",
+        "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+        "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+        "accessed": "2026-11-28",
+        "tier": 2,
+        "license": "Public domain",
+        "page": "166–174"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

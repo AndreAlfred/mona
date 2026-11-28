@@ -1,0 +1,133 @@
+{
+  "id": "okyo-hozu-river",
+  "artist": "maruyama-okyo",
+  "title": "Hozu River",
+  "date": "1795",
+  "year": 1795,
+  "medium": "eight-panel folding screens; colour on paper",
+  "museum": {
+    "name": "Chisō Collection, Kyoto (Important Cultural Property)",
+    "url": "https://www.wikidata.org/wiki/Q138316228"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Hozu_River_%E4%BF%9D%E6%B4%A5%E5%B7%9D%E5%9B%B3_-_Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_%28Chis%C5%8D_Collection_%E5%8D%83%E7%B8%BD%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%29_01.jpg/1280px-Hozu_River_%E4%BF%9D%E6%B4%A5%E5%B7%9D%E5%9B%B3_-_Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_%28Chis%C5%8D_Collection_%E5%8D%83%E7%B8%BD%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Hozu_River_%E4%BF%9D%E6%B4%A5%E5%B7%9D%E5%9B%B3_-_Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_%28Chis%C5%8D_Collection_%E5%8D%83%E7%B8%BD%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%29_01.jpg/2560px-Hozu_River_%E4%BF%9D%E6%B4%A5%E5%B7%9D%E5%9B%B3_-_Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_%28Chis%C5%8D_Collection_%E5%8D%83%E7%B8%BD%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 384,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Hozu River 保津川図 - Maruyama Ōkyo 円山応挙 (Chisō Collection 千總コレクション) 01.jpg)"
+  },
+  "archive": {
+    "wd": "Q138316228"
+  },
+  "phase": {
+    "label": "Last year, 1795",
+    "source": {
+      "label": "Wikipedia: “Hozu Rapids, painted in 1795, is one of Ōkyo's later works”",
+      "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+    }
+  },
+  "tags": [
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Binyon: “screens depicting the River Hodzu, a torrent pouring down a rocky valley”",
+        "url": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt"
+      }
+    },
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Binyon: “a celebrated pair of screens depicting the River Hodzu”",
+        "url": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt"
+      }
+    },
+    {
+      "id": "maruyama-shijo-school",
+      "source": {
+        "label": "Wikipedia: “Ōkyo founded the Maruyama school of painting”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "[He] is capable of grandiose conceptions, as in a … pair of screens depicting the River Hodzu, a torrent pouring down a rocky valley",
+        "lead": "Laurence Binyon, 1913:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East (2nd edition)",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "228–233"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Hozu Rapids, painted in 1795, is one of Ōkyo's later works.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "It was a landscape quiet in colour as Hangchow or bunjinga itself, but purely Japanese — not in the least like Tosa, but exactly reproducing the beautiful suburbs that were the city's pride. Arashiyama, Takano, Chionin, the valley of Tofukuji ; views of Lake Biwa",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "but his reward, like that of Motonobu, did not come until after he had passed the meridian of life, and unfortunately he did not live so long as this veteran to enjoy it.",
+        "lead": "William Anderson, 1886:",
+        "source": {
+          "author": "William Anderson",
+          "title": "The Pictorial Arts of Japan",
+          "publisher": "Sampson Low, Marston, Searle & Rivington (Internet Archive scan)",
+          "year": "1886",
+          "url": "https://archive.org/details/pictorialartsofj00ande",
+          "readAt": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "87–88"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "The Hozu River flows from the Kameoka basin, where Ōkyo was born a farmer's son, down through its gorge to Arashiyama on Kyoto's edge. In the year of his death he painted the river of his home country."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

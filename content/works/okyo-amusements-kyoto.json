@@ -1,0 +1,120 @@
+{
+  "id": "okyo-amusements-kyoto",
+  "artist": "maruyama-okyo",
+  "title": "Amusements in Kyoto in the Four Seasons",
+  "date": "1783",
+  "year": 1783,
+  "museum": {
+    "name": "Metropolitan Museum of Art (2015.300.199)",
+    "url": "https://www.metmuseum.org/art/collection/search/670983"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Maruyama_%C5%8Ckyo_-_Amusements_in_Kyoto_in_the_Four_Seasons_-_2015.300.199_-_Metropolitan_Museum_of_Art.jpg/1280px-Maruyama_%C5%8Ckyo_-_Amusements_in_Kyoto_in_the_Four_Seasons_-_2015.300.199_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Maruyama_%C5%8Ckyo_-_Amusements_in_Kyoto_in_the_Four_Seasons_-_2015.300.199_-_Metropolitan_Museum_of_Art.jpg/2560px-Maruyama_%C5%8Ckyo_-_Amusements_in_Kyoto_in_the_Four_Seasons_-_2015.300.199_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 316,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Maruyama Ōkyo - Amusements in Kyoto in the Four Seasons - 2015.300.199 - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q78618379"
+  },
+  "phase": {
+    "label": "Most active years, An'ei–Tenmei eras (1772–1789)",
+    "source": {
+      "label": "Anderson, The Pictorial Arts of Japan: his most active period “corresponding to the periods Anyei and Temmei” (1772–1789)",
+      "url": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "genre-painting",
+      "source": {
+        "label": "Wikipedia: “many works by Ōkyo depict normal scenes from life in Kyoto's commercial area”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    },
+    {
+      "id": "handscroll",
+      "ai": true
+    },
+    {
+      "id": "maruyama-shijo-school",
+      "source": {
+        "label": "Wikipedia: “Ōkyo founded the Maruyama school of painting”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Nature was not his only subject; many works by Ōkyo depict normal scenes from life in Kyoto's commercial area.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He paints peasants and city girls too, belles of the tea-houses, and thus forms a kind of Kioto Ukiyoye. It will thus be seen that there is no monotony in him, and that his range is very wide.",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "One other kind of figure piece Okio occasionally did, namely, the portrait painting of certain Kioto belles, with much the same motive that actuated his contemporaries Harunobu, Koriusai and Kiyonaga, in Yedo.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "As a teenager, he moved to Kyoto and joined the townspeople (chōnin) class. He apprenticed for a toy shop, where he painted the faces onto dolls.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

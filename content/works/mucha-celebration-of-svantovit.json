@@ -1,0 +1,152 @@
+{
+  "id": "mucha-celebration-of-svantovit",
+  "artist": "alphonse-mucha",
+  "title": "The Celebration of Svantovit in Rujana (Slavnost Svantovítova na Rujáně)",
+  "date": "1912",
+  "year": 1912,
+  "medium": "oil paint, egg tempera on canvas",
+  "dimensions": "610 × 810 cm",
+  "museum": {
+    "name": "museum collection of the Prague City Gallery",
+    "url": "https://www.wikidata.org/wiki/Q59161690"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Slavnost_svatovitova_na_rujane.jpg/1280px-Slavnost_svatovitova_na_rujane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Slavnost_svatovitova_na_rujane.jpg/2560px-Slavnost_svatovitova_na_rujane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 909,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Slavnost svatovitova na rujane.jpg)"
+  },
+  "archive": {
+    "wd": "Q59161690"
+  },
+  "phase": {
+    "label": "The Slav Epic, 1910–1928",
+    "source": {
+      "label": "Wikipedia: The Slav Epic, “a cycle of 20 large canvases painted … between 1910 and 1928”",
+      "url": "https://en.wikipedia.org/wiki/The_Slav_Epic"
+    }
+  },
+  "tags": [
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikidata record: oil paint, egg tempera on canvas",
+        "url": "https://www.wikidata.org/wiki/Q59161690"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "He used egg tempera paint, which, according to his research, was quicker-drying and more luminous, and would last longer.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Alphonse Mucha",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+            "accessed": "2026-11-28",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "history-painting",
+      "source": {
+        "label": "Wikipedia: “The cycle depicts the mythology and history of Czechs and other Slavic peoples”",
+        "url": "https://en.wikipedia.org/wiki/The_Slav_Epic"
+      }
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: “twenty monumental symbolist canvases known as The Slav Epic”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "In the picture we see how the Teutonic Thor with his wolves has overwhelmed the cortege of Svantovit. His last warrior is dying on the sacred white steed. … Below the artist-engraver seeks to find inspiration in himself and to resurrect the old Slav aspiration and feeling.",
+        "lead": "From the notes to the 1921 American exhibition, where this canvas was shown:",
+        "source": {
+          "author": "Šárka Hrbková",
+          "title": "Notes on the paintings, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Mucha felt that if he could successfully depict the progressive evolution of the Slavs from the most ancient to the present times, he would be accomplishing something of lasting value",
+        "lead": "Christian Brinton, 1921:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "He began by visiting the places he intended to depict in the cycle: Russia, Poland, and the Balkans, including the Orthodox Christian monasteries of Mount Athos. Additionally, he consulted historians regarding details of historical events to ensure an accurate depiction. In 1910, he rented part of the castle in Zbiroh and began working on the series.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "The Slav Epic",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/The_Slav_Epic",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "light shining into the souls of all people with its clear ideals and burning warnings.",
+        "lead": "While still in Paris, Mucha imagined the series as",
+        "source": {
+          "author": "Alphonse Mucha",
+          "title": "Quoted in “Alphonse Mucha”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 1
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "I will be able to do something really good, not just for the art critic but for our Slav souls.",
+        "lead": "To his wife, on returning home:",
+        "source": {
+          "author": "Alphonse Mucha",
+          "title": "Letter to his wife, quoted in “Alphonse Mucha”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

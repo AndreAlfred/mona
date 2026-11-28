@@ -1,0 +1,126 @@
+{
+  "id": "okyo-summer-night-winter-day",
+  "artist": "maruyama-okyo",
+  "title": "Summer Night; Winter Day",
+  "date": "1784",
+  "year": 1784,
+  "medium": "Pair of six-panel folding screens, ink, gold, and silver on paper",
+  "dimensions": "Overall: 154 x 362 cm (60 5/8 x 142 1/2 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1973.156"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1973.156/1973.156_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1973.156/1973.156_print.jpg",
+    "width": 900,
+    "height": 834,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Leonard C. Hanna Jr. Fund"
+  },
+  "archive": {
+    "cma": 147410
+  },
+  "phase": {
+    "label": "Most active years, An'ei–Tenmei eras (1772–1789)",
+    "source": {
+      "label": "Anderson, The Pictorial Arts of Japan: his most active period “corresponding to the periods Anyei and Temmei” (1772–1789)",
+      "url": "https://archive.org/stream/pictorialartsofj00ande/pictorialartsofj00ande_djvu.txt"
+    }
+  },
+  "tags": [
+    {
+      "id": "landscape-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “Ōkyo painted these panoramas in the summer of 1784”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/147410"
+      }
+    },
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Cleveland Museum of Art record: pair of six-panel folding screens",
+        "url": "https://clevelandart.org/art/1973.156"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Cleveland Museum of Art record: ink, gold, and silver on paper",
+        "url": "https://clevelandart.org/art/1973.156"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Ōkyo painted these panoramas in the summer of 1784. Regarded as Kyoto's most important painting teacher and accomplished artist, he had studied Western painting techniques, \"realistic\" sketching from nature, and traditional Japanese style painting (yamato-e). The naturalistic quality of these scenes results from a blend of detailed observation of nature and a remote, even detached regard for man's place in the world.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Summer Night; Winter Day",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/147410",
+          "accessed": "2026-11-28",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Landscape for him became a new spacing, trees a new law of growth ; angles supplanted curves everywhere ; textures were studied as never before … In this way Okio actually forestalled the work of the Barbizon school of France",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Its primary patrons were rich merchants in and around Kyoto/Osaka and also appealed to the kamigata who were of the established aristocrat and artisan families of the Imperial capital during the late 18th/19th centuries.",
+        "lead": "Of the school that grew from Ōkyo's studio:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Shijō school",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Shij%C5%8D_school",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "For Okio made a specialty of the scenery of the neighbourhoods, the flora and fauna dear to his locality.",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}
