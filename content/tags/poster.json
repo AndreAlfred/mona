@@ -1,0 +1,34 @@
+{
+  "id": "poster",
+  "kind": "material",
+  "name": "Poster",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "The modern poster, as we know it, however, dates back to the 1840s and 1850s when the printing industry perfected colour lithography and made mass production possible.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Poster",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Poster",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "\"In little more than a hundred years\", writes poster expert John Barnicoat, \"it has come to be recognized as a vital art form, attracting artists at every level, from painters such as Toulouse-Lautrec and Mucha to theatrical and commercial designers.\"",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Poster",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Poster",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ],
+  "archiveTerm": "poster"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tsuketate",
+  "kind": "technique",
+  "name": "Tsuketate (outline-free brushwork)",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "It is characterised by the use of a technique known as tsukeitate, in which a frame is not drawn and ink shading is added.",
+      "lead": "Of the Maruyama style:",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Maruyama Ōkyo",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "Ōkyo painted with a broad, flat brush, which he would load with more paint on one side. This created broad strokes that vary in paint coverage.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Maruyama Ōkyo",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

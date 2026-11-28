@@ -1,0 +1,118 @@
+{
+  "id": "mucha-medee",
+  "artist": "alphonse-mucha",
+  "title": "Médée",
+  "date": "1898",
+  "year": 1898,
+  "museum": {
+    "name": "Museum of Modern Art (2280.1967)",
+    "url": "https://www.wikidata.org/wiki/Q4287637"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Medee_1898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 3380,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Medee 1898.jpg)"
+  },
+  "archive": {
+    "wd": "Q4287637"
+  },
+  "phase": {
+    "label": "Bernhardt contract, 1895–1901",
+    "source": {
+      "label": "Wikipedia: Bernhardt “gave Mucha a six-year contract to produce more”",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+    }
+  },
+  "tags": [
+    {
+      "id": "poster",
+      "source": {
+        "label": "Wikipedia: Mucha designed posters for Bernhardt's “Medea (1898)”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    },
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Wikipedia (Sarah Bernhardt): “She used the new technology of lithography to produce vivid color posters”",
+        "url": "https://en.wikipedia.org/wiki/Sarah_Bernhardt"
+      }
+    },
+    {
+      "id": "art-nouveau",
+      "source": {
+        "label": "Wikipedia (Sarah Bernhardt): “His posters became icons of the Art Nouveau style”",
+        "url": "https://en.wikipedia.org/wiki/Sarah_Bernhardt"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Mucha designed posters for each successive Bernhardt play, beginning with a reprise of one of her early great successes, La Dame aux Camelias (September 1896), followed by Lorenzaccio (1896); Medea (1898); La Tosca (1898), and Hamlet (1899).",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "…Lorenzaccio, and the more forceful and effective Medee, these posters, as well as the costumes and scenery for the plays, which were likewise designed by Mucha, marked an epoch",
+        "lead": "Christian Brinton, 1921:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Bernhardt continued to employ Mucha to design her posters and expanded his work to include theatrical sets, programs, costumes, and jewellery props. His posters became icons of the Art Nouveau style. To earn more money, Bernhardt set aside a certain number of printed posters of each play to sell to collectors.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Sarah Bernhardt",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "In 1899, he collaborated with the jeweller Georges Fouquet to make a bracelet for Sarah Bernhardt in the form of a serpent, made of gold and enamel, similar to the costume jewellery Bernhardt had worn in Medea. According to Jiří Mucha, this bracelet was created to conceal Bernhardt's arthritic wrist.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

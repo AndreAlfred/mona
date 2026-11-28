@@ -1,0 +1,123 @@
+{
+  "id": "okyo-dragon-and-tiger",
+  "artist": "maruyama-okyo",
+  "title": "Dragon and Tiger 龍虎図 (Ryūko zu)",
+  "date": "1770",
+  "year": 1770,
+  "museum": {
+    "name": "Metropolitan Museum of Art (2023.583.16a, b)",
+    "url": "https://www.metmuseum.org/art/collection/search/897122"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_-_Dragon_and_Tiger_%E9%BE%8D%E8%99%8E%E5%9B%B3_%28Ry%C5%ABko_zu%29_-_2023.583.16a%2C_b_-_Metropolitan_Museum_of_Art.jpg/1280px-Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_-_Dragon_and_Tiger_%E9%BE%8D%E8%99%8E%E5%9B%B3_%28Ry%C5%ABko_zu%29_-_2023.583.16a%2C_b_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_-_Dragon_and_Tiger_%E9%BE%8D%E8%99%8E%E5%9B%B3_%28Ry%C5%ABko_zu%29_-_2023.583.16a%2C_b_-_Metropolitan_Museum_of_Art.jpg/2560px-Maruyama_%C5%8Ckyo_%E5%86%86%E5%B1%B1%E5%BF%9C%E6%8C%99_-_Dragon_and_Tiger_%E9%BE%8D%E8%99%8E%E5%9B%B3_%28Ry%C5%ABko_zu%29_-_2023.583.16a%2C_b_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 947,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Maruyama Ōkyo 円山応挙 - Dragon and Tiger 龍虎図 (Ryūko zu) - 2023.583.16a, b - Metropolitan Museum of Art.jpg)"
+  },
+  "archive": {
+    "wd": "Q126118624"
+  },
+  "phase": {
+    "label": "Enman'in years, around 1770",
+    "source": {
+      "label": "Wikipedia: “Ōkyo's first major commission came in 1768 from Yūjō, abbot of a temple in Ōtsu called Enman'in”",
+      "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+    }
+  },
+  "tags": [
+    {
+      "id": "animal-painting",
+      "source": {
+        "label": "Fenollosa: “the animal forms of dragons in violent motion”",
+        "url": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt"
+      }
+    },
+    {
+      "id": "maruyama-shijo-school",
+      "source": {
+        "label": "Wikipedia: “Ōkyo founded the Maruyama school of painting”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Perhaps the most stupendous efforts of Okio are when he chooses to combine motives of landscape, storm cloud and the animal forms of dragons in violent motion. … The body of the dragon is as realistically modelled in drawn scales as an enormous lizard in bronze.",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "However, the dragons, according to art critics such as Paine, demonstrate a weakness; they are treated academically, thus losing their grand, legendary essence.",
+        "lead": "A dissenting view, on dragons in a later Ōkyo screen:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He is especially famous for his tigers, and painted them in his youth with a patient realism, though his opportunities for study from nature must have been exceedingly limited.",
+        "lead": "Binyon, on Ganku, Ōkyo's younger Kyoto rival:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East (2nd edition)",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "228–233"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The line is from a poem attributed to a Yuan dynasty poet, Yu Ruyu (dates unknown), and describes the sound of a fierce wind lashing the ground. Wind is associated with the roar of the tiger.",
+        "lead": "Cleveland's curators, on a tiger scroll in Ōkyo's manner:",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Tiger in Wind",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/146036",
+          "accessed": "2026-11-28",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "ai",
+        "text": "Paired, the dragon (rising with clouds and rain) and the tiger (roaring with the wind on earth) are one of East Asian painting's oldest themes: two complementary powers of nature, heaven and earth."
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

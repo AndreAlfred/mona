@@ -1,0 +1,123 @@
+{
+  "id": "okyo-heron-willow",
+  "artist": "maruyama-okyo",
+  "title": "Heron on a Willow Branch",
+  "date": "late 1700s",
+  "year": 1775,
+  "medium": "Two-panel folding screen; ink, color, lacquer, and gold on silk",
+  "dimensions": "Image: 69.4 x 185 cm (27 5/16 x 72 13/16 in.)",
+  "museum": {
+    "name": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1997.108"
+  },
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.108/1997.108_web.jpg",
+    "large": "https://openaccess-cdn.clevelandart.org/1997.108/1997.108_print.jpg",
+    "width": 900,
+    "height": 340,
+    "license": "CC0",
+    "credit": "Cleveland Museum of Art, Bequest of Mrs. A. Dean Perry"
+  },
+  "archive": {
+    "cma": 159733
+  },
+  "phase": {
+    "label": "Kyoto's leading teacher, later years",
+    "source": {
+      "label": "Cleveland Museum of Art: “Okyo was the most influential painter and teacher of his time in Kyoto”",
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/159733"
+    }
+  },
+  "tags": [
+    {
+      "id": "bird-and-flower-painting",
+      "source": {
+        "label": "Cleveland Museum of Art: “This depiction of a heron on a willow branch”",
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/159733"
+      }
+    },
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Cleveland Museum of Art record: two-panel folding screen",
+        "url": "https://clevelandart.org/art/1997.108"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Okyo was the most influential painter and teacher of his time in Kyoto. His mastery of brush and ink found expression in a variety of Chinese and Japanese subjects, painting styles, and formats. This depiction of a heron on a willow branch is done in a classical Japanese painting (yamato-e) style, utilizing flat areas of colorful pigments set against an expansive background with little or no spatial depth.",
+        "source": {
+          "author": "Cleveland Museum of Art",
+          "title": "Heron on a Willow Branch",
+          "readAt": "https://openaccess-api.clevelandart.org/api/artworks/159733",
+          "accessed": "2026-11-28",
+          "tier": 4,
+          "publisher": "Cleveland Museum of Art",
+          "license": "CC0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Yet sometimes he even paints in severe Tosa manner.",
+        "lead": "Fenollosa notes the same range:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "of willow or maple spreading their faultless tracery against a serene space of sky … There is nothing blurred, nothing violent, nothing troubled in this unerring art, clean in vision as it is clean in touch.",
+        "lead": "Laurence Binyon, 1913:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East (2nd edition)",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "228–233"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Who were Okio's patrons ? Why, the silk weavers and bronze casters, the embroiderers and fine lacquerers, the aesthetic priests of Kioto temples, the great potters grouped at the foot of Arashiyama, the great merchants who sent their fine wares all over Japan",
+        "lead": "Fenollosa, on who bought such pictures:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

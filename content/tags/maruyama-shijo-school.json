@@ -1,0 +1,38 @@
+{
+  "id": "maruyama-shijo-school",
+  "kind": "movement",
+  "name": "Maruyama–Shijō school",
+  "summary": [
+    {
+      "kind": "quote",
+      "text": "Maruyama style is a school of painting founded by the mid-Edo period painter Maruyama Okyo. One of the leading schools of early modern Japanese painting, the Maruyama style was based on the realistic sensibilities of the emerging townships of Kyoto in the mid-18th century and had a major influence on Japanese painting with its new style that fused realism with traditional decorative elements.",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Maruyama Ōkyo",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "the main current of Kioto painting appears in the growth of the naturalistic school, called, from a street in the city, the Fourth Street or Shijo school.",
+      "lead": "Laurence Binyon, 1913:",
+      "source": {
+        "author": "Laurence Binyon",
+        "title": "Painting in the Far East (2nd edition)",
+        "publisher": "Edward Arnold (Internet Archive scan)",
+        "year": "1913",
+        "url": "https://archive.org/details/paintinginfareas00binyuoft",
+        "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+        "accessed": "2026-11-28",
+        "tier": 2,
+        "license": "Public domain",
+        "page": "228–233"
+      }
+    }
+  ],
+  "archiveTerm": "Maruyama"
+}

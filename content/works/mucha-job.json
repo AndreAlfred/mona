@@ -1,0 +1,133 @@
+{
+  "id": "mucha-job",
+  "artist": "alphonse-mucha",
+  "title": "JOB",
+  "date": "1896",
+  "year": 1896,
+  "medium": "lithograph print",
+  "dimensions": "66.7 × 46.4 cm",
+  "museum": {
+    "name": "Bibliothèque nationale de France",
+    "url": "https://www.wikidata.org/wiki/Q16644265"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Mucha-job.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1584,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Mucha-job.jpg)"
+  },
+  "archive": {
+    "wd": "Q16644265"
+  },
+  "phase": {
+    "label": "Champenois years, 1896–1904",
+    "source": {
+      "label": "Wikipedia: “Between 1896 and 1904 Mucha created over one hundred poster designs for Champenois”",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+    }
+  },
+  "tags": [
+    {
+      "id": "poster",
+      "source": {
+        "label": "Wikipedia: “He designed posters for JOB cigarette papers”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    },
+    {
+      "id": "lithography",
+      "source": {
+        "label": "Wikidata record: lithograph print",
+        "url": "https://www.wikidata.org/wiki/Q16644265"
+      }
+    },
+    {
+      "id": "art-nouveau",
+      "source": {
+        "label": "Wikipedia: Mucha was known for “decorative theatrical posters” and as “Master of Art Nouveau”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The success of the Bernhardt posters brought Mucha commissions for advertising posters. He designed posters for JOB cigarette papers, Ruinart Champagne, Lefèvre-Utile biscuits, Nestlé baby food, Idéal Chocolate, the Beers of the Meuse, Moët & Chandon champagne, La Trappistine brandy, and Waverly and Perfect bicycles.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His posters focused almost entirely on beautiful women in lavish settings with their hair usually curling in arabesque forms and filling the frame.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Posters soon transformed the thoroughfares of Paris, making the streets into what one contemporary called \"the poor man's picture gallery.\"",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Poster",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Poster",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Based on the success of his theater posters, Mucha made posters for a variety of products, ranging from cigarettes and soap to beer biscuits, all featuring an idealized female figure with an hourglass figure.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Art Nouveau",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Art_Nouveau",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "They made art an affair of the theatre, the home, and the shop, rather than the exclusive possession of palace and museum. In a sense they were our first really creative modernists.",
+        "lead": "Christian Brinton, on Mucha's generation of poster artists:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

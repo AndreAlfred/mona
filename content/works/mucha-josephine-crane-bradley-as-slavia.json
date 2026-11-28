@@ -1,0 +1,123 @@
+{
+  "id": "mucha-josephine-crane-bradley-as-slavia",
+  "artist": "alphonse-mucha",
+  "title": "Portrait of Josephine Crane-Bradley as Slavia",
+  "date": "1908",
+  "year": 1908,
+  "dimensions": "154 × 92.5 cm",
+  "museum": {
+    "name": "National Gallery Prague (O 3978)",
+    "url": "https://www.wikidata.org/wiki/Q48977656"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/SlaviaMucha.jpg/1280px-SlaviaMucha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/SlaviaMucha.jpg/2560px-SlaviaMucha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 1918,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (SlaviaMucha.jpg)"
+  },
+  "archive": {
+    "wd": "Q48977656"
+  },
+  "phase": {
+    "label": "American years, 1904–1909",
+    "source": {
+      "label": "Wikipedia: “Mucha made five trips to the U.S., between 1904 and 1909”",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+    }
+  },
+  "tags": [
+    {
+      "id": "portraiture",
+      "source": {
+        "label": "Wikipedia: Crane “commissioned Mucha to make a portrait of his daughter Josephine Crane Bradley”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    },
+    {
+      "id": "art-nouveau",
+      "source": {
+        "label": "Wikipedia (Art Nouveau): “His Art Nouveau-inspired painting Slava”",
+        "url": "https://en.wikipedia.org/wiki/Art_Nouveau"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "He commissioned Mucha to make a portrait of his daughter Josephine Crane Bradley, in the character of Slavia, in Slavic costume and surrounded by symbols from Slavic folklore. This is often considered to be his finest work during his trips to the U.S.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "His Art Nouveau-inspired painting Slava is a portrait of the daughter of his patron in Slavic costume, which was modelled after his theatrical posters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Art Nouveau",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Art_Nouveau",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "He also made contact with Pan-Slavic organisations. At one Pan-Slavic banquet in New York City, he met Charles Richard Crane, a wealthy businessman and philanthropist, who was a passionate Slavophile.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "When Mucha designed the Czechoslovak banknotes, he used his portrait of Crane's daughter as the model for Slavia for the 100 koruna note.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "I would never have time to do the things I wanted to do if I did not get away from the treadmill of Paris … in the U.S., I don't expect to find wealth, comfort, or fame for myself, only the opportunity to do some more useful work.",
+        "lead": "Writing home from New York:",
+        "source": {
+          "author": "Alphonse Mucha",
+          "title": "Letter to his family from New York, quoted in “Alphonse Mucha”",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 1
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

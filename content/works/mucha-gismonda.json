@@ -1,0 +1,149 @@
+{
+  "id": "mucha-gismonda",
+  "artist": "alphonse-mucha",
+  "title": "Gismonda",
+  "date": "1894",
+  "year": 1894,
+  "medium": "tempera on canvas",
+  "dimensions": "198 × 67 cm",
+  "museum": {
+    "name": "National Gallery Prague (O 14503)",
+    "url": "https://www.wikidata.org/wiki/Q3107798"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alfons_Mucha_-_1894_-_Gismonda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 3515,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Alfons Mucha - 1894 - Gismonda.jpg)"
+  },
+  "archive": {
+    "wd": "Q3107798"
+  },
+  "phase": {
+    "label": "Breakthrough: the first Bernhardt poster, 1894–95",
+    "source": {
+      "label": "Wikipedia: “At the end of 1894, Mucha's career took a dramatic and unexpected turn when he began to work for the French stage actress Sarah Bernhardt”",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+    }
+  },
+  "tags": [
+    {
+      "id": "art-nouveau",
+      "source": {
+        "label": "Wikipedia (Art Nouveau): Mucha's 1895 Bernhardt poster",
+        "url": "https://en.wikipedia.org/wiki/Art_Nouveau"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "With the posters by Jules Chéret for dancer Loie Fuller in 1893, and by Alphonse Mucha for actress Sarah Bernhardt in 1895, the poster became not just advertising, but an art form.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Art Nouveau",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Art_Nouveau",
+            "accessed": "2026-11-28",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "poster",
+      "source": {
+        "label": "Wikipedia: Bernhardt “ordering a new poster for the continuation of the play Gismonda”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    },
+    {
+      "id": "tempera",
+      "source": {
+        "label": "Wikidata record (National Gallery Prague): tempera on canvas",
+        "url": "https://www.wikidata.org/wiki/Q3107798"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "The poster was more than life-size; a little more than two meters high, with Bernhardt in the costume of a Byzantine noblewoman, dressed in an orchid headdress and a floral stole, and holding a palm branch in the Easter procession near the end of the play.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "One of the innovative features of the poster was the ornate rainbow-shaped arch behind the head, almost like a halo, which focused attention on her face; this feature appeared in all of Mucha's future theatre posters.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "The poster appeared on the streets of Paris on 1 January 1895 and caused an immediate sensation. Bernhardt was pleased by the reaction; she ordered four thousand copies of the poster in 1895 and 1896, and gave Mucha a six-year contract to produce more. With his posters all over the city, Mucha found himself quite suddenly famous.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "Successful as were his illustrations, Alfons Mucha's position in art was not, however, definitely established in the popular mind until the appearance upon the walls of Paris of his remarkable series of posters for Madame Sarah Bernhardt's dramatic productions at the Theatre de la Renaissance.",
+        "lead": "Christian Brinton, 1921:",
+        "source": {
+          "author": "Christian Brinton",
+          "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+          "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+          "year": "1921",
+          "url": "https://archive.org/details/historicalpainti00muchiala",
+          "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 3,
+          "license": "Public domain (US)"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "Because of the holidays, none of the regular Lemercier artists was available. When Bernhardt called, Mucha happened to be at the publishing house correcting proofs.",
+        "lead": "How a jobbing illustrator got the commission, at Christmas 1894:",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Alphonse Mucha",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

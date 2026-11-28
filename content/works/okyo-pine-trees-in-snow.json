@@ -1,0 +1,143 @@
+{
+  "id": "okyo-pine-trees-in-snow",
+  "artist": "maruyama-okyo",
+  "title": "Pine Trees in the Snow",
+  "date": "18th century",
+  "year": 1773,
+  "medium": "pair of six-panel folding screens; ink and gold on paper",
+  "museum": {
+    "name": "Mitsui Memorial Museum, Tokyo",
+    "url": "https://www.wikidata.org/wiki/Q107045354"
+  },
+  "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Okyo_Pines_right.jpg/1280px-Okyo_Pines_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1200,
+    "height": 507,
+    "license": "Public domain",
+    "credit": "Photograph via Wikimedia Commons (Okyo Pines right.jpg)"
+  },
+  "archive": {
+    "wd": "Q107045354"
+  },
+  "phase": {
+    "label": "Mature work for the Mitsui family",
+    "source": {
+      "label": "Wikipedia: “Later in his oeuvre, Pine Trees in Snow, executed in 1773 for the wealthy Mitsui family”",
+      "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+    }
+  },
+  "tags": [
+    {
+      "id": "tsuketate",
+      "source": {
+        "label": "Wikipedia: “The bark is painted in the tsuketate technique”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      },
+      "highlight": [
+        {
+          "kind": "quote",
+          "text": "The bark is painted in the tsuketate technique, which uses no outlines, just dark and light shades to create the illusion of volume.",
+          "source": {
+            "author": "Wikipedia contributors",
+            "title": "Maruyama Ōkyo",
+            "publisher": "Wikipedia",
+            "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+            "accessed": "2026-11-28",
+            "tier": 5,
+            "license": "CC BY-SA 4.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "folding-screen",
+      "source": {
+        "label": "Wikipedia: “The two six-panel screens”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    },
+    {
+      "id": "ink-wash-painting",
+      "source": {
+        "label": "Wikipedia: “in the Japanese idiom of ink on a gold background”",
+        "url": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo"
+      }
+    }
+  ],
+  "sections": {
+    "work": [
+      {
+        "kind": "quote",
+        "text": "Later in his oeuvre, Pine Trees in Snow, executed in 1773 for the wealthy Mitsui family, is realistic despite being in the Japanese idiom of ink on a gold background. The two six-panel screens show tree bark and pine needles separated by differing brush strokes, and the white snow seems to weigh down the branches.",
+        "source": {
+          "author": "Wikipedia contributors",
+          "title": "Maruyama Ōkyo",
+          "publisher": "Wikipedia",
+          "readAt": "https://en.wikipedia.org/wiki/Maruyama_%C5%8Ckyo",
+          "accessed": "2026-11-28",
+          "tier": 5,
+          "license": "CC BY-SA 4.0"
+        }
+      },
+      {
+        "kind": "quote",
+        "text": "And so we prize him most in those wonderful [pictures] … of great pine branches powdered with snow",
+        "lead": "Laurence Binyon:",
+        "source": {
+          "author": "Laurence Binyon",
+          "title": "Painting in the Far East (2nd edition)",
+          "publisher": "Edward Arnold (Internet Archive scan)",
+          "year": "1913",
+          "url": "https://archive.org/details/paintinginfareas00binyuoft",
+          "readAt": "https://archive.org/stream/paintinginfareas00binyuoft/paintinginfareas00binyuoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "228–233"
+        }
+      }
+    ],
+    "moment": [
+      {
+        "kind": "quote",
+        "text": "Snow takes utterly new forms under his precise brush. They are not so grand as the snow pieces of Sesshu and Motonobu indeed ; but they build their beauties upon modern realistic drawing and spacing",
+        "lead": "Ernest Fenollosa:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ],
+    "matters": [
+      {
+        "kind": "quote",
+        "text": "The owners of these establishments, though not samurai, and mostly sprung from families of common artisans, had accumulated both capital and taste in their higher kind of living, and had beautiful private houses and cherry gardens surrounded with high walls.",
+        "lead": "Painted for a wealthy merchant family; Fenollosa on Ōkyo's merchant patrons:",
+        "source": {
+          "author": "Ernest F. Fenollosa",
+          "title": "Epochs of Chinese and Japanese Art, Vol. II",
+          "publisher": "William Heinemann (Internet Archive scan)",
+          "year": "1912",
+          "url": "https://archive.org/details/ost-art-epochsofchinesej02fenouoft",
+          "readAt": "https://archive.org/stream/ost-art-epochsofchinesej02fenouoft/epochsofchinesej02fenouoft_djvu.txt",
+          "accessed": "2026-11-28",
+          "tier": 2,
+          "license": "Public domain",
+          "page": "166–174"
+        }
+      }
+    ]
+  },
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}

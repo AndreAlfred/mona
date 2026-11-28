@@ -1,0 +1,114 @@
+{
+  "id": "alphonse-mucha",
+  "name": "Alphonse Mucha",
+  "born": 1860,
+  "died": 1939,
+  "active": "1880s–1939",
+  "nationality": "Czech",
+  "period": "fin-de-siecle",
+  "movements": [
+    {
+      "id": "art-nouveau",
+      "source": {
+        "label": "Wikipedia: his posters and panels earned him “the sobriquet \"Master of Art Nouveau\"”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    },
+    {
+      "id": "symbolism",
+      "source": {
+        "label": "Wikipedia: The Slav Epic is “a series of twenty monumental symbolist canvases”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    }
+  ],
+  "peers": [
+    {
+      "id": "paul-gauguin",
+      "name": "Paul Gauguin",
+      "source": {
+        "label": "Wikipedia: “He became friends with Paul Gauguin, and shared a studio with him for a time”",
+        "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+      }
+    },
+    {
+      "id": "henri-de-toulouse-lautrec",
+      "name": "Henri de Toulouse-Lautrec",
+      "source": {
+        "label": "Wikipedia (Poster): poster art attracted “painters such as Toulouse-Lautrec and Mucha”",
+        "url": "https://en.wikipedia.org/wiki/Poster"
+      }
+    },
+    {
+      "id": "jules-cheret",
+      "name": "Jules Chéret",
+      "source": {
+        "label": "Wikipedia (Art Nouveau): “With the posters by Jules Chéret … and by Alphonse Mucha … the poster became not just advertising, but an art form”",
+        "url": "https://en.wikipedia.org/wiki/Art_Nouveau"
+      }
+    },
+    {
+      "id": "theophile-alexandre-steinlen",
+      "name": "Théophile Alexandre Steinlen",
+      "source": {
+        "label": "Wikipedia (Poster): “Collectable poster artists include Jules Chéret, Henri de Toulouse-Lautrec, Alphonse Mucha, and Théophile Steinlen”",
+        "url": "https://en.wikipedia.org/wiki/Poster"
+      }
+    }
+  ],
+  "wikidata": "Q146691",
+  "archive": {
+    "aic": 35928,
+    "cma": [
+      12491
+    ]
+  },
+  "bio": [
+    {
+      "kind": "quote",
+      "text": "Living in Paris during the Art Nouveau period, he was widely known for his distinctly stylised and decorative theatrical posters, particularly those of Sarah Bernhardt. … In the second part of his career, at the age of 57, he returned to his homeland and devoted himself to a series of twenty monumental symbolist canvases known as The Slav Epic",
+      "source": {
+        "author": "Wikipedia contributors",
+        "title": "Alphonse Mucha",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+        "accessed": "2026-11-28",
+        "tier": 5,
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "“What is it, Art Nouveau? … Art can never be new.”",
+      "lead": "On the style that made him famous, as his son recalled him saying:",
+      "source": {
+        "author": "Alphonse Mucha",
+        "title": "Remark recalled by his son Jiří Mucha, quoted in “Alphonse Mucha”",
+        "publisher": "Wikipedia",
+        "readAt": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+        "accessed": "2026-11-28",
+        "tier": 1
+      }
+    },
+    {
+      "kind": "quote",
+      "text": "the art of Alfons Mucha reveals a subtle fusion of piety and passion. It seems to have flashed out of a mystic, sensuous past, and to point toward an enigmatic future.",
+      "lead": "Christian Brinton, 1921:",
+      "source": {
+        "author": "Christian Brinton",
+        "title": "Biographical introduction, in Historical Paintings of the Slavic Nations by Alfons Mucha",
+        "publisher": "Brooklyn Museum and Art Institute of Chicago exhibition catalogue (Internet Archive scan)",
+        "year": "1921",
+        "url": "https://archive.org/details/historicalpainti00muchiala",
+        "readAt": "https://archive.org/stream/historicalpainti00muchiala/historicalpainti00muchiala_djvu.txt",
+        "accessed": "2026-11-28",
+        "tier": 3,
+        "license": "Public domain (US)"
+      }
+    }
+  ],
+  "curated": {
+    "on": "2026-11-28",
+    "by": "claude-routine"
+  }
+}
